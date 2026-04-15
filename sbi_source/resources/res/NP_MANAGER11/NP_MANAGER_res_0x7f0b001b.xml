@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical"
+    android:layout_width="wrap_content"
+    android:layout_height="wrap_content">
+    <TextView
+        android:textAppearance="@NP_MANAGER15/NP_MANAGER_res_0x7f0f01d5"
+        android:textColor="?NP_MANAGER3/NP_MANAGER_res_0x7f030515"
+        android:ellipsize="end"
+        android:id="@NP_MANAGER8/NP_MANAGER_res_0x7f080116"
+        android:background="?NP_MANAGER3/NP_MANAGER_res_0x7f030516"
+        android:paddingLeft="@NP_MANAGER6/NP_MANAGER_res_0x7f060400"
+        android:paddingTop="@NP_MANAGER6/NP_MANAGER_res_0x7f060404"
+        android:paddingRight="@NP_MANAGER6/NP_MANAGER_res_0x7f060400"
+        android:paddingBottom="@NP_MANAGER6/NP_MANAGER_res_0x7f060404"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_margin="@NP_MANAGER6/NP_MANAGER_res_0x7f060401"
+        android:maxWidth="256dp"
+        android:maxLines="3"
+        android:paddingStart="@NP_MANAGER6/NP_MANAGER_res_0x7f060400"
+        android:paddingEnd="@NP_MANAGER6/NP_MANAGER_res_0x7f060400"/>
+</LinearLayout>

@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <NP_MANAGER14 name="NP_MANAGER_res_0x7f0e0001">Revenir en haut de la page</NP_MANAGER14>
+    <NP_MANAGER14 name="NP_MANAGER_res_0x7f0e0003">OK</NP_MANAGER14>
+    <NP_MANAGER14 name="NP_MANAGER_res_0x7f0e0006">NON</NP_MANAGER14>
+    <NP_MANAGER14 name="NP_MANAGER_res_0x7f0e0007">OUI</NP_MANAGER14>
+    <NP_MANAGER14 name="NP_MANAGER_res_0x7f0e0008">Alt+</NP_MANAGER14>
+    <NP_MANAGER14 name="NP_MANAGER_res_0x7f0e0009">Ctrl+</NP_MANAGER14>
+    <NP_MANAGER14 name="NP_MANAGER_res_0x7f0e000a">supprimer</NP_MANAGER14>
+    <NP_MANAGER14 name="NP_MANAGER_res_0x7f0e000b">entrée</NP_MANAGER14>
+    <NP_MANAGER14 name="NP_MANAGER_res_0x7f0e000c">Fonction+</NP_MANAGER14>
+    <NP_MANAGER14 name="NP_MANAGER_res_0x7f0e000d">Méta+</NP_MANAGER14>
+    <NP_MANAGER14 name="NP_MANAGER_res_0x7f0e000e">Maj+</NP_MANAGER14>
+    <NP_MANAGER14 name="NP_MANAGER_res_0x7f0e000f">espace</NP_MANAGER14>
+    <NP_MANAGER14 name="NP_MANAGER_res_0x7f0e0010">Sym+</NP_MANAGER14>
+    <NP_MANAGER14 name="NP_MANAGER_res_0x7f0e0011">Menu+</NP_MANAGER14>
+    <NP_MANAGER14 name="NP_MANAGER_res_0x7f0e0012">Rechercher…</NP_MANAGER14>
+    <NP_MANAGER14 name="NP_MANAGER_res_0x7f0e0013">Effacer la requête</NP_MANAGER14>
+    <NP_MANAGER14 name="NP_MANAGER_res_0x7f0e0015">Rechercher</NP_MANAGER14>
+    <NP_MANAGER14 name="NP_MANAGER_res_0x7f0e0016">Envoyer la requête</NP_MANAGER14>
+    <NP_MANAGER14 name="NP_MANAGER_res_0x7f0e0017">Recherche vocale</NP_MANAGER14>
+    <NP_MANAGER14 name="NP_MANAGER_res_0x7f0e001a">Réduire</NP_MANAGER14>
+    <NP_MANAGER14 name="NP_MANAGER_res_0x7f0e0021">Développer en entier</NP_MANAGER14>
+    <NP_MANAGER14 name="NP_MANAGER_res_0x7f0e002a">Caractères saisis %1$d sur %2$d</NP_MANAGER14>
+    <NP_MANAGER14 name="NP_MANAGER_res_0x7f0e002b">Nombre maximal de caractères dépassé : %1$d sur %2$d</NP_MANAGER14>
+    <NP_MANAGER14 name="NP_MANAGER_res_0x7f0e002d">Effacer le texte</NP_MANAGER14>
+    <NP_MANAGER14 name="NP_MANAGER_res_0x7f0e002f">Erreur</NP_MANAGER14>
+    <NP_MANAGER14 name="NP_MANAGER_res_0x7f0e0030">Afficher le menu déroulant</NP_MANAGER14>
+    <NP_MANAGER14 name="NP_MANAGER_res_0x7f0e0035">Onglet</NP_MANAGER14>
+    <NP_MANAGER14 name="NP_MANAGER_res_0x7f0e0048">Sélectionner le format AM ou PM</NP_MANAGER14>
+    <NP_MANAGER14 name="NP_MANAGER_res_0x7f0e0056">AM</NP_MANAGER14>
+    <NP_MANAGER14 name="NP_MANAGER_res_0x7f0e005a">PM</NP_MANAGER14>
+    <NP_MANAGER14 name="NP_MANAGER_res_0x7f0e006b">Supprimer %1$s</NP_MANAGER14>
+    <NP_MANAGER14 name="NP_MANAGER_res_0x7f0e00a1">Afficher le mot de passe</NP_MANAGER14>
+    <NP_MANAGER14 name="NP_MANAGER_res_0x7f0e00aa">Feuille latérale</NP_MANAGER14>
+</resources>

@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <NP_MANAGER14 name="NP_MANAGER_res_0x7f0e0001">ওপৰলৈ যাওক</NP_MANAGER14>
+    <NP_MANAGER14 name="NP_MANAGER_res_0x7f0e0003">সম্পন্ন হ’ল</NP_MANAGER14>
+    <NP_MANAGER14 name="NP_MANAGER_res_0x7f0e0006">অফ</NP_MANAGER14>
+    <NP_MANAGER14 name="NP_MANAGER_res_0x7f0e0007">অন</NP_MANAGER14>
+    <NP_MANAGER14 name="NP_MANAGER_res_0x7f0e0008">Alt+</NP_MANAGER14>
+    <NP_MANAGER14 name="NP_MANAGER_res_0x7f0e0009">Ctrl+</NP_MANAGER14>
+    <NP_MANAGER14 name="NP_MANAGER_res_0x7f0e000a">delete</NP_MANAGER14>
+    <NP_MANAGER14 name="NP_MANAGER_res_0x7f0e000b">enter</NP_MANAGER14>
+    <NP_MANAGER14 name="NP_MANAGER_res_0x7f0e000c">Function+</NP_MANAGER14>
+    <NP_MANAGER14 name="NP_MANAGER_res_0x7f0e000d">Meta+</NP_MANAGER14>
+    <NP_MANAGER14 name="NP_MANAGER_res_0x7f0e000e">Shift+</NP_MANAGER14>
+    <NP_MANAGER14 name="NP_MANAGER_res_0x7f0e000f">space</NP_MANAGER14>
+    <NP_MANAGER14 name="NP_MANAGER_res_0x7f0e0010">Sym+</NP_MANAGER14>
+    <NP_MANAGER14 name="NP_MANAGER_res_0x7f0e0011">Menu+</NP_MANAGER14>
+    <NP_MANAGER14 name="NP_MANAGER_res_0x7f0e0012">সন্ধান কৰক…</NP_MANAGER14>
+    <NP_MANAGER14 name="NP_MANAGER_res_0x7f0e0013">সন্ধান কৰা প্ৰশ্ন মচক</NP_MANAGER14>
+    <NP_MANAGER14 name="NP_MANAGER_res_0x7f0e0015">সন্ধান কৰক</NP_MANAGER14>
+    <NP_MANAGER14 name="NP_MANAGER_res_0x7f0e0016">প্ৰশ্ন দাখিল কৰক</NP_MANAGER14>
+    <NP_MANAGER14 name="NP_MANAGER_res_0x7f0e0017">কণ্ঠধ্বনিৰ দ্বাৰা সন্ধান</NP_MANAGER14>
+    <NP_MANAGER14 name="NP_MANAGER_res_0x7f0e001a">সংকোচন কৰক</NP_MANAGER14>
+    <NP_MANAGER14 name="NP_MANAGER_res_0x7f0e0021">Expand halfway</NP_MANAGER14>
+    <NP_MANAGER14 name="NP_MANAGER_res_0x7f0e002a">%2$dটাৰ ভিতৰত %1$dটা বৰ্ণ লিখা হৈছে</NP_MANAGER14>
+    <NP_MANAGER14 name="NP_MANAGER_res_0x7f0e002b">%2$dটাৰ ভিতৰত %1$dটা বৰ্ণৰ সীমা অতিক্ৰম কৰিছে</NP_MANAGER14>
+    <NP_MANAGER14 name="NP_MANAGER_res_0x7f0e002d">Clear text</NP_MANAGER14>
+    <NP_MANAGER14 name="NP_MANAGER_res_0x7f0e002f">Error</NP_MANAGER14>
+    <NP_MANAGER14 name="NP_MANAGER_res_0x7f0e0030">Show dropdown menu</NP_MANAGER14>
+    <NP_MANAGER14 name="NP_MANAGER_res_0x7f0e0035">Tab</NP_MANAGER14>
+    <NP_MANAGER14 name="NP_MANAGER_res_0x7f0e0048">Select AM or PM</NP_MANAGER14>
+    <NP_MANAGER14 name="NP_MANAGER_res_0x7f0e0056">AM</NP_MANAGER14>
+    <NP_MANAGER14 name="NP_MANAGER_res_0x7f0e005a">PM</NP_MANAGER14>
+    <NP_MANAGER14 name="NP_MANAGER_res_0x7f0e006b">%1$sক আঁতৰাওক</NP_MANAGER14>
+    <NP_MANAGER14 name="NP_MANAGER_res_0x7f0e00a1">পাছৱৰ্ড দেখুৱাওক</NP_MANAGER14>
+    <NP_MANAGER14 name="NP_MANAGER_res_0x7f0e00aa">Side Sheet</NP_MANAGER14>
+</resources>

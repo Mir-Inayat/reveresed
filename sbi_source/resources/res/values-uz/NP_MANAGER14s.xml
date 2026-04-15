@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <NP_MANAGER14 name="NP_MANAGER_res_0x7f0e0001">Yopish</NP_MANAGER14>
+    <NP_MANAGER14 name="NP_MANAGER_res_0x7f0e0003">OK</NP_MANAGER14>
+    <NP_MANAGER14 name="NP_MANAGER_res_0x7f0e0006">YOQILMAGAN</NP_MANAGER14>
+    <NP_MANAGER14 name="NP_MANAGER_res_0x7f0e0007">YONIQ</NP_MANAGER14>
+    <NP_MANAGER14 name="NP_MANAGER_res_0x7f0e0008">Alt+</NP_MANAGER14>
+    <NP_MANAGER14 name="NP_MANAGER_res_0x7f0e0009">Ctrl+</NP_MANAGER14>
+    <NP_MANAGER14 name="NP_MANAGER_res_0x7f0e000a">Delete</NP_MANAGER14>
+    <NP_MANAGER14 name="NP_MANAGER_res_0x7f0e000b">Enter</NP_MANAGER14>
+    <NP_MANAGER14 name="NP_MANAGER_res_0x7f0e000c">Fn+</NP_MANAGER14>
+    <NP_MANAGER14 name="NP_MANAGER_res_0x7f0e000d">Meta+</NP_MANAGER14>
+    <NP_MANAGER14 name="NP_MANAGER_res_0x7f0e000e">Shift+</NP_MANAGER14>
+    <NP_MANAGER14 name="NP_MANAGER_res_0x7f0e000f">Probel</NP_MANAGER14>
+    <NP_MANAGER14 name="NP_MANAGER_res_0x7f0e0010">Sym+</NP_MANAGER14>
+    <NP_MANAGER14 name="NP_MANAGER_res_0x7f0e0011">Menyu+</NP_MANAGER14>
+    <NP_MANAGER14 name="NP_MANAGER_res_0x7f0e0012">Qidirish…</NP_MANAGER14>
+    <NP_MANAGER14 name="NP_MANAGER_res_0x7f0e0013">So‘rovni o‘chirish</NP_MANAGER14>
+    <NP_MANAGER14 name="NP_MANAGER_res_0x7f0e0015">Qidiruv</NP_MANAGER14>
+    <NP_MANAGER14 name="NP_MANAGER_res_0x7f0e0016">So‘rov yaratish</NP_MANAGER14>
+    <NP_MANAGER14 name="NP_MANAGER_res_0x7f0e0017">Ovozli qidiruv</NP_MANAGER14>
+    <NP_MANAGER14 name="NP_MANAGER_res_0x7f0e001a">Yig‘ish</NP_MANAGER14>
+    <NP_MANAGER14 name="NP_MANAGER_res_0x7f0e0021">Yarmiga kengaytirish</NP_MANAGER14>
+    <NP_MANAGER14 name="NP_MANAGER_res_0x7f0e002a">%1$d/%2$d ta belgi kiritildi</NP_MANAGER14>
+    <NP_MANAGER14 name="NP_MANAGER_res_0x7f0e002b">Harflar soni (%1$d) cheklovdan (%2$d) oshib ketdi</NP_MANAGER14>
+    <NP_MANAGER14 name="NP_MANAGER_res_0x7f0e002d">Matnni tozalash</NP_MANAGER14>
+    <NP_MANAGER14 name="NP_MANAGER_res_0x7f0e002f">Xato</NP_MANAGER14>
+    <NP_MANAGER14 name="NP_MANAGER_res_0x7f0e0030">Pastga ochiluvchi menyuni ochish</NP_MANAGER14>
+    <NP_MANAGER14 name="NP_MANAGER_res_0x7f0e0035">Tab : Varaq</NP_MANAGER14>
+    <NP_MANAGER14 name="NP_MANAGER_res_0x7f0e0048">Tushdan oldin yoki keyinligini tanlang</NP_MANAGER14>
+    <NP_MANAGER14 name="NP_MANAGER_res_0x7f0e0056">AM</NP_MANAGER14>
+    <NP_MANAGER14 name="NP_MANAGER_res_0x7f0e005a">PM</NP_MANAGER14>
+    <NP_MANAGER14 name="NP_MANAGER_res_0x7f0e006b">Olib tashlash: %1$s</NP_MANAGER14>
+    <NP_MANAGER14 name="NP_MANAGER_res_0x7f0e00a1">Parol ochiq tursin</NP_MANAGER14>
+    <NP_MANAGER14 name="NP_MANAGER_res_0x7f0e00aa">Yon varaq</NP_MANAGER14>
+</resources>

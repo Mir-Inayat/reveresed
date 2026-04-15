@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.appcompat.widget.ButtonBarLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:gravity="bottom"
+    android:orientation="horizontal"
+    android:id="@NP_MANAGER8/NP_MANAGER_res_0x7f080068"
+    android:paddingLeft="12dp"
+    android:paddingTop="4dp"
+    android:paddingRight="12dp"
+    android:paddingBottom="4dp"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:layoutDirection="locale">
+    <Button
+        android:id="@android:id/button3"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_weight="1"
+        style="?NP_MANAGER3/NP_MANAGER_res_0x7f03008f"/>
+    <Button
+        android:id="@android:id/button2"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_weight="1"
+        style="?NP_MANAGER3/NP_MANAGER_res_0x7f03008e"/>
+    <Button
+        android:id="@android:id/button1"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_weight="1"
+        style="?NP_MANAGER3/NP_MANAGER_res_0x7f030090"/>
+</androidx.appcompat.widget.ButtonBarLayout>

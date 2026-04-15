@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <NP_MANAGER14 name="NP_MANAGER_res_0x7f0e0001">Անցնել վերև</NP_MANAGER14>
+    <NP_MANAGER14 name="NP_MANAGER_res_0x7f0e0003">Պատրաստ է</NP_MANAGER14>
+    <NP_MANAGER14 name="NP_MANAGER_res_0x7f0e0006">ԱՆՋԱՏԵԼ</NP_MANAGER14>
+    <NP_MANAGER14 name="NP_MANAGER_res_0x7f0e0007">ՄԻԱՑՆԵԼ</NP_MANAGER14>
+    <NP_MANAGER14 name="NP_MANAGER_res_0x7f0e0008">Alt+</NP_MANAGER14>
+    <NP_MANAGER14 name="NP_MANAGER_res_0x7f0e0009">Ctrl+</NP_MANAGER14>
+    <NP_MANAGER14 name="NP_MANAGER_res_0x7f0e000a">Delete</NP_MANAGER14>
+    <NP_MANAGER14 name="NP_MANAGER_res_0x7f0e000b">Enter</NP_MANAGER14>
+    <NP_MANAGER14 name="NP_MANAGER_res_0x7f0e000c">Function+</NP_MANAGER14>
+    <NP_MANAGER14 name="NP_MANAGER_res_0x7f0e000d">Meta+</NP_MANAGER14>
+    <NP_MANAGER14 name="NP_MANAGER_res_0x7f0e000e">Shift+</NP_MANAGER14>
+    <NP_MANAGER14 name="NP_MANAGER_res_0x7f0e000f">բացատ</NP_MANAGER14>
+    <NP_MANAGER14 name="NP_MANAGER_res_0x7f0e0010">Sym+</NP_MANAGER14>
+    <NP_MANAGER14 name="NP_MANAGER_res_0x7f0e0011">Menu+</NP_MANAGER14>
+    <NP_MANAGER14 name="NP_MANAGER_res_0x7f0e0012">Որոնում…</NP_MANAGER14>
+    <NP_MANAGER14 name="NP_MANAGER_res_0x7f0e0013">Ջնջել հարցումը</NP_MANAGER14>
+    <NP_MANAGER14 name="NP_MANAGER_res_0x7f0e0015">Որոնել</NP_MANAGER14>
+    <NP_MANAGER14 name="NP_MANAGER_res_0x7f0e0016">Ուղարկել հարցումը</NP_MANAGER14>
+    <NP_MANAGER14 name="NP_MANAGER_res_0x7f0e0017">Ձայնային որոնում</NP_MANAGER14>
+    <NP_MANAGER14 name="NP_MANAGER_res_0x7f0e001a">Ծալել</NP_MANAGER14>
+    <NP_MANAGER14 name="NP_MANAGER_res_0x7f0e0021">Ծավալել կիսով չափ</NP_MANAGER14>
+    <NP_MANAGER14 name="NP_MANAGER_res_0x7f0e002a">Մուտքագրված նիշեր՝ %1$d/%2$d</NP_MANAGER14>
+    <NP_MANAGER14 name="NP_MANAGER_res_0x7f0e002b">Նիշերի առավելագույն քանակը գերազանցվել է (%1$d/%2$d)</NP_MANAGER14>
+    <NP_MANAGER14 name="NP_MANAGER_res_0x7f0e002d">Ջնջել տեքստը</NP_MANAGER14>
+    <NP_MANAGER14 name="NP_MANAGER_res_0x7f0e002f">Սխալ</NP_MANAGER14>
+    <NP_MANAGER14 name="NP_MANAGER_res_0x7f0e0030">Ցույց տալ իջնող ընտրացանկը</NP_MANAGER14>
+    <NP_MANAGER14 name="NP_MANAGER_res_0x7f0e0035">Ներդիր</NP_MANAGER14>
+    <NP_MANAGER14 name="NP_MANAGER_res_0x7f0e0048">Ընտրել AM կամ PM</NP_MANAGER14>
+    <NP_MANAGER14 name="NP_MANAGER_res_0x7f0e0056">AM</NP_MANAGER14>
+    <NP_MANAGER14 name="NP_MANAGER_res_0x7f0e005a">PM</NP_MANAGER14>
+    <NP_MANAGER14 name="NP_MANAGER_res_0x7f0e006b">Հեռացնել (%1$s)</NP_MANAGER14>
+    <NP_MANAGER14 name="NP_MANAGER_res_0x7f0e00a1">Ցույց տալ գաղտնաբառը</NP_MANAGER14>
+    <NP_MANAGER14 name="NP_MANAGER_res_0x7f0e00aa">Կողային վահանակ</NP_MANAGER14>
+</resources>

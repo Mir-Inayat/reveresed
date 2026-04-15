@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <NP_MANAGER14 name="NP_MANAGER_res_0x7f0e0001">Идите нагоре</NP_MANAGER14>
+    <NP_MANAGER14 name="NP_MANAGER_res_0x7f0e0003">Готово</NP_MANAGER14>
+    <NP_MANAGER14 name="NP_MANAGER_res_0x7f0e0006">ИСКЉУЧЕНО</NP_MANAGER14>
+    <NP_MANAGER14 name="NP_MANAGER_res_0x7f0e0007">УКЉУЧЕНО</NP_MANAGER14>
+    <NP_MANAGER14 name="NP_MANAGER_res_0x7f0e0008">Alt+</NP_MANAGER14>
+    <NP_MANAGER14 name="NP_MANAGER_res_0x7f0e0009">Ctrl+</NP_MANAGER14>
+    <NP_MANAGER14 name="NP_MANAGER_res_0x7f0e000a">delete</NP_MANAGER14>
+    <NP_MANAGER14 name="NP_MANAGER_res_0x7f0e000b">enter</NP_MANAGER14>
+    <NP_MANAGER14 name="NP_MANAGER_res_0x7f0e000c">Function+</NP_MANAGER14>
+    <NP_MANAGER14 name="NP_MANAGER_res_0x7f0e000d">Meta+</NP_MANAGER14>
+    <NP_MANAGER14 name="NP_MANAGER_res_0x7f0e000e">Shift+</NP_MANAGER14>
+    <NP_MANAGER14 name="NP_MANAGER_res_0x7f0e000f">тастер за размак</NP_MANAGER14>
+    <NP_MANAGER14 name="NP_MANAGER_res_0x7f0e0010">Sym+</NP_MANAGER14>
+    <NP_MANAGER14 name="NP_MANAGER_res_0x7f0e0011">Menu+</NP_MANAGER14>
+    <NP_MANAGER14 name="NP_MANAGER_res_0x7f0e0012">Претражите…</NP_MANAGER14>
+    <NP_MANAGER14 name="NP_MANAGER_res_0x7f0e0013">Обришите упит</NP_MANAGER14>
+    <NP_MANAGER14 name="NP_MANAGER_res_0x7f0e0015">Претражите</NP_MANAGER14>
+    <NP_MANAGER14 name="NP_MANAGER_res_0x7f0e0016">Пошаљите упит</NP_MANAGER14>
+    <NP_MANAGER14 name="NP_MANAGER_res_0x7f0e0017">Гласовна претрага</NP_MANAGER14>
+    <NP_MANAGER14 name="NP_MANAGER_res_0x7f0e001a">Скупи</NP_MANAGER14>
+    <NP_MANAGER14 name="NP_MANAGER_res_0x7f0e0021">Проширите до пола</NP_MANAGER14>
+    <NP_MANAGER14 name="NP_MANAGER_res_0x7f0e002a">Унети знакови: %1$d од %2$d</NP_MANAGER14>
+    <NP_MANAGER14 name="NP_MANAGER_res_0x7f0e002b">Прекорачено је ограничење броја знакова: %1$d од %2$d</NP_MANAGER14>
+    <NP_MANAGER14 name="NP_MANAGER_res_0x7f0e002d">Обриши текст</NP_MANAGER14>
+    <NP_MANAGER14 name="NP_MANAGER_res_0x7f0e002f">Грешка</NP_MANAGER14>
+    <NP_MANAGER14 name="NP_MANAGER_res_0x7f0e0030">Прикажи падајући мени</NP_MANAGER14>
+    <NP_MANAGER14 name="NP_MANAGER_res_0x7f0e0035">Картица</NP_MANAGER14>
+    <NP_MANAGER14 name="NP_MANAGER_res_0x7f0e0048">Изаберите пре подне или по подне</NP_MANAGER14>
+    <NP_MANAGER14 name="NP_MANAGER_res_0x7f0e0056">AM</NP_MANAGER14>
+    <NP_MANAGER14 name="NP_MANAGER_res_0x7f0e005a">PM</NP_MANAGER14>
+    <NP_MANAGER14 name="NP_MANAGER_res_0x7f0e006b">Уклоните %1$s</NP_MANAGER14>
+    <NP_MANAGER14 name="NP_MANAGER_res_0x7f0e00a1">Прикажи лозинку</NP_MANAGER14>
+    <NP_MANAGER14 name="NP_MANAGER_res_0x7f0e00aa">Бочна табела</NP_MANAGER14>
+</resources>

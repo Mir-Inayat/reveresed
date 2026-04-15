@@ -1,0 +1,4729 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <NP_MANAGER3 name="NP_MANAGER_res_0x7f030000">
+        <item>65536</item>
+        <item>0</item>
+        <item>1</item>
+        <item>2</item>
+        <item>3</item>
+        <item>4</item>
+    </NP_MANAGER3>
+    <NP_MANAGER3 name="NP_MANAGER_res_0x7f030001">
+        <item>4</item>
+    </NP_MANAGER3>
+    <NP_MANAGER3 name="NP_MANAGER_res_0x7f030002">
+        <item>1</item>
+    </NP_MANAGER3>
+    <NP_MANAGER3 name="NP_MANAGER_res_0x7f030003">
+        <item>1</item>
+    </NP_MANAGER3>
+    <NP_MANAGER3 name="NP_MANAGER_res_0x7f030004">
+        <item>1</item>
+    </NP_MANAGER3>
+    <NP_MANAGER3 name="NP_MANAGER_res_0x7f030005">
+        <item>1</item>
+    </NP_MANAGER3>
+    <NP_MANAGER3 name="NP_MANAGER_res_0x7f030006">
+        <item>65600</item>
+        <item>0</item>
+    </NP_MANAGER3>
+    <NP_MANAGER3 name="NP_MANAGER_res_0x7f030007">
+        <item>1</item>
+    </NP_MANAGER3>
+    <NP_MANAGER3 name="NP_MANAGER_res_0x7f030008">
+        <item>1</item>
+    </NP_MANAGER3>
+    <NP_MANAGER3 name="NP_MANAGER_res_0x7f030009">
+        <item>1</item>
+    </NP_MANAGER3>
+    <NP_MANAGER3 name="NP_MANAGER_res_0x7f03000a">
+        <item>1</item>
+    </NP_MANAGER3>
+    <NP_MANAGER3 name="NP_MANAGER_res_0x7f03000b">
+        <item>1</item>
+    </NP_MANAGER3>
+    <NP_MANAGER3 name="NP_MANAGER_res_0x7f03000c">
+        <item>1</item>
+    </NP_MANAGER3>
+    <NP_MANAGER3 name="NP_MANAGER_res_0x7f03000d">
+        <item>1</item>
+    </NP_MANAGER3>
+    <NP_MANAGER3 name="NP_MANAGER_res_0x7f03000e">
+        <item>1</item>
+    </NP_MANAGER3>
+    <NP_MANAGER3 name="NP_MANAGER_res_0x7f03000f">
+        <item>1</item>
+    </NP_MANAGER3>
+    <NP_MANAGER3 name="NP_MANAGER_res_0x7f030010">
+        <item>1</item>
+    </NP_MANAGER3>
+    <NP_MANAGER3 name="NP_MANAGER_res_0x7f030011">
+        <item>1</item>
+    </NP_MANAGER3>
+    <NP_MANAGER3 name="NP_MANAGER_res_0x7f030012">
+        <item>17</item>
+    </NP_MANAGER3>
+    <NP_MANAGER3 name="NP_MANAGER_res_0x7f030013">
+        <item>1</item>
+    </NP_MANAGER3>
+    <NP_MANAGER3 name="NP_MANAGER_res_0x7f030014">
+        <item>1</item>
+    </NP_MANAGER3>
+    <NP_MANAGER3 name="NP_MANAGER_res_0x7f030015">
+        <item>2</item>
+    </NP_MANAGER3>
+    <NP_MANAGER3 name="NP_MANAGER_res_0x7f030016">
+        <item>1</item>
+    </NP_MANAGER3>
+    <NP_MANAGER3 name="NP_MANAGER_res_0x7f030017">
+        <item>1</item>
+    </NP_MANAGER3>
+    <NP_MANAGER3 name="NP_MANAGER_res_0x7f030018">
+        <item>1</item>
+    </NP_MANAGER3>
+    <NP_MANAGER3 name="NP_MANAGER_res_0x7f030019">
+        <item>1</item>
+    </NP_MANAGER3>
+    <NP_MANAGER3 name="NP_MANAGER_res_0x7f03001a">
+        <item>1</item>
+    </NP_MANAGER3>
+    <NP_MANAGER3 name="NP_MANAGER_res_0x7f03001b">
+        <item>1</item>
+    </NP_MANAGER3>
+    <NP_MANAGER3 name="NP_MANAGER_res_0x7f03001c">
+        <item>1</item>
+    </NP_MANAGER3>
+    <NP_MANAGER3 name="NP_MANAGER_res_0x7f03001d">
+        <item>1</item>
+    </NP_MANAGER3>
+    <NP_MANAGER3 name="NP_MANAGER_res_0x7f03001e">
+        <item>1</item>
+    </NP_MANAGER3>
+    <NP_MANAGER3 name="NP_MANAGER_res_0x7f03001f">
+        <item>1</item>
+    </NP_MANAGER3>
+    <NP_MANAGER3 name="NP_MANAGER_res_0x7f030020">
+        <item>1</item>
+    </NP_MANAGER3>
+    <NP_MANAGER3 name="NP_MANAGER_res_0x7f030021">
+        <item>1</item>
+    </NP_MANAGER3>
+    <NP_MANAGER3 name="NP_MANAGER_res_0x7f030022">
+        <item>1</item>
+    </NP_MANAGER3>
+    <NP_MANAGER3 name="NP_MANAGER_res_0x7f030023">
+        <item>1</item>
+    </NP_MANAGER3>
+    <NP_MANAGER3 name="NP_MANAGER_res_0x7f030024">
+        <item>2</item>
+    </NP_MANAGER3>
+    <NP_MANAGER3 name="NP_MANAGER_res_0x7f030025">
+        <item>32</item>
+    </NP_MANAGER3>
+    <NP_MANAGER3 name="NP_MANAGER_res_0x7f030026">
+        <item>2</item>
+    </NP_MANAGER3>
+    <NP_MANAGER3 name="NP_MANAGER_res_0x7f030027">
+        <item>64</item>
+    </NP_MANAGER3>
+    <NP_MANAGER3 name="NP_MANAGER_res_0x7f030028">
+        <item>1</item>
+    </NP_MANAGER3>
+    <NP_MANAGER3 name="NP_MANAGER_res_0x7f030029">
+        <item>8</item>
+    </NP_MANAGER3>
+    <NP_MANAGER3 name="NP_MANAGER_res_0x7f03002a">
+        <item>1</item>
+    </NP_MANAGER3>
+    <NP_MANAGER3 name="NP_MANAGER_res_0x7f03002b">
+        <item>8</item>
+    </NP_MANAGER3>
+    <NP_MANAGER3 name="NP_MANAGER_res_0x7f03002c">
+        <item>1</item>
+    </NP_MANAGER3>
+    <NP_MANAGER3 name="NP_MANAGER_res_0x7f03002d">
+        <item>1</item>
+    </NP_MANAGER3>
+    <NP_MANAGER3 name="NP_MANAGER_res_0x7f03002e">
+        <item>8</item>
+    </NP_MANAGER3>
+    <NP_MANAGER3 name="NP_MANAGER_res_0x7f03002f">
+        <item>32</item>
+    </NP_MANAGER3>
+    <NP_MANAGER3 name="NP_MANAGER_res_0x7f030030">
+        <item>131072</item>
+        <item>0x10000</item>
+        <item>0x1000</item>
+        <item>0x2</item>
+        <item>0x1</item>
+        <item>0x4</item>
+        <item>0x8</item>
+    </NP_MANAGER3>
+    <NP_MANAGER3 name="NP_MANAGER_res_0x7f030031">
+        <item>1</item>
+    </NP_MANAGER3>
+    <NP_MANAGER3 name="NP_MANAGER_res_0x7f030032">
+        <item>65536</item>
+        <item>0</item>
+        <item>1</item>
+        <item>2</item>
+        <item>3</item>
+        <item>4</item>
+    </NP_MANAGER3>
+    <NP_MANAGER3 name="NP_MANAGER_res_0x7f030033">
+        <item>8</item>
+    </NP_MANAGER3>
+    <NP_MANAGER3 name="NP_MANAGER_res_0x7f030034">
+        <item>8</item>
+    </NP_MANAGER3>
+    <NP_MANAGER3 name="NP_MANAGER_res_0x7f030035">
+        <item>1</item>
+    </NP_MANAGER3>
+    <NP_MANAGER3 name="NP_MANAGER_res_0x7f030036">
+        <item>65536</item>
+        <item>0</item>
+        <item>1</item>
+    </NP_MANAGER3>
+    <NP_MANAGER3 name="NP_MANAGER_res_0x7f030037">
+        <item>1</item>
+    </NP_MANAGER3>
+    <NP_MANAGER3 name="NP_MANAGER_res_0x7f030038">
+        <item>8</item>
+    </NP_MANAGER3>
+    <NP_MANAGER3 name="NP_MANAGER_res_0x7f030039">
+        <item>65536</item>
+        <item>0</item>
+        <item>1</item>
+        <item>2</item>
+    </NP_MANAGER3>
+    <NP_MANAGER3 name="NP_MANAGER_res_0x7f03003a">
+        <item>64</item>
+    </NP_MANAGER3>
+    <NP_MANAGER3 name="NP_MANAGER_res_0x7f03003b">
+        <item>64</item>
+    </NP_MANAGER3>
+    <NP_MANAGER3 name="NP_MANAGER_res_0x7f03003c">
+        <item>2</item>
+    </NP_MANAGER3>
+    <NP_MANAGER3 name="NP_MANAGER_res_0x7f03003d">
+        <item>8</item>
+    </NP_MANAGER3>
+    <NP_MANAGER3 name="NP_MANAGER_res_0x7f03003e">
+        <item>65536</item>
+        <item>0</item>
+        <item>1</item>
+    </NP_MANAGER3>
+    <NP_MANAGER3 name="NP_MANAGER_res_0x7f03003f">
+        <item>1</item>
+    </NP_MANAGER3>
+    <NP_MANAGER3 name="NP_MANAGER_res_0x7f030040">
+        <item>8</item>
+    </NP_MANAGER3>
+    <NP_MANAGER3 name="NP_MANAGER_res_0x7f030041">
+        <item>64</item>
+    </NP_MANAGER3>
+    <NP_MANAGER3 name="NP_MANAGER_res_0x7f030042">
+        <item>64</item>
+    </NP_MANAGER3>
+    <NP_MANAGER3 name="NP_MANAGER_res_0x7f030043">
+        <item>1</item>
+    </NP_MANAGER3>
+    <NP_MANAGER3 name="NP_MANAGER_res_0x7f030044">
+        <item>64</item>
+    </NP_MANAGER3>
+    <NP_MANAGER3 name="NP_MANAGER_res_0x7f030045">
+        <item>65536</item>
+        <item>0</item>
+        <item>1</item>
+    </NP_MANAGER3>
+    <NP_MANAGER3 name="NP_MANAGER_res_0x7f030046">
+        <item>65536</item>
+        <item>0</item>
+        <item>1</item>
+        <item>2</item>
+        <item>3</item>
+        <item>4</item>
+    </NP_MANAGER3>
+    <NP_MANAGER3 name="NP_MANAGER_res_0x7f030047">
+        <item>8</item>
+    </NP_MANAGER3>
+    <NP_MANAGER3 name="NP_MANAGER_res_0x7f030048">
+        <item>1</item>
+    </NP_MANAGER3>
+    <NP_MANAGER3 name="NP_MANAGER_res_0x7f030049">
+        <item>16</item>
+    </NP_MANAGER3>
+    <NP_MANAGER3 name="NP_MANAGER_res_0x7f03004a">
+        <item>64</item>
+    </NP_MANAGER3>
+    <NP_MANAGER3 name="NP_MANAGER_res_0x7f03004b">
+        <item>64</item>
+    </NP_MANAGER3>
+    <NP_MANAGER3 name="NP_MANAGER_res_0x7f03004c">
+        <item>64</item>
+    </NP_MANAGER3>
+    <NP_MANAGER3 name="NP_MANAGER_res_0x7f03004d">
+        <item>64</item>
+    </NP_MANAGER3>
+    <NP_MANAGER3 name="NP_MANAGER_res_0x7f03004e">
+        <item>32</item>
+    </NP_MANAGER3>
+    <NP_MANAGER3 name="NP_MANAGER_res_0x7f03004f">
+        <item>17</item>
+    </NP_MANAGER3>
+    <NP_MANAGER3 name="NP_MANAGER_res_0x7f030050">
+        <item>17</item>
+    </NP_MANAGER3>
+    <NP_MANAGER3 name="NP_MANAGER_res_0x7f030051">
+        <item>16</item>
+    </NP_MANAGER3>
+    <NP_MANAGER3 name="NP_MANAGER_res_0x7f030052">
+        <item>65536</item>
+        <item>3</item>
+        <item>5</item>
+        <item>9</item>
+        <item>14</item>
+        <item>15</item>
+        <item>16</item>
+    </NP_MANAGER3>
+    <NP_MANAGER3 name="NP_MANAGER_res_0x7f030053">
+        <item>65536</item>
+        <item>0</item>
+        <item>1</item>
+    </NP_MANAGER3>
+    <NP_MANAGER3 name="NP_MANAGER_res_0x7f030054">
+        <item>65536</item>
+        <item>8388661</item>
+        <item>8388659</item>
+        <item>8388693</item>
+        <item>8388691</item>
+    </NP_MANAGER3>
+    <NP_MANAGER3 name="NP_MANAGER_res_0x7f030055">
+        <item>64</item>
+    </NP_MANAGER3>
+    <NP_MANAGER3 name="NP_MANAGER_res_0x7f030056">
+        <item>64</item>
+    </NP_MANAGER3>
+    <NP_MANAGER3 name="NP_MANAGER_res_0x7f030057">
+        <item>1</item>
+    </NP_MANAGER3>
+    <NP_MANAGER3 name="NP_MANAGER_res_0x7f030058">
+        <item>1</item>
+    </NP_MANAGER3>
+    <NP_MANAGER3 name="NP_MANAGER_res_0x7f030059">
+        <item>1</item>
+    </NP_MANAGER3>
+    <NP_MANAGER3 name="NP_MANAGER_res_0x7f03005a">
+        <item>2</item>
+    </NP_MANAGER3>
+    <NP_MANAGER3 name="NP_MANAGER_res_0x7f03005b">
+        <item>1</item>
+    </NP_MANAGER3>
+    <NP_MANAGER3 name="NP_MANAGER_res_0x7f03005c">
+        <item>16</item>
+    </NP_MANAGER3>
+    <NP_MANAGER3 name="NP_MANAGER_res_0x7f03005d">
+        <item>64</item>
+    </NP_MANAGER3>
+    <NP_MANAGER3 name="NP_MANAGER_res_0x7f03005e">
+        <item>64</item>
+    </NP_MANAGER3>
+    <NP_MANAGER3 name="NP_MANAGER_res_0x7f03005f">
+        <item>64</item>
+    </NP_MANAGER3>
+    <NP_MANAGER3 name="NP_MANAGER_res_0x7f030060">
+        <item>64</item>
+    </NP_MANAGER3>
+    <NP_MANAGER3 name="NP_MANAGER_res_0x7f030061">
+        <item>64</item>
+    </NP_MANAGER3>
+    <NP_MANAGER3 name="NP_MANAGER_res_0x7f030062">
+        <item>1</item>
+    </NP_MANAGER3>
+    <NP_MANAGER3 name="NP_MANAGER_res_0x7f030063">
+        <item>1</item>
+    </NP_MANAGER3>
+    <NP_MANAGER3 name="NP_MANAGER_res_0x7f030064">
+        <item>64</item>
+    </NP_MANAGER3>
+    <NP_MANAGER3 name="NP_MANAGER_res_0x7f030065">
+        <item>64</item>
+    </NP_MANAGER3>
+    <NP_MANAGER3 name="NP_MANAGER_res_0x7f030066">
+        <item>8</item>
+    </NP_MANAGER3>
+    <NP_MANAGER3 name="NP_MANAGER_res_0x7f030067">
+        <item>65536</item>
+        <item>0</item>
+        <item>1</item>
+        <item>2</item>
+        <item>3</item>
+        <item>5</item>
+        <item>6</item>
+    </NP_MANAGER3>
+    <NP_MANAGER3 name="NP_MANAGER_res_0x7f030068">
+        <item>64</item>
+    </NP_MANAGER3>
+    <NP_MANAGER3 name="NP_MANAGER_res_0x7f030069">
+        <item>8</item>
+    </NP_MANAGER3>
+    <NP_MANAGER3 name="NP_MANAGER_res_0x7f03006a">
+        <item>8</item>
+    </NP_MANAGER3>
+    <NP_MANAGER3 name="NP_MANAGER_res_0x7f03006b">
+        <item>8</item>
+    </NP_MANAGER3>
+    <NP_MANAGER3 name="NP_MANAGER_res_0x7f03006c">
+        <item>8</item>
+    </NP_MANAGER3>
+    <NP_MANAGER3 name="NP_MANAGER_res_0x7f03006d">
+        <item>65</item>
+    </NP_MANAGER3>
+    <NP_MANAGER3 name="NP_MANAGER_res_0x7f03006e">
+        <item>8</item>
+    </NP_MANAGER3>
+    <NP_MANAGER3 name="NP_MANAGER_res_0x7f03006f">
+        <item>33</item>
+    </NP_MANAGER3>
+    <NP_MANAGER3 name="NP_MANAGER_res_0x7f030070">
+        <item>8</item>
+    </NP_MANAGER3>
+    <NP_MANAGER3 name="NP_MANAGER_res_0x7f030071">
+        <item>64</item>
+    </NP_MANAGER3>
+    <NP_MANAGER3 name="NP_MANAGER_res_0x7f030072">
+        <item>65600</item>
+        <item>-1</item>
+    </NP_MANAGER3>
+    <NP_MANAGER3 name="NP_MANAGER_res_0x7f030073">
+        <item>131072</item>
+        <item>0x1</item>
+        <item>0x2</item>
+        <item>0x4</item>
+        <item>0x8</item>
+        <item>-1</item>
+        <item>0</item>
+    </NP_MANAGER3>
+    <NP_MANAGER3 name="NP_MANAGER_res_0x7f030074">
+        <item>64</item>
+    </NP_MANAGER3>
+    <NP_MANAGER3 name="NP_MANAGER_res_0x7f030075">
+        <item>8</item>
+    </NP_MANAGER3>
+    <NP_MANAGER3 name="NP_MANAGER_res_0x7f030076">
+        <item>1</item>
+    </NP_MANAGER3>
+    <NP_MANAGER3 name="NP_MANAGER_res_0x7f030077">
+        <item>64</item>
+    </NP_MANAGER3>
+    <NP_MANAGER3 name="NP_MANAGER_res_0x7f030078">
+        <item>32</item>
+    </NP_MANAGER3>
+    <NP_MANAGER3 name="NP_MANAGER_res_0x7f030079">
+        <item>64</item>
+    </NP_MANAGER3>
+    <NP_MANAGER3 name="NP_MANAGER_res_0x7f03007a">
+        <item>1</item>
+    </NP_MANAGER3>
+    <NP_MANAGER3 name="NP_MANAGER_res_0x7f03007b">
+        <item>1</item>
+    </NP_MANAGER3>
+    <NP_MANAGER3 name="NP_MANAGER_res_0x7f03007c">
+        <item>8</item>
+    </NP_MANAGER3>
+    <NP_MANAGER3 name="NP_MANAGER_res_0x7f03007d">
+        <item>1</item>
+    </NP_MANAGER3>
+    <NP_MANAGER3 name="NP_MANAGER_res_0x7f03007e">
+        <item>1</item>
+    </NP_MANAGER3>
+    <NP_MANAGER3 name="NP_MANAGER_res_0x7f03007f">
+        <item>1</item>
+    </NP_MANAGER3>
+    <NP_MANAGER3 name="NP_MANAGER_res_0x7f030080">
+        <item>1</item>
+    </NP_MANAGER3>
+    <NP_MANAGER3 name="NP_MANAGER_res_0x7f030081">
+        <item>16</item>
+    </NP_MANAGER3>
+    <NP_MANAGER3 name="NP_MANAGER_res_0x7f030082">
+        <item>65536</item>
+        <item>0</item>
+        <item>1</item>
+        <item>2</item>
+    </NP_MANAGER3>
+    <NP_MANAGER3 name="NP_MANAGER_res_0x7f030083">
+        <item>64</item>
+    </NP_MANAGER3>
+    <NP_MANAGER3 name="NP_MANAGER_res_0x7f030084">
+        <item>64</item>
+    </NP_MANAGER3>
+    <NP_MANAGER3 name="NP_MANAGER_res_0x7f030085">
+        <item>64</item>
+    </NP_MANAGER3>
+    <NP_MANAGER3 name="NP_MANAGER_res_0x7f030086">
+        <item>64</item>
+    </NP_MANAGER3>
+    <NP_MANAGER3 name="NP_MANAGER_res_0x7f030087">
+        <item>64</item>
+    </NP_MANAGER3>
+    <NP_MANAGER3 name="NP_MANAGER_res_0x7f030088">
+        <item>16</item>
+    </NP_MANAGER3>
+    <NP_MANAGER3 name="NP_MANAGER_res_0x7f030089">
+        <item>16</item>
+    </NP_MANAGER3>
+    <NP_MANAGER3 name="NP_MANAGER_res_0x7f03008a">
+        <item>64</item>
+    </NP_MANAGER3>
+    <NP_MANAGER3 name="NP_MANAGER_res_0x7f03008b">
+        <item>64</item>
+    </NP_MANAGER3>
+    <NP_MANAGER3 name="NP_MANAGER_res_0x7f03008c">
+        <item>32</item>
+    </NP_MANAGER3>
+    <NP_MANAGER3 name="NP_MANAGER_res_0x7f03008d">
+        <item>1</item>
+    </NP_MANAGER3>
+    <NP_MANAGER3 name="NP_MANAGER_res_0x7f03008e">
+        <item>1</item>
+    </NP_MANAGER3>
+    <NP_MANAGER3 name="NP_MANAGER_res_0x7f03008f">
+        <item>1</item>
+    </NP_MANAGER3>
+    <NP_MANAGER3 name="NP_MANAGER_res_0x7f030090">
+        <item>1</item>
+    </NP_MANAGER3>
+    <NP_MANAGER3 name="NP_MANAGER_res_0x7f030091">
+        <item>1</item>
+    </NP_MANAGER3>
+    <NP_MANAGER3 name="NP_MANAGER_res_0x7f030092">
+        <item>1</item>
+    </NP_MANAGER3>
+    <NP_MANAGER3 name="NP_MANAGER_res_0x7f030093">
+        <item>131072</item>
+        <item>0x10</item>
+        <item>0x30</item>
+        <item>0x50</item>
+    </NP_MANAGER3>
+    <NP_MANAGER3 name="NP_MANAGER_res_0x7f030094">
+        <item>1</item>
+    </NP_MANAGER3>
+    <NP_MANAGER3 name="NP_MANAGER_res_0x7f030095">
+        <item>64</item>
+    </NP_MANAGER3>
+    <NP_MANAGER3 name="NP_MANAGER_res_0x7f030096">
+        <item>17</item>
+    </NP_MANAGER3>
+    <NP_MANAGER3 name="NP_MANAGER_res_0x7f030097">
+        <item>65536</item>
+        <item>3</item>
+        <item>5</item>
+        <item>9</item>
+        <item>14</item>
+        <item>15</item>
+        <item>16</item>
+    </NP_MANAGER3>
+    <NP_MANAGER3 name="NP_MANAGER_res_0x7f030098">
+        <item>1</item>
+    </NP_MANAGER3>
+    <NP_MANAGER3 name="NP_MANAGER_res_0x7f030099">
+        <item>1</item>
+    </NP_MANAGER3>
+    <NP_MANAGER3 name="NP_MANAGER_res_0x7f03009a">
+        <item>1</item>
+    </NP_MANAGER3>
+    <NP_MANAGER3 name="NP_MANAGER_res_0x7f03009b">
+        <item>1</item>
+    </NP_MANAGER3>
+    <NP_MANAGER3 name="NP_MANAGER_res_0x7f03009c">
+        <item>16</item>
+    </NP_MANAGER3>
+    <NP_MANAGER3 name="NP_MANAGER_res_0x7f03009d">
+        <item>65536</item>
+        <item>3</item>
+        <item>5</item>
+        <item>9</item>
+        <item>14</item>
+        <item>15</item>
+        <item>16</item>
+    </NP_MANAGER3>
+    <NP_MANAGER3 name="NP_MANAGER_res_0x7f03009e">
+        <item>16</item>
+    </NP_MANAGER3>
+    <NP_MANAGER3 name="NP_MANAGER_res_0x7f03009f">
+        <item>64</item>
+    </NP_MANAGER3>
+    <NP_MANAGER3 name="NP_MANAGER_res_0x7f0300a0">
+        <item>64</item>
+    </NP_MANAGER3>
+    <NP_MANAGER3 name="NP_MANAGER_res_0x7f0300a1">
+        <item>16</item>
+    </NP_MANAGER3>
+    <NP_MANAGER3 name="NP_MANAGER_res_0x7f0300a2">
+        <item>64</item>
+    </NP_MANAGER3>
+    <NP_MANAGER3 name="NP_MANAGER_res_0x7f0300a3">
+        <item>8</item>
+    </NP_MANAGER3>
+    <NP_MANAGER3 name="NP_MANAGER_res_0x7f0300a4">
+        <item>8</item>
+    </NP_MANAGER3>
+    <NP_MANAGER3 name="NP_MANAGER_res_0x7f0300a5">
+        <item>1</item>
+    </NP_MANAGER3>
+    <NP_MANAGER3 name="NP_MANAGER_res_0x7f0300a6">
+        <item>65536</item>
+        <item>0</item>
+        <item>1</item>
+    </NP_MANAGER3>
+    <NP_MANAGER3 name="NP_MANAGER_res_0x7f0300a7">
+        <item>1</item>
+    </NP_MANAGER3>
+    <NP_MANAGER3 name="NP_MANAGER_res_0x7f0300a8">
+        <item>65536</item>
+        <item>4</item>
+        <item>8</item>
+    </NP_MANAGER3>
+    <NP_MANAGER3 name="NP_MANAGER_res_0x7f0300a9">
+        <item>1</item>
+    </NP_MANAGER3>
+    <NP_MANAGER3 name="NP_MANAGER_res_0x7f0300aa">
+        <item>1</item>
+    </NP_MANAGER3>
+    <NP_MANAGER3 name="NP_MANAGER_res_0x7f0300ab">
+        <item>8</item>
+    </NP_MANAGER3>
+    <NP_MANAGER3 name="NP_MANAGER_res_0x7f0300ac">
+        <item>1</item>
+    </NP_MANAGER3>
+    <NP_MANAGER3 name="NP_MANAGER_res_0x7f0300ad">
+        <item>1</item>
+    </NP_MANAGER3>
+    <NP_MANAGER3 name="NP_MANAGER_res_0x7f0300ae">
+        <item>65536</item>
+        <item>1</item>
+        <item>2</item>
+    </NP_MANAGER3>
+    <NP_MANAGER3 name="NP_MANAGER_res_0x7f0300af">
+        <item>32</item>
+    </NP_MANAGER3>
+    <NP_MANAGER3 name="NP_MANAGER_res_0x7f0300b0">
+        <item>32</item>
+    </NP_MANAGER3>
+    <NP_MANAGER3 name="NP_MANAGER_res_0x7f0300b1">
+        <item>8</item>
+    </NP_MANAGER3>
+    <NP_MANAGER3 name="NP_MANAGER_res_0x7f0300b2">
+        <item>8</item>
+    </NP_MANAGER3>
+    <NP_MANAGER3 name="NP_MANAGER_res_0x7f0300b3">
+        <item>8</item>
+    </NP_MANAGER3>
+    <NP_MANAGER3 name="NP_MANAGER_res_0x7f0300b4">
+        <item>1</item>
+    </NP_MANAGER3>
+    <NP_MANAGER3 name="NP_MANAGER_res_0x7f0300b5">
+        <item>16</item>
+    </NP_MANAGER3>
+    <NP_MANAGER3 name="NP_MANAGER_res_0x7f0300b6">
+        <item>65536</item>
+        <item>3</item>
+        <item>5</item>
+        <item>9</item>
+        <item>14</item>
+        <item>15</item>
+        <item>16</item>
+    </NP_MANAGER3>
+    <NP_MANAGER3 name="NP_MANAGER_res_0x7f0300b7">
+        <item>1</item>
+    </NP_MANAGER3>
+    <NP_MANAGER3 name="NP_MANAGER_res_0x7f0300b8">
+        <item>1</item>
+    </NP_MANAGER3>
+    <NP_MANAGER3 name="NP_MANAGER_res_0x7f0300b9">
+        <item>1</item>
+    </NP_MANAGER3>
+    <NP_MANAGER3 name="NP_MANAGER_res_0x7f0300ba">
+        <item>1</item>
+    </NP_MANAGER3>
+    <NP_MANAGER3 name="NP_MANAGER_res_0x7f0300bb">
+        <item>8</item>
+    </NP_MANAGER3>
+    <NP_MANAGER3 name="NP_MANAGER_res_0x7f0300bc">
+        <item>65536</item>
+        <item>8388661</item>
+        <item>8388659</item>
+        <item>8388693</item>
+        <item>8388691</item>
+    </NP_MANAGER3>
+    <NP_MANAGER3 name="NP_MANAGER_res_0x7f0300bd">
+        <item>64</item>
+    </NP_MANAGER3>
+    <NP_MANAGER3 name="NP_MANAGER_res_0x7f0300be">
+        <item>64</item>
+    </NP_MANAGER3>
+    <NP_MANAGER3 name="NP_MANAGER_res_0x7f0300bf">
+        <item>16</item>
+    </NP_MANAGER3>
+    <NP_MANAGER3 name="NP_MANAGER_res_0x7f0300c0">
+        <item>8</item>
+    </NP_MANAGER3>
+    <NP_MANAGER3 name="NP_MANAGER_res_0x7f0300c1">
+        <item>65536</item>
+        <item>0</item>
+        <item>1</item>
+        <item>2</item>
+    </NP_MANAGER3>
+    <NP_MANAGER3 name="NP_MANAGER_res_0x7f0300c2">
+        <item>1</item>
+    </NP_MANAGER3>
+    <NP_MANAGER3 name="NP_MANAGER_res_0x7f0300c3">
+        <item>16</item>
+    </NP_MANAGER3>
+    <NP_MANAGER3 name="NP_MANAGER_res_0x7f0300c4">
+        <item>64</item>
+    </NP_MANAGER3>
+    <NP_MANAGER3 name="NP_MANAGER_res_0x7f0300c5">
+        <item>64</item>
+    </NP_MANAGER3>
+    <NP_MANAGER3 name="NP_MANAGER_res_0x7f0300c6">
+        <item>1</item>
+    </NP_MANAGER3>
+    <NP_MANAGER3 name="NP_MANAGER_res_0x7f0300c7">
+        <item>1</item>
+    </NP_MANAGER3>
+    <NP_MANAGER3 name="NP_MANAGER_res_0x7f0300c8">
+        <item>8</item>
+    </NP_MANAGER3>
+    <NP_MANAGER3 name="NP_MANAGER_res_0x7f0300c9">
+        <item>64</item>
+    </NP_MANAGER3>
+    <NP_MANAGER3 name="NP_MANAGER_res_0x7f0300ca">
+        <item>16</item>
+    </NP_MANAGER3>
+    <NP_MANAGER3 name="NP_MANAGER_res_0x7f0300cb">
+        <item>8</item>
+    </NP_MANAGER3>
+    <NP_MANAGER3 name="NP_MANAGER_res_0x7f0300cc">
+        <item>64</item>
+    </NP_MANAGER3>
+    <NP_MANAGER3 name="NP_MANAGER_res_0x7f0300cd">
+        <item>64</item>
+    </NP_MANAGER3>
+    <NP_MANAGER3 name="NP_MANAGER_res_0x7f0300ce">
+        <item>64</item>
+    </NP_MANAGER3>
+    <NP_MANAGER3 name="NP_MANAGER_res_0x7f0300cf">
+        <item>64</item>
+    </NP_MANAGER3>
+    <NP_MANAGER3 name="NP_MANAGER_res_0x7f0300d0">
+        <item>64</item>
+    </NP_MANAGER3>
+    <NP_MANAGER3 name="NP_MANAGER_res_0x7f0300d1">
+        <item>1</item>
+    </NP_MANAGER3>
+    <NP_MANAGER3 name="NP_MANAGER_res_0x7f0300d2">
+        <item>64</item>
+    </NP_MANAGER3>
+    <NP_MANAGER3 name="NP_MANAGER_res_0x7f0300d3">
+        <item>16</item>
+    </NP_MANAGER3>
+    <NP_MANAGER3 name="NP_MANAGER_res_0x7f0300d4">
+        <item>64</item>
+    </NP_MANAGER3>
+    <NP_MANAGER3 name="NP_MANAGER_res_0x7f0300d5">
+        <item>1</item>
+    </NP_MANAGER3>
+    <NP_MANAGER3 name="NP_MANAGER_res_0x7f0300d6">
+        <item>16</item>
+    </NP_MANAGER3>
+    <NP_MANAGER3 name="NP_MANAGER_res_0x7f0300d7">
+        <item>64</item>
+    </NP_MANAGER3>
+    <NP_MANAGER3 name="NP_MANAGER_res_0x7f0300d8">
+        <item>1</item>
+    </NP_MANAGER3>
+    <NP_MANAGER3 name="NP_MANAGER_res_0x7f0300d9">
+        <item>2</item>
+    </NP_MANAGER3>
+    <NP_MANAGER3 name="NP_MANAGER_res_0x7f0300da">
+        <item>32</item>
+    </NP_MANAGER3>
+    <NP_MANAGER3 name="NP_MANAGER_res_0x7f0300db">
+        <item>64</item>
+    </NP_MANAGER3>
+    <NP_MANAGER3 name="NP_MANAGER_res_0x7f0300dc">
+        <item>2</item>
+    </NP_MANAGER3>
+    <NP_MANAGER3 name="NP_MANAGER_res_0x7f0300dd">
+        <item>1</item>
+    </NP_MANAGER3>
+    <NP_MANAGER3 name="NP_MANAGER_res_0x7f0300de">
+        <item>1</item>
+    </NP_MANAGER3>
+    <NP_MANAGER3 name="NP_MANAGER_res_0x7f0300df">
+        <item>131072</item>
+        <item>0x11</item>
+        <item>0x1</item>
+        <item>0x10</item>
+        <item>0x100</item>
+        <item>0x1000</item>
+    </NP_MANAGER3>
+    <NP_MANAGER3 name="NP_MANAGER_res_0x7f0300e0">
+        <item>16</item>
+    </NP_MANAGER3>
+    <NP_MANAGER3 name="NP_MANAGER_res_0x7f0300e1">
+        <item>16</item>
+    </NP_MANAGER3>
+    <NP_MANAGER3 name="NP_MANAGER_res_0x7f0300e2">
+        <item>1</item>
+    </NP_MANAGER3>
+    <NP_MANAGER3 name="NP_MANAGER_res_0x7f0300e3">
+        <item>16</item>
+    </NP_MANAGER3>
+    <NP_MANAGER3 name="NP_MANAGER_res_0x7f0300e4">
+        <item>1</item>
+    </NP_MANAGER3>
+    <NP_MANAGER3 name="NP_MANAGER_res_0x7f0300e5">
+        <item>8</item>
+    </NP_MANAGER3>
+    <NP_MANAGER3 name="NP_MANAGER_res_0x7f0300e6">
+        <item>64</item>
+    </NP_MANAGER3>
+    <NP_MANAGER3 name="NP_MANAGER_res_0x7f0300e7">
+        <item>64</item>
+    </NP_MANAGER3>
+    <NP_MANAGER3 name="NP_MANAGER_res_0x7f0300e8">
+        <item>64</item>
+    </NP_MANAGER3>
+    <NP_MANAGER3 name="NP_MANAGER_res_0x7f0300e9">
+        <item>16</item>
+    </NP_MANAGER3>
+    <NP_MANAGER3 name="NP_MANAGER_res_0x7f0300ea">
+        <item>8</item>
+    </NP_MANAGER3>
+    <NP_MANAGER3 name="NP_MANAGER_res_0x7f0300eb">
+        <item>1</item>
+    </NP_MANAGER3>
+    <NP_MANAGER3 name="NP_MANAGER_res_0x7f0300ec">
+        <item>2</item>
+    </NP_MANAGER3>
+    <NP_MANAGER3 name="NP_MANAGER_res_0x7f0300ed">
+        <item>1</item>
+    </NP_MANAGER3>
+    <NP_MANAGER3 name="NP_MANAGER_res_0x7f0300ee">
+        <item>64</item>
+    </NP_MANAGER3>
+    <NP_MANAGER3 name="NP_MANAGER_res_0x7f0300ef">
+        <item>64</item>
+    </NP_MANAGER3>
+    <NP_MANAGER3 name="NP_MANAGER_res_0x7f0300f0">
+        <item>1</item>
+    </NP_MANAGER3>
+    <NP_MANAGER3 name="NP_MANAGER_res_0x7f0300f1">
+        <item>17</item>
+    </NP_MANAGER3>
+    <NP_MANAGER3 name="NP_MANAGER_res_0x7f0300f2">
+        <item>131072</item>
+        <item>0x30</item>
+        <item>0x50</item>
+        <item>0x3</item>
+        <item>0x5</item>
+        <item>0x10</item>
+        <item>0x70</item>
+        <item>0x1</item>
+        <item>0x11</item>
+        <item>0x800003</item>
+        <item>0x800005</item>
+    </NP_MANAGER3>
+    <NP_MANAGER3 name="NP_MANAGER_res_0x7f0300f3">
+        <item>65536</item>
+        <item>0</item>
+        <item>1</item>
+    </NP_MANAGER3>
+    <NP_MANAGER3 name="NP_MANAGER_res_0x7f0300f4">
+        <item>1</item>
+    </NP_MANAGER3>
+    <NP_MANAGER3 name="NP_MANAGER_res_0x7f0300f5">
+        <item>17</item>
+    </NP_MANAGER3>
+    <NP_MANAGER3 name="NP_MANAGER_res_0x7f0300f6">
+        <item>1</item>
+    </NP_MANAGER3>
+    <NP_MANAGER3 name="NP_MANAGER_res_0x7f0300f7">
+        <item>1</item>
+    </NP_MANAGER3>
+    <NP_MANAGER3 name="NP_MANAGER_res_0x7f0300f8">
+        <item>1</item>
+    </NP_MANAGER3>
+    <NP_MANAGER3 name="NP_MANAGER_res_0x7f0300f9">
+        <item>1</item>
+    </NP_MANAGER3>
+    <NP_MANAGER3 name="NP_MANAGER_res_0x7f0300fa">
+        <item>1</item>
+    </NP_MANAGER3>
+    <NP_MANAGER3 name="NP_MANAGER_res_0x7f0300fb">
+        <item>16</item>
+    </NP_MANAGER3>
+    <NP_MANAGER3 name="NP_MANAGER_res_0x7f0300fc">
+        <item>16</item>
+    </NP_MANAGER3>
+    <NP_MANAGER3 name="NP_MANAGER_res_0x7f0300fd">
+        <item>16</item>
+    </NP_MANAGER3>
+    <NP_MANAGER3 name="NP_MANAGER_res_0x7f0300fe">
+        <item>16</item>
+    </NP_MANAGER3>
+    <NP_MANAGER3 name="NP_MANAGER_res_0x7f0300ff">
+        <item>16</item>
+    </NP_MANAGER3>
+    <NP_MANAGER3 name="NP_MANAGER_res_0x7f030100">
+        <item>16</item>
+    </NP_MANAGER3>
+    <NP_MANAGER3 name="NP_MANAGER_res_0x7f030101">
+        <item>16</item>
+    </NP_MANAGER3>
+    <NP_MANAGER3 name="NP_MANAGER_res_0x7f030102">
+        <item>16</item>
+    </NP_MANAGER3>
+    <NP_MANAGER3 name="NP_MANAGER_res_0x7f030103">
+        <item>16</item>
+    </NP_MANAGER3>
+    <NP_MANAGER3 name="NP_MANAGER_res_0x7f030104">
+        <item>16</item>
+    </NP_MANAGER3>
+    <NP_MANAGER3 name="NP_MANAGER_res_0x7f030105">
+        <item>17</item>
+    </NP_MANAGER3>
+    <NP_MANAGER3 name="NP_MANAGER_res_0x7f030106">
+        <item>16</item>
+    </NP_MANAGER3>
+    <NP_MANAGER3 name="NP_MANAGER_res_0x7f030107">
+        <item>65535</item>
+    </NP_MANAGER3>
+    <NP_MANAGER3 name="NP_MANAGER_res_0x7f030108">
+        <item>16</item>
+    </NP_MANAGER3>
+    <NP_MANAGER3 name="NP_MANAGER_res_0x7f030109">
+        <item>16</item>
+    </NP_MANAGER3>
+    <NP_MANAGER3 name="NP_MANAGER_res_0x7f03010a">
+        <item>16</item>
+    </NP_MANAGER3>
+    <NP_MANAGER3 name="NP_MANAGER_res_0x7f03010b">
+        <item>16</item>
+    </NP_MANAGER3>
+    <NP_MANAGER3 name="NP_MANAGER_res_0x7f03010c">
+        <item>16</item>
+    </NP_MANAGER3>
+    <NP_MANAGER3 name="NP_MANAGER_res_0x7f03010d">
+        <item>16</item>
+    </NP_MANAGER3>
+    <NP_MANAGER3 name="NP_MANAGER_res_0x7f03010e">
+        <item>16</item>
+    </NP_MANAGER3>
+    <NP_MANAGER3 name="NP_MANAGER_res_0x7f03010f">
+        <item>16</item>
+    </NP_MANAGER3>
+    <NP_MANAGER3 name="NP_MANAGER_res_0x7f030110">
+        <item>16</item>
+    </NP_MANAGER3>
+    <NP_MANAGER3 name="NP_MANAGER_res_0x7f030111">
+        <item>16</item>
+    </NP_MANAGER3>
+    <NP_MANAGER3 name="NP_MANAGER_res_0x7f030112">
+        <item>16</item>
+    </NP_MANAGER3>
+    <NP_MANAGER3 name="NP_MANAGER_res_0x7f030113">
+        <item>16</item>
+    </NP_MANAGER3>
+    <NP_MANAGER3 name="NP_MANAGER_res_0x7f030114">
+        <item>16</item>
+    </NP_MANAGER3>
+    <NP_MANAGER3 name="NP_MANAGER_res_0x7f030115">
+        <item>16</item>
+    </NP_MANAGER3>
+    <NP_MANAGER3 name="NP_MANAGER_res_0x7f030116">
+        <item>16</item>
+    </NP_MANAGER3>
+    <NP_MANAGER3 name="NP_MANAGER_res_0x7f030117">
+        <item>16</item>
+    </NP_MANAGER3>
+    <NP_MANAGER3 name="NP_MANAGER_res_0x7f030118">
+        <item>16</item>
+    </NP_MANAGER3>
+    <NP_MANAGER3 name="NP_MANAGER_res_0x7f030119">
+        <item>16</item>
+    </NP_MANAGER3>
+    <NP_MANAGER3 name="NP_MANAGER_res_0x7f03011a">
+        <item>16</item>
+    </NP_MANAGER3>
+    <NP_MANAGER3 name="NP_MANAGER_res_0x7f03011b">
+        <item>16</item>
+    </NP_MANAGER3>
+    <NP_MANAGER3 name="NP_MANAGER_res_0x7f03011c">
+        <item>16</item>
+    </NP_MANAGER3>
+    <NP_MANAGER3 name="NP_MANAGER_res_0x7f03011d">
+        <item>16</item>
+    </NP_MANAGER3>
+    <NP_MANAGER3 name="NP_MANAGER_res_0x7f03011e">
+        <item>16</item>
+    </NP_MANAGER3>
+    <NP_MANAGER3 name="NP_MANAGER_res_0x7f03011f">
+        <item>16</item>
+    </NP_MANAGER3>
+    <NP_MANAGER3 name="NP_MANAGER_res_0x7f030120">
+        <item>16</item>
+    </NP_MANAGER3>
+    <NP_MANAGER3 name="NP_MANAGER_res_0x7f030121">
+        <item>16</item>
+    </NP_MANAGER3>
+    <NP_MANAGER3 name="NP_MANAGER_res_0x7f030122">
+        <item>16</item>
+    </NP_MANAGER3>
+    <NP_MANAGER3 name="NP_MANAGER_res_0x7f030123">
+        <item>16</item>
+    </NP_MANAGER3>
+    <NP_MANAGER3 name="NP_MANAGER_res_0x7f030124">
+        <item>16</item>
+    </NP_MANAGER3>
+    <NP_MANAGER3 name="NP_MANAGER_res_0x7f030125">
+        <item>16</item>
+    </NP_MANAGER3>
+    <NP_MANAGER3 name="NP_MANAGER_res_0x7f030126">
+        <item>16</item>
+    </NP_MANAGER3>
+    <NP_MANAGER3 name="NP_MANAGER_res_0x7f030127">
+        <item>16</item>
+    </NP_MANAGER3>
+    <NP_MANAGER3 name="NP_MANAGER_res_0x7f030128">
+        <item>16</item>
+    </NP_MANAGER3>
+    <NP_MANAGER3 name="NP_MANAGER_res_0x7f030129">
+        <item>16</item>
+    </NP_MANAGER3>
+    <NP_MANAGER3 name="NP_MANAGER_res_0x7f03012a">
+        <item>16</item>
+    </NP_MANAGER3>
+    <NP_MANAGER3 name="NP_MANAGER_res_0x7f03012b">
+        <item>16</item>
+    </NP_MANAGER3>
+    <NP_MANAGER3 name="NP_MANAGER_res_0x7f03012c">
+        <item>16</item>
+    </NP_MANAGER3>
+    <NP_MANAGER3 name="NP_MANAGER_res_0x7f03012d">
+        <item>16</item>
+    </NP_MANAGER3>
+    <NP_MANAGER3 name="NP_MANAGER_res_0x7f03012e">
+        <item>16</item>
+    </NP_MANAGER3>
+    <NP_MANAGER3 name="NP_MANAGER_res_0x7f03012f">
+        <item>16</item>
+    </NP_MANAGER3>
+    <NP_MANAGER3 name="NP_MANAGER_res_0x7f030130">
+        <item>16</item>
+    </NP_MANAGER3>
+    <NP_MANAGER3 name="NP_MANAGER_res_0x7f030131">
+        <item>16</item>
+    </NP_MANAGER3>
+    <NP_MANAGER3 name="NP_MANAGER_res_0x7f030132">
+        <item>16</item>
+    </NP_MANAGER3>
+    <NP_MANAGER3 name="NP_MANAGER_res_0x7f030133">
+        <item>16</item>
+    </NP_MANAGER3>
+    <NP_MANAGER3 name="NP_MANAGER_res_0x7f030134">
+        <item>16</item>
+    </NP_MANAGER3>
+    <NP_MANAGER3 name="NP_MANAGER_res_0x7f030135">
+        <item>16</item>
+    </NP_MANAGER3>
+    <NP_MANAGER3 name="NP_MANAGER_res_0x7f030136">
+        <item>16</item>
+    </NP_MANAGER3>
+    <NP_MANAGER3 name="NP_MANAGER_res_0x7f030137">
+        <item>16</item>
+    </NP_MANAGER3>
+    <NP_MANAGER3 name="NP_MANAGER_res_0x7f030138">
+        <item>16</item>
+    </NP_MANAGER3>
+    <NP_MANAGER3 name="NP_MANAGER_res_0x7f030139">
+        <item>16</item>
+    </NP_MANAGER3>
+    <NP_MANAGER3 name="NP_MANAGER_res_0x7f03013a">
+        <item>16</item>
+    </NP_MANAGER3>
+    <NP_MANAGER3 name="NP_MANAGER_res_0x7f03013b">
+        <item>1</item>
+    </NP_MANAGER3>
+    <NP_MANAGER3 name="NP_MANAGER_res_0x7f03013c">
+        <item>8</item>
+    </NP_MANAGER3>
+    <NP_MANAGER3 name="NP_MANAGER_res_0x7f03013d">
+        <item>1</item>
+    </NP_MANAGER3>
+    <NP_MANAGER3 name="NP_MANAGER_res_0x7f03013e">
+        <item>1</item>
+    </NP_MANAGER3>
+    <NP_MANAGER3 name="NP_MANAGER_res_0x7f03013f">
+        <item>1</item>
+    </NP_MANAGER3>
+    <NP_MANAGER3 name="NP_MANAGER_res_0x7f030140">
+        <item>2</item>
+    </NP_MANAGER3>
+    <NP_MANAGER3 name="NP_MANAGER_res_0x7f030141">
+        <item>2</item>
+    </NP_MANAGER3>
+    <NP_MANAGER3 name="NP_MANAGER_res_0x7f030142">
+        <item>1</item>
+    </NP_MANAGER3>
+    <NP_MANAGER3 name="NP_MANAGER_res_0x7f030143">
+        <item>16</item>
+    </NP_MANAGER3>
+    <NP_MANAGER3 name="NP_MANAGER_res_0x7f030144">
+        <item>64</item>
+    </NP_MANAGER3>
+    <NP_MANAGER3 name="NP_MANAGER_res_0x7f030145">
+        <item>64</item>
+    </NP_MANAGER3>
+    <NP_MANAGER3 name="NP_MANAGER_res_0x7f030146">
+        <item>64</item>
+    </NP_MANAGER3>
+    <NP_MANAGER3 name="NP_MANAGER_res_0x7f030147">
+        <item>64</item>
+    </NP_MANAGER3>
+    <NP_MANAGER3 name="NP_MANAGER_res_0x7f030148">
+        <item>64</item>
+    </NP_MANAGER3>
+    <NP_MANAGER3 name="NP_MANAGER_res_0x7f030149">
+        <item>64</item>
+    </NP_MANAGER3>
+    <NP_MANAGER3 name="NP_MANAGER_res_0x7f03014a">
+        <item>64</item>
+    </NP_MANAGER3>
+    <NP_MANAGER3 name="NP_MANAGER_res_0x7f03014b">
+        <item>64</item>
+    </NP_MANAGER3>
+    <NP_MANAGER3 name="NP_MANAGER_res_0x7f03014c">
+        <item>64</item>
+    </NP_MANAGER3>
+    <NP_MANAGER3 name="NP_MANAGER_res_0x7f03014d">
+        <item>64</item>
+    </NP_MANAGER3>
+    <NP_MANAGER3 name="NP_MANAGER_res_0x7f03014e">
+        <item>64</item>
+    </NP_MANAGER3>
+    <NP_MANAGER3 name="NP_MANAGER_res_0x7f03014f">
+        <item>1</item>
+    </NP_MANAGER3>
+    <NP_MANAGER3 name="NP_MANAGER_res_0x7f030150">
+        <item>1</item>
+    </NP_MANAGER3>
+    <NP_MANAGER3 name="NP_MANAGER_res_0x7f030151">
+        <item>1</item>
+    </NP_MANAGER3>
+    <NP_MANAGER3 name="NP_MANAGER_res_0x7f030152">
+        <item>64</item>
+    </NP_MANAGER3>
+    <NP_MANAGER3 name="NP_MANAGER_res_0x7f030153">
+        <item>64</item>
+    </NP_MANAGER3>
+    <NP_MANAGER3 name="NP_MANAGER_res_0x7f030154">
+        <item>1</item>
+    </NP_MANAGER3>
+    <NP_MANAGER3 name="NP_MANAGER_res_0x7f030155">
+        <item>2</item>
+    </NP_MANAGER3>
+    <NP_MANAGER3 name="NP_MANAGER_res_0x7f030156">
+        <item>64</item>
+    </NP_MANAGER3>
+    <NP_MANAGER3 name="NP_MANAGER_res_0x7f030157">
+        <item>64</item>
+    </NP_MANAGER3>
+    <NP_MANAGER3 name="NP_MANAGER_res_0x7f030158">
+        <item>64</item>
+    </NP_MANAGER3>
+    <NP_MANAGER3 name="NP_MANAGER_res_0x7f030159">
+        <item>64</item>
+    </NP_MANAGER3>
+    <NP_MANAGER3 name="NP_MANAGER_res_0x7f03015a">
+        <item>64</item>
+    </NP_MANAGER3>
+    <NP_MANAGER3 name="NP_MANAGER_res_0x7f03015b">
+        <item>64</item>
+    </NP_MANAGER3>
+    <NP_MANAGER3 name="NP_MANAGER_res_0x7f03015c">
+        <item>64</item>
+    </NP_MANAGER3>
+    <NP_MANAGER3 name="NP_MANAGER_res_0x7f03015d">
+        <item>64</item>
+    </NP_MANAGER3>
+    <NP_MANAGER3 name="NP_MANAGER_res_0x7f03015e">
+        <item>64</item>
+    </NP_MANAGER3>
+    <NP_MANAGER3 name="NP_MANAGER_res_0x7f03015f">
+        <item>64</item>
+    </NP_MANAGER3>
+    <NP_MANAGER3 name="NP_MANAGER_res_0x7f030160">
+        <item>64</item>
+    </NP_MANAGER3>
+    <NP_MANAGER3 name="NP_MANAGER_res_0x7f030161">
+        <item>64</item>
+    </NP_MANAGER3>
+    <NP_MANAGER3 name="NP_MANAGER_res_0x7f030162">
+        <item>64</item>
+    </NP_MANAGER3>
+    <NP_MANAGER3 name="NP_MANAGER_res_0x7f030163">
+        <item>64</item>
+    </NP_MANAGER3>
+    <NP_MANAGER3 name="NP_MANAGER_res_0x7f030164">
+        <item>16</item>
+    </NP_MANAGER3>
+    <NP_MANAGER3 name="NP_MANAGER_res_0x7f030165">
+        <item>32</item>
+    </NP_MANAGER3>
+    <NP_MANAGER3 name="NP_MANAGER_res_0x7f030166">
+        <item>1</item>
+    </NP_MANAGER3>
+    <NP_MANAGER3 name="NP_MANAGER_res_0x7f030167">
+        <item>1</item>
+    </NP_MANAGER3>
+    <NP_MANAGER3 name="NP_MANAGER_res_0x7f030168">
+        <item>1</item>
+    </NP_MANAGER3>
+    <NP_MANAGER3 name="NP_MANAGER_res_0x7f030169">
+        <item>65536</item>
+        <item>0</item>
+        <item>1</item>
+    </NP_MANAGER3>
+    <NP_MANAGER3 name="NP_MANAGER_res_0x7f03016a">
+        <item>65536</item>
+        <item>0</item>
+        <item>1</item>
+    </NP_MANAGER3>
+    <NP_MANAGER3 name="NP_MANAGER_res_0x7f03016b">
+        <item>65536</item>
+        <item>0</item>
+        <item>1</item>
+    </NP_MANAGER3>
+    <NP_MANAGER3 name="NP_MANAGER_res_0x7f03016c">
+        <item>65536</item>
+        <item>0</item>
+        <item>1</item>
+    </NP_MANAGER3>
+    <NP_MANAGER3 name="NP_MANAGER_res_0x7f03016d">
+        <item>65536</item>
+        <item>0</item>
+        <item>1</item>
+    </NP_MANAGER3>
+    <NP_MANAGER3 name="NP_MANAGER_res_0x7f03016e">
+        <item>64</item>
+    </NP_MANAGER3>
+    <NP_MANAGER3 name="NP_MANAGER_res_0x7f03016f">
+        <item>192</item>
+    </NP_MANAGER3>
+    <NP_MANAGER3 name="NP_MANAGER_res_0x7f030170">
+        <item>192</item>
+    </NP_MANAGER3>
+    <NP_MANAGER3 name="NP_MANAGER_res_0x7f030171">
+        <item>192</item>
+    </NP_MANAGER3>
+    <NP_MANAGER3 name="NP_MANAGER_res_0x7f030172">
+        <item>192</item>
+    </NP_MANAGER3>
+    <NP_MANAGER3 name="NP_MANAGER_res_0x7f030173">
+        <item>192</item>
+    </NP_MANAGER3>
+    <NP_MANAGER3 name="NP_MANAGER_res_0x7f030174">
+        <item>8</item>
+    </NP_MANAGER3>
+    <NP_MANAGER3 name="NP_MANAGER_res_0x7f030175">
+        <item>4</item>
+    </NP_MANAGER3>
+    <NP_MANAGER3 name="NP_MANAGER_res_0x7f030176">
+        <item>1</item>
+    </NP_MANAGER3>
+    <NP_MANAGER3 name="NP_MANAGER_res_0x7f030177">
+        <item>1</item>
+    </NP_MANAGER3>
+    <NP_MANAGER3 name="NP_MANAGER_res_0x7f030178">
+        <item>1</item>
+    </NP_MANAGER3>
+    <NP_MANAGER3 name="NP_MANAGER_res_0x7f030179">
+        <item>1</item>
+    </NP_MANAGER3>
+    <NP_MANAGER3 name="NP_MANAGER_res_0x7f03017a">
+        <item>32</item>
+    </NP_MANAGER3>
+    <NP_MANAGER3 name="NP_MANAGER_res_0x7f03017b">
+        <item>1</item>
+    </NP_MANAGER3>
+    <NP_MANAGER3 name="NP_MANAGER_res_0x7f03017c">
+        <item>16</item>
+    </NP_MANAGER3>
+    <NP_MANAGER3 name="NP_MANAGER_res_0x7f03017d">
+        <item>16</item>
+    </NP_MANAGER3>
+    <NP_MANAGER3 name="NP_MANAGER_res_0x7f03017e">
+        <item>65536</item>
+        <item>0</item>
+        <item>1</item>
+    </NP_MANAGER3>
+    <NP_MANAGER3 name="NP_MANAGER_res_0x7f03017f">
+        <item>8</item>
+    </NP_MANAGER3>
+    <NP_MANAGER3 name="NP_MANAGER_res_0x7f030180">
+        <item>16</item>
+    </NP_MANAGER3>
+    <NP_MANAGER3 name="NP_MANAGER_res_0x7f030181">
+        <item>16</item>
+    </NP_MANAGER3>
+    <NP_MANAGER3 name="NP_MANAGER_res_0x7f030182">
+        <item>64</item>
+    </NP_MANAGER3>
+    <NP_MANAGER3 name="NP_MANAGER_res_0x7f030183">
+        <item>32</item>
+    </NP_MANAGER3>
+    <NP_MANAGER3 name="NP_MANAGER_res_0x7f030184">
+        <item>4</item>
+    </NP_MANAGER3>
+    <NP_MANAGER3 name="NP_MANAGER_res_0x7f030185">
+        <item>1</item>
+    </NP_MANAGER3>
+    <NP_MANAGER3 name="NP_MANAGER_res_0x7f030186">
+        <item>64</item>
+    </NP_MANAGER3>
+    <NP_MANAGER3 name="NP_MANAGER_res_0x7f030187">
+        <item>1</item>
+    </NP_MANAGER3>
+    <NP_MANAGER3 name="NP_MANAGER_res_0x7f030188">
+        <item>2</item>
+    </NP_MANAGER3>
+    <NP_MANAGER3 name="NP_MANAGER_res_0x7f030189">
+        <item>32</item>
+    </NP_MANAGER3>
+    <NP_MANAGER3 name="NP_MANAGER_res_0x7f03018a">
+        <item>1</item>
+    </NP_MANAGER3>
+    <NP_MANAGER3 name="NP_MANAGER_res_0x7f03018b">
+        <item>1</item>
+    </NP_MANAGER3>
+    <NP_MANAGER3 name="NP_MANAGER_res_0x7f03018c">
+        <item>1</item>
+    </NP_MANAGER3>
+    <NP_MANAGER3 name="NP_MANAGER_res_0x7f03018d">
+        <item>1</item>
+    </NP_MANAGER3>
+    <NP_MANAGER3 name="NP_MANAGER_res_0x7f03018e">
+        <item>4</item>
+    </NP_MANAGER3>
+    <NP_MANAGER3 name="NP_MANAGER_res_0x7f03018f">
+        <item>8</item>
+    </NP_MANAGER3>
+    <NP_MANAGER3 name="NP_MANAGER_res_0x7f030190">
+        <item>2</item>
+    </NP_MANAGER3>
+    <NP_MANAGER3 name="NP_MANAGER_res_0x7f030191">
+        <item>8</item>
+    </NP_MANAGER3>
+    <NP_MANAGER3 name="NP_MANAGER_res_0x7f030192">
+        <item>1</item>
+    </NP_MANAGER3>
+    <NP_MANAGER3 name="NP_MANAGER_res_0x7f030193">
+        <item>32</item>
+    </NP_MANAGER3>
+    <NP_MANAGER3 name="NP_MANAGER_res_0x7f030194">
+        <item>32</item>
+    </NP_MANAGER3>
+    <NP_MANAGER3 name="NP_MANAGER_res_0x7f030195">
+        <item>1</item>
+    </NP_MANAGER3>
+    <NP_MANAGER3 name="NP_MANAGER_res_0x7f030196">
+        <item>64</item>
+    </NP_MANAGER3>
+    <NP_MANAGER3 name="NP_MANAGER_res_0x7f030197">
+        <item>64</item>
+    </NP_MANAGER3>
+    <NP_MANAGER3 name="NP_MANAGER_res_0x7f030198">
+        <item>1</item>
+    </NP_MANAGER3>
+    <NP_MANAGER3 name="NP_MANAGER_res_0x7f030199">
+        <item>131072</item>
+        <item>0</item>
+        <item>0x1</item>
+        <item>0x2</item>
+        <item>0x4</item>
+        <item>0x8</item>
+        <item>0x10</item>
+        <item>0x20</item>
+    </NP_MANAGER3>
+    <NP_MANAGER3 name="NP_MANAGER_res_0x7f03019a">
+        <item>1</item>
+    </NP_MANAGER3>
+    <NP_MANAGER3 name="NP_MANAGER_res_0x7f03019b">
+        <item>17</item>
+    </NP_MANAGER3>
+    <NP_MANAGER3 name="NP_MANAGER_res_0x7f03019c">
+        <item>1</item>
+    </NP_MANAGER3>
+    <NP_MANAGER3 name="NP_MANAGER_res_0x7f03019d">
+        <item>64</item>
+    </NP_MANAGER3>
+    <NP_MANAGER3 name="NP_MANAGER_res_0x7f03019e">
+        <item>64</item>
+    </NP_MANAGER3>
+    <NP_MANAGER3 name="NP_MANAGER_res_0x7f03019f">
+        <item>64</item>
+    </NP_MANAGER3>
+    <NP_MANAGER3 name="NP_MANAGER_res_0x7f0301a0">
+        <item>64</item>
+    </NP_MANAGER3>
+    <NP_MANAGER3 name="NP_MANAGER_res_0x7f0301a1">
+        <item>1</item>
+    </NP_MANAGER3>
+    <NP_MANAGER3 name="NP_MANAGER_res_0x7f0301a2">
+        <item>1</item>
+    </NP_MANAGER3>
+    <NP_MANAGER3 name="NP_MANAGER_res_0x7f0301a3">
+        <item>1</item>
+    </NP_MANAGER3>
+    <NP_MANAGER3 name="NP_MANAGER_res_0x7f0301a4">
+        <item>65536</item>
+        <item>0</item>
+        <item>1</item>
+        <item>2</item>
+        <item>3</item>
+        <item>4</item>
+        <item>5</item>
+        <item>6</item>
+        <item>7</item>
+    </NP_MANAGER3>
+    <NP_MANAGER3 name="NP_MANAGER_res_0x7f0301a5">
+        <item>32</item>
+    </NP_MANAGER3>
+    <NP_MANAGER3 name="NP_MANAGER_res_0x7f0301a6">
+        <item>32</item>
+    </NP_MANAGER3>
+    <NP_MANAGER3 name="NP_MANAGER_res_0x7f0301a7">
+        <item>65536</item>
+        <item>0</item>
+        <item>1</item>
+        <item>2</item>
+        <item>3</item>
+        <item>4</item>
+        <item>5</item>
+    </NP_MANAGER3>
+    <NP_MANAGER3 name="NP_MANAGER_res_0x7f0301a8">
+        <item>1</item>
+    </NP_MANAGER3>
+    <NP_MANAGER3 name="NP_MANAGER_res_0x7f0301a9">
+        <item>1</item>
+    </NP_MANAGER3>
+    <NP_MANAGER3 name="NP_MANAGER_res_0x7f0301aa">
+        <item>1</item>
+    </NP_MANAGER3>
+    <NP_MANAGER3 name="NP_MANAGER_res_0x7f0301ab">
+        <item>1</item>
+    </NP_MANAGER3>
+    <NP_MANAGER3 name="NP_MANAGER_res_0x7f0301ac">
+        <item>64</item>
+    </NP_MANAGER3>
+    <NP_MANAGER3 name="NP_MANAGER_res_0x7f0301ad">
+        <item>1</item>
+    </NP_MANAGER3>
+    <NP_MANAGER3 name="NP_MANAGER_res_0x7f0301ae">
+        <item>16</item>
+    </NP_MANAGER3>
+    <NP_MANAGER3 name="NP_MANAGER_res_0x7f0301af">
+        <item>65536</item>
+        <item>3</item>
+        <item>5</item>
+        <item>9</item>
+        <item>14</item>
+        <item>15</item>
+        <item>16</item>
+    </NP_MANAGER3>
+    <NP_MANAGER3 name="NP_MANAGER_res_0x7f0301b0">
+        <item>1</item>
+    </NP_MANAGER3>
+    <NP_MANAGER3 name="NP_MANAGER_res_0x7f0301b1">
+        <item>1</item>
+    </NP_MANAGER3>
+    <NP_MANAGER3 name="NP_MANAGER_res_0x7f0301b2">
+        <item>64</item>
+    </NP_MANAGER3>
+    <NP_MANAGER3 name="NP_MANAGER_res_0x7f0301b3">
+        <item>1</item>
+    </NP_MANAGER3>
+    <NP_MANAGER3 name="NP_MANAGER_res_0x7f0301b4">
+        <item>16</item>
+    </NP_MANAGER3>
+    <NP_MANAGER3 name="NP_MANAGER_res_0x7f0301b5">
+        <item>1</item>
+    </NP_MANAGER3>
+    <NP_MANAGER3 name="NP_MANAGER_res_0x7f0301b6">
+        <item>64</item>
+    </NP_MANAGER3>
+    <NP_MANAGER3 name="NP_MANAGER_res_0x7f0301b7">
+        <item>4</item>
+    </NP_MANAGER3>
+    <NP_MANAGER3 name="NP_MANAGER_res_0x7f0301b8">
+        <item>1</item>
+    </NP_MANAGER3>
+    <NP_MANAGER3 name="NP_MANAGER_res_0x7f0301b9">
+        <item>1</item>
+    </NP_MANAGER3>
+    <NP_MANAGER3 name="NP_MANAGER_res_0x7f0301ba">
+        <item>17</item>
+    </NP_MANAGER3>
+    <NP_MANAGER3 name="NP_MANAGER_res_0x7f0301bb">
+        <item>1</item>
+    </NP_MANAGER3>
+    <NP_MANAGER3 name="NP_MANAGER_res_0x7f0301bc">
+        <item>64</item>
+    </NP_MANAGER3>
+    <NP_MANAGER3 name="NP_MANAGER_res_0x7f0301bd">
+        <item>16</item>
+    </NP_MANAGER3>
+    <NP_MANAGER3 name="NP_MANAGER_res_0x7f0301be">
+        <item>16</item>
+    </NP_MANAGER3>
+    <NP_MANAGER3 name="NP_MANAGER_res_0x7f0301bf">
+        <item>8</item>
+    </NP_MANAGER3>
+    <NP_MANAGER3 name="NP_MANAGER_res_0x7f0301c0">
+        <item>8</item>
+    </NP_MANAGER3>
+    <NP_MANAGER3 name="NP_MANAGER_res_0x7f0301c1">
+        <item>8</item>
+    </NP_MANAGER3>
+    <NP_MANAGER3 name="NP_MANAGER_res_0x7f0301c2">
+        <item>8</item>
+    </NP_MANAGER3>
+    <NP_MANAGER3 name="NP_MANAGER_res_0x7f0301c3">
+        <item>2</item>
+    </NP_MANAGER3>
+    <NP_MANAGER3 name="NP_MANAGER_res_0x7f0301c4">
+        <item>1</item>
+    </NP_MANAGER3>
+    <NP_MANAGER3 name="NP_MANAGER_res_0x7f0301c5">
+        <item>64</item>
+    </NP_MANAGER3>
+    <NP_MANAGER3 name="NP_MANAGER_res_0x7f0301c6">
+        <item>65536</item>
+        <item>-1</item>
+        <item>0</item>
+        <item>1</item>
+        <item>2</item>
+        <item>3</item>
+    </NP_MANAGER3>
+    <NP_MANAGER3 name="NP_MANAGER_res_0x7f0301c7">
+        <item>65536</item>
+        <item>0</item>
+        <item>1</item>
+        <item>2</item>
+        <item>3</item>
+        <item>4</item>
+        <item>5</item>
+        <item>6</item>
+    </NP_MANAGER3>
+    <NP_MANAGER3 name="NP_MANAGER_res_0x7f0301c8">
+        <item>16</item>
+    </NP_MANAGER3>
+    <NP_MANAGER3 name="NP_MANAGER_res_0x7f0301c9">
+        <item>65536</item>
+        <item>3</item>
+        <item>5</item>
+        <item>9</item>
+        <item>14</item>
+        <item>15</item>
+    </NP_MANAGER3>
+    <NP_MANAGER3 name="NP_MANAGER_res_0x7f0301ca">
+        <item>8</item>
+    </NP_MANAGER3>
+    <NP_MANAGER3 name="NP_MANAGER_res_0x7f0301cb">
+        <item>8</item>
+    </NP_MANAGER3>
+    <NP_MANAGER3 name="NP_MANAGER_res_0x7f0301cc">
+        <item>8</item>
+    </NP_MANAGER3>
+    <NP_MANAGER3 name="NP_MANAGER_res_0x7f0301cd">
+        <item>8</item>
+    </NP_MANAGER3>
+    <NP_MANAGER3 name="NP_MANAGER_res_0x7f0301ce">
+        <item>2</item>
+    </NP_MANAGER3>
+    <NP_MANAGER3 name="NP_MANAGER_res_0x7f0301cf">
+        <item>4</item>
+    </NP_MANAGER3>
+    <NP_MANAGER3 name="NP_MANAGER_res_0x7f0301d0">
+        <item>2</item>
+    </NP_MANAGER3>
+    <NP_MANAGER3 name="NP_MANAGER_res_0x7f0301d1">
+        <item>8</item>
+    </NP_MANAGER3>
+    <NP_MANAGER3 name="NP_MANAGER_res_0x7f0301d2">
+        <item>1</item>
+    </NP_MANAGER3>
+    <NP_MANAGER3 name="NP_MANAGER_res_0x7f0301d3">
+        <item>1</item>
+    </NP_MANAGER3>
+    <NP_MANAGER3 name="NP_MANAGER_res_0x7f0301d4">
+        <item>65536</item>
+        <item>3</item>
+        <item>5</item>
+        <item>9</item>
+        <item>14</item>
+        <item>15</item>
+    </NP_MANAGER3>
+    <NP_MANAGER3 name="NP_MANAGER_res_0x7f0301d5">
+        <item>8</item>
+    </NP_MANAGER3>
+    <NP_MANAGER3 name="NP_MANAGER_res_0x7f0301d6">
+        <item>1</item>
+    </NP_MANAGER3>
+    <NP_MANAGER3 name="NP_MANAGER_res_0x7f0301d7">
+        <item>16</item>
+    </NP_MANAGER3>
+    <NP_MANAGER3 name="NP_MANAGER_res_0x7f0301d8">
+        <item>1</item>
+    </NP_MANAGER3>
+    <NP_MANAGER3 name="NP_MANAGER_res_0x7f0301d9">
+        <item>8</item>
+    </NP_MANAGER3>
+    <NP_MANAGER3 name="NP_MANAGER_res_0x7f0301da">
+        <item>64</item>
+    </NP_MANAGER3>
+    <NP_MANAGER3 name="NP_MANAGER_res_0x7f0301db">
+        <item>64</item>
+    </NP_MANAGER3>
+    <NP_MANAGER3 name="NP_MANAGER_res_0x7f0301dc">
+        <item>64</item>
+    </NP_MANAGER3>
+    <NP_MANAGER3 name="NP_MANAGER_res_0x7f0301dd">
+        <item>64</item>
+    </NP_MANAGER3>
+    <NP_MANAGER3 name="NP_MANAGER_res_0x7f0301de">
+        <item>64</item>
+    </NP_MANAGER3>
+    <NP_MANAGER3 name="NP_MANAGER_res_0x7f0301df">
+        <item>8</item>
+    </NP_MANAGER3>
+    <NP_MANAGER3 name="NP_MANAGER_res_0x7f0301e0">
+        <item>64</item>
+    </NP_MANAGER3>
+    <NP_MANAGER3 name="NP_MANAGER_res_0x7f0301e1">
+        <item>64</item>
+    </NP_MANAGER3>
+    <NP_MANAGER3 name="NP_MANAGER_res_0x7f0301e2">
+        <item>64</item>
+    </NP_MANAGER3>
+    <NP_MANAGER3 name="NP_MANAGER_res_0x7f0301e3">
+        <item>64</item>
+    </NP_MANAGER3>
+    <NP_MANAGER3 name="NP_MANAGER_res_0x7f0301e4">
+        <item>1</item>
+    </NP_MANAGER3>
+    <NP_MANAGER3 name="NP_MANAGER_res_0x7f0301e5">
+        <item>17</item>
+    </NP_MANAGER3>
+    <NP_MANAGER3 name="NP_MANAGER_res_0x7f0301e6">
+        <item>131072</item>
+        <item>0x30</item>
+        <item>0x50</item>
+        <item>0x3</item>
+        <item>0x5</item>
+        <item>0x10</item>
+        <item>0x70</item>
+        <item>0x1</item>
+        <item>0x11</item>
+        <item>0x800003</item>
+        <item>0x800005</item>
+    </NP_MANAGER3>
+    <NP_MANAGER3 name="NP_MANAGER_res_0x7f0301e7">
+        <item>64</item>
+    </NP_MANAGER3>
+    <NP_MANAGER3 name="NP_MANAGER_res_0x7f0301e8">
+        <item>64</item>
+    </NP_MANAGER3>
+    <NP_MANAGER3 name="NP_MANAGER_res_0x7f0301e9">
+        <item>64</item>
+    </NP_MANAGER3>
+    <NP_MANAGER3 name="NP_MANAGER_res_0x7f0301ea">
+        <item>64</item>
+    </NP_MANAGER3>
+    <NP_MANAGER3 name="NP_MANAGER_res_0x7f0301eb">
+        <item>64</item>
+    </NP_MANAGER3>
+    <NP_MANAGER3 name="NP_MANAGER_res_0x7f0301ec">
+        <item>64</item>
+    </NP_MANAGER3>
+    <NP_MANAGER3 name="NP_MANAGER_res_0x7f0301ed">
+        <item>1</item>
+    </NP_MANAGER3>
+    <NP_MANAGER3 name="NP_MANAGER_res_0x7f0301ee">
+        <item>17</item>
+    </NP_MANAGER3>
+    <NP_MANAGER3 name="NP_MANAGER_res_0x7f0301ef">
+        <item>65600</item>
+        <item>-1</item>
+        <item>-2</item>
+    </NP_MANAGER3>
+    <NP_MANAGER3 name="NP_MANAGER_res_0x7f0301f0">
+        <item>1</item>
+    </NP_MANAGER3>
+    <NP_MANAGER3 name="NP_MANAGER_res_0x7f0301f1">
+        <item>65536</item>
+        <item>0</item>
+        <item>1</item>
+        <item>2</item>
+    </NP_MANAGER3>
+    <NP_MANAGER3 name="NP_MANAGER_res_0x7f0301f2">
+        <item>1</item>
+    </NP_MANAGER3>
+    <NP_MANAGER3 name="NP_MANAGER_res_0x7f0301f3">
+        <item>1</item>
+    </NP_MANAGER3>
+    <NP_MANAGER3 name="NP_MANAGER_res_0x7f0301f4">
+        <item>1</item>
+    </NP_MANAGER3>
+    <NP_MANAGER3 name="NP_MANAGER_res_0x7f0301f5">
+        <item>1</item>
+    </NP_MANAGER3>
+    <NP_MANAGER3 name="NP_MANAGER_res_0x7f0301f6">
+        <item>1</item>
+    </NP_MANAGER3>
+    <NP_MANAGER3 name="NP_MANAGER_res_0x7f0301f7">
+        <item>1</item>
+    </NP_MANAGER3>
+    <NP_MANAGER3 name="NP_MANAGER_res_0x7f0301f8">
+        <item>1</item>
+    </NP_MANAGER3>
+    <NP_MANAGER3 name="NP_MANAGER_res_0x7f0301f9">
+        <item>1</item>
+    </NP_MANAGER3>
+    <NP_MANAGER3 name="NP_MANAGER_res_0x7f0301fa">
+        <item>8</item>
+    </NP_MANAGER3>
+    <NP_MANAGER3 name="NP_MANAGER_res_0x7f0301fb">
+        <item>65536</item>
+        <item>0</item>
+        <item>1</item>
+    </NP_MANAGER3>
+    <NP_MANAGER3 name="NP_MANAGER_res_0x7f0301fc">
+        <item>64</item>
+    </NP_MANAGER3>
+    <NP_MANAGER3 name="NP_MANAGER_res_0x7f0301fd">
+        <item>65536</item>
+        <item>0</item>
+        <item>1</item>
+    </NP_MANAGER3>
+    <NP_MANAGER3 name="NP_MANAGER_res_0x7f0301fe">
+        <item>65536</item>
+        <item>0</item>
+        <item>1</item>
+    </NP_MANAGER3>
+    <NP_MANAGER3 name="NP_MANAGER_res_0x7f0301ff">
+        <item>64</item>
+    </NP_MANAGER3>
+    <NP_MANAGER3 name="NP_MANAGER_res_0x7f030200">
+        <item>64</item>
+    </NP_MANAGER3>
+    <NP_MANAGER3 name="NP_MANAGER_res_0x7f030201">
+        <item>64</item>
+    </NP_MANAGER3>
+    <NP_MANAGER3 name="NP_MANAGER_res_0x7f030202">
+        <item>64</item>
+    </NP_MANAGER3>
+    <NP_MANAGER3 name="NP_MANAGER_res_0x7f030203">
+        <item>65536</item>
+        <item>-1</item>
+        <item>0</item>
+        <item>1</item>
+    </NP_MANAGER3>
+    <NP_MANAGER3 name="NP_MANAGER_res_0x7f030204">
+        <item>8</item>
+    </NP_MANAGER3>
+    <NP_MANAGER3 name="NP_MANAGER_res_0x7f030205">
+        <item>1</item>
+    </NP_MANAGER3>
+    <NP_MANAGER3 name="NP_MANAGER_res_0x7f030206">
+        <item>1</item>
+    </NP_MANAGER3>
+    <NP_MANAGER3 name="NP_MANAGER_res_0x7f030207">
+        <item>1</item>
+    </NP_MANAGER3>
+    <NP_MANAGER3 name="NP_MANAGER_res_0x7f030208">
+        <item>1</item>
+    </NP_MANAGER3>
+    <NP_MANAGER3 name="NP_MANAGER_res_0x7f030209">
+        <item>64</item>
+    </NP_MANAGER3>
+    <NP_MANAGER3 name="NP_MANAGER_res_0x7f03020a">
+        <item>1</item>
+    </NP_MANAGER3>
+    <NP_MANAGER3 name="NP_MANAGER_res_0x7f03020b">
+        <item>1</item>
+    </NP_MANAGER3>
+    <NP_MANAGER3 name="NP_MANAGER_res_0x7f03020c">
+        <item>1</item>
+    </NP_MANAGER3>
+    <NP_MANAGER3 name="NP_MANAGER_res_0x7f03020d">
+        <item>1</item>
+    </NP_MANAGER3>
+    <NP_MANAGER3 name="NP_MANAGER_res_0x7f03020e">
+        <item>1</item>
+    </NP_MANAGER3>
+    <NP_MANAGER3 name="NP_MANAGER_res_0x7f03020f">
+        <item>1</item>
+    </NP_MANAGER3>
+    <NP_MANAGER3 name="NP_MANAGER_res_0x7f030210">
+        <item>1</item>
+    </NP_MANAGER3>
+    <NP_MANAGER3 name="NP_MANAGER_res_0x7f030211">
+        <item>1</item>
+    </NP_MANAGER3>
+    <NP_MANAGER3 name="NP_MANAGER_res_0x7f030212">
+        <item>1</item>
+    </NP_MANAGER3>
+    <NP_MANAGER3 name="NP_MANAGER_res_0x7f030213">
+        <item>1</item>
+    </NP_MANAGER3>
+    <NP_MANAGER3 name="NP_MANAGER_res_0x7f030214">
+        <item>1</item>
+    </NP_MANAGER3>
+    <NP_MANAGER3 name="NP_MANAGER_res_0x7f030215">
+        <item>1</item>
+    </NP_MANAGER3>
+    <NP_MANAGER3 name="NP_MANAGER_res_0x7f030216">
+        <item>1</item>
+    </NP_MANAGER3>
+    <NP_MANAGER3 name="NP_MANAGER_res_0x7f030217">
+        <item>1</item>
+    </NP_MANAGER3>
+    <NP_MANAGER3 name="NP_MANAGER_res_0x7f030218">
+        <item>1</item>
+    </NP_MANAGER3>
+    <NP_MANAGER3 name="NP_MANAGER_res_0x7f030219">
+        <item>1</item>
+    </NP_MANAGER3>
+    <NP_MANAGER3 name="NP_MANAGER_res_0x7f03021a">
+        <item>1</item>
+    </NP_MANAGER3>
+    <NP_MANAGER3 name="NP_MANAGER_res_0x7f03021b">
+        <item>1</item>
+    </NP_MANAGER3>
+    <NP_MANAGER3 name="NP_MANAGER_res_0x7f03021c">
+        <item>32</item>
+    </NP_MANAGER3>
+    <NP_MANAGER3 name="NP_MANAGER_res_0x7f03021d">
+        <item>65536</item>
+        <item>0</item>
+        <item>1</item>
+        <item>2</item>
+    </NP_MANAGER3>
+    <NP_MANAGER3 name="NP_MANAGER_res_0x7f03021e">
+        <item>32</item>
+    </NP_MANAGER3>
+    <NP_MANAGER3 name="NP_MANAGER_res_0x7f03021f">
+        <item>65536</item>
+        <item>0</item>
+        <item>1</item>
+        <item>2</item>
+    </NP_MANAGER3>
+    <NP_MANAGER3 name="NP_MANAGER_res_0x7f030220">
+        <item>65536</item>
+        <item>0</item>
+        <item>1</item>
+        <item>2</item>
+    </NP_MANAGER3>
+    <NP_MANAGER3 name="NP_MANAGER_res_0x7f030221">
+        <item>32</item>
+    </NP_MANAGER3>
+    <NP_MANAGER3 name="NP_MANAGER_res_0x7f030222">
+        <item>64</item>
+    </NP_MANAGER3>
+    <NP_MANAGER3 name="NP_MANAGER_res_0x7f030223">
+        <item>65536</item>
+        <item>0</item>
+        <item>1</item>
+        <item>2</item>
+    </NP_MANAGER3>
+    <NP_MANAGER3 name="NP_MANAGER_res_0x7f030224">
+        <item>32</item>
+    </NP_MANAGER3>
+    <NP_MANAGER3 name="NP_MANAGER_res_0x7f030225">
+        <item>65536</item>
+        <item>0</item>
+        <item>1</item>
+        <item>2</item>
+    </NP_MANAGER3>
+    <NP_MANAGER3 name="NP_MANAGER_res_0x7f030226">
+        <item>32</item>
+    </NP_MANAGER3>
+    <NP_MANAGER3 name="NP_MANAGER_res_0x7f030227">
+        <item>65536</item>
+        <item>0</item>
+        <item>1</item>
+        <item>2</item>
+    </NP_MANAGER3>
+    <NP_MANAGER3 name="NP_MANAGER_res_0x7f030228">
+        <item>4</item>
+    </NP_MANAGER3>
+    <NP_MANAGER3 name="NP_MANAGER_res_0x7f030229">
+        <item>64</item>
+    </NP_MANAGER3>
+    <NP_MANAGER3 name="NP_MANAGER_res_0x7f03022a">
+        <item>65536</item>
+        <item>0</item>
+        <item>1</item>
+        <item>2</item>
+        <item>3</item>
+    </NP_MANAGER3>
+    <NP_MANAGER3 name="NP_MANAGER_res_0x7f03022b">
+        <item>32</item>
+    </NP_MANAGER3>
+    <NP_MANAGER3 name="NP_MANAGER_res_0x7f03022c">
+        <item>64</item>
+    </NP_MANAGER3>
+    <NP_MANAGER3 name="NP_MANAGER_res_0x7f03022d">
+        <item>65536</item>
+        <item>0</item>
+        <item>1</item>
+        <item>2</item>
+    </NP_MANAGER3>
+    <NP_MANAGER3 name="NP_MANAGER_res_0x7f03022e">
+        <item>65536</item>
+        <item>0</item>
+        <item>1</item>
+        <item>2</item>
+    </NP_MANAGER3>
+    <NP_MANAGER3 name="NP_MANAGER_res_0x7f03022f">
+        <item>1</item>
+    </NP_MANAGER3>
+    <NP_MANAGER3 name="NP_MANAGER_res_0x7f030230">
+        <item>2</item>
+    </NP_MANAGER3>
+    <NP_MANAGER3 name="NP_MANAGER_res_0x7f030231">
+        <item>2</item>
+    </NP_MANAGER3>
+    <NP_MANAGER3 name="NP_MANAGER_res_0x7f030232">
+        <item>1</item>
+    </NP_MANAGER3>
+    <NP_MANAGER3 name="NP_MANAGER_res_0x7f030233">
+        <item>65536</item>
+        <item>0</item>
+        <item>1</item>
+    </NP_MANAGER3>
+    <NP_MANAGER3 name="NP_MANAGER_res_0x7f030234">
+        <item>65540</item>
+        <item>-1</item>
+    </NP_MANAGER3>
+    <NP_MANAGER3 name="NP_MANAGER_res_0x7f030235">
+        <item>2</item>
+    </NP_MANAGER3>
+    <NP_MANAGER3 name="NP_MANAGER_res_0x7f030236">
+        <item>2</item>
+    </NP_MANAGER3>
+    <NP_MANAGER3 name="NP_MANAGER_res_0x7f030237">
+        <item>2</item>
+    </NP_MANAGER3>
+    <NP_MANAGER3 name="NP_MANAGER_res_0x7f030238">
+        <item>65536</item>
+        <item>0</item>
+        <item>1</item>
+    </NP_MANAGER3>
+    <NP_MANAGER3 name="NP_MANAGER_res_0x7f030239">
+        <item>2</item>
+    </NP_MANAGER3>
+    <NP_MANAGER3 name="NP_MANAGER_res_0x7f03023a">
+        <item>4</item>
+    </NP_MANAGER3>
+    <NP_MANAGER3 name="NP_MANAGER_res_0x7f03023b">
+        <item>8</item>
+    </NP_MANAGER3>
+    <NP_MANAGER3 name="NP_MANAGER_res_0x7f03023c">
+        <item>8</item>
+    </NP_MANAGER3>
+    <NP_MANAGER3 name="NP_MANAGER_res_0x7f03023d">
+        <item>8</item>
+    </NP_MANAGER3>
+    <NP_MANAGER3 name="NP_MANAGER_res_0x7f03023e">
+        <item>4</item>
+    </NP_MANAGER3>
+    <NP_MANAGER3 name="NP_MANAGER_res_0x7f03023f">
+        <item>64</item>
+    </NP_MANAGER3>
+    <NP_MANAGER3 name="NP_MANAGER_res_0x7f030240">
+        <item>8</item>
+    </NP_MANAGER3>
+    <NP_MANAGER3 name="NP_MANAGER_res_0x7f030241">
+        <item>1</item>
+    </NP_MANAGER3>
+    <NP_MANAGER3 name="NP_MANAGER_res_0x7f030242">
+        <item>16</item>
+    </NP_MANAGER3>
+    <NP_MANAGER3 name="NP_MANAGER_res_0x7f030243">
+        <item>64</item>
+    </NP_MANAGER3>
+    <NP_MANAGER3 name="NP_MANAGER_res_0x7f030244">
+        <item>1</item>
+    </NP_MANAGER3>
+    <NP_MANAGER3 name="NP_MANAGER_res_0x7f030245">
+        <item>64</item>
+    </NP_MANAGER3>
+    <NP_MANAGER3 name="NP_MANAGER_res_0x7f030246">
+        <item>64</item>
+    </NP_MANAGER3>
+    <NP_MANAGER3 name="NP_MANAGER_res_0x7f030247">
+        <item>2</item>
+    </NP_MANAGER3>
+    <NP_MANAGER3 name="NP_MANAGER_res_0x7f030248">
+        <item>8</item>
+    </NP_MANAGER3>
+    <NP_MANAGER3 name="NP_MANAGER_res_0x7f030249">
+        <item>1</item>
+    </NP_MANAGER3>
+    <NP_MANAGER3 name="NP_MANAGER_res_0x7f03024a">
+        <item>16</item>
+    </NP_MANAGER3>
+    <NP_MANAGER3 name="NP_MANAGER_res_0x7f03024b">
+        <item>65536</item>
+        <item>0</item>
+        <item>1</item>
+        <item>2</item>
+        <item>3</item>
+    </NP_MANAGER3>
+    <NP_MANAGER3 name="NP_MANAGER_res_0x7f03024c">
+        <item>1</item>
+    </NP_MANAGER3>
+    <NP_MANAGER3 name="NP_MANAGER_res_0x7f03024d">
+        <item>8</item>
+    </NP_MANAGER3>
+    <NP_MANAGER3 name="NP_MANAGER_res_0x7f03024e">
+        <item>8</item>
+    </NP_MANAGER3>
+    <NP_MANAGER3 name="NP_MANAGER_res_0x7f03024f">
+        <item>8</item>
+    </NP_MANAGER3>
+    <NP_MANAGER3 name="NP_MANAGER_res_0x7f030250">
+        <item>8</item>
+    </NP_MANAGER3>
+    <NP_MANAGER3 name="NP_MANAGER_res_0x7f030251">
+        <item>8</item>
+    </NP_MANAGER3>
+    <NP_MANAGER3 name="NP_MANAGER_res_0x7f030252">
+        <item>4</item>
+    </NP_MANAGER3>
+    <NP_MANAGER3 name="NP_MANAGER_res_0x7f030253">
+        <item>1</item>
+    </NP_MANAGER3>
+    <NP_MANAGER3 name="NP_MANAGER_res_0x7f030254">
+        <item>16</item>
+    </NP_MANAGER3>
+    <NP_MANAGER3 name="NP_MANAGER_res_0x7f030255">
+        <item>1</item>
+    </NP_MANAGER3>
+    <NP_MANAGER3 name="NP_MANAGER_res_0x7f030256">
+        <item>1</item>
+    </NP_MANAGER3>
+    <NP_MANAGER3 name="NP_MANAGER_res_0x7f030257">
+        <item>64</item>
+    </NP_MANAGER3>
+    <NP_MANAGER3 name="NP_MANAGER_res_0x7f030258">
+        <item>1</item>
+    </NP_MANAGER3>
+    <NP_MANAGER3 name="NP_MANAGER_res_0x7f030259">
+        <item>1</item>
+    </NP_MANAGER3>
+    <NP_MANAGER3 name="NP_MANAGER_res_0x7f03025a">
+        <item>64</item>
+    </NP_MANAGER3>
+    <NP_MANAGER3 name="NP_MANAGER_res_0x7f03025b">
+        <item>64</item>
+    </NP_MANAGER3>
+    <NP_MANAGER3 name="NP_MANAGER_res_0x7f03025c">
+        <item>64</item>
+    </NP_MANAGER3>
+    <NP_MANAGER3 name="NP_MANAGER_res_0x7f03025d">
+        <item>1</item>
+    </NP_MANAGER3>
+    <NP_MANAGER3 name="NP_MANAGER_res_0x7f03025e">
+        <item>64</item>
+    </NP_MANAGER3>
+    <NP_MANAGER3 name="NP_MANAGER_res_0x7f03025f">
+        <item>131072</item>
+        <item>0x1</item>
+        <item>0x2</item>
+        <item>0x3</item>
+        <item>0x4</item>
+        <item>0x10</item>
+        <item>0x20</item>
+    </NP_MANAGER3>
+    <NP_MANAGER3 name="NP_MANAGER_res_0x7f030260">
+        <item>64</item>
+    </NP_MANAGER3>
+    <NP_MANAGER3 name="NP_MANAGER_res_0x7f030261">
+        <item>64</item>
+    </NP_MANAGER3>
+    <NP_MANAGER3 name="NP_MANAGER_res_0x7f030262">
+        <item>64</item>
+    </NP_MANAGER3>
+    <NP_MANAGER3 name="NP_MANAGER_res_0x7f030263">
+        <item>64</item>
+    </NP_MANAGER3>
+    <NP_MANAGER3 name="NP_MANAGER_res_0x7f030264">
+        <item>16</item>
+    </NP_MANAGER3>
+    <NP_MANAGER3 name="NP_MANAGER_res_0x7f030265">
+        <item>65536</item>
+        <item>3</item>
+        <item>5</item>
+        <item>9</item>
+        <item>14</item>
+        <item>15</item>
+        <item>16</item>
+    </NP_MANAGER3>
+    <NP_MANAGER3 name="NP_MANAGER_res_0x7f030266">
+        <item>8</item>
+    </NP_MANAGER3>
+    <NP_MANAGER3 name="NP_MANAGER_res_0x7f030267">
+        <item>1</item>
+    </NP_MANAGER3>
+    <NP_MANAGER3 name="NP_MANAGER_res_0x7f030268">
+        <item>1</item>
+    </NP_MANAGER3>
+    <NP_MANAGER3 name="NP_MANAGER_res_0x7f030269">
+        <item>1</item>
+    </NP_MANAGER3>
+    <NP_MANAGER3 name="NP_MANAGER_res_0x7f03026a">
+        <item>32</item>
+    </NP_MANAGER3>
+    <NP_MANAGER3 name="NP_MANAGER_res_0x7f03026b">
+        <item>32</item>
+    </NP_MANAGER3>
+    <NP_MANAGER3 name="NP_MANAGER_res_0x7f03026c">
+        <item>32</item>
+    </NP_MANAGER3>
+    <NP_MANAGER3 name="NP_MANAGER_res_0x7f03026d">
+        <item>32</item>
+    </NP_MANAGER3>
+    <NP_MANAGER3 name="NP_MANAGER_res_0x7f03026e">
+        <item>65536</item>
+        <item>0</item>
+        <item>1</item>
+    </NP_MANAGER3>
+    <NP_MANAGER3 name="NP_MANAGER_res_0x7f03026f">
+        <item>65536</item>
+        <item>0</item>
+        <item>1</item>
+    </NP_MANAGER3>
+    <NP_MANAGER3 name="NP_MANAGER_res_0x7f030270">
+        <item>32</item>
+    </NP_MANAGER3>
+    <NP_MANAGER3 name="NP_MANAGER_res_0x7f030271">
+        <item>1</item>
+    </NP_MANAGER3>
+    <NP_MANAGER3 name="NP_MANAGER_res_0x7f030272">
+        <item>8</item>
+    </NP_MANAGER3>
+    <NP_MANAGER3 name="NP_MANAGER_res_0x7f030273">
+        <item>17</item>
+    </NP_MANAGER3>
+    <NP_MANAGER3 name="NP_MANAGER_res_0x7f030274">
+        <item>65536</item>
+        <item>0</item>
+        <item>1</item>
+    </NP_MANAGER3>
+    <NP_MANAGER3 name="NP_MANAGER_res_0x7f030275">
+        <item>65536</item>
+        <item>0</item>
+        <item>1</item>
+        <item>2</item>
+        <item>3</item>
+    </NP_MANAGER3>
+    <NP_MANAGER3 name="NP_MANAGER_res_0x7f030276">
+        <item>64</item>
+    </NP_MANAGER3>
+    <NP_MANAGER3 name="NP_MANAGER_res_0x7f030277">
+        <item>64</item>
+    </NP_MANAGER3>
+    <NP_MANAGER3 name="NP_MANAGER_res_0x7f030278">
+        <item>64</item>
+    </NP_MANAGER3>
+    <NP_MANAGER3 name="NP_MANAGER_res_0x7f030279">
+        <item>2</item>
+    </NP_MANAGER3>
+    <NP_MANAGER3 name="NP_MANAGER_res_0x7f03027a">
+        <item>193</item>
+    </NP_MANAGER3>
+    <NP_MANAGER3 name="NP_MANAGER_res_0x7f03027b">
+        <item>17</item>
+    </NP_MANAGER3>
+    <NP_MANAGER3 name="NP_MANAGER_res_0x7f03027c">
+        <item>8</item>
+    </NP_MANAGER3>
+    <NP_MANAGER3 name="NP_MANAGER_res_0x7f03027d">
+        <item>8</item>
+    </NP_MANAGER3>
+    <NP_MANAGER3 name="NP_MANAGER_res_0x7f03027e">
+        <item>8</item>
+    </NP_MANAGER3>
+    <NP_MANAGER3 name="NP_MANAGER_res_0x7f03027f">
+        <item>8</item>
+    </NP_MANAGER3>
+    <NP_MANAGER3 name="NP_MANAGER_res_0x7f030280">
+        <item>1</item>
+    </NP_MANAGER3>
+    <NP_MANAGER3 name="NP_MANAGER_res_0x7f030281">
+        <item>1</item>
+    </NP_MANAGER3>
+    <NP_MANAGER3 name="NP_MANAGER_res_0x7f030282">
+        <item>16</item>
+    </NP_MANAGER3>
+    <NP_MANAGER3 name="NP_MANAGER_res_0x7f030283">
+        <item>65536</item>
+        <item>49</item>
+        <item>17</item>
+        <item>8388627</item>
+    </NP_MANAGER3>
+    <NP_MANAGER3 name="NP_MANAGER_res_0x7f030284">
+        <item>64</item>
+    </NP_MANAGER3>
+    <NP_MANAGER3 name="NP_MANAGER_res_0x7f030285">
+        <item>8</item>
+    </NP_MANAGER3>
+    <NP_MANAGER3 name="NP_MANAGER_res_0x7f030286">
+        <item>65536</item>
+        <item>0</item>
+        <item>1</item>
+    </NP_MANAGER3>
+    <NP_MANAGER3 name="NP_MANAGER_res_0x7f030287">
+        <item>64</item>
+    </NP_MANAGER3>
+    <NP_MANAGER3 name="NP_MANAGER_res_0x7f030288">
+        <item>64</item>
+    </NP_MANAGER3>
+    <NP_MANAGER3 name="NP_MANAGER_res_0x7f030289">
+        <item>16</item>
+    </NP_MANAGER3>
+    <NP_MANAGER3 name="NP_MANAGER_res_0x7f03028a">
+        <item>4</item>
+        <item>1</item>
+    </NP_MANAGER3>
+    <NP_MANAGER3 name="NP_MANAGER_res_0x7f03028b">
+        <item>64</item>
+    </NP_MANAGER3>
+    <NP_MANAGER3 name="NP_MANAGER_res_0x7f03028c">
+        <item>64</item>
+    </NP_MANAGER3>
+    <NP_MANAGER3 name="NP_MANAGER_res_0x7f03028d">
+        <item>64</item>
+    </NP_MANAGER3>
+    <NP_MANAGER3 name="NP_MANAGER_res_0x7f03028e">
+        <item>64</item>
+    </NP_MANAGER3>
+    <NP_MANAGER3 name="NP_MANAGER_res_0x7f03028f">
+        <item>16</item>
+    </NP_MANAGER3>
+    <NP_MANAGER3 name="NP_MANAGER_res_0x7f030290">
+        <item>1</item>
+    </NP_MANAGER3>
+    <NP_MANAGER3 name="NP_MANAGER_res_0x7f030291">
+        <item>1</item>
+    </NP_MANAGER3>
+    <NP_MANAGER3 name="NP_MANAGER_res_0x7f030292">
+        <item>16</item>
+    </NP_MANAGER3>
+    <NP_MANAGER3 name="NP_MANAGER_res_0x7f030293">
+        <item>64</item>
+    </NP_MANAGER3>
+    <NP_MANAGER3 name="NP_MANAGER_res_0x7f030294">
+        <item>64</item>
+    </NP_MANAGER3>
+    <NP_MANAGER3 name="NP_MANAGER_res_0x7f030295">
+        <item>64</item>
+    </NP_MANAGER3>
+    <NP_MANAGER3 name="NP_MANAGER_res_0x7f030296">
+        <item>64</item>
+    </NP_MANAGER3>
+    <NP_MANAGER3 name="NP_MANAGER_res_0x7f030297">
+        <item>64</item>
+    </NP_MANAGER3>
+    <NP_MANAGER3 name="NP_MANAGER_res_0x7f030298">
+        <item>16</item>
+    </NP_MANAGER3>
+    <NP_MANAGER3 name="NP_MANAGER_res_0x7f030299">
+        <item>64</item>
+    </NP_MANAGER3>
+    <NP_MANAGER3 name="NP_MANAGER_res_0x7f03029a">
+        <item>1</item>
+    </NP_MANAGER3>
+    <NP_MANAGER3 name="NP_MANAGER_res_0x7f03029b">
+        <item>1</item>
+    </NP_MANAGER3>
+    <NP_MANAGER3 name="NP_MANAGER_res_0x7f03029c">
+        <item>8</item>
+    </NP_MANAGER3>
+    <NP_MANAGER3 name="NP_MANAGER_res_0x7f03029d">
+        <item>1</item>
+    </NP_MANAGER3>
+    <NP_MANAGER3 name="NP_MANAGER_res_0x7f03029e">
+        <item>16</item>
+    </NP_MANAGER3>
+    <NP_MANAGER3 name="NP_MANAGER_res_0x7f03029f">
+        <item>64</item>
+    </NP_MANAGER3>
+    <NP_MANAGER3 name="NP_MANAGER_res_0x7f0302a0">
+        <item>65536</item>
+        <item>0</item>
+        <item>1</item>
+        <item>2</item>
+    </NP_MANAGER3>
+    <NP_MANAGER3 name="NP_MANAGER_res_0x7f0302a1">
+        <item>1</item>
+    </NP_MANAGER3>
+    <NP_MANAGER3 name="NP_MANAGER_res_0x7f0302a2">
+        <item>1</item>
+    </NP_MANAGER3>
+    <NP_MANAGER3 name="NP_MANAGER_res_0x7f0302a3">
+        <item>32</item>
+    </NP_MANAGER3>
+    <NP_MANAGER3 name="NP_MANAGER_res_0x7f0302a4">
+        <item>65536</item>
+        <item>0</item>
+        <item>1</item>
+        <item>2</item>
+        <item>3</item>
+    </NP_MANAGER3>
+    <NP_MANAGER3 name="NP_MANAGER_res_0x7f0302a5">
+        <item>8</item>
+    </NP_MANAGER3>
+    <NP_MANAGER3 name="NP_MANAGER_res_0x7f0302a6">
+        <item>4</item>
+    </NP_MANAGER3>
+    <NP_MANAGER3 name="NP_MANAGER_res_0x7f0302a7">
+        <item>1</item>
+    </NP_MANAGER3>
+    <NP_MANAGER3 name="NP_MANAGER_res_0x7f0302a8">
+        <item>1</item>
+    </NP_MANAGER3>
+    <NP_MANAGER3 name="NP_MANAGER_res_0x7f0302a9">
+        <item>65536</item>
+        <item>-1</item>
+        <item>0</item>
+        <item>1</item>
+        <item>2</item>
+    </NP_MANAGER3>
+    <NP_MANAGER3 name="NP_MANAGER_res_0x7f0302aa">
+        <item>64</item>
+    </NP_MANAGER3>
+    <NP_MANAGER3 name="NP_MANAGER_res_0x7f0302ab">
+        <item>64</item>
+    </NP_MANAGER3>
+    <NP_MANAGER3 name="NP_MANAGER_res_0x7f0302ac">
+        <item>8</item>
+    </NP_MANAGER3>
+    <NP_MANAGER3 name="NP_MANAGER_res_0x7f0302ad">
+        <item>1</item>
+    </NP_MANAGER3>
+    <NP_MANAGER3 name="NP_MANAGER_res_0x7f0302ae">
+        <item>1</item>
+    </NP_MANAGER3>
+    <NP_MANAGER3 name="NP_MANAGER_res_0x7f0302af">
+        <item>65536</item>
+        <item>0</item>
+        <item>1</item>
+    </NP_MANAGER3>
+    <NP_MANAGER3 name="NP_MANAGER_res_0x7f0302b0">
+        <item>2</item>
+    </NP_MANAGER3>
+    <NP_MANAGER3 name="NP_MANAGER_res_0x7f0302b1">
+        <item>1</item>
+    </NP_MANAGER3>
+    <NP_MANAGER3 name="NP_MANAGER_res_0x7f0302b2">
+        <item>131072</item>
+        <item>0x30</item>
+        <item>0x50</item>
+        <item>0x3</item>
+        <item>0x5</item>
+        <item>0x10</item>
+        <item>0x70</item>
+        <item>0x1</item>
+        <item>0x7</item>
+        <item>0x11</item>
+        <item>0x77</item>
+        <item>0x80</item>
+        <item>0x8</item>
+        <item>0x800003</item>
+        <item>0x800005</item>
+    </NP_MANAGER3>
+    <NP_MANAGER3 name="NP_MANAGER_res_0x7f0302b3">
+        <item>2</item>
+    </NP_MANAGER3>
+    <NP_MANAGER3 name="NP_MANAGER_res_0x7f0302b4">
+        <item>65536</item>
+        <item>0</item>
+        <item>1</item>
+        <item>2</item>
+    </NP_MANAGER3>
+    <NP_MANAGER3 name="NP_MANAGER_res_0x7f0302b5">
+        <item>32</item>
+    </NP_MANAGER3>
+    <NP_MANAGER3 name="NP_MANAGER_res_0x7f0302b6">
+        <item>8</item>
+    </NP_MANAGER3>
+    <NP_MANAGER3 name="NP_MANAGER_res_0x7f0302b7">
+        <item>8</item>
+    </NP_MANAGER3>
+    <NP_MANAGER3 name="NP_MANAGER_res_0x7f0302b8">
+        <item>4</item>
+    </NP_MANAGER3>
+    <NP_MANAGER3 name="NP_MANAGER_res_0x7f0302b9">
+        <item>65537</item>
+        <item>0</item>
+    </NP_MANAGER3>
+    <NP_MANAGER3 name="NP_MANAGER_res_0x7f0302ba">
+        <item>65537</item>
+        <item>0</item>
+    </NP_MANAGER3>
+    <NP_MANAGER3 name="NP_MANAGER_res_0x7f0302bb">
+        <item>65537</item>
+        <item>0</item>
+    </NP_MANAGER3>
+    <NP_MANAGER3 name="NP_MANAGER_res_0x7f0302bc">
+        <item>4</item>
+    </NP_MANAGER3>
+    <NP_MANAGER3 name="NP_MANAGER_res_0x7f0302bd">
+        <item>65537</item>
+        <item>0</item>
+    </NP_MANAGER3>
+    <NP_MANAGER3 name="NP_MANAGER_res_0x7f0302be">
+        <item>65537</item>
+        <item>0</item>
+    </NP_MANAGER3>
+    <NP_MANAGER3 name="NP_MANAGER_res_0x7f0302bf">
+        <item>1</item>
+    </NP_MANAGER3>
+    <NP_MANAGER3 name="NP_MANAGER_res_0x7f0302c0">
+        <item>32</item>
+    </NP_MANAGER3>
+    <NP_MANAGER3 name="NP_MANAGER_res_0x7f0302c1">
+        <item>64</item>
+    </NP_MANAGER3>
+    <NP_MANAGER3 name="NP_MANAGER_res_0x7f0302c2">
+        <item>2</item>
+    </NP_MANAGER3>
+    <NP_MANAGER3 name="NP_MANAGER_res_0x7f0302c3">
+        <item>65537</item>
+        <item>0</item>
+    </NP_MANAGER3>
+    <NP_MANAGER3 name="NP_MANAGER_res_0x7f0302c4">
+        <item>65537</item>
+        <item>0</item>
+    </NP_MANAGER3>
+    <NP_MANAGER3 name="NP_MANAGER_res_0x7f0302c5">
+        <item>64</item>
+    </NP_MANAGER3>
+    <NP_MANAGER3 name="NP_MANAGER_res_0x7f0302c6">
+        <item>64</item>
+    </NP_MANAGER3>
+    <NP_MANAGER3 name="NP_MANAGER_res_0x7f0302c7">
+        <item>32</item>
+    </NP_MANAGER3>
+    <NP_MANAGER3 name="NP_MANAGER_res_0x7f0302c8">
+        <item>65602</item>
+        <item>-1</item>
+        <item>-2</item>
+        <item>-3</item>
+        <item>-4</item>
+    </NP_MANAGER3>
+    <NP_MANAGER3 name="NP_MANAGER_res_0x7f0302c9">
+        <item>65536</item>
+        <item>0</item>
+        <item>1</item>
+        <item>2</item>
+    </NP_MANAGER3>
+    <NP_MANAGER3 name="NP_MANAGER_res_0x7f0302ca">
+        <item>65600</item>
+        <item>-2</item>
+    </NP_MANAGER3>
+    <NP_MANAGER3 name="NP_MANAGER_res_0x7f0302cb">
+        <item>65600</item>
+        <item>-2</item>
+    </NP_MANAGER3>
+    <NP_MANAGER3 name="NP_MANAGER_res_0x7f0302cc">
+        <item>32</item>
+    </NP_MANAGER3>
+    <NP_MANAGER3 name="NP_MANAGER_res_0x7f0302cd">
+        <item>32</item>
+    </NP_MANAGER3>
+    <NP_MANAGER3 name="NP_MANAGER_res_0x7f0302ce">
+        <item>65536</item>
+        <item>0</item>
+        <item>1</item>
+        <item>2</item>
+    </NP_MANAGER3>
+    <NP_MANAGER3 name="NP_MANAGER_res_0x7f0302cf">
+        <item>32</item>
+    </NP_MANAGER3>
+    <NP_MANAGER3 name="NP_MANAGER_res_0x7f0302d0">
+        <item>4</item>
+    </NP_MANAGER3>
+    <NP_MANAGER3 name="NP_MANAGER_res_0x7f0302d1">
+        <item>65537</item>
+        <item>0</item>
+    </NP_MANAGER3>
+    <NP_MANAGER3 name="NP_MANAGER_res_0x7f0302d2">
+        <item>65537</item>
+        <item>0</item>
+    </NP_MANAGER3>
+    <NP_MANAGER3 name="NP_MANAGER_res_0x7f0302d3">
+        <item>4</item>
+    </NP_MANAGER3>
+    <NP_MANAGER3 name="NP_MANAGER_res_0x7f0302d4">
+        <item>65537</item>
+        <item>0</item>
+    </NP_MANAGER3>
+    <NP_MANAGER3 name="NP_MANAGER_res_0x7f0302d5">
+        <item>65537</item>
+        <item>0</item>
+    </NP_MANAGER3>
+    <NP_MANAGER3 name="NP_MANAGER_res_0x7f0302d6">
+        <item>65537</item>
+        <item>0</item>
+    </NP_MANAGER3>
+    <NP_MANAGER3 name="NP_MANAGER_res_0x7f0302d7">
+        <item>65537</item>
+        <item>0</item>
+    </NP_MANAGER3>
+    <NP_MANAGER3 name="NP_MANAGER_res_0x7f0302d8">
+        <item>2</item>
+    </NP_MANAGER3>
+    <NP_MANAGER3 name="NP_MANAGER_res_0x7f0302d9">
+        <item>4</item>
+    </NP_MANAGER3>
+    <NP_MANAGER3 name="NP_MANAGER_res_0x7f0302da">
+        <item>65537</item>
+        <item>0</item>
+    </NP_MANAGER3>
+    <NP_MANAGER3 name="NP_MANAGER_res_0x7f0302db">
+        <item>65537</item>
+        <item>0</item>
+    </NP_MANAGER3>
+    <NP_MANAGER3 name="NP_MANAGER_res_0x7f0302dc">
+        <item>32</item>
+    </NP_MANAGER3>
+    <NP_MANAGER3 name="NP_MANAGER_res_0x7f0302dd">
+        <item>65536</item>
+        <item>0</item>
+        <item>1</item>
+        <item>2</item>
+    </NP_MANAGER3>
+    <NP_MANAGER3 name="NP_MANAGER_res_0x7f0302de">
+        <item>32</item>
+    </NP_MANAGER3>
+    <NP_MANAGER3 name="NP_MANAGER_res_0x7f0302df">
+        <item>65602</item>
+        <item>-1</item>
+        <item>-2</item>
+        <item>-3</item>
+        <item>-4</item>
+    </NP_MANAGER3>
+    <NP_MANAGER3 name="NP_MANAGER_res_0x7f0302e0">
+        <item>65536</item>
+        <item>0</item>
+        <item>1</item>
+        <item>2</item>
+    </NP_MANAGER3>
+    <NP_MANAGER3 name="NP_MANAGER_res_0x7f0302e1">
+        <item>65600</item>
+        <item>-2</item>
+    </NP_MANAGER3>
+    <NP_MANAGER3 name="NP_MANAGER_res_0x7f0302e2">
+        <item>65600</item>
+        <item>-2</item>
+    </NP_MANAGER3>
+    <NP_MANAGER3 name="NP_MANAGER_res_0x7f0302e3">
+        <item>32</item>
+    </NP_MANAGER3>
+    <NP_MANAGER3 name="NP_MANAGER_res_0x7f0302e4">
+        <item>131072</item>
+        <item>0x0</item>
+        <item>0x30</item>
+        <item>0x50</item>
+        <item>0x3</item>
+        <item>0x5</item>
+        <item>0x800003</item>
+        <item>0x800005</item>
+        <item>0x77</item>
+    </NP_MANAGER3>
+    <NP_MANAGER3 name="NP_MANAGER_res_0x7f0302e5">
+        <item>64</item>
+    </NP_MANAGER3>
+    <NP_MANAGER3 name="NP_MANAGER_res_0x7f0302e6">
+        <item>64</item>
+    </NP_MANAGER3>
+    <NP_MANAGER3 name="NP_MANAGER_res_0x7f0302e7">
+        <item>64</item>
+    </NP_MANAGER3>
+    <NP_MANAGER3 name="NP_MANAGER_res_0x7f0302e8">
+        <item>64</item>
+    </NP_MANAGER3>
+    <NP_MANAGER3 name="NP_MANAGER_res_0x7f0302e9">
+        <item>64</item>
+    </NP_MANAGER3>
+    <NP_MANAGER3 name="NP_MANAGER_res_0x7f0302ea">
+        <item>64</item>
+    </NP_MANAGER3>
+    <NP_MANAGER3 name="NP_MANAGER_res_0x7f0302eb">
+        <item>64</item>
+    </NP_MANAGER3>
+    <NP_MANAGER3 name="NP_MANAGER_res_0x7f0302ec">
+        <item>64</item>
+    </NP_MANAGER3>
+    <NP_MANAGER3 name="NP_MANAGER_res_0x7f0302ed">
+        <item>64</item>
+    </NP_MANAGER3>
+    <NP_MANAGER3 name="NP_MANAGER_res_0x7f0302ee">
+        <item>65536</item>
+        <item>0x0</item>
+        <item>0x30</item>
+        <item>0x50</item>
+        <item>0x3</item>
+        <item>0x5</item>
+        <item>0x800003</item>
+        <item>0x800005</item>
+    </NP_MANAGER3>
+    <NP_MANAGER3 name="NP_MANAGER_res_0x7f0302ef">
+        <item>4</item>
+    </NP_MANAGER3>
+    <NP_MANAGER3 name="NP_MANAGER_res_0x7f0302f0">
+        <item>64</item>
+    </NP_MANAGER3>
+    <NP_MANAGER3 name="NP_MANAGER_res_0x7f0302f1">
+        <item>131072</item>
+        <item>0</item>
+        <item>0</item>
+        <item>257</item>
+        <item>1</item>
+        <item>2</item>
+        <item>4</item>
+        <item>8</item>
+        <item>16</item>
+        <item>32</item>
+        <item>64</item>
+        <item>128</item>
+        <item>256</item>
+        <item>512</item>
+        <item>1024</item>
+    </NP_MANAGER3>
+    <NP_MANAGER3 name="NP_MANAGER_res_0x7f0302f2">
+        <item>65536</item>
+        <item>0</item>
+        <item>1</item>
+    </NP_MANAGER3>
+    <NP_MANAGER3 name="NP_MANAGER_res_0x7f0302f3">
+        <item>131072</item>
+        <item>0x0</item>
+        <item>0x1</item>
+        <item>0x2</item>
+        <item>0x4</item>
+        <item>0x8</item>
+        <item>0x10</item>
+        <item>0x20</item>
+    </NP_MANAGER3>
+    <NP_MANAGER3 name="NP_MANAGER_res_0x7f0302f4">
+        <item>1</item>
+    </NP_MANAGER3>
+    <NP_MANAGER3 name="NP_MANAGER_res_0x7f0302f5">
+        <item>65536</item>
+        <item>0</item>
+        <item>1</item>
+        <item>2</item>
+        <item>3</item>
+    </NP_MANAGER3>
+    <NP_MANAGER3 name="NP_MANAGER_res_0x7f0302f6">
+        <item>8</item>
+    </NP_MANAGER3>
+    <NP_MANAGER3 name="NP_MANAGER_res_0x7f0302f7">
+        <item>16</item>
+    </NP_MANAGER3>
+    <NP_MANAGER3 name="NP_MANAGER_res_0x7f0302f8">
+        <item>1</item>
+    </NP_MANAGER3>
+    <NP_MANAGER3 name="NP_MANAGER_res_0x7f0302f9">
+        <item>1</item>
+    </NP_MANAGER3>
+    <NP_MANAGER3 name="NP_MANAGER_res_0x7f0302fa">
+        <item>64</item>
+    </NP_MANAGER3>
+    <NP_MANAGER3 name="NP_MANAGER_res_0x7f0302fb">
+        <item>64</item>
+    </NP_MANAGER3>
+    <NP_MANAGER3 name="NP_MANAGER_res_0x7f0302fc">
+        <item>1</item>
+    </NP_MANAGER3>
+    <NP_MANAGER3 name="NP_MANAGER_res_0x7f0302fd">
+        <item>1</item>
+    </NP_MANAGER3>
+    <NP_MANAGER3 name="NP_MANAGER_res_0x7f0302fe">
+        <item>1</item>
+    </NP_MANAGER3>
+    <NP_MANAGER3 name="NP_MANAGER_res_0x7f0302ff">
+        <item>1</item>
+    </NP_MANAGER3>
+    <NP_MANAGER3 name="NP_MANAGER_res_0x7f030300">
+        <item>1</item>
+    </NP_MANAGER3>
+    <NP_MANAGER3 name="NP_MANAGER_res_0x7f030301">
+        <item>1</item>
+    </NP_MANAGER3>
+    <NP_MANAGER3 name="NP_MANAGER_res_0x7f030302">
+        <item>1</item>
+    </NP_MANAGER3>
+    <NP_MANAGER3 name="NP_MANAGER_res_0x7f030303">
+        <item>1</item>
+    </NP_MANAGER3>
+    <NP_MANAGER3 name="NP_MANAGER_res_0x7f030304">
+        <item>1</item>
+    </NP_MANAGER3>
+    <NP_MANAGER3 name="NP_MANAGER_res_0x7f030305">
+        <item>64</item>
+    </NP_MANAGER3>
+    <NP_MANAGER3 name="NP_MANAGER_res_0x7f030306">
+        <item>64</item>
+    </NP_MANAGER3>
+    <NP_MANAGER3 name="NP_MANAGER_res_0x7f030307">
+        <item>64</item>
+    </NP_MANAGER3>
+    <NP_MANAGER3 name="NP_MANAGER_res_0x7f030308">
+        <item>64</item>
+    </NP_MANAGER3>
+    <NP_MANAGER3 name="NP_MANAGER_res_0x7f030309">
+        <item>64</item>
+    </NP_MANAGER3>
+    <NP_MANAGER3 name="NP_MANAGER_res_0x7f03030a">
+        <item>64</item>
+    </NP_MANAGER3>
+    <NP_MANAGER3 name="NP_MANAGER_res_0x7f03030b">
+        <item>64</item>
+    </NP_MANAGER3>
+    <NP_MANAGER3 name="NP_MANAGER_res_0x7f03030c">
+        <item>1</item>
+    </NP_MANAGER3>
+    <NP_MANAGER3 name="NP_MANAGER_res_0x7f03030d">
+        <item>1</item>
+    </NP_MANAGER3>
+    <NP_MANAGER3 name="NP_MANAGER_res_0x7f03030e">
+        <item>8</item>
+    </NP_MANAGER3>
+    <NP_MANAGER3 name="NP_MANAGER_res_0x7f03030f">
+        <item>2</item>
+    </NP_MANAGER3>
+    <NP_MANAGER3 name="NP_MANAGER_res_0x7f030310">
+        <item>65536</item>
+        <item>0</item>
+        <item>1</item>
+        <item>2</item>
+        <item>3</item>
+        <item>4</item>
+        <item>5</item>
+        <item>6</item>
+        <item>7</item>
+    </NP_MANAGER3>
+    <NP_MANAGER3 name="NP_MANAGER_res_0x7f030311">
+        <item>8</item>
+    </NP_MANAGER3>
+    <NP_MANAGER3 name="NP_MANAGER_res_0x7f030312">
+        <item>64</item>
+    </NP_MANAGER3>
+    <NP_MANAGER3 name="NP_MANAGER_res_0x7f030313">
+        <item>8</item>
+    </NP_MANAGER3>
+    <NP_MANAGER3 name="NP_MANAGER_res_0x7f030314">
+        <item>8</item>
+    </NP_MANAGER3>
+    <NP_MANAGER3 name="NP_MANAGER_res_0x7f030315">
+        <item>8</item>
+    </NP_MANAGER3>
+    <NP_MANAGER3 name="NP_MANAGER_res_0x7f030316">
+        <item>1</item>
+    </NP_MANAGER3>
+    <NP_MANAGER3 name="NP_MANAGER_res_0x7f030317">
+        <item>4</item>
+    </NP_MANAGER3>
+    <NP_MANAGER3 name="NP_MANAGER_res_0x7f030318">
+        <item>1</item>
+    </NP_MANAGER3>
+    <NP_MANAGER3 name="NP_MANAGER_res_0x7f030319">
+        <item>1</item>
+    </NP_MANAGER3>
+    <NP_MANAGER3 name="NP_MANAGER_res_0x7f03031a">
+        <item>1</item>
+    </NP_MANAGER3>
+    <NP_MANAGER3 name="NP_MANAGER_res_0x7f03031b">
+        <item>1</item>
+    </NP_MANAGER3>
+    <NP_MANAGER3 name="NP_MANAGER_res_0x7f03031c">
+        <item>1</item>
+    </NP_MANAGER3>
+    <NP_MANAGER3 name="NP_MANAGER_res_0x7f03031d">
+        <item>1</item>
+    </NP_MANAGER3>
+    <NP_MANAGER3 name="NP_MANAGER_res_0x7f03031e">
+        <item>1</item>
+    </NP_MANAGER3>
+    <NP_MANAGER3 name="NP_MANAGER_res_0x7f03031f">
+        <item>1</item>
+    </NP_MANAGER3>
+    <NP_MANAGER3 name="NP_MANAGER_res_0x7f030320">
+        <item>1</item>
+    </NP_MANAGER3>
+    <NP_MANAGER3 name="NP_MANAGER_res_0x7f030321">
+        <item>1</item>
+    </NP_MANAGER3>
+    <NP_MANAGER3 name="NP_MANAGER_res_0x7f030322">
+        <item>1</item>
+    </NP_MANAGER3>
+    <NP_MANAGER3 name="NP_MANAGER_res_0x7f030323">
+        <item>1</item>
+    </NP_MANAGER3>
+    <NP_MANAGER3 name="NP_MANAGER_res_0x7f030324">
+        <item>1</item>
+    </NP_MANAGER3>
+    <NP_MANAGER3 name="NP_MANAGER_res_0x7f030325">
+        <item>1</item>
+    </NP_MANAGER3>
+    <NP_MANAGER3 name="NP_MANAGER_res_0x7f030326">
+        <item>1</item>
+    </NP_MANAGER3>
+    <NP_MANAGER3 name="NP_MANAGER_res_0x7f030327">
+        <item>1</item>
+    </NP_MANAGER3>
+    <NP_MANAGER3 name="NP_MANAGER_res_0x7f030328">
+        <item>1</item>
+    </NP_MANAGER3>
+    <NP_MANAGER3 name="NP_MANAGER_res_0x7f030329">
+        <item>1</item>
+    </NP_MANAGER3>
+    <NP_MANAGER3 name="NP_MANAGER_res_0x7f03032a">
+        <item>1</item>
+    </NP_MANAGER3>
+    <NP_MANAGER3 name="NP_MANAGER_res_0x7f03032b">
+        <item>1</item>
+    </NP_MANAGER3>
+    <NP_MANAGER3 name="NP_MANAGER_res_0x7f03032c">
+        <item>1</item>
+    </NP_MANAGER3>
+    <NP_MANAGER3 name="NP_MANAGER_res_0x7f03032d">
+        <item>1</item>
+    </NP_MANAGER3>
+    <NP_MANAGER3 name="NP_MANAGER_res_0x7f03032e">
+        <item>1</item>
+    </NP_MANAGER3>
+    <NP_MANAGER3 name="NP_MANAGER_res_0x7f03032f">
+        <item>1</item>
+    </NP_MANAGER3>
+    <NP_MANAGER3 name="NP_MANAGER_res_0x7f030330">
+        <item>1</item>
+    </NP_MANAGER3>
+    <NP_MANAGER3 name="NP_MANAGER_res_0x7f030331">
+        <item>1</item>
+    </NP_MANAGER3>
+    <NP_MANAGER3 name="NP_MANAGER_res_0x7f030332">
+        <item>1</item>
+    </NP_MANAGER3>
+    <NP_MANAGER3 name="NP_MANAGER_res_0x7f030333">
+        <item>1</item>
+    </NP_MANAGER3>
+    <NP_MANAGER3 name="NP_MANAGER_res_0x7f030334">
+        <item>1</item>
+    </NP_MANAGER3>
+    <NP_MANAGER3 name="NP_MANAGER_res_0x7f030335">
+        <item>64</item>
+    </NP_MANAGER3>
+    <NP_MANAGER3 name="NP_MANAGER_res_0x7f030336">
+        <item>1</item>
+    </NP_MANAGER3>
+    <NP_MANAGER3 name="NP_MANAGER_res_0x7f030337">
+        <item>1</item>
+    </NP_MANAGER3>
+    <NP_MANAGER3 name="NP_MANAGER_res_0x7f030338">
+        <item>65535</item>
+    </NP_MANAGER3>
+    <NP_MANAGER3 name="NP_MANAGER_res_0x7f030339">
+        <item>65535</item>
+    </NP_MANAGER3>
+    <NP_MANAGER3 name="NP_MANAGER_res_0x7f03033a">
+        <item>1</item>
+    </NP_MANAGER3>
+    <NP_MANAGER3 name="NP_MANAGER_res_0x7f03033b">
+        <item>1</item>
+    </NP_MANAGER3>
+    <NP_MANAGER3 name="NP_MANAGER_res_0x7f03033c">
+        <item>1</item>
+    </NP_MANAGER3>
+    <NP_MANAGER3 name="NP_MANAGER_res_0x7f03033d">
+        <item>1</item>
+    </NP_MANAGER3>
+    <NP_MANAGER3 name="NP_MANAGER_res_0x7f03033e">
+        <item>1</item>
+    </NP_MANAGER3>
+    <NP_MANAGER3 name="NP_MANAGER_res_0x7f03033f">
+        <item>1</item>
+    </NP_MANAGER3>
+    <NP_MANAGER3 name="NP_MANAGER_res_0x7f030340">
+        <item>1</item>
+    </NP_MANAGER3>
+    <NP_MANAGER3 name="NP_MANAGER_res_0x7f030341">
+        <item>64</item>
+    </NP_MANAGER3>
+    <NP_MANAGER3 name="NP_MANAGER_res_0x7f030342">
+        <item>1</item>
+    </NP_MANAGER3>
+    <NP_MANAGER3 name="NP_MANAGER_res_0x7f030343">
+        <item>1</item>
+    </NP_MANAGER3>
+    <NP_MANAGER3 name="NP_MANAGER_res_0x7f030344">
+        <item>1</item>
+    </NP_MANAGER3>
+    <NP_MANAGER3 name="NP_MANAGER_res_0x7f030345">
+        <item>1</item>
+    </NP_MANAGER3>
+    <NP_MANAGER3 name="NP_MANAGER_res_0x7f030346">
+        <item>1</item>
+    </NP_MANAGER3>
+    <NP_MANAGER3 name="NP_MANAGER_res_0x7f030347">
+        <item>1</item>
+    </NP_MANAGER3>
+    <NP_MANAGER3 name="NP_MANAGER_res_0x7f030348">
+        <item>1</item>
+    </NP_MANAGER3>
+    <NP_MANAGER3 name="NP_MANAGER_res_0x7f030349">
+        <item>65535</item>
+    </NP_MANAGER3>
+    <NP_MANAGER3 name="NP_MANAGER_res_0x7f03034a">
+        <item>1</item>
+    </NP_MANAGER3>
+    <NP_MANAGER3 name="NP_MANAGER_res_0x7f03034b">
+        <item>1</item>
+    </NP_MANAGER3>
+    <NP_MANAGER3 name="NP_MANAGER_res_0x7f03034c">
+        <item>1</item>
+    </NP_MANAGER3>
+    <NP_MANAGER3 name="NP_MANAGER_res_0x7f03034d">
+        <item>1</item>
+    </NP_MANAGER3>
+    <NP_MANAGER3 name="NP_MANAGER_res_0x7f03034e">
+        <item>32</item>
+    </NP_MANAGER3>
+    <NP_MANAGER3 name="NP_MANAGER_res_0x7f03034f">
+        <item>64</item>
+    </NP_MANAGER3>
+    <NP_MANAGER3 name="NP_MANAGER_res_0x7f030350">
+        <item>64</item>
+    </NP_MANAGER3>
+    <NP_MANAGER3 name="NP_MANAGER_res_0x7f030351">
+        <item>4</item>
+    </NP_MANAGER3>
+    <NP_MANAGER3 name="NP_MANAGER_res_0x7f030352">
+        <item>64</item>
+    </NP_MANAGER3>
+    <NP_MANAGER3 name="NP_MANAGER_res_0x7f030353">
+        <item>64</item>
+    </NP_MANAGER3>
+    <NP_MANAGER3 name="NP_MANAGER_res_0x7f030354">
+        <item>4</item>
+    </NP_MANAGER3>
+    <NP_MANAGER3 name="NP_MANAGER_res_0x7f030355">
+        <item>4</item>
+    </NP_MANAGER3>
+    <NP_MANAGER3 name="NP_MANAGER_res_0x7f030356">
+        <item>32</item>
+    </NP_MANAGER3>
+    <NP_MANAGER3 name="NP_MANAGER_res_0x7f030357">
+        <item>64</item>
+    </NP_MANAGER3>
+    <NP_MANAGER3 name="NP_MANAGER_res_0x7f030358">
+        <item>8</item>
+    </NP_MANAGER3>
+    <NP_MANAGER3 name="NP_MANAGER_res_0x7f030359">
+        <item>8</item>
+    </NP_MANAGER3>
+    <NP_MANAGER3 name="NP_MANAGER_res_0x7f03035a">
+        <item>1</item>
+    </NP_MANAGER3>
+    <NP_MANAGER3 name="NP_MANAGER_res_0x7f03035b">
+        <item>65536</item>
+        <item>0</item>
+        <item>1</item>
+    </NP_MANAGER3>
+    <NP_MANAGER3 name="NP_MANAGER_res_0x7f03035c">
+        <item>65536</item>
+        <item>49</item>
+        <item>17</item>
+        <item>81</item>
+    </NP_MANAGER3>
+    <NP_MANAGER3 name="NP_MANAGER_res_0x7f03035d">
+        <item>2</item>
+    </NP_MANAGER3>
+    <NP_MANAGER3 name="NP_MANAGER_res_0x7f03035e">
+        <item>64</item>
+    </NP_MANAGER3>
+    <NP_MANAGER3 name="NP_MANAGER_res_0x7f03035f">
+        <item>4</item>
+    </NP_MANAGER3>
+    <NP_MANAGER3 name="NP_MANAGER_res_0x7f030360">
+        <item>64</item>
+    </NP_MANAGER3>
+    <NP_MANAGER3 name="NP_MANAGER_res_0x7f030361">
+        <item>64</item>
+    </NP_MANAGER3>
+    <NP_MANAGER3 name="NP_MANAGER_res_0x7f030362">
+        <item>64</item>
+    </NP_MANAGER3>
+    <NP_MANAGER3 name="NP_MANAGER_res_0x7f030363">
+        <item>16</item>
+    </NP_MANAGER3>
+    <NP_MANAGER3 name="NP_MANAGER_res_0x7f030364">
+        <item>2</item>
+    </NP_MANAGER3>
+    <NP_MANAGER3 name="NP_MANAGER_res_0x7f030365">
+        <item>16</item>
+    </NP_MANAGER3>
+    <NP_MANAGER3 name="NP_MANAGER_res_0x7f030366">
+        <item>16</item>
+    </NP_MANAGER3>
+    <NP_MANAGER3 name="NP_MANAGER_res_0x7f030367">
+        <item>8</item>
+    </NP_MANAGER3>
+    <NP_MANAGER3 name="NP_MANAGER_res_0x7f030368">
+        <item>8</item>
+    </NP_MANAGER3>
+    <NP_MANAGER3 name="NP_MANAGER_res_0x7f030369">
+        <item>65536</item>
+        <item>0</item>
+        <item>1</item>
+        <item>2</item>
+        <item>3</item>
+    </NP_MANAGER3>
+    <NP_MANAGER3 name="NP_MANAGER_res_0x7f03036a">
+        <item>4</item>
+    </NP_MANAGER3>
+    <NP_MANAGER3 name="NP_MANAGER_res_0x7f03036b">
+        <item>4</item>
+    </NP_MANAGER3>
+    <NP_MANAGER3 name="NP_MANAGER_res_0x7f03036c">
+        <item>4</item>
+    </NP_MANAGER3>
+    <NP_MANAGER3 name="NP_MANAGER_res_0x7f03036d">
+        <item>4</item>
+    </NP_MANAGER3>
+    <NP_MANAGER3 name="NP_MANAGER_res_0x7f03036e">
+        <item>4</item>
+    </NP_MANAGER3>
+    <NP_MANAGER3 name="NP_MANAGER_res_0x7f03036f">
+        <item>4</item>
+    </NP_MANAGER3>
+    <NP_MANAGER3 name="NP_MANAGER_res_0x7f030370">
+        <item>4</item>
+    </NP_MANAGER3>
+    <NP_MANAGER3 name="NP_MANAGER_res_0x7f030371">
+        <item>4</item>
+    </NP_MANAGER3>
+    <NP_MANAGER3 name="NP_MANAGER_res_0x7f030372">
+        <item>4</item>
+    </NP_MANAGER3>
+    <NP_MANAGER3 name="NP_MANAGER_res_0x7f030373">
+        <item>4</item>
+    </NP_MANAGER3>
+    <NP_MANAGER3 name="NP_MANAGER_res_0x7f030374">
+        <item>4</item>
+    </NP_MANAGER3>
+    <NP_MANAGER3 name="NP_MANAGER_res_0x7f030375">
+        <item>4</item>
+    </NP_MANAGER3>
+    <NP_MANAGER3 name="NP_MANAGER_res_0x7f030376">
+        <item>4</item>
+    </NP_MANAGER3>
+    <NP_MANAGER3 name="NP_MANAGER_res_0x7f030377">
+        <item>4</item>
+    </NP_MANAGER3>
+    <NP_MANAGER3 name="NP_MANAGER_res_0x7f030378">
+        <item>4</item>
+    </NP_MANAGER3>
+    <NP_MANAGER3 name="NP_MANAGER_res_0x7f030379">
+        <item>4</item>
+    </NP_MANAGER3>
+    <NP_MANAGER3 name="NP_MANAGER_res_0x7f03037a">
+        <item>2</item>
+    </NP_MANAGER3>
+    <NP_MANAGER3 name="NP_MANAGER_res_0x7f03037b">
+        <item>2</item>
+    </NP_MANAGER3>
+    <NP_MANAGER3 name="NP_MANAGER_res_0x7f03037c">
+        <item>2</item>
+    </NP_MANAGER3>
+    <NP_MANAGER3 name="NP_MANAGER_res_0x7f03037d">
+        <item>1</item>
+    </NP_MANAGER3>
+    <NP_MANAGER3 name="NP_MANAGER_res_0x7f03037e">
+        <item>1</item>
+    </NP_MANAGER3>
+    <NP_MANAGER3 name="NP_MANAGER_res_0x7f03037f">
+        <item>1</item>
+    </NP_MANAGER3>
+    <NP_MANAGER3 name="NP_MANAGER_res_0x7f030380">
+        <item>2</item>
+    </NP_MANAGER3>
+    <NP_MANAGER3 name="NP_MANAGER_res_0x7f030381">
+        <item>1</item>
+    </NP_MANAGER3>
+    <NP_MANAGER3 name="NP_MANAGER_res_0x7f030382">
+        <item>2</item>
+    </NP_MANAGER3>
+    <NP_MANAGER3 name="NP_MANAGER_res_0x7f030383">
+        <item>1</item>
+    </NP_MANAGER3>
+    <NP_MANAGER3 name="NP_MANAGER_res_0x7f030384">
+        <item>1</item>
+    </NP_MANAGER3>
+    <NP_MANAGER3 name="NP_MANAGER_res_0x7f030385">
+        <item>1</item>
+    </NP_MANAGER3>
+    <NP_MANAGER3 name="NP_MANAGER_res_0x7f030386">
+        <item>32</item>
+    </NP_MANAGER3>
+    <NP_MANAGER3 name="NP_MANAGER_res_0x7f030387">
+        <item>4</item>
+    </NP_MANAGER3>
+    <NP_MANAGER3 name="NP_MANAGER_res_0x7f030388">
+        <item>65536</item>
+        <item>-1</item>
+        <item>0</item>
+        <item>1</item>
+        <item>2</item>
+        <item>3</item>
+    </NP_MANAGER3>
+    <NP_MANAGER3 name="NP_MANAGER_res_0x7f030389">
+        <item>4</item>
+    </NP_MANAGER3>
+    <NP_MANAGER3 name="NP_MANAGER_res_0x7f03038a">
+        <item>8</item>
+    </NP_MANAGER3>
+    <NP_MANAGER3 name="NP_MANAGER_res_0x7f03038b">
+        <item>64</item>
+    </NP_MANAGER3>
+    <NP_MANAGER3 name="NP_MANAGER_res_0x7f03038c">
+        <item>64</item>
+    </NP_MANAGER3>
+    <NP_MANAGER3 name="NP_MANAGER_res_0x7f03038d">
+        <item>1</item>
+    </NP_MANAGER3>
+    <NP_MANAGER3 name="NP_MANAGER_res_0x7f03038e">
+        <item>65539</item>
+        <item>0</item>
+        <item>1</item>
+        <item>2</item>
+        <item>3</item>
+        <item>4</item>
+        <item>5</item>
+        <item>6</item>
+    </NP_MANAGER3>
+    <NP_MANAGER3 name="NP_MANAGER_res_0x7f03038f">
+        <item>65538</item>
+        <item>0</item>
+        <item>1</item>
+    </NP_MANAGER3>
+    <NP_MANAGER3 name="NP_MANAGER_res_0x7f030390">
+        <item>32</item>
+    </NP_MANAGER3>
+    <NP_MANAGER3 name="NP_MANAGER_res_0x7f030391">
+        <item>32</item>
+    </NP_MANAGER3>
+    <NP_MANAGER3 name="NP_MANAGER_res_0x7f030392">
+        <item>1</item>
+    </NP_MANAGER3>
+    <NP_MANAGER3 name="NP_MANAGER_res_0x7f030393">
+        <item>1</item>
+    </NP_MANAGER3>
+    <NP_MANAGER3 name="NP_MANAGER_res_0x7f030394">
+        <item>1</item>
+    </NP_MANAGER3>
+    <NP_MANAGER3 name="NP_MANAGER_res_0x7f030395">
+        <item>1</item>
+    </NP_MANAGER3>
+    <NP_MANAGER3 name="NP_MANAGER_res_0x7f030396">
+        <item>1</item>
+    </NP_MANAGER3>
+    <NP_MANAGER3 name="NP_MANAGER_res_0x7f030397">
+        <item>1</item>
+    </NP_MANAGER3>
+    <NP_MANAGER3 name="NP_MANAGER_res_0x7f030398">
+        <item>32</item>
+    </NP_MANAGER3>
+    <NP_MANAGER3 name="NP_MANAGER_res_0x7f030399">
+        <item>3</item>
+    </NP_MANAGER3>
+    <NP_MANAGER3 name="NP_MANAGER_res_0x7f03039a">
+        <item>8</item>
+    </NP_MANAGER3>
+    <NP_MANAGER3 name="NP_MANAGER_res_0x7f03039b">
+        <item>1</item>
+    </NP_MANAGER3>
+    <NP_MANAGER3 name="NP_MANAGER_res_0x7f03039c">
+        <item>8</item>
+    </NP_MANAGER3>
+    <NP_MANAGER3 name="NP_MANAGER_res_0x7f03039d">
+        <item>1</item>
+    </NP_MANAGER3>
+    <NP_MANAGER3 name="NP_MANAGER_res_0x7f03039e">
+        <item>2</item>
+    </NP_MANAGER3>
+    <NP_MANAGER3 name="NP_MANAGER_res_0x7f03039f">
+        <item>1</item>
+    </NP_MANAGER3>
+    <NP_MANAGER3 name="NP_MANAGER_res_0x7f0303a0">
+        <item>16</item>
+    </NP_MANAGER3>
+    <NP_MANAGER3 name="NP_MANAGER_res_0x7f0303a1">
+        <item>65536</item>
+        <item>0</item>
+        <item>1</item>
+        <item>2</item>
+    </NP_MANAGER3>
+    <NP_MANAGER3 name="NP_MANAGER_res_0x7f0303a2">
+        <item>1</item>
+    </NP_MANAGER3>
+    <NP_MANAGER3 name="NP_MANAGER_res_0x7f0303a3">
+        <item>1</item>
+    </NP_MANAGER3>
+    <NP_MANAGER3 name="NP_MANAGER_res_0x7f0303a4">
+        <item>131072</item>
+        <item>0</item>
+        <item>1</item>
+        <item>2</item>
+        <item>4</item>
+    </NP_MANAGER3>
+    <NP_MANAGER3 name="NP_MANAGER_res_0x7f0303a5">
+        <item>1</item>
+    </NP_MANAGER3>
+    <NP_MANAGER3 name="NP_MANAGER_res_0x7f0303a6">
+        <item>8</item>
+    </NP_MANAGER3>
+    <NP_MANAGER3 name="NP_MANAGER_res_0x7f0303a7">
+        <item>4</item>
+    </NP_MANAGER3>
+    <NP_MANAGER3 name="NP_MANAGER_res_0x7f0303a8">
+        <item>131072</item>
+        <item>0x10000</item>
+        <item>0x1000</item>
+        <item>0x2</item>
+        <item>0x1</item>
+        <item>0x4</item>
+        <item>0x8</item>
+    </NP_MANAGER3>
+    <NP_MANAGER3 name="NP_MANAGER_res_0x7f0303a9">
+        <item>65536</item>
+        <item>0</item>
+        <item>1</item>
+    </NP_MANAGER3>
+    <NP_MANAGER3 name="NP_MANAGER_res_0x7f0303aa">
+        <item>2</item>
+    </NP_MANAGER3>
+    <NP_MANAGER3 name="NP_MANAGER_res_0x7f0303ab">
+        <item>8</item>
+    </NP_MANAGER3>
+    <NP_MANAGER3 name="NP_MANAGER_res_0x7f0303ac">
+        <item>2</item>
+    </NP_MANAGER3>
+    <NP_MANAGER3 name="NP_MANAGER_res_0x7f0303ad">
+        <item>2</item>
+    </NP_MANAGER3>
+    <NP_MANAGER3 name="NP_MANAGER_res_0x7f0303ae">
+        <item>8</item>
+    </NP_MANAGER3>
+    <NP_MANAGER3 name="NP_MANAGER_res_0x7f0303af">
+        <item>65536</item>
+        <item>1</item>
+        <item>2</item>
+        <item>3</item>
+        <item>4</item>
+        <item>5</item>
+    </NP_MANAGER3>
+    <NP_MANAGER3 name="NP_MANAGER_res_0x7f0303b0">
+        <item>65536</item>
+        <item>0</item>
+        <item>1</item>
+        <item>2</item>
+        <item>3</item>
+        <item>4</item>
+        <item>5</item>
+        <item>6</item>
+        <item>7</item>
+    </NP_MANAGER3>
+    <NP_MANAGER3 name="NP_MANAGER_res_0x7f0303b1">
+        <item>8</item>
+    </NP_MANAGER3>
+    <NP_MANAGER3 name="NP_MANAGER_res_0x7f0303b2">
+        <item>8</item>
+    </NP_MANAGER3>
+    <NP_MANAGER3 name="NP_MANAGER_res_0x7f0303b3">
+        <item>8</item>
+    </NP_MANAGER3>
+    <NP_MANAGER3 name="NP_MANAGER_res_0x7f0303b4">
+        <item>64</item>
+    </NP_MANAGER3>
+    <NP_MANAGER3 name="NP_MANAGER_res_0x7f0303b5">
+        <item>8</item>
+    </NP_MANAGER3>
+    <NP_MANAGER3 name="NP_MANAGER_res_0x7f0303b6">
+        <item>64</item>
+    </NP_MANAGER3>
+    <NP_MANAGER3 name="NP_MANAGER_res_0x7f0303b7">
+        <item>8</item>
+    </NP_MANAGER3>
+    <NP_MANAGER3 name="NP_MANAGER_res_0x7f0303b8">
+        <item>8</item>
+    </NP_MANAGER3>
+    <NP_MANAGER3 name="NP_MANAGER_res_0x7f0303b9">
+        <item>64</item>
+    </NP_MANAGER3>
+    <NP_MANAGER3 name="NP_MANAGER_res_0x7f0303ba">
+        <item>8</item>
+    </NP_MANAGER3>
+    <NP_MANAGER3 name="NP_MANAGER_res_0x7f0303bb">
+        <item>64</item>
+    </NP_MANAGER3>
+    <NP_MANAGER3 name="NP_MANAGER_res_0x7f0303bc">
+        <item>8</item>
+    </NP_MANAGER3>
+    <NP_MANAGER3 name="NP_MANAGER_res_0x7f0303bd">
+        <item>1</item>
+    </NP_MANAGER3>
+    <NP_MANAGER3 name="NP_MANAGER_res_0x7f0303be">
+        <item>1</item>
+    </NP_MANAGER3>
+    <NP_MANAGER3 name="NP_MANAGER_res_0x7f0303bf">
+        <item>64</item>
+    </NP_MANAGER3>
+    <NP_MANAGER3 name="NP_MANAGER_res_0x7f0303c0">
+        <item>2</item>
+    </NP_MANAGER3>
+    <NP_MANAGER3 name="NP_MANAGER_res_0x7f0303c1">
+        <item>1</item>
+    </NP_MANAGER3>
+    <NP_MANAGER3 name="NP_MANAGER_res_0x7f0303c2">
+        <item>8</item>
+    </NP_MANAGER3>
+    <NP_MANAGER3 name="NP_MANAGER_res_0x7f0303c3">
+        <item>16</item>
+    </NP_MANAGER3>
+    <NP_MANAGER3 name="NP_MANAGER_res_0x7f0303c4">
+        <item>65536</item>
+        <item>3</item>
+        <item>5</item>
+        <item>9</item>
+        <item>14</item>
+        <item>15</item>
+    </NP_MANAGER3>
+    <NP_MANAGER3 name="NP_MANAGER_res_0x7f0303c5">
+        <item>65536</item>
+        <item>0</item>
+        <item>1</item>
+        <item>2</item>
+        <item>3</item>
+    </NP_MANAGER3>
+    <NP_MANAGER3 name="NP_MANAGER_res_0x7f0303c6">
+        <item>32</item>
+    </NP_MANAGER3>
+    <NP_MANAGER3 name="NP_MANAGER_res_0x7f0303c7">
+        <item>32</item>
+    </NP_MANAGER3>
+    <NP_MANAGER3 name="NP_MANAGER_res_0x7f0303c8">
+        <item>32</item>
+    </NP_MANAGER3>
+    <NP_MANAGER3 name="NP_MANAGER_res_0x7f0303c9">
+        <item>32</item>
+    </NP_MANAGER3>
+    <NP_MANAGER3 name="NP_MANAGER_res_0x7f0303ca">
+        <item>32</item>
+    </NP_MANAGER3>
+    <NP_MANAGER3 name="NP_MANAGER_res_0x7f0303cb">
+        <item>32</item>
+    </NP_MANAGER3>
+    <NP_MANAGER3 name="NP_MANAGER_res_0x7f0303cc">
+        <item>65537</item>
+        <item>0</item>
+    </NP_MANAGER3>
+    <NP_MANAGER3 name="NP_MANAGER_res_0x7f0303cd">
+        <item>2</item>
+    </NP_MANAGER3>
+    <NP_MANAGER3 name="NP_MANAGER_res_0x7f0303ce">
+        <item>1</item>
+    </NP_MANAGER3>
+    <NP_MANAGER3 name="NP_MANAGER_res_0x7f0303cf">
+        <item>16</item>
+    </NP_MANAGER3>
+    <NP_MANAGER3 name="NP_MANAGER_res_0x7f0303d0">
+        <item>65536</item>
+        <item>0</item>
+        <item>4</item>
+        <item>8</item>
+    </NP_MANAGER3>
+    <NP_MANAGER3 name="NP_MANAGER_res_0x7f0303d1">
+        <item>1</item>
+    </NP_MANAGER3>
+    <NP_MANAGER3 name="NP_MANAGER_res_0x7f0303d2">
+        <item>1</item>
+    </NP_MANAGER3>
+    <NP_MANAGER3 name="NP_MANAGER_res_0x7f0303d3">
+        <item>1</item>
+    </NP_MANAGER3>
+    <NP_MANAGER3 name="NP_MANAGER_res_0x7f0303d4">
+        <item>1</item>
+    </NP_MANAGER3>
+    <NP_MANAGER3 name="NP_MANAGER_res_0x7f0303d5">
+        <item>1</item>
+    </NP_MANAGER3>
+    <NP_MANAGER3 name="NP_MANAGER_res_0x7f0303d6">
+        <item>2</item>
+    </NP_MANAGER3>
+    <NP_MANAGER3 name="NP_MANAGER_res_0x7f0303d7">
+        <item>1</item>
+    </NP_MANAGER3>
+    <NP_MANAGER3 name="NP_MANAGER_res_0x7f0303d8">
+        <item>16</item>
+    </NP_MANAGER3>
+    <NP_MANAGER3 name="NP_MANAGER_res_0x7f0303d9">
+        <item>8</item>
+    </NP_MANAGER3>
+    <NP_MANAGER3 name="NP_MANAGER_res_0x7f0303da">
+        <item>64</item>
+    </NP_MANAGER3>
+    <NP_MANAGER3 name="NP_MANAGER_res_0x7f0303db">
+        <item>64</item>
+    </NP_MANAGER3>
+    <NP_MANAGER3 name="NP_MANAGER_res_0x7f0303dc">
+        <item>1</item>
+    </NP_MANAGER3>
+    <NP_MANAGER3 name="NP_MANAGER_res_0x7f0303dd">
+        <item>65539</item>
+        <item>0</item>
+        <item>1</item>
+        <item>2</item>
+        <item>3</item>
+        <item>4</item>
+        <item>5</item>
+    </NP_MANAGER3>
+    <NP_MANAGER3 name="NP_MANAGER_res_0x7f0303de">
+        <item>32</item>
+    </NP_MANAGER3>
+    <NP_MANAGER3 name="NP_MANAGER_res_0x7f0303df">
+        <item>4</item>
+    </NP_MANAGER3>
+    <NP_MANAGER3 name="NP_MANAGER_res_0x7f0303e0">
+        <item>1</item>
+    </NP_MANAGER3>
+    <NP_MANAGER3 name="NP_MANAGER_res_0x7f0303e1">
+        <item>2</item>
+    </NP_MANAGER3>
+    <NP_MANAGER3 name="NP_MANAGER_res_0x7f0303e2">
+        <item>1</item>
+    </NP_MANAGER3>
+    <NP_MANAGER3 name="NP_MANAGER_res_0x7f0303e3">
+        <item>1</item>
+    </NP_MANAGER3>
+    <NP_MANAGER3 name="NP_MANAGER_res_0x7f0303e4">
+        <item>16</item>
+    </NP_MANAGER3>
+    <NP_MANAGER3 name="NP_MANAGER_res_0x7f0303e5">
+        <item>1</item>
+    </NP_MANAGER3>
+    <NP_MANAGER3 name="NP_MANAGER_res_0x7f0303e6">
+        <item>1</item>
+    </NP_MANAGER3>
+    <NP_MANAGER3 name="NP_MANAGER_res_0x7f0303e7">
+        <item>1</item>
+    </NP_MANAGER3>
+    <NP_MANAGER3 name="NP_MANAGER_res_0x7f0303e8">
+        <item>8</item>
+    </NP_MANAGER3>
+    <NP_MANAGER3 name="NP_MANAGER_res_0x7f0303e9">
+        <item>8</item>
+    </NP_MANAGER3>
+    <NP_MANAGER3 name="NP_MANAGER_res_0x7f0303ea">
+        <item>1</item>
+    </NP_MANAGER3>
+    <NP_MANAGER3 name="NP_MANAGER_res_0x7f0303eb">
+        <item>1</item>
+    </NP_MANAGER3>
+    <NP_MANAGER3 name="NP_MANAGER_res_0x7f0303ec">
+        <item>1</item>
+    </NP_MANAGER3>
+    <NP_MANAGER3 name="NP_MANAGER_res_0x7f0303ed">
+        <item>64</item>
+    </NP_MANAGER3>
+    <NP_MANAGER3 name="NP_MANAGER_res_0x7f0303ee">
+        <item>64</item>
+    </NP_MANAGER3>
+    <NP_MANAGER3 name="NP_MANAGER_res_0x7f0303ef">
+        <item>64</item>
+    </NP_MANAGER3>
+    <NP_MANAGER3 name="NP_MANAGER_res_0x7f0303f0">
+        <item>64</item>
+    </NP_MANAGER3>
+    <NP_MANAGER3 name="NP_MANAGER_res_0x7f0303f1">
+        <item>8</item>
+    </NP_MANAGER3>
+    <NP_MANAGER3 name="NP_MANAGER_res_0x7f0303f2">
+        <item>8</item>
+    </NP_MANAGER3>
+    <NP_MANAGER3 name="NP_MANAGER_res_0x7f0303f3">
+        <item>16</item>
+    </NP_MANAGER3>
+    <NP_MANAGER3 name="NP_MANAGER_res_0x7f0303f4">
+        <item>1</item>
+    </NP_MANAGER3>
+    <NP_MANAGER3 name="NP_MANAGER_res_0x7f0303f5">
+        <item>64</item>
+    </NP_MANAGER3>
+    <NP_MANAGER3 name="NP_MANAGER_res_0x7f0303f6">
+        <item>32</item>
+    </NP_MANAGER3>
+    <NP_MANAGER3 name="NP_MANAGER_res_0x7f0303f7">
+        <item>32</item>
+    </NP_MANAGER3>
+    <NP_MANAGER3 name="NP_MANAGER_res_0x7f0303f8">
+        <item>64</item>
+    </NP_MANAGER3>
+    <NP_MANAGER3 name="NP_MANAGER_res_0x7f0303f9">
+        <item>4</item>
+    </NP_MANAGER3>
+    <NP_MANAGER3 name="NP_MANAGER_res_0x7f0303fa">
+        <item>17</item>
+    </NP_MANAGER3>
+    <NP_MANAGER3 name="NP_MANAGER_res_0x7f0303fb">
+        <item>64</item>
+    </NP_MANAGER3>
+    <NP_MANAGER3 name="NP_MANAGER_res_0x7f0303fc">
+        <item>8</item>
+    </NP_MANAGER3>
+    <NP_MANAGER3 name="NP_MANAGER_res_0x7f0303fd">
+        <item>1</item>
+    </NP_MANAGER3>
+    <NP_MANAGER3 name="NP_MANAGER_res_0x7f0303fe">
+        <item>1</item>
+    </NP_MANAGER3>
+    <NP_MANAGER3 name="NP_MANAGER_res_0x7f0303ff">
+        <item>2</item>
+    </NP_MANAGER3>
+    <NP_MANAGER3 name="NP_MANAGER_res_0x7f030400">
+        <item>1</item>
+    </NP_MANAGER3>
+    <NP_MANAGER3 name="NP_MANAGER_res_0x7f030401">
+        <item>1</item>
+    </NP_MANAGER3>
+    <NP_MANAGER3 name="NP_MANAGER_res_0x7f030402">
+        <item>1</item>
+    </NP_MANAGER3>
+    <NP_MANAGER3 name="NP_MANAGER_res_0x7f030403">
+        <item>1</item>
+    </NP_MANAGER3>
+    <NP_MANAGER3 name="NP_MANAGER_res_0x7f030404">
+        <item>8</item>
+    </NP_MANAGER3>
+    <NP_MANAGER3 name="NP_MANAGER_res_0x7f030405">
+        <item>64</item>
+    </NP_MANAGER3>
+    <NP_MANAGER3 name="NP_MANAGER_res_0x7f030406">
+        <item>1</item>
+    </NP_MANAGER3>
+    <NP_MANAGER3 name="NP_MANAGER_res_0x7f030407">
+        <item>1</item>
+    </NP_MANAGER3>
+    <NP_MANAGER3 name="NP_MANAGER_res_0x7f030408">
+        <item>1</item>
+    </NP_MANAGER3>
+    <NP_MANAGER3 name="NP_MANAGER_res_0x7f030409">
+        <item>1</item>
+    </NP_MANAGER3>
+    <NP_MANAGER3 name="NP_MANAGER_res_0x7f03040a">
+        <item>1</item>
+    </NP_MANAGER3>
+    <NP_MANAGER3 name="NP_MANAGER_res_0x7f03040b">
+        <item>1</item>
+    </NP_MANAGER3>
+    <NP_MANAGER3 name="NP_MANAGER_res_0x7f03040c">
+        <item>1</item>
+    </NP_MANAGER3>
+    <NP_MANAGER3 name="NP_MANAGER_res_0x7f03040d">
+        <item>1</item>
+    </NP_MANAGER3>
+    <NP_MANAGER3 name="NP_MANAGER_res_0x7f03040e">
+        <item>1</item>
+    </NP_MANAGER3>
+    <NP_MANAGER3 name="NP_MANAGER_res_0x7f03040f">
+        <item>1</item>
+    </NP_MANAGER3>
+    <NP_MANAGER3 name="NP_MANAGER_res_0x7f030410">
+        <item>1</item>
+    </NP_MANAGER3>
+    <NP_MANAGER3 name="NP_MANAGER_res_0x7f030411">
+        <item>1</item>
+    </NP_MANAGER3>
+    <NP_MANAGER3 name="NP_MANAGER_res_0x7f030412">
+        <item>1</item>
+    </NP_MANAGER3>
+    <NP_MANAGER3 name="NP_MANAGER_res_0x7f030413">
+        <item>1</item>
+    </NP_MANAGER3>
+    <NP_MANAGER3 name="NP_MANAGER_res_0x7f030414">
+        <item>65536</item>
+        <item>0</item>
+        <item>1</item>
+    </NP_MANAGER3>
+    <NP_MANAGER3 name="NP_MANAGER_res_0x7f030415">
+        <item>192</item>
+    </NP_MANAGER3>
+    <NP_MANAGER3 name="NP_MANAGER_res_0x7f030416">
+        <item>192</item>
+    </NP_MANAGER3>
+    <NP_MANAGER3 name="NP_MANAGER_res_0x7f030417">
+        <item>192</item>
+    </NP_MANAGER3>
+    <NP_MANAGER3 name="NP_MANAGER_res_0x7f030418">
+        <item>192</item>
+    </NP_MANAGER3>
+    <NP_MANAGER3 name="NP_MANAGER_res_0x7f030419">
+        <item>192</item>
+    </NP_MANAGER3>
+    <NP_MANAGER3 name="NP_MANAGER_res_0x7f03041a">
+        <item>192</item>
+    </NP_MANAGER3>
+    <NP_MANAGER3 name="NP_MANAGER_res_0x7f03041b">
+        <item>192</item>
+    </NP_MANAGER3>
+    <NP_MANAGER3 name="NP_MANAGER_res_0x7f03041c">
+        <item>192</item>
+    </NP_MANAGER3>
+    <NP_MANAGER3 name="NP_MANAGER_res_0x7f03041d">
+        <item>8</item>
+    </NP_MANAGER3>
+    <NP_MANAGER3 name="NP_MANAGER_res_0x7f03041e">
+        <item>8</item>
+    </NP_MANAGER3>
+    <NP_MANAGER3 name="NP_MANAGER_res_0x7f03041f">
+        <item>65536</item>
+        <item>0</item>
+        <item>1</item>
+        <item>2</item>
+    </NP_MANAGER3>
+    <NP_MANAGER3 name="NP_MANAGER_res_0x7f030420">
+        <item>131072</item>
+        <item>0</item>
+        <item>1</item>
+        <item>2</item>
+        <item>4</item>
+        <item>8</item>
+    </NP_MANAGER3>
+    <NP_MANAGER3 name="NP_MANAGER_res_0x7f030421">
+        <item>4</item>
+    </NP_MANAGER3>
+    <NP_MANAGER3 name="NP_MANAGER_res_0x7f030422">
+        <item>131072</item>
+        <item>0</item>
+        <item>1</item>
+        <item>2</item>
+        <item>4</item>
+    </NP_MANAGER3>
+    <NP_MANAGER3 name="NP_MANAGER_res_0x7f030423">
+        <item>8</item>
+    </NP_MANAGER3>
+    <NP_MANAGER3 name="NP_MANAGER_res_0x7f030424">
+        <item>1</item>
+    </NP_MANAGER3>
+    <NP_MANAGER3 name="NP_MANAGER_res_0x7f030425">
+        <item>8</item>
+    </NP_MANAGER3>
+    <NP_MANAGER3 name="NP_MANAGER_res_0x7f030426">
+        <item>8</item>
+    </NP_MANAGER3>
+    <NP_MANAGER3 name="NP_MANAGER_res_0x7f030427">
+        <item>8</item>
+    </NP_MANAGER3>
+    <NP_MANAGER3 name="NP_MANAGER_res_0x7f030428">
+        <item>1</item>
+    </NP_MANAGER3>
+    <NP_MANAGER3 name="NP_MANAGER_res_0x7f030429">
+        <item>1</item>
+    </NP_MANAGER3>
+    <NP_MANAGER3 name="NP_MANAGER_res_0x7f03042a">
+        <item>1</item>
+    </NP_MANAGER3>
+    <NP_MANAGER3 name="NP_MANAGER_res_0x7f03042b">
+        <item>1</item>
+    </NP_MANAGER3>
+    <NP_MANAGER3 name="NP_MANAGER_res_0x7f03042c">
+        <item>16</item>
+    </NP_MANAGER3>
+    <NP_MANAGER3 name="NP_MANAGER_res_0x7f03042d">
+        <item>16</item>
+    </NP_MANAGER3>
+    <NP_MANAGER3 name="NP_MANAGER_res_0x7f03042e">
+        <item>1</item>
+    </NP_MANAGER3>
+    <NP_MANAGER3 name="NP_MANAGER_res_0x7f03042f">
+        <item>1</item>
+    </NP_MANAGER3>
+    <NP_MANAGER3 name="NP_MANAGER_res_0x7f030430">
+        <item>8</item>
+    </NP_MANAGER3>
+    <NP_MANAGER3 name="NP_MANAGER_res_0x7f030431">
+        <item>8</item>
+    </NP_MANAGER3>
+    <NP_MANAGER3 name="NP_MANAGER_res_0x7f030432">
+        <item>32</item>
+    </NP_MANAGER3>
+    <NP_MANAGER3 name="NP_MANAGER_res_0x7f030433">
+        <item>1</item>
+    </NP_MANAGER3>
+    <NP_MANAGER3 name="NP_MANAGER_res_0x7f030434">
+        <item>1</item>
+    </NP_MANAGER3>
+    <NP_MANAGER3 name="NP_MANAGER_res_0x7f030435">
+        <item>1</item>
+    </NP_MANAGER3>
+    <NP_MANAGER3 name="NP_MANAGER_res_0x7f030436">
+        <item>1</item>
+    </NP_MANAGER3>
+    <NP_MANAGER3 name="NP_MANAGER_res_0x7f030437">
+        <item>4</item>
+    </NP_MANAGER3>
+    <NP_MANAGER3 name="NP_MANAGER_res_0x7f030438">
+        <item>8</item>
+    </NP_MANAGER3>
+    <NP_MANAGER3 name="NP_MANAGER_res_0x7f030439">
+        <item>1</item>
+    </NP_MANAGER3>
+    <NP_MANAGER3 name="NP_MANAGER_res_0x7f03043a">
+        <item>1</item>
+    </NP_MANAGER3>
+    <NP_MANAGER3 name="NP_MANAGER_res_0x7f03043b">
+        <item>8</item>
+    </NP_MANAGER3>
+    <NP_MANAGER3 name="NP_MANAGER_res_0x7f03043c">
+        <item>131072</item>
+        <item>0</item>
+        <item>1</item>
+        <item>2</item>
+        <item>3</item>
+    </NP_MANAGER3>
+    <NP_MANAGER3 name="NP_MANAGER_res_0x7f03043d">
+        <item>32</item>
+    </NP_MANAGER3>
+    <NP_MANAGER3 name="NP_MANAGER_res_0x7f03043e">
+        <item>32</item>
+    </NP_MANAGER3>
+    <NP_MANAGER3 name="NP_MANAGER_res_0x7f03043f">
+        <item>32</item>
+    </NP_MANAGER3>
+    <NP_MANAGER3 name="NP_MANAGER_res_0x7f030440">
+        <item>32</item>
+    </NP_MANAGER3>
+    <NP_MANAGER3 name="NP_MANAGER_res_0x7f030441">
+        <item>1</item>
+    </NP_MANAGER3>
+    <NP_MANAGER3 name="NP_MANAGER_res_0x7f030442">
+        <item>8</item>
+    </NP_MANAGER3>
+    <NP_MANAGER3 name="NP_MANAGER_res_0x7f030443">
+        <item>32</item>
+    </NP_MANAGER3>
+    <NP_MANAGER3 name="NP_MANAGER_res_0x7f030444">
+        <item>8</item>
+    </NP_MANAGER3>
+    <NP_MANAGER3 name="NP_MANAGER_res_0x7f030445">
+        <item>2</item>
+    </NP_MANAGER3>
+    <NP_MANAGER3 name="NP_MANAGER_res_0x7f030446">
+        <item>1</item>
+    </NP_MANAGER3>
+    <NP_MANAGER3 name="NP_MANAGER_res_0x7f030447">
+        <item>64</item>
+    </NP_MANAGER3>
+    <NP_MANAGER3 name="NP_MANAGER_res_0x7f030448">
+        <item>65536</item>
+        <item>0</item>
+        <item>1</item>
+        <item>2</item>
+        <item>3</item>
+        <item>4</item>
+        <item>5</item>
+        <item>6</item>
+    </NP_MANAGER3>
+    <NP_MANAGER3 name="NP_MANAGER_res_0x7f030449">
+        <item>16</item>
+    </NP_MANAGER3>
+    <NP_MANAGER3 name="NP_MANAGER_res_0x7f03044a">
+        <item>65536</item>
+        <item>3</item>
+        <item>5</item>
+        <item>9</item>
+        <item>14</item>
+        <item>15</item>
+    </NP_MANAGER3>
+    <NP_MANAGER3 name="NP_MANAGER_res_0x7f03044b">
+        <item>8</item>
+    </NP_MANAGER3>
+    <NP_MANAGER3 name="NP_MANAGER_res_0x7f03044c">
+        <item>8</item>
+    </NP_MANAGER3>
+    <NP_MANAGER3 name="NP_MANAGER_res_0x7f03044d">
+        <item>8</item>
+    </NP_MANAGER3>
+    <NP_MANAGER3 name="NP_MANAGER_res_0x7f03044e">
+        <item>8</item>
+    </NP_MANAGER3>
+    <NP_MANAGER3 name="NP_MANAGER_res_0x7f03044f">
+        <item>8</item>
+    </NP_MANAGER3>
+    <NP_MANAGER3 name="NP_MANAGER_res_0x7f030450">
+        <item>8</item>
+    </NP_MANAGER3>
+    <NP_MANAGER3 name="NP_MANAGER_res_0x7f030451">
+        <item>8</item>
+    </NP_MANAGER3>
+    <NP_MANAGER3 name="NP_MANAGER_res_0x7f030452">
+        <item>8</item>
+    </NP_MANAGER3>
+    <NP_MANAGER3 name="NP_MANAGER_res_0x7f030453">
+        <item>8</item>
+    </NP_MANAGER3>
+    <NP_MANAGER3 name="NP_MANAGER_res_0x7f030454">
+        <item>8</item>
+    </NP_MANAGER3>
+    <NP_MANAGER3 name="NP_MANAGER_res_0x7f030455">
+        <item>17</item>
+    </NP_MANAGER3>
+    <NP_MANAGER3 name="NP_MANAGER_res_0x7f030456">
+        <item>16</item>
+    </NP_MANAGER3>
+    <NP_MANAGER3 name="NP_MANAGER_res_0x7f030457">
+        <item>16</item>
+    </NP_MANAGER3>
+    <NP_MANAGER3 name="NP_MANAGER_res_0x7f030458">
+        <item>32</item>
+    </NP_MANAGER3>
+    <NP_MANAGER3 name="NP_MANAGER_res_0x7f030459">
+        <item>16</item>
+    </NP_MANAGER3>
+    <NP_MANAGER3 name="NP_MANAGER_res_0x7f03045a">
+        <item>64</item>
+    </NP_MANAGER3>
+    <NP_MANAGER3 name="NP_MANAGER_res_0x7f03045b">
+        <item>1</item>
+    </NP_MANAGER3>
+    <NP_MANAGER3 name="NP_MANAGER_res_0x7f03045c">
+        <item>17</item>
+    </NP_MANAGER3>
+    <NP_MANAGER3 name="NP_MANAGER_res_0x7f03045d">
+        <item>64</item>
+    </NP_MANAGER3>
+    <NP_MANAGER3 name="NP_MANAGER_res_0x7f03045e">
+        <item>64</item>
+    </NP_MANAGER3>
+    <NP_MANAGER3 name="NP_MANAGER_res_0x7f03045f">
+        <item>1</item>
+    </NP_MANAGER3>
+    <NP_MANAGER3 name="NP_MANAGER_res_0x7f030460">
+        <item>8</item>
+    </NP_MANAGER3>
+    <NP_MANAGER3 name="NP_MANAGER_res_0x7f030461">
+        <item>1</item>
+    </NP_MANAGER3>
+    <NP_MANAGER3 name="NP_MANAGER_res_0x7f030462">
+        <item>2</item>
+    </NP_MANAGER3>
+    <NP_MANAGER3 name="NP_MANAGER_res_0x7f030463">
+        <item>8</item>
+    </NP_MANAGER3>
+    <NP_MANAGER3 name="NP_MANAGER_res_0x7f030464">
+        <item>4</item>
+    </NP_MANAGER3>
+    <NP_MANAGER3 name="NP_MANAGER_res_0x7f030465">
+        <item>1</item>
+    </NP_MANAGER3>
+    <NP_MANAGER3 name="NP_MANAGER_res_0x7f030466">
+        <item>16</item>
+    </NP_MANAGER3>
+    <NP_MANAGER3 name="NP_MANAGER_res_0x7f030467">
+        <item>1</item>
+    </NP_MANAGER3>
+    <NP_MANAGER3 name="NP_MANAGER_res_0x7f030468">
+        <item>2</item>
+    </NP_MANAGER3>
+    <NP_MANAGER3 name="NP_MANAGER_res_0x7f030469">
+        <item>1</item>
+    </NP_MANAGER3>
+    <NP_MANAGER3 name="NP_MANAGER_res_0x7f03046a">
+        <item>16</item>
+    </NP_MANAGER3>
+    <NP_MANAGER3 name="NP_MANAGER_res_0x7f03046b">
+        <item>1</item>
+    </NP_MANAGER3>
+    <NP_MANAGER3 name="NP_MANAGER_res_0x7f03046c">
+        <item>64</item>
+    </NP_MANAGER3>
+    <NP_MANAGER3 name="NP_MANAGER_res_0x7f03046d">
+        <item>64</item>
+    </NP_MANAGER3>
+    <NP_MANAGER3 name="NP_MANAGER_res_0x7f03046e">
+        <item>1</item>
+    </NP_MANAGER3>
+    <NP_MANAGER3 name="NP_MANAGER_res_0x7f03046f">
+        <item>1</item>
+    </NP_MANAGER3>
+    <NP_MANAGER3 name="NP_MANAGER_res_0x7f030470">
+        <item>1</item>
+    </NP_MANAGER3>
+    <NP_MANAGER3 name="NP_MANAGER_res_0x7f030471">
+        <item>64</item>
+    </NP_MANAGER3>
+    <NP_MANAGER3 name="NP_MANAGER_res_0x7f030472">
+        <item>65536</item>
+        <item>0</item>
+        <item>1</item>
+        <item>2</item>
+    </NP_MANAGER3>
+    <NP_MANAGER3 name="NP_MANAGER_res_0x7f030473">
+        <item>16</item>
+    </NP_MANAGER3>
+    <NP_MANAGER3 name="NP_MANAGER_res_0x7f030474">
+        <item>65536</item>
+        <item>3</item>
+        <item>5</item>
+        <item>9</item>
+        <item>14</item>
+        <item>15</item>
+        <item>16</item>
+    </NP_MANAGER3>
+    <NP_MANAGER3 name="NP_MANAGER_res_0x7f030475">
+        <item>1</item>
+    </NP_MANAGER3>
+    <NP_MANAGER3 name="NP_MANAGER_res_0x7f030476">
+        <item>4</item>
+    </NP_MANAGER3>
+    <NP_MANAGER3 name="NP_MANAGER_res_0x7f030477">
+        <item>65536</item>
+        <item>0</item>
+        <item>1</item>
+        <item>2</item>
+    </NP_MANAGER3>
+    <NP_MANAGER3 name="NP_MANAGER_res_0x7f030478">
+        <item>16</item>
+    </NP_MANAGER3>
+    <NP_MANAGER3 name="NP_MANAGER_res_0x7f030479">
+        <item>8</item>
+    </NP_MANAGER3>
+    <NP_MANAGER3 name="NP_MANAGER_res_0x7f03047a">
+        <item>65536</item>
+        <item>0</item>
+        <item>1</item>
+        <item>2</item>
+        <item>3</item>
+    </NP_MANAGER3>
+    <NP_MANAGER3 name="NP_MANAGER_res_0x7f03047b">
+        <item>64</item>
+    </NP_MANAGER3>
+    <NP_MANAGER3 name="NP_MANAGER_res_0x7f03047c">
+        <item>8</item>
+    </NP_MANAGER3>
+    <NP_MANAGER3 name="NP_MANAGER_res_0x7f03047d">
+        <item>64</item>
+    </NP_MANAGER3>
+    <NP_MANAGER3 name="NP_MANAGER_res_0x7f03047e">
+        <item>64</item>
+    </NP_MANAGER3>
+    <NP_MANAGER3 name="NP_MANAGER_res_0x7f03047f">
+        <item>65536</item>
+        <item>0</item>
+        <item>1</item>
+        <item>2</item>
+    </NP_MANAGER3>
+    <NP_MANAGER3 name="NP_MANAGER_res_0x7f030480">
+        <item>64</item>
+    </NP_MANAGER3>
+    <NP_MANAGER3 name="NP_MANAGER_res_0x7f030481">
+        <item>64</item>
+    </NP_MANAGER3>
+    <NP_MANAGER3 name="NP_MANAGER_res_0x7f030482">
+        <item>64</item>
+    </NP_MANAGER3>
+    <NP_MANAGER3 name="NP_MANAGER_res_0x7f030483">
+        <item>64</item>
+    </NP_MANAGER3>
+    <NP_MANAGER3 name="NP_MANAGER_res_0x7f030484">
+        <item>64</item>
+    </NP_MANAGER3>
+    <NP_MANAGER3 name="NP_MANAGER_res_0x7f030485">
+        <item>16</item>
+    </NP_MANAGER3>
+    <NP_MANAGER3 name="NP_MANAGER_res_0x7f030486">
+        <item>1</item>
+    </NP_MANAGER3>
+    <NP_MANAGER3 name="NP_MANAGER_res_0x7f030487">
+        <item>1</item>
+    </NP_MANAGER3>
+    <NP_MANAGER3 name="NP_MANAGER_res_0x7f030488">
+        <item>16</item>
+    </NP_MANAGER3>
+    <NP_MANAGER3 name="NP_MANAGER_res_0x7f030489">
+        <item>1</item>
+    </NP_MANAGER3>
+    <NP_MANAGER3 name="NP_MANAGER_res_0x7f03048a">
+        <item>1</item>
+    </NP_MANAGER3>
+    <NP_MANAGER3 name="NP_MANAGER_res_0x7f03048b">
+        <item>16</item>
+    </NP_MANAGER3>
+    <NP_MANAGER3 name="NP_MANAGER_res_0x7f03048c">
+        <item>8</item>
+    </NP_MANAGER3>
+    <NP_MANAGER3 name="NP_MANAGER_res_0x7f03048d">
+        <item>1</item>
+    </NP_MANAGER3>
+    <NP_MANAGER3 name="NP_MANAGER_res_0x7f03048e">
+        <item>16</item>
+    </NP_MANAGER3>
+    <NP_MANAGER3 name="NP_MANAGER_res_0x7f03048f">
+        <item>32</item>
+    </NP_MANAGER3>
+    <NP_MANAGER3 name="NP_MANAGER_res_0x7f030490">
+        <item>65536</item>
+        <item>0</item>
+        <item>1</item>
+        <item>2</item>
+        <item>3</item>
+    </NP_MANAGER3>
+    <NP_MANAGER3 name="NP_MANAGER_res_0x7f030491">
+        <item>9</item>
+    </NP_MANAGER3>
+    <NP_MANAGER3 name="NP_MANAGER_res_0x7f030492">
+        <item>1</item>
+    </NP_MANAGER3>
+    <NP_MANAGER3 name="NP_MANAGER_res_0x7f030493">
+        <item>1</item>
+    </NP_MANAGER3>
+    <NP_MANAGER3 name="NP_MANAGER_res_0x7f030494">
+        <item>1</item>
+    </NP_MANAGER3>
+    <NP_MANAGER3 name="NP_MANAGER_res_0x7f030495">
+        <item>1</item>
+    </NP_MANAGER3>
+    <NP_MANAGER3 name="NP_MANAGER_res_0x7f030496">
+        <item>1</item>
+    </NP_MANAGER3>
+    <NP_MANAGER3 name="NP_MANAGER_res_0x7f030497">
+        <item>1</item>
+    </NP_MANAGER3>
+    <NP_MANAGER3 name="NP_MANAGER_res_0x7f030498">
+        <item>1</item>
+    </NP_MANAGER3>
+    <NP_MANAGER3 name="NP_MANAGER_res_0x7f030499">
+        <item>1</item>
+    </NP_MANAGER3>
+    <NP_MANAGER3 name="NP_MANAGER_res_0x7f03049a">
+        <item>1</item>
+    </NP_MANAGER3>
+    <NP_MANAGER3 name="NP_MANAGER_res_0x7f03049b">
+        <item>1</item>
+    </NP_MANAGER3>
+    <NP_MANAGER3 name="NP_MANAGER_res_0x7f03049c">
+        <item>1</item>
+    </NP_MANAGER3>
+    <NP_MANAGER3 name="NP_MANAGER_res_0x7f03049d">
+        <item>1</item>
+    </NP_MANAGER3>
+    <NP_MANAGER3 name="NP_MANAGER_res_0x7f03049e">
+        <item>1</item>
+    </NP_MANAGER3>
+    <NP_MANAGER3 name="NP_MANAGER_res_0x7f03049f">
+        <item>1</item>
+    </NP_MANAGER3>
+    <NP_MANAGER3 name="NP_MANAGER_res_0x7f0304a0">
+        <item>1</item>
+    </NP_MANAGER3>
+    <NP_MANAGER3 name="NP_MANAGER_res_0x7f0304a1">
+        <item>1</item>
+    </NP_MANAGER3>
+    <NP_MANAGER3 name="NP_MANAGER_res_0x7f0304a2">
+        <item>1</item>
+    </NP_MANAGER3>
+    <NP_MANAGER3 name="NP_MANAGER_res_0x7f0304a3">
+        <item>1</item>
+    </NP_MANAGER3>
+    <NP_MANAGER3 name="NP_MANAGER_res_0x7f0304a4">
+        <item>1</item>
+    </NP_MANAGER3>
+    <NP_MANAGER3 name="NP_MANAGER_res_0x7f0304a5">
+        <item>1</item>
+    </NP_MANAGER3>
+    <NP_MANAGER3 name="NP_MANAGER_res_0x7f0304a6">
+        <item>1</item>
+    </NP_MANAGER3>
+    <NP_MANAGER3 name="NP_MANAGER_res_0x7f0304a7">
+        <item>1</item>
+    </NP_MANAGER3>
+    <NP_MANAGER3 name="NP_MANAGER_res_0x7f0304a8">
+        <item>1</item>
+    </NP_MANAGER3>
+    <NP_MANAGER3 name="NP_MANAGER_res_0x7f0304a9">
+        <item>1</item>
+    </NP_MANAGER3>
+    <NP_MANAGER3 name="NP_MANAGER_res_0x7f0304aa">
+        <item>1</item>
+    </NP_MANAGER3>
+    <NP_MANAGER3 name="NP_MANAGER_res_0x7f0304ab">
+        <item>1</item>
+    </NP_MANAGER3>
+    <NP_MANAGER3 name="NP_MANAGER_res_0x7f0304ac">
+        <item>1</item>
+    </NP_MANAGER3>
+    <NP_MANAGER3 name="NP_MANAGER_res_0x7f0304ad">
+        <item>1</item>
+    </NP_MANAGER3>
+    <NP_MANAGER3 name="NP_MANAGER_res_0x7f0304ae">
+        <item>1</item>
+    </NP_MANAGER3>
+    <NP_MANAGER3 name="NP_MANAGER_res_0x7f0304af">
+        <item>1</item>
+    </NP_MANAGER3>
+    <NP_MANAGER3 name="NP_MANAGER_res_0x7f0304b0">
+        <item>1</item>
+    </NP_MANAGER3>
+    <NP_MANAGER3 name="NP_MANAGER_res_0x7f0304b1">
+        <item>1</item>
+    </NP_MANAGER3>
+    <NP_MANAGER3 name="NP_MANAGER_res_0x7f0304b2">
+        <item>1</item>
+    </NP_MANAGER3>
+    <NP_MANAGER3 name="NP_MANAGER_res_0x7f0304b3">
+        <item>1</item>
+    </NP_MANAGER3>
+    <NP_MANAGER3 name="NP_MANAGER_res_0x7f0304b4">
+        <item>1</item>
+    </NP_MANAGER3>
+    <NP_MANAGER3 name="NP_MANAGER_res_0x7f0304b5">
+        <item>8</item>
+    </NP_MANAGER3>
+    <NP_MANAGER3 name="NP_MANAGER_res_0x7f0304b6">
+        <item>1</item>
+    </NP_MANAGER3>
+    <NP_MANAGER3 name="NP_MANAGER_res_0x7f0304b7">
+        <item>1</item>
+    </NP_MANAGER3>
+    <NP_MANAGER3 name="NP_MANAGER_res_0x7f0304b8">
+        <item>1</item>
+    </NP_MANAGER3>
+    <NP_MANAGER3 name="NP_MANAGER_res_0x7f0304b9">
+        <item>1</item>
+    </NP_MANAGER3>
+    <NP_MANAGER3 name="NP_MANAGER_res_0x7f0304ba">
+        <item>1</item>
+    </NP_MANAGER3>
+    <NP_MANAGER3 name="NP_MANAGER_res_0x7f0304bb">
+        <item>1</item>
+    </NP_MANAGER3>
+    <NP_MANAGER3 name="NP_MANAGER_res_0x7f0304bc">
+        <item>1</item>
+    </NP_MANAGER3>
+    <NP_MANAGER3 name="NP_MANAGER_res_0x7f0304bd">
+        <item>1</item>
+    </NP_MANAGER3>
+    <NP_MANAGER3 name="NP_MANAGER_res_0x7f0304be">
+        <item>1</item>
+    </NP_MANAGER3>
+    <NP_MANAGER3 name="NP_MANAGER_res_0x7f0304bf">
+        <item>1</item>
+    </NP_MANAGER3>
+    <NP_MANAGER3 name="NP_MANAGER_res_0x7f0304c0">
+        <item>1</item>
+    </NP_MANAGER3>
+    <NP_MANAGER3 name="NP_MANAGER_res_0x7f0304c1">
+        <item>1</item>
+    </NP_MANAGER3>
+    <NP_MANAGER3 name="NP_MANAGER_res_0x7f0304c2">
+        <item>1</item>
+    </NP_MANAGER3>
+    <NP_MANAGER3 name="NP_MANAGER_res_0x7f0304c3">
+        <item>1</item>
+    </NP_MANAGER3>
+    <NP_MANAGER3 name="NP_MANAGER_res_0x7f0304c4">
+        <item>1</item>
+    </NP_MANAGER3>
+    <NP_MANAGER3 name="NP_MANAGER_res_0x7f0304c5">
+        <item>1</item>
+    </NP_MANAGER3>
+    <NP_MANAGER3 name="NP_MANAGER_res_0x7f0304c6">
+        <item>1</item>
+    </NP_MANAGER3>
+    <NP_MANAGER3 name="NP_MANAGER_res_0x7f0304c7">
+        <item>32</item>
+    </NP_MANAGER3>
+    <NP_MANAGER3 name="NP_MANAGER_res_0x7f0304c8">
+        <item>32</item>
+    </NP_MANAGER3>
+    <NP_MANAGER3 name="NP_MANAGER_res_0x7f0304c9">
+        <item>32</item>
+    </NP_MANAGER3>
+    <NP_MANAGER3 name="NP_MANAGER_res_0x7f0304ca">
+        <item>32</item>
+    </NP_MANAGER3>
+    <NP_MANAGER3 name="NP_MANAGER_res_0x7f0304cb">
+        <item>8</item>
+    </NP_MANAGER3>
+    <NP_MANAGER3 name="NP_MANAGER_res_0x7f0304cc">
+        <item>17</item>
+    </NP_MANAGER3>
+    <NP_MANAGER3 name="NP_MANAGER_res_0x7f0304cd">
+        <item>17</item>
+    </NP_MANAGER3>
+    <NP_MANAGER3 name="NP_MANAGER_res_0x7f0304ce">
+        <item>64</item>
+    </NP_MANAGER3>
+    <NP_MANAGER3 name="NP_MANAGER_res_0x7f0304cf">
+        <item>16</item>
+    </NP_MANAGER3>
+    <NP_MANAGER3 name="NP_MANAGER_res_0x7f0304d0">
+        <item>1</item>
+    </NP_MANAGER3>
+    <NP_MANAGER3 name="NP_MANAGER_res_0x7f0304d1">
+        <item>1</item>
+    </NP_MANAGER3>
+    <NP_MANAGER3 name="NP_MANAGER_res_0x7f0304d2">
+        <item>1</item>
+    </NP_MANAGER3>
+    <NP_MANAGER3 name="NP_MANAGER_res_0x7f0304d3">
+        <item>8</item>
+    </NP_MANAGER3>
+    <NP_MANAGER3 name="NP_MANAGER_res_0x7f0304d4">
+        <item>1</item>
+    </NP_MANAGER3>
+    <NP_MANAGER3 name="NP_MANAGER_res_0x7f0304d5">
+        <item>1</item>
+    </NP_MANAGER3>
+    <NP_MANAGER3 name="NP_MANAGER_res_0x7f0304d6">
+        <item>1</item>
+    </NP_MANAGER3>
+    <NP_MANAGER3 name="NP_MANAGER_res_0x7f0304d7">
+        <item>1</item>
+    </NP_MANAGER3>
+    <NP_MANAGER3 name="NP_MANAGER_res_0x7f0304d8">
+        <item>2</item>
+    </NP_MANAGER3>
+    <NP_MANAGER3 name="NP_MANAGER_res_0x7f0304d9">
+        <item>16</item>
+    </NP_MANAGER3>
+    <NP_MANAGER3 name="NP_MANAGER_res_0x7f0304da">
+        <item>64</item>
+    </NP_MANAGER3>
+    <NP_MANAGER3 name="NP_MANAGER_res_0x7f0304db">
+        <item>32</item>
+    </NP_MANAGER3>
+    <NP_MANAGER3 name="NP_MANAGER_res_0x7f0304dc">
+        <item>32</item>
+    </NP_MANAGER3>
+    <NP_MANAGER3 name="NP_MANAGER_res_0x7f0304dd">
+        <item>64</item>
+    </NP_MANAGER3>
+    <NP_MANAGER3 name="NP_MANAGER_res_0x7f0304de">
+        <item>4</item>
+    </NP_MANAGER3>
+    <NP_MANAGER3 name="NP_MANAGER_res_0x7f0304df">
+        <item>65536</item>
+        <item>0</item>
+        <item>1</item>
+    </NP_MANAGER3>
+    <NP_MANAGER3 name="NP_MANAGER_res_0x7f0304e0">
+        <item>64</item>
+    </NP_MANAGER3>
+    <NP_MANAGER3 name="NP_MANAGER_res_0x7f0304e1">
+        <item>64</item>
+    </NP_MANAGER3>
+    <NP_MANAGER3 name="NP_MANAGER_res_0x7f0304e2">
+        <item>1</item>
+    </NP_MANAGER3>
+    <NP_MANAGER3 name="NP_MANAGER_res_0x7f0304e3">
+        <item>64</item>
+    </NP_MANAGER3>
+    <NP_MANAGER3 name="NP_MANAGER_res_0x7f0304e4">
+        <item>16</item>
+    </NP_MANAGER3>
+    <NP_MANAGER3 name="NP_MANAGER_res_0x7f0304e5">
+        <item>64</item>
+    </NP_MANAGER3>
+    <NP_MANAGER3 name="NP_MANAGER_res_0x7f0304e6">
+        <item>64</item>
+    </NP_MANAGER3>
+    <NP_MANAGER3 name="NP_MANAGER_res_0x7f0304e7">
+        <item>1</item>
+    </NP_MANAGER3>
+    <NP_MANAGER3 name="NP_MANAGER_res_0x7f0304e8">
+        <item>64</item>
+    </NP_MANAGER3>
+    <NP_MANAGER3 name="NP_MANAGER_res_0x7f0304e9">
+        <item>16</item>
+    </NP_MANAGER3>
+    <NP_MANAGER3 name="NP_MANAGER_res_0x7f0304ea">
+        <item>65536</item>
+        <item>3</item>
+        <item>5</item>
+        <item>9</item>
+        <item>14</item>
+        <item>15</item>
+        <item>16</item>
+    </NP_MANAGER3>
+    <NP_MANAGER3 name="NP_MANAGER_res_0x7f0304eb">
+        <item>64</item>
+    </NP_MANAGER3>
+    <NP_MANAGER3 name="NP_MANAGER_res_0x7f0304ec">
+        <item>16</item>
+    </NP_MANAGER3>
+    <NP_MANAGER3 name="NP_MANAGER_res_0x7f0304ed">
+        <item>64</item>
+    </NP_MANAGER3>
+    <NP_MANAGER3 name="NP_MANAGER_res_0x7f0304ee">
+        <item>64</item>
+    </NP_MANAGER3>
+    <NP_MANAGER3 name="NP_MANAGER_res_0x7f0304ef">
+        <item>16</item>
+    </NP_MANAGER3>
+    <NP_MANAGER3 name="NP_MANAGER_res_0x7f0304f0">
+        <item>65536</item>
+        <item>3</item>
+        <item>5</item>
+        <item>9</item>
+        <item>14</item>
+        <item>15</item>
+        <item>16</item>
+    </NP_MANAGER3>
+    <NP_MANAGER3 name="NP_MANAGER_res_0x7f0304f1">
+        <item>64</item>
+    </NP_MANAGER3>
+    <NP_MANAGER3 name="NP_MANAGER_res_0x7f0304f2">
+        <item>64</item>
+    </NP_MANAGER3>
+    <NP_MANAGER3 name="NP_MANAGER_res_0x7f0304f3">
+        <item>16</item>
+    </NP_MANAGER3>
+    <NP_MANAGER3 name="NP_MANAGER_res_0x7f0304f4">
+        <item>16</item>
+    </NP_MANAGER3>
+    <NP_MANAGER3 name="NP_MANAGER_res_0x7f0304f5">
+        <item>16</item>
+    </NP_MANAGER3>
+    <NP_MANAGER3 name="NP_MANAGER_res_0x7f0304f6">
+        <item>1</item>
+    </NP_MANAGER3>
+    <NP_MANAGER3 name="NP_MANAGER_res_0x7f0304f7">
+        <item>16</item>
+    </NP_MANAGER3>
+    <NP_MANAGER3 name="NP_MANAGER_res_0x7f0304f8">
+        <item>65536</item>
+        <item>3</item>
+        <item>5</item>
+        <item>9</item>
+        <item>14</item>
+        <item>15</item>
+        <item>16</item>
+    </NP_MANAGER3>
+    <NP_MANAGER3 name="NP_MANAGER_res_0x7f0304f9">
+        <item>64</item>
+    </NP_MANAGER3>
+    <NP_MANAGER3 name="NP_MANAGER_res_0x7f0304fa">
+        <item>64</item>
+    </NP_MANAGER3>
+    <NP_MANAGER3 name="NP_MANAGER_res_0x7f0304fb">
+        <item>65536</item>
+        <item>0</item>
+        <item>1</item>
+        <item>2</item>
+    </NP_MANAGER3>
+    <NP_MANAGER3 name="NP_MANAGER_res_0x7f0304fc">
+        <item>8</item>
+    </NP_MANAGER3>
+    <NP_MANAGER3 name="NP_MANAGER_res_0x7f0304fd">
+        <item>16</item>
+    </NP_MANAGER3>
+    <NP_MANAGER3 name="NP_MANAGER_res_0x7f0304fe">
+        <item>65536</item>
+        <item>3</item>
+        <item>5</item>
+        <item>9</item>
+        <item>14</item>
+        <item>15</item>
+        <item>16</item>
+    </NP_MANAGER3>
+    <NP_MANAGER3 name="NP_MANAGER_res_0x7f0304ff">
+        <item>8</item>
+    </NP_MANAGER3>
+    <NP_MANAGER3 name="NP_MANAGER_res_0x7f030500">
+        <item>2</item>
+    </NP_MANAGER3>
+    <NP_MANAGER3 name="NP_MANAGER_res_0x7f030501">
+        <item>8</item>
+    </NP_MANAGER3>
+    <NP_MANAGER3 name="NP_MANAGER_res_0x7f030502">
+        <item>65536</item>
+        <item>0</item>
+        <item>1</item>
+    </NP_MANAGER3>
+    <NP_MANAGER3 name="NP_MANAGER_res_0x7f030503">
+        <item>8</item>
+    </NP_MANAGER3>
+    <NP_MANAGER3 name="NP_MANAGER_res_0x7f030504">
+        <item>64</item>
+    </NP_MANAGER3>
+    <NP_MANAGER3 name="NP_MANAGER_res_0x7f030505">
+        <item>64</item>
+    </NP_MANAGER3>
+    <NP_MANAGER3 name="NP_MANAGER_res_0x7f030506">
+        <item>64</item>
+    </NP_MANAGER3>
+    <NP_MANAGER3 name="NP_MANAGER_res_0x7f030507">
+        <item>64</item>
+    </NP_MANAGER3>
+    <NP_MANAGER3 name="NP_MANAGER_res_0x7f030508">
+        <item>64</item>
+    </NP_MANAGER3>
+    <NP_MANAGER3 name="NP_MANAGER_res_0x7f030509">
+        <item>64</item>
+    </NP_MANAGER3>
+    <NP_MANAGER3 name="NP_MANAGER_res_0x7f03050a">
+        <item>4</item>
+    </NP_MANAGER3>
+    <NP_MANAGER3 name="NP_MANAGER_res_0x7f03050b">
+        <item>1</item>
+    </NP_MANAGER3>
+    <NP_MANAGER3 name="NP_MANAGER_res_0x7f03050c">
+        <item>1</item>
+    </NP_MANAGER3>
+    <NP_MANAGER3 name="NP_MANAGER_res_0x7f03050d">
+        <item>16</item>
+    </NP_MANAGER3>
+    <NP_MANAGER3 name="NP_MANAGER_res_0x7f03050e">
+        <item>65536</item>
+        <item>0</item>
+        <item>1</item>
+        <item>2</item>
+        <item>3</item>
+    </NP_MANAGER3>
+    <NP_MANAGER3 name="NP_MANAGER_res_0x7f03050f">
+        <item>1</item>
+    </NP_MANAGER3>
+    <NP_MANAGER3 name="NP_MANAGER_res_0x7f030510">
+        <item>8</item>
+    </NP_MANAGER3>
+    <NP_MANAGER3 name="NP_MANAGER_res_0x7f030511">
+        <item>1</item>
+    </NP_MANAGER3>
+    <NP_MANAGER3 name="NP_MANAGER_res_0x7f030512">
+        <item>1</item>
+    </NP_MANAGER3>
+    <NP_MANAGER3 name="NP_MANAGER_res_0x7f030513">
+        <item>1</item>
+    </NP_MANAGER3>
+    <NP_MANAGER3 name="NP_MANAGER_res_0x7f030514">
+        <item>1</item>
+    </NP_MANAGER3>
+    <NP_MANAGER3 name="NP_MANAGER_res_0x7f030515">
+        <item>17</item>
+    </NP_MANAGER3>
+    <NP_MANAGER3 name="NP_MANAGER_res_0x7f030516">
+        <item>1</item>
+    </NP_MANAGER3>
+    <NP_MANAGER3 name="NP_MANAGER_res_0x7f030517">
+        <item>1</item>
+    </NP_MANAGER3>
+    <NP_MANAGER3 name="NP_MANAGER_res_0x7f030518">
+        <item>2</item>
+    </NP_MANAGER3>
+    <NP_MANAGER3 name="NP_MANAGER_res_0x7f030519">
+        <item>8</item>
+    </NP_MANAGER3>
+    <NP_MANAGER3 name="NP_MANAGER_res_0x7f03051a">
+        <item>1</item>
+    </NP_MANAGER3>
+    <NP_MANAGER3 name="NP_MANAGER_res_0x7f03051b">
+        <item>65536</item>
+        <item>0</item>
+        <item>1</item>
+        <item>2</item>
+        <item>3</item>
+        <item>4</item>
+        <item>5</item>
+        <item>6</item>
+    </NP_MANAGER3>
+    <NP_MANAGER3 name="NP_MANAGER_res_0x7f03051c">
+        <item>1</item>
+    </NP_MANAGER3>
+    <NP_MANAGER3 name="NP_MANAGER_res_0x7f03051d">
+        <item>1</item>
+    </NP_MANAGER3>
+    <NP_MANAGER3 name="NP_MANAGER_res_0x7f03051e">
+        <item>16</item>
+    </NP_MANAGER3>
+    <NP_MANAGER3 name="NP_MANAGER_res_0x7f03051f">
+        <item>16</item>
+    </NP_MANAGER3>
+    <NP_MANAGER3 name="NP_MANAGER_res_0x7f030520">
+        <item>16</item>
+    </NP_MANAGER3>
+    <NP_MANAGER3 name="NP_MANAGER_res_0x7f030521">
+        <item>192</item>
+    </NP_MANAGER3>
+    <NP_MANAGER3 name="NP_MANAGER_res_0x7f030522">
+        <item>64</item>
+    </NP_MANAGER3>
+    <NP_MANAGER3 name="NP_MANAGER_res_0x7f030523">
+        <item>1</item>
+    </NP_MANAGER3>
+    <NP_MANAGER3 name="NP_MANAGER_res_0x7f030524">
+        <item>16</item>
+    </NP_MANAGER3>
+    <NP_MANAGER3 name="NP_MANAGER_res_0x7f030525">
+        <item>65536</item>
+        <item>3</item>
+        <item>5</item>
+        <item>9</item>
+        <item>14</item>
+        <item>15</item>
+        <item>16</item>
+    </NP_MANAGER3>
+    <NP_MANAGER3 name="NP_MANAGER_res_0x7f030526">
+        <item>64</item>
+    </NP_MANAGER3>
+    <NP_MANAGER3 name="NP_MANAGER_res_0x7f030527">
+        <item>16</item>
+    </NP_MANAGER3>
+    <NP_MANAGER3 name="NP_MANAGER_res_0x7f030528">
+        <item>1</item>
+    </NP_MANAGER3>
+    <NP_MANAGER3 name="NP_MANAGER_res_0x7f030529">
+        <item>1</item>
+    </NP_MANAGER3>
+    <NP_MANAGER3 name="NP_MANAGER_res_0x7f03052a">
+        <item>16</item>
+    </NP_MANAGER3>
+    <NP_MANAGER3 name="NP_MANAGER_res_0x7f03052b">
+        <item>1</item>
+    </NP_MANAGER3>
+    <NP_MANAGER3 name="NP_MANAGER_res_0x7f03052c">
+        <item>1</item>
+    </NP_MANAGER3>
+    <NP_MANAGER3 name="NP_MANAGER_res_0x7f03052d">
+        <item>64</item>
+    </NP_MANAGER3>
+    <NP_MANAGER3 name="NP_MANAGER_res_0x7f03052e">
+        <item>192</item>
+    </NP_MANAGER3>
+    <NP_MANAGER3 name="NP_MANAGER_res_0x7f03052f">
+        <item>64</item>
+    </NP_MANAGER3>
+    <NP_MANAGER3 name="NP_MANAGER_res_0x7f030530">
+        <item>64</item>
+    </NP_MANAGER3>
+    <NP_MANAGER3 name="NP_MANAGER_res_0x7f030531">
+        <item>64</item>
+    </NP_MANAGER3>
+    <NP_MANAGER3 name="NP_MANAGER_res_0x7f030532">
+        <item>64</item>
+    </NP_MANAGER3>
+    <NP_MANAGER3 name="NP_MANAGER_res_0x7f030533">
+        <item>16</item>
+    </NP_MANAGER3>
+    <NP_MANAGER3 name="NP_MANAGER_res_0x7f030534">
+        <item>65536</item>
+        <item>3</item>
+        <item>5</item>
+        <item>9</item>
+        <item>14</item>
+        <item>15</item>
+        <item>16</item>
+    </NP_MANAGER3>
+    <NP_MANAGER3 name="NP_MANAGER_res_0x7f030535">
+        <item>1</item>
+    </NP_MANAGER3>
+    <NP_MANAGER3 name="NP_MANAGER_res_0x7f030536">
+        <item>8</item>
+    </NP_MANAGER3>
+    <NP_MANAGER3 name="NP_MANAGER_res_0x7f030537">
+        <item>65538</item>
+        <item>0</item>
+        <item>1</item>
+        <item>2</item>
+        <item>3</item>
+    </NP_MANAGER3>
+    <NP_MANAGER3 name="NP_MANAGER_res_0x7f030538">
+        <item>131072</item>
+        <item>0</item>
+        <item>1</item>
+        <item>2</item>
+    </NP_MANAGER3>
+    <NP_MANAGER3 name="NP_MANAGER_res_0x7f030539">
+        <item>32</item>
+    </NP_MANAGER3>
+    <NP_MANAGER3 name="NP_MANAGER_res_0x7f03053a">
+        <item>1</item>
+    </NP_MANAGER3>
+    <NP_MANAGER3 name="NP_MANAGER_res_0x7f03053b">
+        <item>1</item>
+    </NP_MANAGER3>
+    <NP_MANAGER3 name="NP_MANAGER_res_0x7f03053c">
+        <item>1</item>
+    </NP_MANAGER3>
+    <NP_MANAGER3 name="NP_MANAGER_res_0x7f03053d">
+        <item>32</item>
+    </NP_MANAGER3>
+    <NP_MANAGER3 name="NP_MANAGER_res_0x7f03053e">
+        <item>4</item>
+    </NP_MANAGER3>
+    <NP_MANAGER3 name="NP_MANAGER_res_0x7f03053f">
+        <item>4</item>
+    </NP_MANAGER3>
+    <NP_MANAGER3 name="NP_MANAGER_res_0x7f030540">
+        <item>8</item>
+    </NP_MANAGER3>
+    <NP_MANAGER3 name="NP_MANAGER_res_0x7f030541">
+        <item>8</item>
+    </NP_MANAGER3>
+    <NP_MANAGER3 name="NP_MANAGER_res_0x7f030542">
+        <item>8</item>
+    </NP_MANAGER3>
+    <NP_MANAGER3 name="NP_MANAGER_res_0x7f030543">
+        <item>1</item>
+    </NP_MANAGER3>
+    <NP_MANAGER3 name="NP_MANAGER_res_0x7f030544">
+        <item>64</item>
+    </NP_MANAGER3>
+    <NP_MANAGER3 name="NP_MANAGER_res_0x7f030545">
+        <item>64</item>
+    </NP_MANAGER3>
+    <NP_MANAGER3 name="NP_MANAGER_res_0x7f030546">
+        <item>2</item>
+    </NP_MANAGER3>
+    <NP_MANAGER3 name="NP_MANAGER_res_0x7f030547">
+        <item>65536</item>
+        <item>0</item>
+        <item>1</item>
+        <item>2</item>
+    </NP_MANAGER3>
+    <NP_MANAGER3 name="NP_MANAGER_res_0x7f030548">
+        <item>1</item>
+    </NP_MANAGER3>
+    <NP_MANAGER3 name="NP_MANAGER_res_0x7f030549">
+        <item>1</item>
+    </NP_MANAGER3>
+    <NP_MANAGER3 name="NP_MANAGER_res_0x7f03054a">
+        <item>1</item>
+    </NP_MANAGER3>
+    <NP_MANAGER3 name="NP_MANAGER_res_0x7f03054b">
+        <item>65536</item>
+        <item>0</item>
+        <item>1</item>
+    </NP_MANAGER3>
+    <NP_MANAGER3 name="NP_MANAGER_res_0x7f03054c">
+        <item>1</item>
+    </NP_MANAGER3>
+    <NP_MANAGER3 name="NP_MANAGER_res_0x7f03054d">
+        <item>32</item>
+    </NP_MANAGER3>
+    <NP_MANAGER3 name="NP_MANAGER_res_0x7f03054e">
+        <item>64</item>
+    </NP_MANAGER3>
+    <NP_MANAGER3 name="NP_MANAGER_res_0x7f03054f">
+        <item>4</item>
+    </NP_MANAGER3>
+    <NP_MANAGER3 name="NP_MANAGER_res_0x7f030550">
+        <item>96</item>
+    </NP_MANAGER3>
+    <NP_MANAGER3 name="NP_MANAGER_res_0x7f030551">
+        <item>32</item>
+    </NP_MANAGER3>
+    <NP_MANAGER3 name="NP_MANAGER_res_0x7f030552">
+        <item>32</item>
+    </NP_MANAGER3>
+    <NP_MANAGER3 name="NP_MANAGER_res_0x7f030553">
+        <item>65538</item>
+        <item>0</item>
+        <item>1</item>
+        <item>2</item>
+        <item>3</item>
+        <item>4</item>
+        <item>5</item>
+        <item>6</item>
+    </NP_MANAGER3>
+    <NP_MANAGER3 name="NP_MANAGER_res_0x7f030554">
+        <item>64</item>
+    </NP_MANAGER3>
+    <NP_MANAGER3 name="NP_MANAGER_res_0x7f030555">
+        <item>65536</item>
+        <item>0</item>
+        <item>1</item>
+    </NP_MANAGER3>
+    <NP_MANAGER3 name="NP_MANAGER_res_0x7f030556">
+        <item>64</item>
+    </NP_MANAGER3>
+    <NP_MANAGER3 name="NP_MANAGER_res_0x7f030557">
+        <item>64</item>
+    </NP_MANAGER3>
+    <NP_MANAGER3 name="NP_MANAGER_res_0x7f030558">
+        <item>64</item>
+    </NP_MANAGER3>
+    <NP_MANAGER3 name="NP_MANAGER_res_0x7f030559">
+        <item>192</item>
+    </NP_MANAGER3>
+    <NP_MANAGER3 name="NP_MANAGER_res_0x7f03055a">
+        <item>8</item>
+    </NP_MANAGER3>
+    <NP_MANAGER3 name="NP_MANAGER_res_0x7f03055b">
+        <item>8</item>
+    </NP_MANAGER3>
+    <NP_MANAGER3 name="NP_MANAGER_res_0x7f03055c">
+        <item>8</item>
+    </NP_MANAGER3>
+    <NP_MANAGER3 name="NP_MANAGER_res_0x7f03055d">
+        <item>192</item>
+    </NP_MANAGER3>
+    <NP_MANAGER3 name="NP_MANAGER_res_0x7f03055e">
+        <item>192</item>
+    </NP_MANAGER3>
+    <NP_MANAGER3 name="NP_MANAGER_res_0x7f03055f">
+        <item>192</item>
+    </NP_MANAGER3>
+    <NP_MANAGER3 name="NP_MANAGER_res_0x7f030560">
+        <item>192</item>
+    </NP_MANAGER3>
+    <NP_MANAGER3 name="NP_MANAGER_res_0x7f030561">
+        <item>192</item>
+    </NP_MANAGER3>
+    <NP_MANAGER3 name="NP_MANAGER_res_0x7f030562">
+        <item>192</item>
+    </NP_MANAGER3>
+    <NP_MANAGER3 name="NP_MANAGER_res_0x7f030563">
+        <item>8</item>
+    </NP_MANAGER3>
+    <NP_MANAGER3 name="NP_MANAGER_res_0x7f030564">
+        <item>1</item>
+    </NP_MANAGER3>
+    <NP_MANAGER3 name="NP_MANAGER_res_0x7f030565">
+        <item>1</item>
+    </NP_MANAGER3>
+    <NP_MANAGER3 name="NP_MANAGER_res_0x7f030566">
+        <item>1</item>
+    </NP_MANAGER3>
+</resources>

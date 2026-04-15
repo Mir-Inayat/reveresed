@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<transition xmlns:android="http://schemas.android.com/apk/res/android">
+    <item android:drawable="@NP_MANAGER7/NP_MANAGER_res_0x7f070051"/>
+    <item android:drawable="@NP_MANAGER7/NP_MANAGER_res_0x7f070050"/>
+</transition>

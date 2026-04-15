@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <NP_MANAGER15 name="NP_MANAGER_res_0x7f0f013f" parent="@NP_MANAGER15/NP_MANAGER_res_0x7f0f014a">
+    </NP_MANAGER15>
+    <NP_MANAGER15 name="NP_MANAGER_res_0x7f0f0140" parent="@NP_MANAGER15/NP_MANAGER_res_0x7f0f014b">
+    </NP_MANAGER15>
+    <NP_MANAGER15 name="NP_MANAGER_res_0x7f0f014a" parent="@android:style/Theme.Material.NoActionBar">
+    </NP_MANAGER15>
+    <NP_MANAGER15 name="NP_MANAGER_res_0x7f0f014b" parent="@android:style/Theme.Material.Light.NoActionBar">
+    </NP_MANAGER15>
+</resources>

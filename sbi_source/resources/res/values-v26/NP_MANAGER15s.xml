@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <NP_MANAGER15 name="NP_MANAGER_res_0x7f0f004a" parent="@NP_MANAGER15/NP_MANAGER_res_0x7f0f00b2">
+    </NP_MANAGER15>
+    <NP_MANAGER15 name="NP_MANAGER_res_0x7f0f0051" parent="@NP_MANAGER15/NP_MANAGER_res_0x7f0f00b3">
+    </NP_MANAGER15>
+    <NP_MANAGER15 name="NP_MANAGER_res_0x7f0f00b2" parent="@NP_MANAGER15/NP_MANAGER_res_0x7f0f00ac">
+        <item>?android:attr/colorError</item>
+    </NP_MANAGER15>
+    <NP_MANAGER15 name="NP_MANAGER_res_0x7f0f00b3" parent="@NP_MANAGER15/NP_MANAGER_res_0x7f0f00ad">
+        <item>?android:attr/colorError</item>
+    </NP_MANAGER15>
+    <NP_MANAGER15 name="NP_MANAGER_res_0x7f0f00b4" parent="@NP_MANAGER15/NP_MANAGER_res_0x7f0f00be">
+        <item>true</item>
+        <item>true</item>
+    </NP_MANAGER15>
+    <NP_MANAGER15 name="NP_MANAGER_res_0x7f0f00f7" parent="@NP_MANAGER15/NP_MANAGER_res_0x7f0f00b4">
+    </NP_MANAGER15>
+    <NP_MANAGER15 name="NP_MANAGER_res_0x7f0f037e" parent="@android:style/Widget">
+        <item>?NP_MANAGER3/NP_MANAGER_res_0x7f03011f</item>
+        <item>@NP_MANAGER2/NP_MANAGER_res_0x7f020002</item>
+        <item>true</item>
+        <item>true</item>
+    </NP_MANAGER15>
+</resources>

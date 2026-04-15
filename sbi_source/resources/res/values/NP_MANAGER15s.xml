@@ -1,0 +1,3638 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <NP_MANAGER15 name="NP_MANAGER_res_0x7f0f0000" parent="@NP_MANAGER15/NP_MANAGER_res_0x7f0f000b">
+    </NP_MANAGER15>
+    <NP_MANAGER15 name="NP_MANAGER_res_0x7f0f0001" parent="@NP_MANAGER15/NP_MANAGER_res_0x7f0f000c">
+    </NP_MANAGER15>
+    <NP_MANAGER15 name="NP_MANAGER_res_0x7f0f0002" parent="@NP_MANAGER15/NP_MANAGER_res_0x7f0f000d">
+    </NP_MANAGER15>
+    <NP_MANAGER15 name="NP_MANAGER_res_0x7f0f0003" parent="@NP_MANAGER15/NP_MANAGER_res_0x7f0f000e">
+    </NP_MANAGER15>
+    <NP_MANAGER15 name="NP_MANAGER_res_0x7f0f0004" parent="@NP_MANAGER15/NP_MANAGER_res_0x7f0f000f">
+    </NP_MANAGER15>
+    <NP_MANAGER15 name="NP_MANAGER_res_0x7f0f000a" parent="@NP_MANAGER15/NP_MANAGER_res_0x7f0f0002">
+        <item>@NP_MANAGER1/NP_MANAGER_res_0x7f010029</item>
+        <item>@NP_MANAGER1/NP_MANAGER_res_0x7f01002a</item>
+    </NP_MANAGER15>
+    <NP_MANAGER15 name="NP_MANAGER_res_0x7f0f000b" parent="@android:style/Widget">
+        <item>@NP_MANAGER11/NP_MANAGER_res_0x7f0b0009</item>
+        <item>@NP_MANAGER6/NP_MANAGER_res_0x7f060011</item>
+        <item>@NP_MANAGER11/NP_MANAGER_res_0x7f0b006a</item>
+        <item>@NP_MANAGER11/NP_MANAGER_res_0x7f0b001a</item>
+        <item>@NP_MANAGER11/NP_MANAGER_res_0x7f0b006b</item>
+        <item>@NP_MANAGER11/NP_MANAGER_res_0x7f0b006c</item>
+    </NP_MANAGER15>
+    <NP_MANAGER15 name="NP_MANAGER_res_0x7f0f000c" parent="@NP_MANAGER15/NP_MANAGER_res_0x7f0f000b">
+    </NP_MANAGER15>
+    <NP_MANAGER15 name="NP_MANAGER_res_0x7f0f000d" parent="@android:style/Animation">
+        <item>@NP_MANAGER1/NP_MANAGER_res_0x7f010003</item>
+        <item>@NP_MANAGER1/NP_MANAGER_res_0x7f010004</item>
+    </NP_MANAGER15>
+    <NP_MANAGER15 name="NP_MANAGER_res_0x7f0f000e" parent="@android:style/Animation">
+        <item>@NP_MANAGER1/NP_MANAGER_res_0x7f010002</item>
+        <item>@NP_MANAGER1/NP_MANAGER_res_0x7f010005</item>
+    </NP_MANAGER15>
+    <NP_MANAGER15 name="NP_MANAGER_res_0x7f0f000f" parent="@android:style/Animation">
+        <item>@NP_MANAGER1/NP_MANAGER_res_0x7f01000a</item>
+        <item>@NP_MANAGER1/NP_MANAGER_res_0x7f01000b</item>
+    </NP_MANAGER15>
+    <NP_MANAGER15 name="NP_MANAGER_res_0x7f0f0010" parent="@android:style/Widget">
+        <item>@NP_MANAGER6/NP_MANAGER_res_0x7f060054</item>
+        <item>@NP_MANAGER6/NP_MANAGER_res_0x7f060053</item>
+        <item>@NP_MANAGER6/NP_MANAGER_res_0x7f060053</item>
+        <item>true</item>
+        <item>false</item>
+    </NP_MANAGER15>
+    <NP_MANAGER15 name="NP_MANAGER_res_0x7f0f0011" parent="@android:style/Widget">
+        <item>@NP_MANAGER15/NP_MANAGER_res_0x7f0f01d3</item>
+        <item>1</item>
+        <item>true</item>
+    </NP_MANAGER15>
+    <NP_MANAGER15 name="NP_MANAGER_res_0x7f0f0012" parent="@android:style/Widget">
+        <item>@null</item>
+        <item>?NP_MANAGER3/NP_MANAGER_res_0x7f030197</item>
+        <item>@NP_MANAGER6/NP_MANAGER_res_0x7f060025</item>
+        <item>?NP_MANAGER3/NP_MANAGER_res_0x7f030197</item>
+    </NP_MANAGER15>
+    <NP_MANAGER15 name="NP_MANAGER_res_0x7f0f0013" parent="@android:style/Widget">
+        <item>32dp</item>
+        <item>32dp</item>
+        <item>@null</item>
+        <item>3</item>
+        <item>@null</item>
+        <item>2</item>
+    </NP_MANAGER15>
+    <NP_MANAGER15 name="NP_MANAGER_res_0x7f0f0014" parent="@android:style/Widget">
+        <item>?NP_MANAGER3/NP_MANAGER_res_0x7f030197</item>
+        <item>@NP_MANAGER6/NP_MANAGER_res_0x7f060025</item>
+        <item>?NP_MANAGER3/NP_MANAGER_res_0x7f030197</item>
+        <item>-1</item>
+        <item>-2</item>
+    </NP_MANAGER15>
+    <NP_MANAGER15 name="NP_MANAGER_res_0x7f0f0015" parent="@NP_MANAGER15/NP_MANAGER_res_0x7f0f014d">
+        <item>?NP_MANAGER3/NP_MANAGER_res_0x7f0304be</item>
+        <item>@NP_MANAGER5/NP_MANAGER_res_0x7f050320</item>
+        <item>3</item>
+        <item>-2</item>
+        <item>-2</item>
+        <item>true</item>
+    </NP_MANAGER15>
+    <NP_MANAGER15 name="NP_MANAGER_res_0x7f0f0016" parent="@android:style/TextAppearance.Material">
+    </NP_MANAGER15>
+    <NP_MANAGER15 name="NP_MANAGER_res_0x7f0f0017" parent="@android:style/TextAppearance.Material.Body1">
+    </NP_MANAGER15>
+    <NP_MANAGER15 name="NP_MANAGER_res_0x7f0f0018" parent="@android:style/TextAppearance.Material.Body2">
+    </NP_MANAGER15>
+    <NP_MANAGER15 name="NP_MANAGER_res_0x7f0f0019" parent="@android:style/TextAppearance.Material.Button">
+    </NP_MANAGER15>
+    <NP_MANAGER15 name="NP_MANAGER_res_0x7f0f001a" parent="@android:style/TextAppearance.Material.Caption">
+    </NP_MANAGER15>
+    <NP_MANAGER15 name="NP_MANAGER_res_0x7f0f001b" parent="@android:style/TextAppearance.Material.Display1">
+    </NP_MANAGER15>
+    <NP_MANAGER15 name="NP_MANAGER_res_0x7f0f001c" parent="@android:style/TextAppearance.Material.Display2">
+    </NP_MANAGER15>
+    <NP_MANAGER15 name="NP_MANAGER_res_0x7f0f001d" parent="@android:style/TextAppearance.Material.Display3">
+    </NP_MANAGER15>
+    <NP_MANAGER15 name="NP_MANAGER_res_0x7f0f001e" parent="@android:style/TextAppearance.Material.Display4">
+    </NP_MANAGER15>
+    <NP_MANAGER15 name="NP_MANAGER_res_0x7f0f001f" parent="@android:style/TextAppearance.Material.Headline">
+    </NP_MANAGER15>
+    <NP_MANAGER15 name="NP_MANAGER_res_0x7f0f0020" parent="@android:style/TextAppearance.Material.Inverse">
+    </NP_MANAGER15>
+    <NP_MANAGER15 name="NP_MANAGER_res_0x7f0f0021" parent="@android:style/TextAppearance.Material.Large">
+    </NP_MANAGER15>
+    <NP_MANAGER15 name="NP_MANAGER_res_0x7f0f0022" parent="@android:style/TextAppearance.Material.Large.Inverse">
+    </NP_MANAGER15>
+    <NP_MANAGER15 name="NP_MANAGER_res_0x7f0f0025" parent="@android:style/TextAppearance.Material.Medium">
+    </NP_MANAGER15>
+    <NP_MANAGER15 name="NP_MANAGER_res_0x7f0f0026" parent="@android:style/TextAppearance.Material.Medium.Inverse">
+    </NP_MANAGER15>
+    <NP_MANAGER15 name="NP_MANAGER_res_0x7f0f0027" parent="@android:style/TextAppearance.Material.Menu">
+    </NP_MANAGER15>
+    <NP_MANAGER15 name="NP_MANAGER_res_0x7f0f0029" parent="@android:style/TextAppearance.Material.SearchResult.Subtitle">
+    </NP_MANAGER15>
+    <NP_MANAGER15 name="NP_MANAGER_res_0x7f0f002a" parent="@android:style/TextAppearance.Material.SearchResult.Title">
+    </NP_MANAGER15>
+    <NP_MANAGER15 name="NP_MANAGER_res_0x7f0f002b" parent="@android:style/TextAppearance.Material.Small">
+    </NP_MANAGER15>
+    <NP_MANAGER15 name="NP_MANAGER_res_0x7f0f002c" parent="@android:style/TextAppearance.Material.Small.Inverse">
+    </NP_MANAGER15>
+    <NP_MANAGER15 name="NP_MANAGER_res_0x7f0f002d" parent="@android:style/TextAppearance.Material.Subhead">
+    </NP_MANAGER15>
+    <NP_MANAGER15 name="NP_MANAGER_res_0x7f0f002e" parent="@NP_MANAGER15/NP_MANAGER_res_0x7f0f002d">
+        <item>?android:attr/textColorPrimaryInverse</item>
+        <item>?android:attr/textColorHighlightInverse</item>
+        <item>?android:attr/textColorHintInverse</item>
+        <item>?android:attr/textColorLinkInverse</item>
+    </NP_MANAGER15>
+    <NP_MANAGER15 name="NP_MANAGER_res_0x7f0f002f" parent="@android:style/TextAppearance.Material.Title">
+    </NP_MANAGER15>
+    <NP_MANAGER15 name="NP_MANAGER_res_0x7f0f0030" parent="@NP_MANAGER15/NP_MANAGER_res_0x7f0f002f">
+        <item>?android:attr/textColorPrimaryInverse</item>
+        <item>?android:attr/textColorHighlightInverse</item>
+        <item>?android:attr/textColorHintInverse</item>
+        <item>?android:attr/textColorLinkInverse</item>
+    </NP_MANAGER15>
+    <NP_MANAGER15 name="NP_MANAGER_res_0x7f0f0032" parent="@android:style/TextAppearance.Material.Widget.ActionBar.Menu">
+    </NP_MANAGER15>
+    <NP_MANAGER15 name="NP_MANAGER_res_0x7f0f0033" parent="@android:style/TextAppearance.Material.Widget.ActionBar.Subtitle">
+    </NP_MANAGER15>
+    <NP_MANAGER15 name="NP_MANAGER_res_0x7f0f0034" parent="@android:style/TextAppearance.Material.Widget.ActionBar.Subtitle.Inverse">
+    </NP_MANAGER15>
+    <NP_MANAGER15 name="NP_MANAGER_res_0x7f0f0035" parent="@android:style/TextAppearance.Material.Widget.ActionBar.Title">
+    </NP_MANAGER15>
+    <NP_MANAGER15 name="NP_MANAGER_res_0x7f0f0036" parent="@android:style/TextAppearance.Material.Widget.ActionBar.Title.Inverse">
+    </NP_MANAGER15>
+    <NP_MANAGER15 name="NP_MANAGER_res_0x7f0f0037" parent="@android:style/TextAppearance.Material.Widget.ActionMode.Subtitle">
+    </NP_MANAGER15>
+    <NP_MANAGER15 name="NP_MANAGER_res_0x7f0f0038" parent="@android:style/TextAppearance.Material.Widget.ActionMode.Title">
+    </NP_MANAGER15>
+    <NP_MANAGER15 name="NP_MANAGER_res_0x7f0f0039" parent="@android:style/TextAppearance.Material.Widget.Button">
+    </NP_MANAGER15>
+    <NP_MANAGER15 name="NP_MANAGER_res_0x7f0f003a" parent="@android:style/TextAppearance.Material.Widget.Button.Borderless.Colored">
+    </NP_MANAGER15>
+    <NP_MANAGER15 name="NP_MANAGER_res_0x7f0f003b" parent="@android:style/TextAppearance.Material.Widget.Button.Colored">
+    </NP_MANAGER15>
+    <NP_MANAGER15 name="NP_MANAGER_res_0x7f0f003c" parent="@android:style/TextAppearance.Material.Widget.Button.Inverse">
+    </NP_MANAGER15>
+    <NP_MANAGER15 name="NP_MANAGER_res_0x7f0f003d" parent="@android:style/TextAppearance.Small">
+        <item>?android:attr/textColorPrimaryDisableOnly</item>
+    </NP_MANAGER15>
+    <NP_MANAGER15 name="NP_MANAGER_res_0x7f0f003e" parent="@NP_MANAGER15/NP_MANAGER_res_0x7f0f01b9">
+        <item>@NP_MANAGER6/NP_MANAGER_res_0x7f06004a</item>
+        <item>?android:attr/textColorSecondary</item>
+        <item>sans-serif-medium</item>
+    </NP_MANAGER15>
+    <NP_MANAGER15 name="NP_MANAGER_res_0x7f0f003f" parent="@android:style/TextAppearance.Material.Widget.PopupMenu.Large">
+    </NP_MANAGER15>
+    <NP_MANAGER15 name="NP_MANAGER_res_0x7f0f0040" parent="@android:style/TextAppearance.Material.Widget.PopupMenu.Small">
+    </NP_MANAGER15>
+    <NP_MANAGER15 name="NP_MANAGER_res_0x7f0f0041" parent="@android:style/TextAppearance.Material.Button">
+    </NP_MANAGER15>
+    <NP_MANAGER15 name="NP_MANAGER_res_0x7f0f0042" parent="@android:style/TextAppearance.Material.Widget.TextView.SpinnerItem">
+    </NP_MANAGER15>
+    <NP_MANAGER15 name="NP_MANAGER_res_0x7f0f0043">
+        <item>@NP_MANAGER6/NP_MANAGER_res_0x7f0602af</item>
+    </NP_MANAGER15>
+    <NP_MANAGER15 name="NP_MANAGER_res_0x7f0f0044" parent="@NP_MANAGER15/NP_MANAGER_res_0x7f0f01bc">
+        <item>14sp</item>
+        <item>0x0</item>
+        <item>true</item>
+        <item>sans-serif-medium</item>
+        <item>0.0893</item>
+        <item>sans-serif-medium</item>
+    </NP_MANAGER15>
+    <NP_MANAGER15 name="NP_MANAGER_res_0x7f0f0045" parent="@NP_MANAGER15/NP_MANAGER_res_0x7f0f01d3">
+        <item>20sp</item>
+        <item>0x0</item>
+        <item>false</item>
+        <item>sans-serif-medium</item>
+        <item>0.0125</item>
+        <item>sans-serif-medium</item>
+    </NP_MANAGER15>
+    <NP_MANAGER15 name="NP_MANAGER_res_0x7f0f0046" parent="@NP_MANAGER15/NP_MANAGER_res_0x7f0f01d1">
+        <item>14sp</item>
+        <item>0x0</item>
+        <item>false</item>
+        <item>sans-serif-medium</item>
+        <item>0.0071</item>
+        <item>sans-serif-medium</item>
+    </NP_MANAGER15>
+    <NP_MANAGER15 name="NP_MANAGER_res_0x7f0f0047" parent="@android:style/TextAppearance.Medium">
+        <item>?android:attr/textColorPrimaryDisableOnly</item>
+    </NP_MANAGER15>
+    <NP_MANAGER15 name="NP_MANAGER_res_0x7f0f0048" parent="@android:style/TextAppearance.Material.Widget.ActionBar.Subtitle">
+    </NP_MANAGER15>
+    <NP_MANAGER15 name="NP_MANAGER_res_0x7f0f0049" parent="@android:style/TextAppearance.Material.Widget.ActionBar.Title">
+    </NP_MANAGER15>
+    <NP_MANAGER15 name="NP_MANAGER_res_0x7f0f004a" parent="@NP_MANAGER15/NP_MANAGER_res_0x7f0f00ac">
+    </NP_MANAGER15>
+    <NP_MANAGER15 name="NP_MANAGER_res_0x7f0f004b">
+        <item>@NP_MANAGER15/NP_MANAGER_res_0x7f0f0367</item>
+        <item>@NP_MANAGER15/NP_MANAGER_res_0x7f0f0003</item>
+        <item>?android:attr/textAppearanceMedium</item>
+    </NP_MANAGER15>
+    <NP_MANAGER15 name="NP_MANAGER_res_0x7f0f004c" parent="@NP_MANAGER15/NP_MANAGER_res_0x7f0f00a0">
+    </NP_MANAGER15>
+    <NP_MANAGER15 name="NP_MANAGER_res_0x7f0f004d" parent="@NP_MANAGER15/NP_MANAGER_res_0x7f0f004c">
+        <item>@NP_MANAGER6/NP_MANAGER_res_0x7f060022</item>
+        <item>@NP_MANAGER6/NP_MANAGER_res_0x7f060023</item>
+    </NP_MANAGER15>
+    <NP_MANAGER15 name="NP_MANAGER_res_0x7f0f004e" parent="@NP_MANAGER15/NP_MANAGER_res_0x7f0f004c">
+        <item>@NP_MANAGER6/NP_MANAGER_res_0x7f06001c</item>
+        <item>@NP_MANAGER6/NP_MANAGER_res_0x7f06001d</item>
+        <item>@NP_MANAGER6/NP_MANAGER_res_0x7f06001e</item>
+        <item>@NP_MANAGER6/NP_MANAGER_res_0x7f06001f</item>
+    </NP_MANAGER15>
+    <NP_MANAGER15 name="NP_MANAGER_res_0x7f0f004f" parent="@NP_MANAGER15/NP_MANAGER_res_0x7f0f004c">
+        <item>@NP_MANAGER6/NP_MANAGER_res_0x7f060022</item>
+        <item>@NP_MANAGER6/NP_MANAGER_res_0x7f060023</item>
+    </NP_MANAGER15>
+    <NP_MANAGER15 name="NP_MANAGER_res_0x7f0f0050" parent="@NP_MANAGER15/NP_MANAGER_res_0x7f0f024f">
+    </NP_MANAGER15>
+    <NP_MANAGER15 name="NP_MANAGER_res_0x7f0f0051" parent="@NP_MANAGER15/NP_MANAGER_res_0x7f0f00ad">
+    </NP_MANAGER15>
+    <NP_MANAGER15 name="NP_MANAGER_res_0x7f0f0052" parent="@NP_MANAGER15/NP_MANAGER_res_0x7f0f0051">
+        <item>@NP_MANAGER15/NP_MANAGER_res_0x7f0f02c3</item>
+        <item>@NP_MANAGER15/NP_MANAGER_res_0x7f0f02be</item>
+        <item>@null</item>
+        <item>?NP_MANAGER3/NP_MANAGER_res_0x7f03000c</item>
+        <item>@NP_MANAGER5/NP_MANAGER_res_0x7f05039d</item>
+        <item>@NP_MANAGER5/NP_MANAGER_res_0x7f05039b</item>
+        <item>@NP_MANAGER7/NP_MANAGER_res_0x7f070057</item>
+    </NP_MANAGER15>
+    <NP_MANAGER15 name="NP_MANAGER_res_0x7f0f0053" parent="@NP_MANAGER15/NP_MANAGER_res_0x7f0f00a2">
+    </NP_MANAGER15>
+    <NP_MANAGER15 name="NP_MANAGER_res_0x7f0f0054" parent="@NP_MANAGER15/NP_MANAGER_res_0x7f0f0053">
+        <item>@NP_MANAGER6/NP_MANAGER_res_0x7f060022</item>
+        <item>@NP_MANAGER6/NP_MANAGER_res_0x7f060023</item>
+    </NP_MANAGER15>
+    <NP_MANAGER15 name="NP_MANAGER_res_0x7f0f0055" parent="@NP_MANAGER15/NP_MANAGER_res_0x7f0f0053">
+        <item>@NP_MANAGER6/NP_MANAGER_res_0x7f06001c</item>
+        <item>@NP_MANAGER6/NP_MANAGER_res_0x7f06001d</item>
+        <item>@NP_MANAGER6/NP_MANAGER_res_0x7f06001e</item>
+        <item>@NP_MANAGER6/NP_MANAGER_res_0x7f06001f</item>
+    </NP_MANAGER15>
+    <NP_MANAGER15 name="NP_MANAGER_res_0x7f0f0056" parent="@NP_MANAGER15/NP_MANAGER_res_0x7f0f0053">
+        <item>@NP_MANAGER6/NP_MANAGER_res_0x7f060022</item>
+        <item>@NP_MANAGER6/NP_MANAGER_res_0x7f060023</item>
+    </NP_MANAGER15>
+    <NP_MANAGER15 name="NP_MANAGER_res_0x7f0f0057" parent="@NP_MANAGER15/NP_MANAGER_res_0x7f0f025d">
+    </NP_MANAGER15>
+    <NP_MANAGER15 name="NP_MANAGER_res_0x7f0f0064" parent="@NP_MANAGER15/NP_MANAGER_res_0x7f0f00a3">
+    </NP_MANAGER15>
+    <NP_MANAGER15 name="NP_MANAGER_res_0x7f0f0065" parent="@NP_MANAGER15/NP_MANAGER_res_0x7f0f0091">
+    </NP_MANAGER15>
+    <NP_MANAGER15 name="NP_MANAGER_res_0x7f0f0066">
+        <item>@NP_MANAGER15/NP_MANAGER_res_0x7f0f0367</item>
+        <item>@NP_MANAGER15/NP_MANAGER_res_0x7f0f0003</item>
+        <item>?android:attr/textAppearanceMedium</item>
+    </NP_MANAGER15>
+    <NP_MANAGER15 name="NP_MANAGER_res_0x7f0f0067" parent="@NP_MANAGER15/NP_MANAGER_res_0x7f0f00a4">
+    </NP_MANAGER15>
+    <NP_MANAGER15 name="NP_MANAGER_res_0x7f0f0068" parent="@NP_MANAGER15/NP_MANAGER_res_0x7f0f0067">
+        <item>@NP_MANAGER6/NP_MANAGER_res_0x7f060022</item>
+        <item>@NP_MANAGER6/NP_MANAGER_res_0x7f060023</item>
+    </NP_MANAGER15>
+    <NP_MANAGER15 name="NP_MANAGER_res_0x7f0f0069" parent="@NP_MANAGER15/NP_MANAGER_res_0x7f0f0093">
+    </NP_MANAGER15>
+    <NP_MANAGER15 name="NP_MANAGER_res_0x7f0f006a" parent="@NP_MANAGER15/NP_MANAGER_res_0x7f0f0067">
+        <item>@NP_MANAGER6/NP_MANAGER_res_0x7f06001c</item>
+        <item>@NP_MANAGER6/NP_MANAGER_res_0x7f06001d</item>
+        <item>@NP_MANAGER6/NP_MANAGER_res_0x7f06001e</item>
+        <item>@NP_MANAGER6/NP_MANAGER_res_0x7f06001f</item>
+    </NP_MANAGER15>
+    <NP_MANAGER15 name="NP_MANAGER_res_0x7f0f006b" parent="@NP_MANAGER15/NP_MANAGER_res_0x7f0f0067">
+        <item>@NP_MANAGER6/NP_MANAGER_res_0x7f060022</item>
+        <item>@NP_MANAGER6/NP_MANAGER_res_0x7f060023</item>
+    </NP_MANAGER15>
+    <NP_MANAGER15 name="NP_MANAGER_res_0x7f0f006c" parent="@NP_MANAGER15/NP_MANAGER_res_0x7f0f028a">
+    </NP_MANAGER15>
+    <NP_MANAGER15 name="NP_MANAGER_res_0x7f0f006d" parent="@NP_MANAGER15/NP_MANAGER_res_0x7f0f00a5">
+    </NP_MANAGER15>
+    <NP_MANAGER15 name="NP_MANAGER_res_0x7f0f006e" parent="@NP_MANAGER15/NP_MANAGER_res_0x7f0f0095">
+    </NP_MANAGER15>
+    <NP_MANAGER15 name="NP_MANAGER_res_0x7f0f006f" parent="@NP_MANAGER15/NP_MANAGER_res_0x7f0f006d">
+        <item>@NP_MANAGER15/NP_MANAGER_res_0x7f0f0318</item>
+        <item>@null</item>
+        <item>@NP_MANAGER5/NP_MANAGER_res_0x7f05039d</item>
+        <item>@NP_MANAGER5/NP_MANAGER_res_0x7f05039b</item>
+        <item>@NP_MANAGER7/NP_MANAGER_res_0x7f070057</item>
+    </NP_MANAGER15>
+    <NP_MANAGER15 name="NP_MANAGER_res_0x7f0f0070" parent="@NP_MANAGER15/NP_MANAGER_res_0x7f0f0096">
+    </NP_MANAGER15>
+    <NP_MANAGER15 name="NP_MANAGER_res_0x7f0f0071" parent="@NP_MANAGER15/NP_MANAGER_res_0x7f0f00a6">
+    </NP_MANAGER15>
+    <NP_MANAGER15 name="NP_MANAGER_res_0x7f0f0072" parent="@NP_MANAGER15/NP_MANAGER_res_0x7f0f0071">
+        <item>@NP_MANAGER6/NP_MANAGER_res_0x7f060022</item>
+        <item>@NP_MANAGER6/NP_MANAGER_res_0x7f060023</item>
+    </NP_MANAGER15>
+    <NP_MANAGER15 name="NP_MANAGER_res_0x7f0f0073" parent="@NP_MANAGER15/NP_MANAGER_res_0x7f0f0098">
+    </NP_MANAGER15>
+    <NP_MANAGER15 name="NP_MANAGER_res_0x7f0f0074" parent="@NP_MANAGER15/NP_MANAGER_res_0x7f0f0071">
+        <item>@NP_MANAGER6/NP_MANAGER_res_0x7f06001c</item>
+        <item>@NP_MANAGER6/NP_MANAGER_res_0x7f06001d</item>
+        <item>@NP_MANAGER6/NP_MANAGER_res_0x7f06001e</item>
+        <item>@NP_MANAGER6/NP_MANAGER_res_0x7f06001f</item>
+    </NP_MANAGER15>
+    <NP_MANAGER15 name="NP_MANAGER_res_0x7f0f0075" parent="@NP_MANAGER15/NP_MANAGER_res_0x7f0f0071">
+        <item>@NP_MANAGER6/NP_MANAGER_res_0x7f060022</item>
+        <item>@NP_MANAGER6/NP_MANAGER_res_0x7f060023</item>
+    </NP_MANAGER15>
+    <NP_MANAGER15 name="NP_MANAGER_res_0x7f0f0076" parent="@NP_MANAGER15/NP_MANAGER_res_0x7f0f02a7">
+    </NP_MANAGER15>
+    <NP_MANAGER15 name="NP_MANAGER_res_0x7f0f0077" parent="@NP_MANAGER15/NP_MANAGER_res_0x7f0f0145">
+    </NP_MANAGER15>
+    <NP_MANAGER15 name="NP_MANAGER_res_0x7f0f0078" parent="@NP_MANAGER15/NP_MANAGER_res_0x7f0f0077">
+        <item>?android:attr/textColorPrimary</item>
+        <item>@NP_MANAGER15/NP_MANAGER_res_0x7f0f0371</item>
+    </NP_MANAGER15>
+    <NP_MANAGER15 name="NP_MANAGER_res_0x7f0f0079" parent="@NP_MANAGER15/NP_MANAGER_res_0x7f0f0146">
+        <item>@NP_MANAGER5/NP_MANAGER_res_0x7f05005c</item>
+        <item>@NP_MANAGER5/NP_MANAGER_res_0x7f05001f</item>
+        <item>@NP_MANAGER5/NP_MANAGER_res_0x7f05000b</item>
+        <item>@NP_MANAGER5/NP_MANAGER_res_0x7f050009</item>
+        <item>@NP_MANAGER5/NP_MANAGER_res_0x7f050011</item>
+        <item>@NP_MANAGER5/NP_MANAGER_res_0x7f05000c</item>
+        <item>@NP_MANAGER5/NP_MANAGER_res_0x7f050012</item>
+        <item>@NP_MANAGER5/NP_MANAGER_res_0x7f050008</item>
+        <item>@NP_MANAGER5/NP_MANAGER_res_0x7f05001f</item>
+        <item>@NP_MANAGER5/NP_MANAGER_res_0x7f05005e</item>
+        <item>@NP_MANAGER5/NP_MANAGER_res_0x7f050007</item>
+        <item>@NP_MANAGER5/NP_MANAGER_res_0x7f05005d</item>
+        <item>@NP_MANAGER5/NP_MANAGER_res_0x7f050011</item>
+        <item>@NP_MANAGER5/NP_MANAGER_res_0x7f050012</item>
+        <item>@NP_MANAGER5/NP_MANAGER_res_0x7f050000</item>
+        <item>@NP_MANAGER5/NP_MANAGER_res_0x7f05001d</item>
+        <item>@NP_MANAGER5/NP_MANAGER_res_0x7f050028</item>
+        <item>@NP_MANAGER5/NP_MANAGER_res_0x7f0503a6</item>
+        <item>?android:attr/textColorSecondary</item>
+        <item>@NP_MANAGER5/NP_MANAGER_res_0x7f0503ae</item>
+        <item>false</item>
+    </NP_MANAGER15>
+    <NP_MANAGER15 name="NP_MANAGER_res_0x7f0f007a" parent="@NP_MANAGER15/NP_MANAGER_res_0x7f0f0079">
+        <item>?android:attr/textColorPrimary</item>
+        <item>@NP_MANAGER15/NP_MANAGER_res_0x7f0f0371</item>
+    </NP_MANAGER15>
+    <NP_MANAGER15 name="NP_MANAGER_res_0x7f0f007b" parent="@NP_MANAGER15/NP_MANAGER_res_0x7f0f00a7">
+    </NP_MANAGER15>
+    <NP_MANAGER15 name="NP_MANAGER_res_0x7f0f007c" parent="@NP_MANAGER15/NP_MANAGER_res_0x7f0f007b">
+        <item>@NP_MANAGER6/NP_MANAGER_res_0x7f060022</item>
+        <item>@NP_MANAGER6/NP_MANAGER_res_0x7f060023</item>
+    </NP_MANAGER15>
+    <NP_MANAGER15 name="NP_MANAGER_res_0x7f0f007d" parent="@NP_MANAGER15/NP_MANAGER_res_0x7f0f0147">
+        <item>@NP_MANAGER5/NP_MANAGER_res_0x7f05005d</item>
+        <item>@NP_MANAGER5/NP_MANAGER_res_0x7f050020</item>
+        <item>@NP_MANAGER5/NP_MANAGER_res_0x7f05000c</item>
+        <item>@NP_MANAGER5/NP_MANAGER_res_0x7f05000a</item>
+        <item>@NP_MANAGER5/NP_MANAGER_res_0x7f050012</item>
+        <item>@NP_MANAGER5/NP_MANAGER_res_0x7f05000b</item>
+        <item>@NP_MANAGER5/NP_MANAGER_res_0x7f050011</item>
+        <item>@NP_MANAGER5/NP_MANAGER_res_0x7f050007</item>
+        <item>@NP_MANAGER5/NP_MANAGER_res_0x7f050020</item>
+        <item>@NP_MANAGER5/NP_MANAGER_res_0x7f05005f</item>
+        <item>@NP_MANAGER5/NP_MANAGER_res_0x7f050008</item>
+        <item>@NP_MANAGER5/NP_MANAGER_res_0x7f05005c</item>
+        <item>@NP_MANAGER5/NP_MANAGER_res_0x7f050012</item>
+        <item>@NP_MANAGER5/NP_MANAGER_res_0x7f050011</item>
+        <item>@NP_MANAGER5/NP_MANAGER_res_0x7f050009</item>
+        <item>@NP_MANAGER5/NP_MANAGER_res_0x7f050001</item>
+        <item>@NP_MANAGER5/NP_MANAGER_res_0x7f05001e</item>
+        <item>@NP_MANAGER5/NP_MANAGER_res_0x7f050029</item>
+        <item>@NP_MANAGER5/NP_MANAGER_res_0x7f0503a7</item>
+        <item>?android:attr/textColorSecondary</item>
+        <item>@NP_MANAGER5/NP_MANAGER_res_0x7f0503af</item>
+        <item>true</item>
+    </NP_MANAGER15>
+    <NP_MANAGER15 name="NP_MANAGER_res_0x7f0f0083" parent="@NP_MANAGER15/NP_MANAGER_res_0x7f0f009b">
+        <item>@NP_MANAGER7/NP_MANAGER_res_0x7f0700cc</item>
+    </NP_MANAGER15>
+    <NP_MANAGER15 name="NP_MANAGER_res_0x7f0f0084" parent="@NP_MANAGER15/NP_MANAGER_res_0x7f0f009c">
+    </NP_MANAGER15>
+    <NP_MANAGER15 name="NP_MANAGER_res_0x7f0f0085" parent="@android:style/Theme.Material.Dialog.Alert">
+        <item>@NP_MANAGER15/NP_MANAGER_res_0x7f0f046c</item>
+    </NP_MANAGER15>
+    <NP_MANAGER15 name="NP_MANAGER_res_0x7f0f0086" parent="@android:style/Theme.Material.Light.Dialog.Alert">
+        <item>@NP_MANAGER15/NP_MANAGER_res_0x7f0f046c</item>
+    </NP_MANAGER15>
+    <NP_MANAGER15 name="NP_MANAGER_res_0x7f0f0087" parent="@NP_MANAGER15/NP_MANAGER_res_0x7f0f009d">
+    </NP_MANAGER15>
+    <NP_MANAGER15 name="NP_MANAGER_res_0x7f0f0090" parent="@NP_MANAGER15/NP_MANAGER_res_0x7f0f0091">
+        <item>@NP_MANAGER5/NP_MANAGER_res_0x7f050032</item>
+        <item>?NP_MANAGER3/NP_MANAGER_res_0x7f03008d</item>
+        <item>@NP_MANAGER15/NP_MANAGER_res_0x7f0f031a</item>
+        <item>@NP_MANAGER15/NP_MANAGER_res_0x7f0f031a</item>
+        <item>@NP_MANAGER15/NP_MANAGER_res_0x7f0f04a7</item>
+        <item>@NP_MANAGER15/NP_MANAGER_res_0x7f0f0317</item>
+        <item>@NP_MANAGER6/NP_MANAGER_res_0x7f0603e9</item>
+        <item>@NP_MANAGER15/NP_MANAGER_res_0x7f0f0454</item>
+        <item>@NP_MANAGER15/NP_MANAGER_res_0x7f0f030e</item>
+        <item>@NP_MANAGER15/NP_MANAGER_res_0x7f0f0455</item>
+        <item>@NP_MANAGER15/NP_MANAGER_res_0x7f0f04a9</item>
+        <item>@NP_MANAGER15/NP_MANAGER_res_0x7f0f031b</item>
+        <item>@NP_MANAGER15/NP_MANAGER_res_0x7f0f0458</item>
+        <item>@NP_MANAGER15/NP_MANAGER_res_0x7f0f046a</item>
+        <item>@NP_MANAGER15/NP_MANAGER_res_0x7f0f0461</item>
+        <item>@NP_MANAGER15/NP_MANAGER_res_0x7f0f0316</item>
+        <item>@NP_MANAGER15/NP_MANAGER_res_0x7f0f046a</item>
+        <item>@NP_MANAGER15/NP_MANAGER_res_0x7f0f047e</item>
+        <item>?NP_MANAGER3/NP_MANAGER_res_0x7f030127</item>
+        <item>@NP_MANAGER5/NP_MANAGER_res_0x7f050033</item>
+        <item>@NP_MANAGER5/NP_MANAGER_res_0x7f050039</item>
+        <item>@NP_MANAGER5/NP_MANAGER_res_0x7f05003a</item>
+        <item>@NP_MANAGER15/NP_MANAGER_res_0x7f0f0483</item>
+        <item>@NP_MANAGER15/NP_MANAGER_res_0x7f0f04a8</item>
+        <item>@NP_MANAGER15/NP_MANAGER_res_0x7f0f031f</item>
+        <item>@NP_MANAGER15/NP_MANAGER_res_0x7f0f0327</item>
+        <item>@NP_MANAGER15/NP_MANAGER_res_0x7f0f0487</item>
+        <item>@NP_MANAGER15/NP_MANAGER_res_0x7f0f0326</item>
+        <item>@NP_MANAGER15/NP_MANAGER_res_0x7f0f032d</item>
+        <item>@NP_MANAGER15/NP_MANAGER_res_0x7f0f04a5</item>
+        <item>@NP_MANAGER15/NP_MANAGER_res_0x7f0f04a6</item>
+        <item>@NP_MANAGER15/NP_MANAGER_res_0x7f0f047f</item>
+        <item>@NP_MANAGER15/NP_MANAGER_res_0x7f0f046f</item>
+        <item>@NP_MANAGER15/NP_MANAGER_res_0x7f0f04ad</item>
+        <item>@NP_MANAGER15/NP_MANAGER_res_0x7f0f04af</item>
+        <item>@NP_MANAGER15/NP_MANAGER_res_0x7f0f0480</item>
+        <item>@NP_MANAGER15/NP_MANAGER_res_0x7f0f04b0</item>
+        <item>?NP_MANAGER3/NP_MANAGER_res_0x7f0304be</item>
+        <item>?NP_MANAGER3/NP_MANAGER_res_0x7f0304be</item>
+        <item>@NP_MANAGER15/NP_MANAGER_res_0x7f0f04b8</item>
+        <item>@NP_MANAGER15/NP_MANAGER_res_0x7f0f04ba</item>
+        <item>@NP_MANAGER15/NP_MANAGER_res_0x7f0f04b7</item>
+        <item>@NP_MANAGER15/NP_MANAGER_res_0x7f0f04bc</item>
+        <item>@NP_MANAGER15/NP_MANAGER_res_0x7f0f04be</item>
+        <item>@NP_MANAGER15/NP_MANAGER_res_0x7f0f04bb</item>
+        <item>@NP_MANAGER15/NP_MANAGER_res_0x7f0f04b7</item>
+        <item>@NP_MANAGER15/NP_MANAGER_res_0x7f0f04ca</item>
+        <item>com.google.android.material.theme.MaterialComponentsViewInflater</item>
+    </NP_MANAGER15>
+    <NP_MANAGER15 name="NP_MANAGER_res_0x7f0f0091" parent="@NP_MANAGER15/NP_MANAGER_res_0x7f0f0141">
+        <item>@NP_MANAGER15/NP_MANAGER_res_0x7f0f045d</item>
+        <item>@NP_MANAGER15/NP_MANAGER_res_0x7f0f045e</item>
+        <item>@NP_MANAGER15/NP_MANAGER_res_0x7f0f0478</item>
+        <item>@NP_MANAGER15/NP_MANAGER_res_0x7f0f0476</item>
+        <item>@NP_MANAGER15/NP_MANAGER_res_0x7f0f0474</item>
+        <item>@NP_MANAGER15/NP_MANAGER_res_0x7f0f0479</item>
+        <item>@NP_MANAGER5/NP_MANAGER_res_0x7f050034</item>
+        <item>@NP_MANAGER5/NP_MANAGER_res_0x7f050035</item>
+        <item>@NP_MANAGER5/NP_MANAGER_res_0x7f050036</item>
+        <item>?NP_MANAGER3/NP_MANAGER_res_0x7f030116</item>
+        <item>@NP_MANAGER5/NP_MANAGER_res_0x7f050037</item>
+        <item>@NP_MANAGER5/NP_MANAGER_res_0x7f050038</item>
+        <item>?NP_MANAGER3/NP_MANAGER_res_0x7f03012c</item>
+        <item>@NP_MANAGER5/NP_MANAGER_res_0x7f05003b</item>
+        <item>@NP_MANAGER5/NP_MANAGER_res_0x7f05003c</item>
+        <item>@NP_MANAGER5/NP_MANAGER_res_0x7f05003d</item>
+        <item>@NP_MANAGER5/NP_MANAGER_res_0x7f05003e</item>
+        <item>?NP_MANAGER3/NP_MANAGER_res_0x7f030116</item>
+        <item>true</item>
+        <item>@NP_MANAGER15/NP_MANAGER_res_0x7f0f0482</item>
+        <item>true</item>
+        <item>@NP_MANAGER15/NP_MANAGER_res_0x7f0f0485</item>
+        <item>@NP_MANAGER15/NP_MANAGER_res_0x7f0f0468</item>
+        <item>@NP_MANAGER15/NP_MANAGER_res_0x7f0f0466</item>
+        <item>@NP_MANAGER15/NP_MANAGER_res_0x7f0f0486</item>
+        <item>@NP_MANAGER15/NP_MANAGER_res_0x7f0f0472</item>
+        <item>@NP_MANAGER6/NP_MANAGER_res_0x7f0603a6</item>
+        <item>@NP_MANAGER9/NP_MANAGER_res_0x7f090029</item>
+        <item>@NP_MANAGER9/NP_MANAGER_res_0x7f09002a</item>
+        <item>@NP_MANAGER9/NP_MANAGER_res_0x7f09002b</item>
+        <item>@NP_MANAGER9/NP_MANAGER_res_0x7f09002c</item>
+        <item>@NP_MANAGER9/NP_MANAGER_res_0x7f09002d</item>
+        <item>@NP_MANAGER9/NP_MANAGER_res_0x7f09002e</item>
+        <item>@NP_MANAGER14/NP_MANAGER_res_0x7f0e004e</item>
+        <item>@NP_MANAGER14/NP_MANAGER_res_0x7f0e004f</item>
+        <item>@NP_MANAGER14/NP_MANAGER_res_0x7f0e0050</item>
+        <item>@NP_MANAGER14/NP_MANAGER_res_0x7f0e0051</item>
+        <item>@NP_MANAGER14/NP_MANAGER_res_0x7f0e0052</item>
+        <item>@NP_MANAGER9/NP_MANAGER_res_0x7f09002f</item>
+        <item>@NP_MANAGER15/NP_MANAGER_res_0x7f0f04a0</item>
+        <item>@NP_MANAGER7/NP_MANAGER_res_0x7f0700d8</item>
+        <item>@NP_MANAGER5/NP_MANAGER_res_0x7f050389</item>
+        <item>@NP_MANAGER15/NP_MANAGER_res_0x7f0f01a2</item>
+        <item>@NP_MANAGER15/NP_MANAGER_res_0x7f0f01a3</item>
+        <item>@NP_MANAGER15/NP_MANAGER_res_0x7f0f01a4</item>
+        <item>@NP_MANAGER15/NP_MANAGER_res_0x7f0f04ac</item>
+        <item>@NP_MANAGER15/NP_MANAGER_res_0x7f0f023c</item>
+        <item>@NP_MANAGER15/NP_MANAGER_res_0x7f0f023d</item>
+        <item>@NP_MANAGER15/NP_MANAGER_res_0x7f0f023e</item>
+        <item>@NP_MANAGER15/NP_MANAGER_res_0x7f0f023f</item>
+        <item>@NP_MANAGER15/NP_MANAGER_res_0x7f0f0241</item>
+        <item>@NP_MANAGER15/NP_MANAGER_res_0x7f0f0242</item>
+        <item>@NP_MANAGER15/NP_MANAGER_res_0x7f0f0243</item>
+        <item>@NP_MANAGER15/NP_MANAGER_res_0x7f0f0244</item>
+        <item>@NP_MANAGER15/NP_MANAGER_res_0x7f0f0245</item>
+        <item>@NP_MANAGER15/NP_MANAGER_res_0x7f0f0246</item>
+        <item>@NP_MANAGER15/NP_MANAGER_res_0x7f0f0247</item>
+        <item>@NP_MANAGER15/NP_MANAGER_res_0x7f0f0248</item>
+        <item>@NP_MANAGER15/NP_MANAGER_res_0x7f0f0249</item>
+    </NP_MANAGER15>
+    <NP_MANAGER15 name="NP_MANAGER_res_0x7f0f0092" parent="@NP_MANAGER15/NP_MANAGER_res_0x7f0f0093">
+        <item>@NP_MANAGER5/NP_MANAGER_res_0x7f050032</item>
+        <item>@NP_MANAGER15/NP_MANAGER_res_0x7f0f04a7</item>
+        <item>@NP_MANAGER15/NP_MANAGER_res_0x7f0f0317</item>
+        <item>@NP_MANAGER6/NP_MANAGER_res_0x7f0603e9</item>
+        <item>@NP_MANAGER15/NP_MANAGER_res_0x7f0f0454</item>
+        <item>@NP_MANAGER15/NP_MANAGER_res_0x7f0f030e</item>
+        <item>@NP_MANAGER15/NP_MANAGER_res_0x7f0f0455</item>
+        <item>@NP_MANAGER15/NP_MANAGER_res_0x7f0f04a9</item>
+        <item>@NP_MANAGER15/NP_MANAGER_res_0x7f0f031b</item>
+        <item>@NP_MANAGER15/NP_MANAGER_res_0x7f0f0458</item>
+        <item>@NP_MANAGER15/NP_MANAGER_res_0x7f0f046a</item>
+        <item>@NP_MANAGER15/NP_MANAGER_res_0x7f0f0461</item>
+        <item>@NP_MANAGER15/NP_MANAGER_res_0x7f0f046c</item>
+        <item>@NP_MANAGER15/NP_MANAGER_res_0x7f0f047e</item>
+        <item>?NP_MANAGER3/NP_MANAGER_res_0x7f030127</item>
+        <item>@NP_MANAGER5/NP_MANAGER_res_0x7f050033</item>
+        <item>@NP_MANAGER5/NP_MANAGER_res_0x7f050039</item>
+        <item>@NP_MANAGER5/NP_MANAGER_res_0x7f05003a</item>
+        <item>@NP_MANAGER5/NP_MANAGER_res_0x7f05003c</item>
+        <item>@NP_MANAGER15/NP_MANAGER_res_0x7f0f0483</item>
+        <item>@NP_MANAGER15/NP_MANAGER_res_0x7f0f04a8</item>
+        <item>@NP_MANAGER15/NP_MANAGER_res_0x7f0f031f</item>
+        <item>@NP_MANAGER15/NP_MANAGER_res_0x7f0f04a5</item>
+        <item>@NP_MANAGER15/NP_MANAGER_res_0x7f0f04a6</item>
+        <item>@NP_MANAGER15/NP_MANAGER_res_0x7f0f047f</item>
+        <item>@NP_MANAGER15/NP_MANAGER_res_0x7f0f046f</item>
+        <item>@NP_MANAGER15/NP_MANAGER_res_0x7f0f04ad</item>
+        <item>@NP_MANAGER15/NP_MANAGER_res_0x7f0f04af</item>
+        <item>@NP_MANAGER15/NP_MANAGER_res_0x7f0f0480</item>
+        <item>@NP_MANAGER15/NP_MANAGER_res_0x7f0f04b0</item>
+        <item>?NP_MANAGER3/NP_MANAGER_res_0x7f0304be</item>
+        <item>?NP_MANAGER3/NP_MANAGER_res_0x7f0304be</item>
+        <item>@NP_MANAGER15/NP_MANAGER_res_0x7f0f04b8</item>
+        <item>@NP_MANAGER15/NP_MANAGER_res_0x7f0f04ba</item>
+        <item>@NP_MANAGER15/NP_MANAGER_res_0x7f0f04b7</item>
+        <item>@NP_MANAGER15/NP_MANAGER_res_0x7f0f04bc</item>
+        <item>@NP_MANAGER15/NP_MANAGER_res_0x7f0f04be</item>
+        <item>@NP_MANAGER15/NP_MANAGER_res_0x7f0f04bb</item>
+        <item>@NP_MANAGER15/NP_MANAGER_res_0x7f0f04b7</item>
+        <item>@NP_MANAGER15/NP_MANAGER_res_0x7f0f04ca</item>
+        <item>com.google.android.material.theme.MaterialComponentsViewInflater</item>
+    </NP_MANAGER15>
+    <NP_MANAGER15 name="NP_MANAGER_res_0x7f0f0093" parent="@NP_MANAGER15/NP_MANAGER_res_0x7f0f0142">
+        <item>@NP_MANAGER15/NP_MANAGER_res_0x7f0f045d</item>
+        <item>@NP_MANAGER15/NP_MANAGER_res_0x7f0f045e</item>
+        <item>@NP_MANAGER15/NP_MANAGER_res_0x7f0f0478</item>
+        <item>@NP_MANAGER15/NP_MANAGER_res_0x7f0f0476</item>
+        <item>@NP_MANAGER15/NP_MANAGER_res_0x7f0f0474</item>
+        <item>@NP_MANAGER15/NP_MANAGER_res_0x7f0f0479</item>
+        <item>@NP_MANAGER5/NP_MANAGER_res_0x7f050034</item>
+        <item>@NP_MANAGER5/NP_MANAGER_res_0x7f050035</item>
+        <item>@NP_MANAGER5/NP_MANAGER_res_0x7f050036</item>
+        <item>?NP_MANAGER3/NP_MANAGER_res_0x7f030116</item>
+        <item>@NP_MANAGER5/NP_MANAGER_res_0x7f050037</item>
+        <item>@NP_MANAGER5/NP_MANAGER_res_0x7f050038</item>
+        <item>?NP_MANAGER3/NP_MANAGER_res_0x7f03012c</item>
+        <item>@NP_MANAGER5/NP_MANAGER_res_0x7f05003b</item>
+        <item>@NP_MANAGER5/NP_MANAGER_res_0x7f05003c</item>
+        <item>@NP_MANAGER5/NP_MANAGER_res_0x7f05003d</item>
+        <item>@NP_MANAGER5/NP_MANAGER_res_0x7f05003e</item>
+        <item>?NP_MANAGER3/NP_MANAGER_res_0x7f030116</item>
+        <item>true</item>
+        <item>@NP_MANAGER15/NP_MANAGER_res_0x7f0f0482</item>
+        <item>true</item>
+        <item>@NP_MANAGER15/NP_MANAGER_res_0x7f0f0485</item>
+        <item>@NP_MANAGER15/NP_MANAGER_res_0x7f0f0468</item>
+        <item>@NP_MANAGER15/NP_MANAGER_res_0x7f0f0466</item>
+        <item>@NP_MANAGER15/NP_MANAGER_res_0x7f0f0486</item>
+        <item>@NP_MANAGER15/NP_MANAGER_res_0x7f0f0472</item>
+        <item>@NP_MANAGER6/NP_MANAGER_res_0x7f0603a6</item>
+        <item>@NP_MANAGER9/NP_MANAGER_res_0x7f090029</item>
+        <item>@NP_MANAGER9/NP_MANAGER_res_0x7f09002a</item>
+        <item>@NP_MANAGER9/NP_MANAGER_res_0x7f09002b</item>
+        <item>@NP_MANAGER9/NP_MANAGER_res_0x7f09002c</item>
+        <item>@NP_MANAGER9/NP_MANAGER_res_0x7f09002d</item>
+        <item>@NP_MANAGER9/NP_MANAGER_res_0x7f09002e</item>
+        <item>@NP_MANAGER14/NP_MANAGER_res_0x7f0e004e</item>
+        <item>@NP_MANAGER14/NP_MANAGER_res_0x7f0e004f</item>
+        <item>@NP_MANAGER14/NP_MANAGER_res_0x7f0e0050</item>
+        <item>@NP_MANAGER14/NP_MANAGER_res_0x7f0e0051</item>
+        <item>@NP_MANAGER14/NP_MANAGER_res_0x7f0e0052</item>
+        <item>@NP_MANAGER9/NP_MANAGER_res_0x7f09002f</item>
+        <item>@NP_MANAGER15/NP_MANAGER_res_0x7f0f04a0</item>
+        <item>@NP_MANAGER7/NP_MANAGER_res_0x7f0700d8</item>
+        <item>@NP_MANAGER5/NP_MANAGER_res_0x7f050389</item>
+        <item>@NP_MANAGER15/NP_MANAGER_res_0x7f0f01a2</item>
+        <item>@NP_MANAGER15/NP_MANAGER_res_0x7f0f01a3</item>
+        <item>@NP_MANAGER15/NP_MANAGER_res_0x7f0f01a4</item>
+        <item>@NP_MANAGER15/NP_MANAGER_res_0x7f0f04ac</item>
+        <item>@NP_MANAGER15/NP_MANAGER_res_0x7f0f023c</item>
+        <item>@NP_MANAGER15/NP_MANAGER_res_0x7f0f023d</item>
+        <item>@NP_MANAGER15/NP_MANAGER_res_0x7f0f023e</item>
+        <item>@NP_MANAGER15/NP_MANAGER_res_0x7f0f023f</item>
+        <item>@NP_MANAGER15/NP_MANAGER_res_0x7f0f0241</item>
+        <item>@NP_MANAGER15/NP_MANAGER_res_0x7f0f0242</item>
+        <item>@NP_MANAGER15/NP_MANAGER_res_0x7f0f0243</item>
+        <item>@NP_MANAGER15/NP_MANAGER_res_0x7f0f0244</item>
+        <item>@NP_MANAGER15/NP_MANAGER_res_0x7f0f0245</item>
+        <item>@NP_MANAGER15/NP_MANAGER_res_0x7f0f0246</item>
+        <item>@NP_MANAGER15/NP_MANAGER_res_0x7f0f0247</item>
+        <item>@NP_MANAGER15/NP_MANAGER_res_0x7f0f0248</item>
+        <item>@NP_MANAGER15/NP_MANAGER_res_0x7f0f0249</item>
+    </NP_MANAGER15>
+    <NP_MANAGER15 name="NP_MANAGER_res_0x7f0f0094" parent="@NP_MANAGER15/NP_MANAGER_res_0x7f0f0095">
+        <item>@NP_MANAGER5/NP_MANAGER_res_0x7f05003f</item>
+        <item>?NP_MANAGER3/NP_MANAGER_res_0x7f03008d</item>
+        <item>@NP_MANAGER15/NP_MANAGER_res_0x7f0f031a</item>
+        <item>@NP_MANAGER15/NP_MANAGER_res_0x7f0f031a</item>
+        <item>@NP_MANAGER15/NP_MANAGER_res_0x7f0f04a7</item>
+        <item>@NP_MANAGER15/NP_MANAGER_res_0x7f0f031d</item>
+        <item>@NP_MANAGER6/NP_MANAGER_res_0x7f0603e9</item>
+        <item>@NP_MANAGER15/NP_MANAGER_res_0x7f0f0484</item>
+        <item>@NP_MANAGER15/NP_MANAGER_res_0x7f0f0455</item>
+        <item>@NP_MANAGER15/NP_MANAGER_res_0x7f0f04a9</item>
+        <item>@NP_MANAGER15/NP_MANAGER_res_0x7f0f031b</item>
+        <item>@NP_MANAGER15/NP_MANAGER_res_0x7f0f0456</item>
+        <item>@NP_MANAGER15/NP_MANAGER_res_0x7f0f046a</item>
+        <item>@NP_MANAGER15/NP_MANAGER_res_0x7f0f0461</item>
+        <item>@NP_MANAGER15/NP_MANAGER_res_0x7f0f0316</item>
+        <item>@NP_MANAGER15/NP_MANAGER_res_0x7f0f046a</item>
+        <item>@NP_MANAGER15/NP_MANAGER_res_0x7f0f047e</item>
+        <item>?NP_MANAGER3/NP_MANAGER_res_0x7f030127</item>
+        <item>@NP_MANAGER5/NP_MANAGER_res_0x7f050040</item>
+        <item>@NP_MANAGER5/NP_MANAGER_res_0x7f050046</item>
+        <item>@NP_MANAGER5/NP_MANAGER_res_0x7f050047</item>
+        <item>@NP_MANAGER15/NP_MANAGER_res_0x7f0f0483</item>
+        <item>@NP_MANAGER15/NP_MANAGER_res_0x7f0f04a8</item>
+        <item>@NP_MANAGER15/NP_MANAGER_res_0x7f0f031f</item>
+        <item>@NP_MANAGER15/NP_MANAGER_res_0x7f0f0327</item>
+        <item>@NP_MANAGER15/NP_MANAGER_res_0x7f0f0487</item>
+        <item>@NP_MANAGER15/NP_MANAGER_res_0x7f0f0326</item>
+        <item>@NP_MANAGER15/NP_MANAGER_res_0x7f0f032d</item>
+        <item>@NP_MANAGER15/NP_MANAGER_res_0x7f0f04a5</item>
+        <item>@NP_MANAGER15/NP_MANAGER_res_0x7f0f04a6</item>
+        <item>@NP_MANAGER15/NP_MANAGER_res_0x7f0f047f</item>
+        <item>@NP_MANAGER15/NP_MANAGER_res_0x7f0f046f</item>
+        <item>@NP_MANAGER15/NP_MANAGER_res_0x7f0f04ad</item>
+        <item>@NP_MANAGER15/NP_MANAGER_res_0x7f0f04af</item>
+        <item>@NP_MANAGER15/NP_MANAGER_res_0x7f0f0480</item>
+        <item>@NP_MANAGER15/NP_MANAGER_res_0x7f0f04b0</item>
+        <item>?NP_MANAGER3/NP_MANAGER_res_0x7f0304be</item>
+        <item>?NP_MANAGER3/NP_MANAGER_res_0x7f0304be</item>
+        <item>@NP_MANAGER15/NP_MANAGER_res_0x7f0f04b8</item>
+        <item>@NP_MANAGER15/NP_MANAGER_res_0x7f0f04ba</item>
+        <item>@NP_MANAGER15/NP_MANAGER_res_0x7f0f04b7</item>
+        <item>@NP_MANAGER15/NP_MANAGER_res_0x7f0f04bc</item>
+        <item>@NP_MANAGER15/NP_MANAGER_res_0x7f0f04be</item>
+        <item>@NP_MANAGER15/NP_MANAGER_res_0x7f0f04bb</item>
+        <item>@NP_MANAGER15/NP_MANAGER_res_0x7f0f04b7</item>
+        <item>@NP_MANAGER15/NP_MANAGER_res_0x7f0f04ca</item>
+        <item>com.google.android.material.theme.MaterialComponentsViewInflater</item>
+    </NP_MANAGER15>
+    <NP_MANAGER15 name="NP_MANAGER_res_0x7f0f0095" parent="@NP_MANAGER15/NP_MANAGER_res_0x7f0f0143">
+        <item>@NP_MANAGER15/NP_MANAGER_res_0x7f0f045d</item>
+        <item>@NP_MANAGER15/NP_MANAGER_res_0x7f0f045e</item>
+        <item>@NP_MANAGER15/NP_MANAGER_res_0x7f0f0478</item>
+        <item>@NP_MANAGER15/NP_MANAGER_res_0x7f0f0476</item>
+        <item>@NP_MANAGER15/NP_MANAGER_res_0x7f0f0474</item>
+        <item>@NP_MANAGER15/NP_MANAGER_res_0x7f0f0479</item>
+        <item>@NP_MANAGER5/NP_MANAGER_res_0x7f050041</item>
+        <item>@NP_MANAGER5/NP_MANAGER_res_0x7f050042</item>
+        <item>@NP_MANAGER5/NP_MANAGER_res_0x7f050043</item>
+        <item>?NP_MANAGER3/NP_MANAGER_res_0x7f03010d</item>
+        <item>@NP_MANAGER5/NP_MANAGER_res_0x7f050044</item>
+        <item>@NP_MANAGER5/NP_MANAGER_res_0x7f050045</item>
+        <item>?NP_MANAGER3/NP_MANAGER_res_0x7f03011f</item>
+        <item>@NP_MANAGER5/NP_MANAGER_res_0x7f050048</item>
+        <item>@NP_MANAGER5/NP_MANAGER_res_0x7f050049</item>
+        <item>@NP_MANAGER5/NP_MANAGER_res_0x7f05004a</item>
+        <item>@NP_MANAGER5/NP_MANAGER_res_0x7f05004b</item>
+        <item>?NP_MANAGER3/NP_MANAGER_res_0x7f030116</item>
+        <item>false</item>
+        <item>@NP_MANAGER15/NP_MANAGER_res_0x7f0f0482</item>
+        <item>true</item>
+        <item>@NP_MANAGER15/NP_MANAGER_res_0x7f0f0485</item>
+        <item>@NP_MANAGER15/NP_MANAGER_res_0x7f0f0468</item>
+        <item>@NP_MANAGER15/NP_MANAGER_res_0x7f0f0466</item>
+        <item>@NP_MANAGER15/NP_MANAGER_res_0x7f0f0486</item>
+        <item>@NP_MANAGER15/NP_MANAGER_res_0x7f0f0472</item>
+        <item>@NP_MANAGER6/NP_MANAGER_res_0x7f0603a6</item>
+        <item>@NP_MANAGER9/NP_MANAGER_res_0x7f090029</item>
+        <item>@NP_MANAGER9/NP_MANAGER_res_0x7f09002a</item>
+        <item>@NP_MANAGER9/NP_MANAGER_res_0x7f09002b</item>
+        <item>@NP_MANAGER9/NP_MANAGER_res_0x7f09002c</item>
+        <item>@NP_MANAGER9/NP_MANAGER_res_0x7f09002d</item>
+        <item>@NP_MANAGER9/NP_MANAGER_res_0x7f09002e</item>
+        <item>@NP_MANAGER14/NP_MANAGER_res_0x7f0e004e</item>
+        <item>@NP_MANAGER14/NP_MANAGER_res_0x7f0e004f</item>
+        <item>@NP_MANAGER14/NP_MANAGER_res_0x7f0e0050</item>
+        <item>@NP_MANAGER14/NP_MANAGER_res_0x7f0e0051</item>
+        <item>@NP_MANAGER14/NP_MANAGER_res_0x7f0e0052</item>
+        <item>@NP_MANAGER9/NP_MANAGER_res_0x7f09002f</item>
+        <item>@NP_MANAGER15/NP_MANAGER_res_0x7f0f04a0</item>
+        <item>@NP_MANAGER7/NP_MANAGER_res_0x7f0700d7</item>
+        <item>@NP_MANAGER5/NP_MANAGER_res_0x7f050389</item>
+        <item>@NP_MANAGER15/NP_MANAGER_res_0x7f0f01a2</item>
+        <item>@NP_MANAGER15/NP_MANAGER_res_0x7f0f01a3</item>
+        <item>@NP_MANAGER15/NP_MANAGER_res_0x7f0f01a4</item>
+        <item>@NP_MANAGER15/NP_MANAGER_res_0x7f0f04ac</item>
+        <item>@NP_MANAGER15/NP_MANAGER_res_0x7f0f023c</item>
+        <item>@NP_MANAGER15/NP_MANAGER_res_0x7f0f023d</item>
+        <item>@NP_MANAGER15/NP_MANAGER_res_0x7f0f023e</item>
+        <item>@NP_MANAGER15/NP_MANAGER_res_0x7f0f023f</item>
+        <item>@NP_MANAGER15/NP_MANAGER_res_0x7f0f0241</item>
+        <item>@NP_MANAGER15/NP_MANAGER_res_0x7f0f0242</item>
+        <item>@NP_MANAGER15/NP_MANAGER_res_0x7f0f0243</item>
+        <item>@NP_MANAGER15/NP_MANAGER_res_0x7f0f0244</item>
+        <item>@NP_MANAGER15/NP_MANAGER_res_0x7f0f0245</item>
+        <item>@NP_MANAGER15/NP_MANAGER_res_0x7f0f0246</item>
+        <item>@NP_MANAGER15/NP_MANAGER_res_0x7f0f0247</item>
+        <item>@NP_MANAGER15/NP_MANAGER_res_0x7f0f0248</item>
+        <item>@NP_MANAGER15/NP_MANAGER_res_0x7f0f0249</item>
+    </NP_MANAGER15>
+    <NP_MANAGER15 name="NP_MANAGER_res_0x7f0f0096" parent="@NP_MANAGER15/NP_MANAGER_res_0x7f0f025e">
+        <item>@NP_MANAGER5/NP_MANAGER_res_0x7f050041</item>
+        <item>@NP_MANAGER5/NP_MANAGER_res_0x7f050042</item>
+        <item>@NP_MANAGER5/NP_MANAGER_res_0x7f050043</item>
+        <item>?NP_MANAGER3/NP_MANAGER_res_0x7f03010d</item>
+        <item>@NP_MANAGER5/NP_MANAGER_res_0x7f050044</item>
+        <item>@NP_MANAGER5/NP_MANAGER_res_0x7f050045</item>
+        <item>?NP_MANAGER3/NP_MANAGER_res_0x7f03011f</item>
+        <item>@NP_MANAGER5/NP_MANAGER_res_0x7f050048</item>
+        <item>@NP_MANAGER5/NP_MANAGER_res_0x7f050049</item>
+        <item>@NP_MANAGER5/NP_MANAGER_res_0x7f05004a</item>
+        <item>@NP_MANAGER5/NP_MANAGER_res_0x7f05004b</item>
+        <item>?NP_MANAGER3/NP_MANAGER_res_0x7f030116</item>
+        <item>false</item>
+        <item>true</item>
+        <item>@NP_MANAGER9/NP_MANAGER_res_0x7f090029</item>
+        <item>@NP_MANAGER9/NP_MANAGER_res_0x7f09002a</item>
+        <item>@NP_MANAGER9/NP_MANAGER_res_0x7f09002b</item>
+        <item>@NP_MANAGER9/NP_MANAGER_res_0x7f09002c</item>
+        <item>@NP_MANAGER9/NP_MANAGER_res_0x7f09002d</item>
+        <item>@NP_MANAGER9/NP_MANAGER_res_0x7f09002e</item>
+        <item>@NP_MANAGER14/NP_MANAGER_res_0x7f0e004e</item>
+        <item>@NP_MANAGER14/NP_MANAGER_res_0x7f0e004f</item>
+        <item>@NP_MANAGER14/NP_MANAGER_res_0x7f0e0050</item>
+        <item>@NP_MANAGER14/NP_MANAGER_res_0x7f0e0051</item>
+        <item>@NP_MANAGER14/NP_MANAGER_res_0x7f0e0052</item>
+        <item>@NP_MANAGER9/NP_MANAGER_res_0x7f09002f</item>
+        <item>@NP_MANAGER7/NP_MANAGER_res_0x7f0700d7</item>
+        <item>@NP_MANAGER5/NP_MANAGER_res_0x7f050389</item>
+        <item>@NP_MANAGER15/NP_MANAGER_res_0x7f0f01a2</item>
+        <item>@NP_MANAGER15/NP_MANAGER_res_0x7f0f01a3</item>
+        <item>@NP_MANAGER15/NP_MANAGER_res_0x7f0f01a4</item>
+        <item>@NP_MANAGER15/NP_MANAGER_res_0x7f0f023c</item>
+        <item>@NP_MANAGER15/NP_MANAGER_res_0x7f0f023d</item>
+        <item>@NP_MANAGER15/NP_MANAGER_res_0x7f0f023e</item>
+        <item>@NP_MANAGER15/NP_MANAGER_res_0x7f0f023f</item>
+        <item>@NP_MANAGER15/NP_MANAGER_res_0x7f0f0241</item>
+        <item>@NP_MANAGER15/NP_MANAGER_res_0x7f0f0242</item>
+        <item>@NP_MANAGER15/NP_MANAGER_res_0x7f0f0243</item>
+        <item>@NP_MANAGER15/NP_MANAGER_res_0x7f0f0244</item>
+        <item>@NP_MANAGER15/NP_MANAGER_res_0x7f0f0245</item>
+        <item>@NP_MANAGER15/NP_MANAGER_res_0x7f0f0246</item>
+        <item>@NP_MANAGER15/NP_MANAGER_res_0x7f0f0247</item>
+        <item>@NP_MANAGER15/NP_MANAGER_res_0x7f0f0248</item>
+        <item>@NP_MANAGER15/NP_MANAGER_res_0x7f0f0249</item>
+    </NP_MANAGER15>
+    <NP_MANAGER15 name="NP_MANAGER_res_0x7f0f0097" parent="@NP_MANAGER15/NP_MANAGER_res_0x7f0f0098">
+        <item>@NP_MANAGER5/NP_MANAGER_res_0x7f05003f</item>
+        <item>@NP_MANAGER15/NP_MANAGER_res_0x7f0f04a7</item>
+        <item>@NP_MANAGER15/NP_MANAGER_res_0x7f0f031d</item>
+        <item>@NP_MANAGER6/NP_MANAGER_res_0x7f0603e9</item>
+        <item>@NP_MANAGER15/NP_MANAGER_res_0x7f0f0484</item>
+        <item>@NP_MANAGER15/NP_MANAGER_res_0x7f0f0455</item>
+        <item>@NP_MANAGER15/NP_MANAGER_res_0x7f0f04a9</item>
+        <item>@NP_MANAGER15/NP_MANAGER_res_0x7f0f031b</item>
+        <item>@NP_MANAGER15/NP_MANAGER_res_0x7f0f0456</item>
+        <item>@NP_MANAGER15/NP_MANAGER_res_0x7f0f046a</item>
+        <item>@NP_MANAGER15/NP_MANAGER_res_0x7f0f0461</item>
+        <item>@NP_MANAGER15/NP_MANAGER_res_0x7f0f046c</item>
+        <item>@NP_MANAGER15/NP_MANAGER_res_0x7f0f047e</item>
+        <item>?NP_MANAGER3/NP_MANAGER_res_0x7f030127</item>
+        <item>@NP_MANAGER5/NP_MANAGER_res_0x7f050040</item>
+        <item>@NP_MANAGER5/NP_MANAGER_res_0x7f050046</item>
+        <item>@NP_MANAGER5/NP_MANAGER_res_0x7f050047</item>
+        <item>@NP_MANAGER5/NP_MANAGER_res_0x7f050049</item>
+        <item>@NP_MANAGER15/NP_MANAGER_res_0x7f0f0483</item>
+        <item>@NP_MANAGER15/NP_MANAGER_res_0x7f0f04a8</item>
+        <item>@NP_MANAGER15/NP_MANAGER_res_0x7f0f031f</item>
+        <item>@NP_MANAGER15/NP_MANAGER_res_0x7f0f04a5</item>
+        <item>@NP_MANAGER15/NP_MANAGER_res_0x7f0f04a6</item>
+        <item>@NP_MANAGER15/NP_MANAGER_res_0x7f0f047f</item>
+        <item>@NP_MANAGER15/NP_MANAGER_res_0x7f0f046f</item>
+        <item>@NP_MANAGER15/NP_MANAGER_res_0x7f0f04ad</item>
+        <item>@NP_MANAGER15/NP_MANAGER_res_0x7f0f04af</item>
+        <item>@NP_MANAGER15/NP_MANAGER_res_0x7f0f0480</item>
+        <item>@NP_MANAGER15/NP_MANAGER_res_0x7f0f04b0</item>
+        <item>?NP_MANAGER3/NP_MANAGER_res_0x7f0304be</item>
+        <item>?NP_MANAGER3/NP_MANAGER_res_0x7f0304be</item>
+        <item>@NP_MANAGER15/NP_MANAGER_res_0x7f0f04b8</item>
+        <item>@NP_MANAGER15/NP_MANAGER_res_0x7f0f04ba</item>
+        <item>@NP_MANAGER15/NP_MANAGER_res_0x7f0f04b7</item>
+        <item>@NP_MANAGER15/NP_MANAGER_res_0x7f0f04bc</item>
+        <item>@NP_MANAGER15/NP_MANAGER_res_0x7f0f04be</item>
+        <item>@NP_MANAGER15/NP_MANAGER_res_0x7f0f04bb</item>
+        <item>@NP_MANAGER15/NP_MANAGER_res_0x7f0f04b7</item>
+        <item>@NP_MANAGER15/NP_MANAGER_res_0x7f0f04ca</item>
+        <item>com.google.android.material.theme.MaterialComponentsViewInflater</item>
+    </NP_MANAGER15>
+    <NP_MANAGER15 name="NP_MANAGER_res_0x7f0f0098" parent="@NP_MANAGER15/NP_MANAGER_res_0x7f0f0144">
+        <item>@NP_MANAGER15/NP_MANAGER_res_0x7f0f045d</item>
+        <item>@NP_MANAGER15/NP_MANAGER_res_0x7f0f045e</item>
+        <item>@NP_MANAGER15/NP_MANAGER_res_0x7f0f0478</item>
+        <item>@NP_MANAGER15/NP_MANAGER_res_0x7f0f0476</item>
+        <item>@NP_MANAGER15/NP_MANAGER_res_0x7f0f0474</item>
+        <item>@NP_MANAGER15/NP_MANAGER_res_0x7f0f0479</item>
+        <item>@NP_MANAGER5/NP_MANAGER_res_0x7f050041</item>
+        <item>@NP_MANAGER5/NP_MANAGER_res_0x7f050042</item>
+        <item>@NP_MANAGER5/NP_MANAGER_res_0x7f050043</item>
+        <item>?NP_MANAGER3/NP_MANAGER_res_0x7f03010d</item>
+        <item>@NP_MANAGER5/NP_MANAGER_res_0x7f050044</item>
+        <item>@NP_MANAGER5/NP_MANAGER_res_0x7f050045</item>
+        <item>?NP_MANAGER3/NP_MANAGER_res_0x7f03011f</item>
+        <item>@NP_MANAGER5/NP_MANAGER_res_0x7f050048</item>
+        <item>@NP_MANAGER5/NP_MANAGER_res_0x7f050049</item>
+        <item>@NP_MANAGER5/NP_MANAGER_res_0x7f05004a</item>
+        <item>@NP_MANAGER5/NP_MANAGER_res_0x7f05004b</item>
+        <item>?NP_MANAGER3/NP_MANAGER_res_0x7f030116</item>
+        <item>false</item>
+        <item>@NP_MANAGER15/NP_MANAGER_res_0x7f0f0482</item>
+        <item>true</item>
+        <item>@NP_MANAGER15/NP_MANAGER_res_0x7f0f0485</item>
+        <item>@NP_MANAGER15/NP_MANAGER_res_0x7f0f0468</item>
+        <item>@NP_MANAGER15/NP_MANAGER_res_0x7f0f0466</item>
+        <item>@NP_MANAGER15/NP_MANAGER_res_0x7f0f0486</item>
+        <item>@NP_MANAGER15/NP_MANAGER_res_0x7f0f0472</item>
+        <item>@NP_MANAGER6/NP_MANAGER_res_0x7f0603a6</item>
+        <item>@NP_MANAGER9/NP_MANAGER_res_0x7f090029</item>
+        <item>@NP_MANAGER9/NP_MANAGER_res_0x7f09002a</item>
+        <item>@NP_MANAGER9/NP_MANAGER_res_0x7f09002b</item>
+        <item>@NP_MANAGER9/NP_MANAGER_res_0x7f09002c</item>
+        <item>@NP_MANAGER9/NP_MANAGER_res_0x7f09002d</item>
+        <item>@NP_MANAGER9/NP_MANAGER_res_0x7f09002e</item>
+        <item>@NP_MANAGER14/NP_MANAGER_res_0x7f0e004e</item>
+        <item>@NP_MANAGER14/NP_MANAGER_res_0x7f0e004f</item>
+        <item>@NP_MANAGER14/NP_MANAGER_res_0x7f0e0050</item>
+        <item>@NP_MANAGER14/NP_MANAGER_res_0x7f0e0051</item>
+        <item>@NP_MANAGER14/NP_MANAGER_res_0x7f0e0052</item>
+        <item>@NP_MANAGER9/NP_MANAGER_res_0x7f09002f</item>
+        <item>@NP_MANAGER15/NP_MANAGER_res_0x7f0f04a0</item>
+        <item>@NP_MANAGER7/NP_MANAGER_res_0x7f0700d7</item>
+        <item>@NP_MANAGER5/NP_MANAGER_res_0x7f050389</item>
+        <item>@NP_MANAGER15/NP_MANAGER_res_0x7f0f01a2</item>
+        <item>@NP_MANAGER15/NP_MANAGER_res_0x7f0f01a3</item>
+        <item>@NP_MANAGER15/NP_MANAGER_res_0x7f0f01a4</item>
+        <item>@NP_MANAGER15/NP_MANAGER_res_0x7f0f04ac</item>
+        <item>@NP_MANAGER15/NP_MANAGER_res_0x7f0f023c</item>
+        <item>@NP_MANAGER15/NP_MANAGER_res_0x7f0f023d</item>
+        <item>@NP_MANAGER15/NP_MANAGER_res_0x7f0f023e</item>
+        <item>@NP_MANAGER15/NP_MANAGER_res_0x7f0f023f</item>
+        <item>@NP_MANAGER15/NP_MANAGER_res_0x7f0f0241</item>
+        <item>@NP_MANAGER15/NP_MANAGER_res_0x7f0f0242</item>
+        <item>@NP_MANAGER15/NP_MANAGER_res_0x7f0f0243</item>
+        <item>@NP_MANAGER15/NP_MANAGER_res_0x7f0f0244</item>
+        <item>@NP_MANAGER15/NP_MANAGER_res_0x7f0f0245</item>
+        <item>@NP_MANAGER15/NP_MANAGER_res_0x7f0f0246</item>
+        <item>@NP_MANAGER15/NP_MANAGER_res_0x7f0f0247</item>
+        <item>@NP_MANAGER15/NP_MANAGER_res_0x7f0f0248</item>
+        <item>@NP_MANAGER15/NP_MANAGER_res_0x7f0f0249</item>
+    </NP_MANAGER15>
+    <NP_MANAGER15 name="NP_MANAGER_res_0x7f0f009b" parent="@NP_MANAGER15/NP_MANAGER_res_0x7f0f02c1">
+        <item>@NP_MANAGER15/NP_MANAGER_res_0x7f0f046c</item>
+    </NP_MANAGER15>
+    <NP_MANAGER15 name="NP_MANAGER_res_0x7f0f009c" parent="@NP_MANAGER15/NP_MANAGER_res_0x7f0f02c2">
+        <item>@NP_MANAGER15/NP_MANAGER_res_0x7f0f046c</item>
+    </NP_MANAGER15>
+    <NP_MANAGER15 name="NP_MANAGER_res_0x7f0f009d" parent="@NP_MANAGER15/NP_MANAGER_res_0x7f0f02c2">
+        <item>@NP_MANAGER6/NP_MANAGER_res_0x7f0601eb</item>
+        <item>@NP_MANAGER15/NP_MANAGER_res_0x7f0f0473</item>
+        <item>@NP_MANAGER15/NP_MANAGER_res_0x7f0f012f</item>
+        <item>@NP_MANAGER15/NP_MANAGER_res_0x7f0f046b</item>
+        <item>@NP_MANAGER15/NP_MANAGER_res_0x7f0f046b</item>
+        <item>@NP_MANAGER15/NP_MANAGER_res_0x7f0f046c</item>
+        <item>@NP_MANAGER15/NP_MANAGER_res_0x7f0f046b</item>
+        <item>@NP_MANAGER15/NP_MANAGER_res_0x7f0f0130</item>
+        <item>@NP_MANAGER9/NP_MANAGER_res_0x7f090043</item>
+    </NP_MANAGER15>
+    <NP_MANAGER15 name="NP_MANAGER_res_0x7f0f009e" parent="@NP_MANAGER15/NP_MANAGER_res_0x7f0f033d">
+        <item>?NP_MANAGER3/NP_MANAGER_res_0x7f0304be</item>
+        <item>@null</item>
+        <item>16dp</item>
+        <item>17dp</item>
+        <item>16dp</item>
+        <item>17dp</item>
+        <item>@NP_MANAGER6/NP_MANAGER_res_0x7f060388</item>
+        <item>16dp</item>
+        <item>16dp</item>
+        <item>@NP_MANAGER6/NP_MANAGER_res_0x7f060387</item>
+        <item>true</item>
+        <item>true</item>
+    </NP_MANAGER15>
+    <NP_MANAGER15 name="NP_MANAGER_res_0x7f0f009f" parent="@NP_MANAGER15/NP_MANAGER_res_0x7f0f00b7">
+        <item>?NP_MANAGER3/NP_MANAGER_res_0x7f030104</item>
+        <item>?NP_MANAGER3/NP_MANAGER_res_0x7f030102</item>
+        <item>?NP_MANAGER3/NP_MANAGER_res_0x7f0300fe</item>
+        <item>?NP_MANAGER3/NP_MANAGER_res_0x7f030103</item>
+        <item>?NP_MANAGER3/NP_MANAGER_res_0x7f03011f</item>
+        <item>?NP_MANAGER3/NP_MANAGER_res_0x7f030121</item>
+        <item>?NP_MANAGER3/NP_MANAGER_res_0x7f0300fc</item>
+        <item>?android:attr/actionBarDivider</item>
+        <item>@NP_MANAGER7/NP_MANAGER_res_0x7f07002a</item>
+        <item>?android:attr/actionBarSize</item>
+        <item>?android:attr/actionButtonStyle</item>
+        <item>?android:attr/actionModeBackground</item>
+        <item>?android:attr/actionModeCloseDrawable</item>
+        <item>?android:attr/borderlessButtonStyle</item>
+        <item>?android:attr/buttonStyle</item>
+        <item>?android:attr/buttonStyleSmall</item>
+        <item>?android:attr/checkboxStyle</item>
+        <item>?android:attr/checkedTextViewStyle</item>
+        <item>?android:attr/dividerHorizontal</item>
+        <item>?android:attr/dividerVertical</item>
+        <item>@NP_MANAGER7/NP_MANAGER_res_0x7f07003d</item>
+        <item>?android:attr/editTextColor</item>
+        <item>?android:attr/homeAsUpIndicator</item>
+        <item>?android:attr/listChoiceBackgroundIndicator</item>
+        <item>?android:attr/listPreferredItemHeightSmall</item>
+        <item>?android:attr/radioButtonStyle</item>
+        <item>?android:attr/ratingBarStyle</item>
+        <item>?android:attr/selectableItemBackground</item>
+        <item>?android:attr/selectableItemBackgroundBorderless</item>
+        <item>?android:attr/spinnerStyle</item>
+        <item>?android:attr/textAppearanceLargePopupMenu</item>
+        <item>?android:attr/textAppearanceSmallPopupMenu</item>
+    </NP_MANAGER15>
+    <NP_MANAGER15 name="NP_MANAGER_res_0x7f0f00a0" parent="@NP_MANAGER15/NP_MANAGER_res_0x7f0f00b8">
+        <item>@NP_MANAGER6/NP_MANAGER_res_0x7f06002f</item>
+    </NP_MANAGER15>
+    <NP_MANAGER15 name="NP_MANAGER_res_0x7f0f00a1" parent="@NP_MANAGER15/NP_MANAGER_res_0x7f0f00b9">
+        <item>?NP_MANAGER3/NP_MANAGER_res_0x7f030104</item>
+        <item>?NP_MANAGER3/NP_MANAGER_res_0x7f030102</item>
+        <item>?NP_MANAGER3/NP_MANAGER_res_0x7f0300fe</item>
+        <item>?NP_MANAGER3/NP_MANAGER_res_0x7f030103</item>
+        <item>?NP_MANAGER3/NP_MANAGER_res_0x7f03011f</item>
+        <item>?NP_MANAGER3/NP_MANAGER_res_0x7f030121</item>
+        <item>?NP_MANAGER3/NP_MANAGER_res_0x7f0300fc</item>
+        <item>?android:attr/actionBarDivider</item>
+        <item>@NP_MANAGER7/NP_MANAGER_res_0x7f07002a</item>
+        <item>?android:attr/actionBarSize</item>
+        <item>?android:attr/actionButtonStyle</item>
+        <item>?android:attr/actionModeBackground</item>
+        <item>?android:attr/actionModeCloseDrawable</item>
+        <item>?android:attr/borderlessButtonStyle</item>
+        <item>?android:attr/buttonStyle</item>
+        <item>?android:attr/buttonStyleSmall</item>
+        <item>?android:attr/checkboxStyle</item>
+        <item>?android:attr/checkedTextViewStyle</item>
+        <item>?android:attr/dividerHorizontal</item>
+        <item>?android:attr/dividerVertical</item>
+        <item>@NP_MANAGER7/NP_MANAGER_res_0x7f07003d</item>
+        <item>?android:attr/editTextColor</item>
+        <item>?android:attr/homeAsUpIndicator</item>
+        <item>?android:attr/listChoiceBackgroundIndicator</item>
+        <item>?android:attr/listPreferredItemHeightSmall</item>
+        <item>?android:attr/radioButtonStyle</item>
+        <item>?android:attr/ratingBarStyle</item>
+        <item>?android:attr/selectableItemBackground</item>
+        <item>?android:attr/selectableItemBackgroundBorderless</item>
+        <item>?android:attr/spinnerStyle</item>
+        <item>?android:attr/textAppearanceLargePopupMenu</item>
+        <item>?android:attr/textAppearanceSmallPopupMenu</item>
+    </NP_MANAGER15>
+    <NP_MANAGER15 name="NP_MANAGER_res_0x7f0f00a2" parent="@NP_MANAGER15/NP_MANAGER_res_0x7f0f00ba">
+        <item>@NP_MANAGER6/NP_MANAGER_res_0x7f06002f</item>
+    </NP_MANAGER15>
+    <NP_MANAGER15 name="NP_MANAGER_res_0x7f0f00a3" parent="@NP_MANAGER15/NP_MANAGER_res_0x7f0f0090">
+        <item>@NP_MANAGER15/NP_MANAGER_res_0x7f0f031c</item>
+    </NP_MANAGER15>
+    <NP_MANAGER15 name="NP_MANAGER_res_0x7f0f00a4" parent="@NP_MANAGER15/NP_MANAGER_res_0x7f0f0092">
+        <item>@NP_MANAGER15/NP_MANAGER_res_0x7f0f031c</item>
+    </NP_MANAGER15>
+    <NP_MANAGER15 name="NP_MANAGER_res_0x7f0f00a5" parent="@NP_MANAGER15/NP_MANAGER_res_0x7f0f0094">
+        <item>@NP_MANAGER15/NP_MANAGER_res_0x7f0f031e</item>
+    </NP_MANAGER15>
+    <NP_MANAGER15 name="NP_MANAGER_res_0x7f0f00a6" parent="@NP_MANAGER15/NP_MANAGER_res_0x7f0f0097">
+        <item>@NP_MANAGER15/NP_MANAGER_res_0x7f0f031e</item>
+    </NP_MANAGER15>
+    <NP_MANAGER15 name="NP_MANAGER_res_0x7f0f00a7" parent="@NP_MANAGER15/NP_MANAGER_res_0x7f0f00bb">
+        <item>@NP_MANAGER6/NP_MANAGER_res_0x7f06002f</item>
+    </NP_MANAGER15>
+    <NP_MANAGER15 name="NP_MANAGER_res_0x7f0f00aa" parent="@NP_MANAGER15/NP_MANAGER_res_0x7f0f009f">
+        <item>?android:attr/actionModeShareDrawable</item>
+        <item>?android:attr/editTextBackground</item>
+    </NP_MANAGER15>
+    <NP_MANAGER15 name="NP_MANAGER_res_0x7f0f00ab" parent="@NP_MANAGER15/NP_MANAGER_res_0x7f0f00a1">
+        <item>?android:attr/actionModeShareDrawable</item>
+        <item>?android:attr/editTextBackground</item>
+    </NP_MANAGER15>
+    <NP_MANAGER15 name="NP_MANAGER_res_0x7f0f00ac" parent="@NP_MANAGER15/NP_MANAGER_res_0x7f0f00aa">
+        <item>?android:attr/actionBarItemBackground</item>
+        <item>?android:attr/actionMenuTextAppearance</item>
+        <item>?android:attr/actionMenuTextColor</item>
+        <item>?android:attr/actionOverflowButtonStyle</item>
+        <item>@NP_MANAGER7/NP_MANAGER_res_0x7f07003b</item>
+        <item>?android:attr/ratingBarStyleIndicator</item>
+        <item>?android:attr/ratingBarStyleSmall</item>
+    </NP_MANAGER15>
+    <NP_MANAGER15 name="NP_MANAGER_res_0x7f0f00ad" parent="@NP_MANAGER15/NP_MANAGER_res_0x7f0f00ab">
+        <item>?android:attr/actionBarItemBackground</item>
+        <item>?android:attr/actionMenuTextAppearance</item>
+        <item>?android:attr/actionMenuTextColor</item>
+        <item>?android:attr/actionOverflowButtonStyle</item>
+        <item>@NP_MANAGER7/NP_MANAGER_res_0x7f07003b</item>
+        <item>?android:attr/ratingBarStyleIndicator</item>
+        <item>?android:attr/ratingBarStyleSmall</item>
+    </NP_MANAGER15>
+    <NP_MANAGER15 name="NP_MANAGER_res_0x7f0f00b7" parent="@NP_MANAGER15/NP_MANAGER_res_0x7f0f013f">
+        <item>@android:color/transparent</item>
+        <item>@NP_MANAGER15/NP_MANAGER_res_0x7f0f0366</item>
+        <item>@NP_MANAGER15/NP_MANAGER_res_0x7f0f0378</item>
+        <item>@NP_MANAGER15/NP_MANAGER_res_0x7f0f034a</item>
+        <item>@NP_MANAGER15/NP_MANAGER_res_0x7f0f0379</item>
+        <item>@NP_MANAGER15/NP_MANAGER_res_0x7f0f01df</item>
+        <item>?NP_MANAGER3/NP_MANAGER_res_0x7f0301a1</item>
+        <item>?NP_MANAGER3/NP_MANAGER_res_0x7f030403</item>
+        <item>@null</item>
+        <item>@NP_MANAGER6/NP_MANAGER_res_0x7f060002</item>
+        <item>?NP_MANAGER3/NP_MANAGER_res_0x7f030008</item>
+        <item>@NP_MANAGER15/NP_MANAGER_res_0x7f0f0334</item>
+        <item>@NP_MANAGER15/NP_MANAGER_res_0x7f0f0335</item>
+        <item>@NP_MANAGER15/NP_MANAGER_res_0x7f0f0337</item>
+        <item>@NP_MANAGER15/NP_MANAGER_res_0x7f0f0336</item>
+        <item>@NP_MANAGER15/NP_MANAGER_res_0x7f0f02bc</item>
+        <item>@null</item>
+        <item>@NP_MANAGER15/NP_MANAGER_res_0x7f0f0338</item>
+        <item>@NP_MANAGER15/NP_MANAGER_res_0x7f0f0376</item>
+        <item>@NP_MANAGER15/NP_MANAGER_res_0x7f0f01d6</item>
+        <item>?android:attr/textColorPrimaryDisableOnly</item>
+        <item>@NP_MANAGER7/NP_MANAGER_res_0x7f070039</item>
+        <item>@NP_MANAGER15/NP_MANAGER_res_0x7f0f0339</item>
+        <item>@NP_MANAGER14/NP_MANAGER_res_0x7f0e0003</item>
+        <item>@NP_MANAGER7/NP_MANAGER_res_0x7f07003e</item>
+        <item>@NP_MANAGER7/NP_MANAGER_res_0x7f070043</item>
+        <item>@NP_MANAGER7/NP_MANAGER_res_0x7f070044</item>
+        <item>@NP_MANAGER7/NP_MANAGER_res_0x7f070046</item>
+        <item>@NP_MANAGER7/NP_MANAGER_res_0x7f070047</item>
+        <item>@NP_MANAGER7/NP_MANAGER_res_0x7f070048</item>
+        <item>?NP_MANAGER3/NP_MANAGER_res_0x7f030121</item>
+        <item>@NP_MANAGER15/NP_MANAGER_res_0x7f0f033b</item>
+        <item>?NP_MANAGER3/NP_MANAGER_res_0x7f03000c</item>
+        <item>@NP_MANAGER15/NP_MANAGER_res_0x7f0f033a</item>
+        <item>@NP_MANAGER15/NP_MANAGER_res_0x7f0f0369</item>
+        <item>@NP_MANAGER15/NP_MANAGER_res_0x7f0f033c</item>
+        <item>false</item>
+        <item>@NP_MANAGER15/NP_MANAGER_res_0x7f0f0000</item>
+        <item>@NP_MANAGER15/NP_MANAGER_res_0x7f0f02c2</item>
+        <item>@NP_MANAGER15/NP_MANAGER_res_0x7f0f033d</item>
+        <item>@NP_MANAGER15/NP_MANAGER_res_0x7f0f033f</item>
+        <item>@NP_MANAGER15/NP_MANAGER_res_0x7f0f0341</item>
+        <item>?NP_MANAGER3/NP_MANAGER_res_0x7f03008d</item>
+        <item>?NP_MANAGER3/NP_MANAGER_res_0x7f03008d</item>
+        <item>?NP_MANAGER3/NP_MANAGER_res_0x7f03008d</item>
+        <item>@NP_MANAGER15/NP_MANAGER_res_0x7f0f0344</item>
+        <item>@NP_MANAGER15/NP_MANAGER_res_0x7f0f033e</item>
+        <item>@NP_MANAGER15/NP_MANAGER_res_0x7f0f0343</item>
+        <item>@NP_MANAGER15/NP_MANAGER_res_0x7f0f0346</item>
+        <item>?android:attr/checkedTextViewStyle</item>
+        <item>@NP_MANAGER5/NP_MANAGER_res_0x7f050019</item>
+        <item>@NP_MANAGER5/NP_MANAGER_res_0x7f05001d</item>
+        <item>@NP_MANAGER5/NP_MANAGER_res_0x7f050028</item>
+        <item>?NP_MANAGER3/NP_MANAGER_res_0x7f0300fc</item>
+        <item>@NP_MANAGER5/NP_MANAGER_res_0x7f0503a6</item>
+        <item>?android:attr/textColorSecondary</item>
+        <item>@NP_MANAGER5/NP_MANAGER_res_0x7f05005a</item>
+        <item>@NP_MANAGER5/NP_MANAGER_res_0x7f05039d</item>
+        <item>@NP_MANAGER5/NP_MANAGER_res_0x7f05039b</item>
+        <item>@NP_MANAGER5/NP_MANAGER_res_0x7f0503ae</item>
+        <item>?NP_MANAGER3/NP_MANAGER_res_0x7f030403</item>
+        <item>@NP_MANAGER6/NP_MANAGER_res_0x7f06001b</item>
+        <item>@NP_MANAGER6/NP_MANAGER_res_0x7f060024</item>
+        <item>@NP_MANAGER15/NP_MANAGER_res_0x7f0f02c1</item>
+        <item>@NP_MANAGER7/NP_MANAGER_res_0x7f07004e</item>
+        <item>@NP_MANAGER7/NP_MANAGER_res_0x7f07004e</item>
+        <item>@NP_MANAGER15/NP_MANAGER_res_0x7f0f0349</item>
+        <item>?android:attr/dropDownListViewStyle</item>
+        <item>?NP_MANAGER3/NP_MANAGER_res_0x7f030307</item>
+        <item>@NP_MANAGER7/NP_MANAGER_res_0x7f07003d</item>
+        <item>?android:attr/textColorPrimary</item>
+        <item>@NP_MANAGER15/NP_MANAGER_res_0x7f0f034b</item>
+        <item>@NP_MANAGER7/NP_MANAGER_res_0x7f07003e</item>
+        <item>@NP_MANAGER15/NP_MANAGER_res_0x7f0f034c</item>
+        <item>false</item>
+        <item>@NP_MANAGER7/NP_MANAGER_res_0x7f070057</item>
+        <item>@null</item>
+        <item>@NP_MANAGER15/NP_MANAGER_res_0x7f0f0363</item>
+        <item>@NP_MANAGER15/NP_MANAGER_res_0x7f0f0364</item>
+        <item>@NP_MANAGER6/NP_MANAGER_res_0x7f060031</item>
+        <item>@NP_MANAGER6/NP_MANAGER_res_0x7f060030</item>
+        <item>@NP_MANAGER6/NP_MANAGER_res_0x7f060032</item>
+        <item>@NP_MANAGER6/NP_MANAGER_res_0x7f060033</item>
+        <item>@NP_MANAGER6/NP_MANAGER_res_0x7f060033</item>
+        <item>@NP_MANAGER6/NP_MANAGER_res_0x7f060033</item>
+        <item>@NP_MANAGER6/NP_MANAGER_res_0x7f060033</item>
+        <item>@NP_MANAGER7/NP_MANAGER_res_0x7f070059</item>
+        <item>@NP_MANAGER15/NP_MANAGER_res_0x7f0f0250</item>
+        <item>@NP_MANAGER6/NP_MANAGER_res_0x7f060034</item>
+        <item>@NP_MANAGER15/NP_MANAGER_res_0x7f0f0368</item>
+        <item>@NP_MANAGER15/NP_MANAGER_res_0x7f0f0347</item>
+        <item>@NP_MANAGER15/NP_MANAGER_res_0x7f0f036d</item>
+        <item>@NP_MANAGER15/NP_MANAGER_res_0x7f0f036e</item>
+        <item>@NP_MANAGER15/NP_MANAGER_res_0x7f0f036f</item>
+        <item>@NP_MANAGER15/NP_MANAGER_res_0x7f0f0370</item>
+        <item>@NP_MANAGER15/NP_MANAGER_res_0x7f0f0372</item>
+        <item>@NP_MANAGER7/NP_MANAGER_res_0x7f07004b</item>
+        <item>?NP_MANAGER3/NP_MANAGER_res_0x7f030402</item>
+        <item>@NP_MANAGER15/NP_MANAGER_res_0x7f0f034a</item>
+        <item>@NP_MANAGER15/NP_MANAGER_res_0x7f0f0374</item>
+        <item>@NP_MANAGER15/NP_MANAGER_res_0x7f0f0348</item>
+        <item>@NP_MANAGER15/NP_MANAGER_res_0x7f0f01e5</item>
+        <item>@NP_MANAGER15/NP_MANAGER_res_0x7f0f01d1</item>
+        <item>@NP_MANAGER15/NP_MANAGER_res_0x7f0f01ba</item>
+        <item>@NP_MANAGER15/NP_MANAGER_res_0x7f0f01d1</item>
+        <item>@NP_MANAGER15/NP_MANAGER_res_0x7f0f01e4</item>
+        <item>@NP_MANAGER15/NP_MANAGER_res_0x7f0f01cd</item>
+        <item>@NP_MANAGER15/NP_MANAGER_res_0x7f0f01ce</item>
+        <item>@NP_MANAGER15/NP_MANAGER_res_0x7f0f01e6</item>
+        <item>@NP_MANAGER5/NP_MANAGER_res_0x7f05000b</item>
+        <item>@NP_MANAGER5/NP_MANAGER_res_0x7f05000d</item>
+        <item>@NP_MANAGER15/NP_MANAGER_res_0x7f0f037b</item>
+        <item>@NP_MANAGER15/NP_MANAGER_res_0x7f0f037a</item>
+        <item>@NP_MANAGER5/NP_MANAGER_res_0x7f05005d</item>
+        <item>@NP_MANAGER7/NP_MANAGER_res_0x7f0700f7</item>
+        <item>true</item>
+        <item>false</item>
+        <item>false</item>
+        <item>@null</item>
+        <item>@null</item>
+        <item>@null</item>
+        <item>@null</item>
+        <item>false</item>
+    </NP_MANAGER15>
+    <NP_MANAGER15 name="NP_MANAGER_res_0x7f0f00b8" parent="@NP_MANAGER15/NP_MANAGER_res_0x7f0f004a">
+        <item>?NP_MANAGER3/NP_MANAGER_res_0x7f0300fd</item>
+        <item>@NP_MANAGER7/NP_MANAGER_res_0x7f07003c</item>
+        <item>@null</item>
+        <item>true</item>
+        <item>@null</item>
+        <item>@NP_MANAGER15/NP_MANAGER_res_0x7f0f014d</item>
+        <item>@NP_MANAGER15/NP_MANAGER_res_0x7f0f0012</item>
+        <item>@NP_MANAGER15/NP_MANAGER_res_0x7f0f0002</item>
+        <item>@null</item>
+        <item>true</item>
+        <item>0x20</item>
+        <item>@null</item>
+        <item>@NP_MANAGER15/NP_MANAGER_res_0x7f0f033f</item>
+        <item>@NP_MANAGER15/NP_MANAGER_res_0x7f0f0345</item>
+        <item>true</item>
+        <item>24dp</item>
+        <item>24dp</item>
+        <item>false</item>
+        <item>true</item>
+    </NP_MANAGER15>
+    <NP_MANAGER15 name="NP_MANAGER_res_0x7f0f00b9" parent="@NP_MANAGER15/NP_MANAGER_res_0x7f0f0140">
+        <item>@android:color/transparent</item>
+        <item>@NP_MANAGER15/NP_MANAGER_res_0x7f0f0366</item>
+        <item>@NP_MANAGER15/NP_MANAGER_res_0x7f0f0378</item>
+        <item>@NP_MANAGER15/NP_MANAGER_res_0x7f0f034a</item>
+        <item>@NP_MANAGER15/NP_MANAGER_res_0x7f0f0379</item>
+        <item>@NP_MANAGER15/NP_MANAGER_res_0x7f0f01df</item>
+        <item>?NP_MANAGER3/NP_MANAGER_res_0x7f0301a1</item>
+        <item>?NP_MANAGER3/NP_MANAGER_res_0x7f030403</item>
+        <item>@null</item>
+        <item>@NP_MANAGER6/NP_MANAGER_res_0x7f060002</item>
+        <item>?NP_MANAGER3/NP_MANAGER_res_0x7f030008</item>
+        <item>@NP_MANAGER15/NP_MANAGER_res_0x7f0f034e</item>
+        <item>@NP_MANAGER15/NP_MANAGER_res_0x7f0f0350</item>
+        <item>@NP_MANAGER15/NP_MANAGER_res_0x7f0f0354</item>
+        <item>@NP_MANAGER15/NP_MANAGER_res_0x7f0f0352</item>
+        <item>@NP_MANAGER15/NP_MANAGER_res_0x7f0f02bc</item>
+        <item>@null</item>
+        <item>@NP_MANAGER15/NP_MANAGER_res_0x7f0f0356</item>
+        <item>@NP_MANAGER15/NP_MANAGER_res_0x7f0f0362</item>
+        <item>@NP_MANAGER15/NP_MANAGER_res_0x7f0f01d6</item>
+        <item>?android:attr/textColorPrimaryDisableOnly</item>
+        <item>@NP_MANAGER7/NP_MANAGER_res_0x7f070039</item>
+        <item>@NP_MANAGER15/NP_MANAGER_res_0x7f0f0339</item>
+        <item>@NP_MANAGER14/NP_MANAGER_res_0x7f0e0003</item>
+        <item>@NP_MANAGER7/NP_MANAGER_res_0x7f07003e</item>
+        <item>@NP_MANAGER7/NP_MANAGER_res_0x7f070043</item>
+        <item>@NP_MANAGER7/NP_MANAGER_res_0x7f070044</item>
+        <item>@NP_MANAGER7/NP_MANAGER_res_0x7f070046</item>
+        <item>@NP_MANAGER7/NP_MANAGER_res_0x7f070047</item>
+        <item>@NP_MANAGER7/NP_MANAGER_res_0x7f070048</item>
+        <item>?NP_MANAGER3/NP_MANAGER_res_0x7f030121</item>
+        <item>@NP_MANAGER15/NP_MANAGER_res_0x7f0f033b</item>
+        <item>?NP_MANAGER3/NP_MANAGER_res_0x7f03000c</item>
+        <item>@NP_MANAGER15/NP_MANAGER_res_0x7f0f0358</item>
+        <item>@NP_MANAGER15/NP_MANAGER_res_0x7f0f0360</item>
+        <item>@NP_MANAGER15/NP_MANAGER_res_0x7f0f033c</item>
+        <item>false</item>
+        <item>@NP_MANAGER15/NP_MANAGER_res_0x7f0f0001</item>
+        <item>@NP_MANAGER15/NP_MANAGER_res_0x7f0f02c2</item>
+        <item>@NP_MANAGER15/NP_MANAGER_res_0x7f0f033d</item>
+        <item>@NP_MANAGER15/NP_MANAGER_res_0x7f0f033f</item>
+        <item>@NP_MANAGER15/NP_MANAGER_res_0x7f0f0341</item>
+        <item>?NP_MANAGER3/NP_MANAGER_res_0x7f03008d</item>
+        <item>?NP_MANAGER3/NP_MANAGER_res_0x7f03008d</item>
+        <item>?NP_MANAGER3/NP_MANAGER_res_0x7f03008d</item>
+        <item>@NP_MANAGER15/NP_MANAGER_res_0x7f0f0344</item>
+        <item>@NP_MANAGER15/NP_MANAGER_res_0x7f0f033e</item>
+        <item>@NP_MANAGER15/NP_MANAGER_res_0x7f0f0343</item>
+        <item>@NP_MANAGER15/NP_MANAGER_res_0x7f0f0346</item>
+        <item>@NP_MANAGER5/NP_MANAGER_res_0x7f05001a</item>
+        <item>@NP_MANAGER5/NP_MANAGER_res_0x7f05001e</item>
+        <item>@NP_MANAGER5/NP_MANAGER_res_0x7f050029</item>
+        <item>?NP_MANAGER3/NP_MANAGER_res_0x7f0300fc</item>
+        <item>@NP_MANAGER5/NP_MANAGER_res_0x7f0503a7</item>
+        <item>?android:attr/textColorSecondary</item>
+        <item>@NP_MANAGER5/NP_MANAGER_res_0x7f05005b</item>
+        <item>@NP_MANAGER5/NP_MANAGER_res_0x7f05039e</item>
+        <item>@NP_MANAGER5/NP_MANAGER_res_0x7f05039c</item>
+        <item>@NP_MANAGER5/NP_MANAGER_res_0x7f0503af</item>
+        <item>?NP_MANAGER3/NP_MANAGER_res_0x7f030403</item>
+        <item>@NP_MANAGER6/NP_MANAGER_res_0x7f06001b</item>
+        <item>@NP_MANAGER6/NP_MANAGER_res_0x7f060024</item>
+        <item>@NP_MANAGER15/NP_MANAGER_res_0x7f0f02c1</item>
+        <item>@NP_MANAGER7/NP_MANAGER_res_0x7f07004e</item>
+        <item>@NP_MANAGER7/NP_MANAGER_res_0x7f07004e</item>
+        <item>@NP_MANAGER15/NP_MANAGER_res_0x7f0f0349</item>
+        <item>?android:attr/dropDownListViewStyle</item>
+        <item>?NP_MANAGER3/NP_MANAGER_res_0x7f030307</item>
+        <item>@NP_MANAGER7/NP_MANAGER_res_0x7f07003d</item>
+        <item>?android:attr/textColorPrimary</item>
+        <item>@NP_MANAGER15/NP_MANAGER_res_0x7f0f034b</item>
+        <item>@NP_MANAGER7/NP_MANAGER_res_0x7f07003e</item>
+        <item>@NP_MANAGER15/NP_MANAGER_res_0x7f0f034c</item>
+        <item>true</item>
+        <item>@NP_MANAGER7/NP_MANAGER_res_0x7f070058</item>
+        <item>@null</item>
+        <item>@NP_MANAGER15/NP_MANAGER_res_0x7f0f0363</item>
+        <item>@NP_MANAGER15/NP_MANAGER_res_0x7f0f0364</item>
+        <item>@NP_MANAGER6/NP_MANAGER_res_0x7f060031</item>
+        <item>@NP_MANAGER6/NP_MANAGER_res_0x7f060030</item>
+        <item>@NP_MANAGER6/NP_MANAGER_res_0x7f060032</item>
+        <item>@NP_MANAGER6/NP_MANAGER_res_0x7f060033</item>
+        <item>@NP_MANAGER6/NP_MANAGER_res_0x7f060033</item>
+        <item>@NP_MANAGER6/NP_MANAGER_res_0x7f060033</item>
+        <item>@NP_MANAGER6/NP_MANAGER_res_0x7f060033</item>
+        <item>@NP_MANAGER7/NP_MANAGER_res_0x7f070059</item>
+        <item>@NP_MANAGER15/NP_MANAGER_res_0x7f0f0250</item>
+        <item>@NP_MANAGER6/NP_MANAGER_res_0x7f060034</item>
+        <item>@NP_MANAGER15/NP_MANAGER_res_0x7f0f035f</item>
+        <item>@NP_MANAGER15/NP_MANAGER_res_0x7f0f0347</item>
+        <item>@NP_MANAGER15/NP_MANAGER_res_0x7f0f036d</item>
+        <item>@NP_MANAGER15/NP_MANAGER_res_0x7f0f036e</item>
+        <item>@NP_MANAGER15/NP_MANAGER_res_0x7f0f036f</item>
+        <item>@NP_MANAGER15/NP_MANAGER_res_0x7f0f0361</item>
+        <item>@NP_MANAGER15/NP_MANAGER_res_0x7f0f0372</item>
+        <item>@NP_MANAGER7/NP_MANAGER_res_0x7f07004c</item>
+        <item>?NP_MANAGER3/NP_MANAGER_res_0x7f030402</item>
+        <item>@NP_MANAGER15/NP_MANAGER_res_0x7f0f034a</item>
+        <item>@NP_MANAGER15/NP_MANAGER_res_0x7f0f0374</item>
+        <item>@NP_MANAGER15/NP_MANAGER_res_0x7f0f0348</item>
+        <item>@NP_MANAGER15/NP_MANAGER_res_0x7f0f01c8</item>
+        <item>@NP_MANAGER15/NP_MANAGER_res_0x7f0f01d1</item>
+        <item>@NP_MANAGER15/NP_MANAGER_res_0x7f0f01ba</item>
+        <item>@NP_MANAGER15/NP_MANAGER_res_0x7f0f01d1</item>
+        <item>@NP_MANAGER15/NP_MANAGER_res_0x7f0f01e4</item>
+        <item>@NP_MANAGER15/NP_MANAGER_res_0x7f0f01cd</item>
+        <item>@NP_MANAGER15/NP_MANAGER_res_0x7f0f01ce</item>
+        <item>@NP_MANAGER15/NP_MANAGER_res_0x7f0f01c9</item>
+        <item>@NP_MANAGER5/NP_MANAGER_res_0x7f05000c</item>
+        <item>@NP_MANAGER5/NP_MANAGER_res_0x7f05000d</item>
+        <item>@NP_MANAGER15/NP_MANAGER_res_0x7f0f037b</item>
+        <item>@NP_MANAGER15/NP_MANAGER_res_0x7f0f037a</item>
+        <item>@NP_MANAGER5/NP_MANAGER_res_0x7f05005c</item>
+        <item>@NP_MANAGER7/NP_MANAGER_res_0x7f0700f6</item>
+        <item>true</item>
+        <item>false</item>
+        <item>false</item>
+        <item>@null</item>
+        <item>@null</item>
+        <item>@null</item>
+        <item>@null</item>
+        <item>false</item>
+    </NP_MANAGER15>
+    <NP_MANAGER15 name="NP_MANAGER_res_0x7f0f00ba" parent="@NP_MANAGER15/NP_MANAGER_res_0x7f0f0051">
+        <item>?NP_MANAGER3/NP_MANAGER_res_0x7f0300fd</item>
+        <item>@NP_MANAGER7/NP_MANAGER_res_0x7f07003c</item>
+        <item>@null</item>
+        <item>true</item>
+        <item>@null</item>
+        <item>@NP_MANAGER15/NP_MANAGER_res_0x7f0f014d</item>
+        <item>@NP_MANAGER15/NP_MANAGER_res_0x7f0f0012</item>
+        <item>@NP_MANAGER15/NP_MANAGER_res_0x7f0f0002</item>
+        <item>@null</item>
+        <item>true</item>
+        <item>0x20</item>
+        <item>@null</item>
+        <item>@NP_MANAGER15/NP_MANAGER_res_0x7f0f033f</item>
+        <item>@NP_MANAGER15/NP_MANAGER_res_0x7f0f0345</item>
+        <item>true</item>
+        <item>24dp</item>
+        <item>24dp</item>
+        <item>false</item>
+        <item>true</item>
+    </NP_MANAGER15>
+    <NP_MANAGER15 name="NP_MANAGER_res_0x7f0f00bb" parent="@NP_MANAGER15/NP_MANAGER_res_0x7f0f0077">
+        <item>?NP_MANAGER3/NP_MANAGER_res_0x7f0300fd</item>
+        <item>@NP_MANAGER7/NP_MANAGER_res_0x7f07003c</item>
+        <item>@null</item>
+        <item>true</item>
+        <item>@null</item>
+        <item>@NP_MANAGER15/NP_MANAGER_res_0x7f0f014d</item>
+        <item>@NP_MANAGER15/NP_MANAGER_res_0x7f0f0012</item>
+        <item>@NP_MANAGER15/NP_MANAGER_res_0x7f0f0002</item>
+        <item>@null</item>
+        <item>true</item>
+        <item>0x20</item>
+        <item>@null</item>
+        <item>@NP_MANAGER15/NP_MANAGER_res_0x7f0f033f</item>
+        <item>@NP_MANAGER15/NP_MANAGER_res_0x7f0f0345</item>
+        <item>true</item>
+        <item>24dp</item>
+        <item>24dp</item>
+        <item>false</item>
+        <item>true</item>
+        <item>@null</item>
+        <item>@null</item>
+        <item>@null</item>
+        <item>@null</item>
+    </NP_MANAGER15>
+    <NP_MANAGER15 name="NP_MANAGER_res_0x7f0f00be" parent="@android:style/Widget">
+        <item>@NP_MANAGER6/NP_MANAGER_res_0x7f060004</item>
+        <item>@NP_MANAGER6/NP_MANAGER_res_0x7f060003</item>
+        <item>?NP_MANAGER3/NP_MANAGER_res_0x7f030006</item>
+        <item>@NP_MANAGER6/NP_MANAGER_res_0x7f060004</item>
+        <item>@NP_MANAGER6/NP_MANAGER_res_0x7f060003</item>
+        <item>0x30</item>
+        <item>@NP_MANAGER14/NP_MANAGER_res_0x7f0e001a</item>
+        <item>?NP_MANAGER3/NP_MANAGER_res_0x7f030255</item>
+        <item>16dp</item>
+        <item>@NP_MANAGER6/NP_MANAGER_res_0x7f060001</item>
+        <item>@NP_MANAGER6/NP_MANAGER_res_0x7f060002</item>
+        <item>@NP_MANAGER15/NP_MANAGER_res_0x7f0f024d</item>
+        <item>4dp</item>
+        <item>@NP_MANAGER15/NP_MANAGER_res_0x7f0f024e</item>
+    </NP_MANAGER15>
+    <NP_MANAGER15 name="NP_MANAGER_res_0x7f0f00bf">
+        <item>0x10</item>
+        <item>@NP_MANAGER15/NP_MANAGER_res_0x7f0f0338</item>
+        <item>@NP_MANAGER15/NP_MANAGER_res_0x7f0f033a</item>
+        <item>@null</item>
+        <item>@null</item>
+        <item>@null</item>
+        <item>@NP_MANAGER6/NP_MANAGER_res_0x7f060000</item>
+        <item>@NP_MANAGER6/NP_MANAGER_res_0x7f060000</item>
+        <item>@NP_MANAGER6/NP_MANAGER_res_0x7f060001</item>
+        <item>0x8</item>
+        <item>?NP_MANAGER3/NP_MANAGER_res_0x7f0301a1</item>
+        <item>@NP_MANAGER6/NP_MANAGER_res_0x7f060005</item>
+        <item>?NP_MANAGER3/NP_MANAGER_res_0x7f030006</item>
+        <item>?NP_MANAGER3/NP_MANAGER_res_0x7f030005</item>
+        <item>@NP_MANAGER15/NP_MANAGER_res_0x7f0f01d7</item>
+        <item>@NP_MANAGER15/NP_MANAGER_res_0x7f0f01d9</item>
+    </NP_MANAGER15>
+    <NP_MANAGER15 name="NP_MANAGER_res_0x7f0f00c0" parent="@NP_MANAGER15/NP_MANAGER_res_0x7f0f00bf">
+        <item>?NP_MANAGER3/NP_MANAGER_res_0x7f03011f</item>
+        <item>?NP_MANAGER3/NP_MANAGER_res_0x7f03011f</item>
+        <item>?NP_MANAGER3/NP_MANAGER_res_0x7f03011f</item>
+    </NP_MANAGER15>
+    <NP_MANAGER15 name="NP_MANAGER_res_0x7f0f00c1">
+        <item>?NP_MANAGER3/NP_MANAGER_res_0x7f030003</item>
+        <item>8dp</item>
+        <item>0x2</item>
+    </NP_MANAGER15>
+    <NP_MANAGER15 name="NP_MANAGER_res_0x7f0f00c2" parent="@android:style/Widget.Material.ActionBar.TabText">
+    </NP_MANAGER15>
+    <NP_MANAGER15 name="NP_MANAGER_res_0x7f0f00c3" parent="@android:style/Widget.Material.ActionBar.TabView">
+    </NP_MANAGER15>
+    <NP_MANAGER15 name="NP_MANAGER_res_0x7f0f00c4" parent="@android:style/Widget.Material.ActionButton">
+    </NP_MANAGER15>
+    <NP_MANAGER15 name="NP_MANAGER_res_0x7f0f00c5" parent="@android:style/Widget.Material.ActionButton.CloseMode">
+        <item>56dp</item>
+    </NP_MANAGER15>
+    <NP_MANAGER15 name="NP_MANAGER_res_0x7f0f00c6" parent="@android:style/Widget.Material.ActionButton.Overflow">
+    </NP_MANAGER15>
+    <NP_MANAGER15 name="NP_MANAGER_res_0x7f0f00c7">
+        <item>@NP_MANAGER6/NP_MANAGER_res_0x7f060004</item>
+        <item>@NP_MANAGER6/NP_MANAGER_res_0x7f060003</item>
+        <item>?NP_MANAGER3/NP_MANAGER_res_0x7f030006</item>
+        <item>@NP_MANAGER6/NP_MANAGER_res_0x7f060004</item>
+        <item>@NP_MANAGER6/NP_MANAGER_res_0x7f060003</item>
+        <item>?NP_MANAGER3/NP_MANAGER_res_0x7f030013</item>
+        <item>?NP_MANAGER3/NP_MANAGER_res_0x7f03001e</item>
+        <item>0x30</item>
+        <item>@NP_MANAGER11/NP_MANAGER_res_0x7f0b0005</item>
+        <item>16dp</item>
+        <item>@NP_MANAGER6/NP_MANAGER_res_0x7f060001</item>
+        <item>?NP_MANAGER3/NP_MANAGER_res_0x7f030006</item>
+        <item>@NP_MANAGER6/NP_MANAGER_res_0x7f060002</item>
+        <item>@NP_MANAGER15/NP_MANAGER_res_0x7f0f01db</item>
+        <item>4dp</item>
+        <item>@NP_MANAGER15/NP_MANAGER_res_0x7f0f01dd</item>
+    </NP_MANAGER15>
+    <NP_MANAGER15 name="NP_MANAGER_res_0x7f0f00c8">
+        <item>0x11</item>
+        <item>@NP_MANAGER7/NP_MANAGER_res_0x7f070029</item>
+        <item>?NP_MANAGER3/NP_MANAGER_res_0x7f0301a1</item>
+        <item>6dp</item>
+        <item>0x2</item>
+    </NP_MANAGER15>
+    <NP_MANAGER15 name="NP_MANAGER_res_0x7f0f00c9" parent="@android:style/Widget.Material.AutoCompleteTextView">
+        <item>?NP_MANAGER3/NP_MANAGER_res_0x7f0301b9</item>
+    </NP_MANAGER15>
+    <NP_MANAGER15 name="NP_MANAGER_res_0x7f0f00ca" parent="@android:style/Widget.Material.Button">
+    </NP_MANAGER15>
+    <NP_MANAGER15 name="NP_MANAGER_res_0x7f0f00cb" parent="@android:style/Widget.Material.Button.Borderless">
+    </NP_MANAGER15>
+    <NP_MANAGER15 name="NP_MANAGER_res_0x7f0f00cc" parent="@android:style/Widget.Material.Button.Borderless.Colored">
+    </NP_MANAGER15>
+    <NP_MANAGER15 name="NP_MANAGER_res_0x7f0f00cd" parent="@NP_MANAGER15/NP_MANAGER_res_0x7f0f0340">
+        <item>64dp</item>
+        <item>@NP_MANAGER6/NP_MANAGER_res_0x7f060010</item>
+    </NP_MANAGER15>
+    <NP_MANAGER15 name="NP_MANAGER_res_0x7f0f00cf" parent="@android:style/Widget.Material.Button.Small">
+    </NP_MANAGER15>
+    <NP_MANAGER15 name="NP_MANAGER_res_0x7f0f00d0" parent="@android:style/Widget.Material.ButtonBar">
+    </NP_MANAGER15>
+    <NP_MANAGER15 name="NP_MANAGER_res_0x7f0f00d1" parent="@NP_MANAGER15/NP_MANAGER_res_0x7f0f00d0">
+    </NP_MANAGER15>
+    <NP_MANAGER15 name="NP_MANAGER_res_0x7f0f00d2" parent="@android:style/Widget.Material.CompoundButton.CheckBox">
+    </NP_MANAGER15>
+    <NP_MANAGER15 name="NP_MANAGER_res_0x7f0f00d3" parent="@android:style/Widget.Material.CompoundButton.RadioButton">
+    </NP_MANAGER15>
+    <NP_MANAGER15 name="NP_MANAGER_res_0x7f0f00d4" parent="@android:style/Widget.CompoundButton">
+        <item>?NP_MANAGER3/NP_MANAGER_res_0x7f030166</item>
+        <item>@NP_MANAGER14/NP_MANAGER_res_0x7f0e0007</item>
+        <item>@NP_MANAGER14/NP_MANAGER_res_0x7f0e0006</item>
+        <item>@NP_MANAGER7/NP_MANAGER_res_0x7f07006a</item>
+        <item>false</item>
+        <item>@NP_MANAGER6/NP_MANAGER_res_0x7f06003e</item>
+        <item>@NP_MANAGER15/NP_MANAGER_res_0x7f0f01e7</item>
+        <item>@NP_MANAGER7/NP_MANAGER_res_0x7f07006b</item>
+    </NP_MANAGER15>
+    <NP_MANAGER15 name="NP_MANAGER_res_0x7f0f00d5" parent="@NP_MANAGER15/NP_MANAGER_res_0x7f0f00d6">
+        <item>18dp</item>
+        <item>24dp</item>
+        <item>3dp</item>
+    </NP_MANAGER15>
+    <NP_MANAGER15 name="NP_MANAGER_res_0x7f0f00d6">
+        <item>8dp</item>
+        <item>16dp</item>
+        <item>?android:attr/textColorSecondary</item>
+        <item>true</item>
+        <item>2dp</item>
+    </NP_MANAGER15>
+    <NP_MANAGER15 name="NP_MANAGER_res_0x7f0f00d7" parent="@android:style/Widget.Material.DropDownItem.Spinner">
+    </NP_MANAGER15>
+    <NP_MANAGER15 name="NP_MANAGER_res_0x7f0f00d8" parent="@android:style/Widget.Material.EditText">
+        <item>0</item>
+        <item>0</item>
+    </NP_MANAGER15>
+    <NP_MANAGER15 name="NP_MANAGER_res_0x7f0f00d9" parent="@android:style/Widget.Material.ImageButton">
+    </NP_MANAGER15>
+    <NP_MANAGER15 name="NP_MANAGER_res_0x7f0f00da" parent="@NP_MANAGER15/NP_MANAGER_res_0x7f0f00bf">
+        <item>@NP_MANAGER15/NP_MANAGER_res_0x7f0f0356</item>
+        <item>@NP_MANAGER15/NP_MANAGER_res_0x7f0f0358</item>
+    </NP_MANAGER15>
+    <NP_MANAGER15 name="NP_MANAGER_res_0x7f0f00db" parent="@NP_MANAGER15/NP_MANAGER_res_0x7f0f00da">
+        <item>?NP_MANAGER3/NP_MANAGER_res_0x7f03011f</item>
+        <item>?NP_MANAGER3/NP_MANAGER_res_0x7f03011f</item>
+        <item>?NP_MANAGER3/NP_MANAGER_res_0x7f03011f</item>
+    </NP_MANAGER15>
+    <NP_MANAGER15 name="NP_MANAGER_res_0x7f0f00dc" parent="@NP_MANAGER15/NP_MANAGER_res_0x7f0f00c1">
+    </NP_MANAGER15>
+    <NP_MANAGER15 name="NP_MANAGER_res_0x7f0f00dd" parent="@android:style/Widget.Material.Light.ActionBar.TabText">
+    </NP_MANAGER15>
+    <NP_MANAGER15 name="NP_MANAGER_res_0x7f0f00df" parent="@android:style/Widget.Material.Light.ActionBar.TabView">
+    </NP_MANAGER15>
+    <NP_MANAGER15 name="NP_MANAGER_res_0x7f0f00e0" parent="@android:style/Widget.Material.Light.PopupMenu">
+    </NP_MANAGER15>
+    <NP_MANAGER15 name="NP_MANAGER_res_0x7f0f00e1" parent="@NP_MANAGER15/NP_MANAGER_res_0x7f0f00e0">
+        <item>-4dp</item>
+        <item>true</item>
+    </NP_MANAGER15>
+    <NP_MANAGER15 name="NP_MANAGER_res_0x7f0f00e2" parent="@android:style/Widget">
+        <item>@NP_MANAGER7/NP_MANAGER_res_0x7f07003f</item>
+    </NP_MANAGER15>
+    <NP_MANAGER15 name="NP_MANAGER_res_0x7f0f00e3" parent="@android:style/Widget.Material.ListPopupWindow">
+    </NP_MANAGER15>
+    <NP_MANAGER15 name="NP_MANAGER_res_0x7f0f00e4" parent="@android:style/Widget.Material.ListView">
+    </NP_MANAGER15>
+    <NP_MANAGER15 name="NP_MANAGER_res_0x7f0f00e5" parent="@android:style/Widget.Material.ListView.DropDown">
+    </NP_MANAGER15>
+    <NP_MANAGER15 name="NP_MANAGER_res_0x7f0f00e6" parent="@NP_MANAGER15/NP_MANAGER_res_0x7f0f00e4">
+    </NP_MANAGER15>
+    <NP_MANAGER15 name="NP_MANAGER_res_0x7f0f00e7" parent="@android:style/Widget.Material.PopupMenu">
+    </NP_MANAGER15>
+    <NP_MANAGER15 name="NP_MANAGER_res_0x7f0f00e8" parent="@NP_MANAGER15/NP_MANAGER_res_0x7f0f00e7">
+        <item>-4dp</item>
+        <item>true</item>
+    </NP_MANAGER15>
+    <NP_MANAGER15 name="NP_MANAGER_res_0x7f0f00ec" parent="@android:style/Widget.Material.RatingBar">
+    </NP_MANAGER15>
+    <NP_MANAGER15 name="NP_MANAGER_res_0x7f0f00ed" parent="@android:style/Widget.Material.RatingBar.Indicator">
+    </NP_MANAGER15>
+    <NP_MANAGER15 name="NP_MANAGER_res_0x7f0f00ee" parent="@android:style/Widget.Material.RatingBar.Small">
+    </NP_MANAGER15>
+    <NP_MANAGER15 name="NP_MANAGER_res_0x7f0f00ef" parent="@android:style/Widget">
+        <item>@NP_MANAGER7/NP_MANAGER_res_0x7f070040</item>
+        <item>@NP_MANAGER7/NP_MANAGER_res_0x7f070041</item>
+        <item>@NP_MANAGER7/NP_MANAGER_res_0x7f070042</item>
+        <item>@NP_MANAGER11/NP_MANAGER_res_0x7f0b0019</item>
+        <item>@NP_MANAGER7/NP_MANAGER_res_0x7f070076</item>
+        <item>@NP_MANAGER7/NP_MANAGER_res_0x7f070049</item>
+        <item>@NP_MANAGER7/NP_MANAGER_res_0x7f070049</item>
+        <item>@NP_MANAGER7/NP_MANAGER_res_0x7f070076</item>
+        <item>@NP_MANAGER11/NP_MANAGER_res_0x7f0b0018</item>
+        <item>@NP_MANAGER7/NP_MANAGER_res_0x7f07004a</item>
+    </NP_MANAGER15>
+    <NP_MANAGER15 name="NP_MANAGER_res_0x7f0f00f0" parent="@NP_MANAGER15/NP_MANAGER_res_0x7f0f00ef">
+        <item>@NP_MANAGER14/NP_MANAGER_res_0x7f0e0012</item>
+        <item>@null</item>
+        <item>@null</item>
+        <item>@null</item>
+    </NP_MANAGER15>
+    <NP_MANAGER15 name="NP_MANAGER_res_0x7f0f00f1" parent="@android:style/Widget.Material.SeekBar">
+    </NP_MANAGER15>
+    <NP_MANAGER15 name="NP_MANAGER_res_0x7f0f00f3" parent="@android:style/Widget.Material.Spinner">
+    </NP_MANAGER15>
+    <NP_MANAGER15 name="NP_MANAGER_res_0x7f0f00f5" parent="@android:style/Widget.Material.TextView">
+        <item>1</item>
+        <item>0</item>
+    </NP_MANAGER15>
+    <NP_MANAGER15 name="NP_MANAGER_res_0x7f0f00f6" parent="@android:style/Widget.Material.TextView.SpinnerItem">
+    </NP_MANAGER15>
+    <NP_MANAGER15 name="NP_MANAGER_res_0x7f0f00f7" parent="@NP_MANAGER15/NP_MANAGER_res_0x7f0f00be">
+    </NP_MANAGER15>
+    <NP_MANAGER15 name="NP_MANAGER_res_0x7f0f00f8" parent="@android:style/Widget.Material.Toolbar.Button.Navigation">
+    </NP_MANAGER15>
+    <NP_MANAGER15 name="NP_MANAGER_res_0x7f0f00f9" parent="@android:style/Widget">
+        <item>@null</item>
+        <item>@null</item>
+        <item>@NP_MANAGER7/NP_MANAGER_res_0x7f0700e5</item>
+        <item>@NP_MANAGER9/NP_MANAGER_res_0x7f090007</item>
+        <item>0</item>
+        <item>?NP_MANAGER3/NP_MANAGER_res_0x7f0300fc</item>
+        <item>0</item>
+        <item>@NP_MANAGER6/NP_MANAGER_res_0x7f06008b</item>
+        <item>12dp</item>
+        <item>12dp</item>
+        <item>?NP_MANAGER3/NP_MANAGER_res_0x7f030103</item>
+        <item>@NP_MANAGER15/NP_MANAGER_res_0x7f0f01f8</item>
+        <item>@null</item>
+        <item>false</item>
+    </NP_MANAGER15>
+    <NP_MANAGER15 name="NP_MANAGER_res_0x7f0f0114" parent="@NP_MANAGER15/NP_MANAGER_res_0x7f0f009e">
+        <item>@null</item>
+    </NP_MANAGER15>
+    <NP_MANAGER15 name="NP_MANAGER_res_0x7f0f0115" parent="@android:style/Widget.Material.CheckedTextView">
+    </NP_MANAGER15>
+    <NP_MANAGER15 name="NP_MANAGER_res_0x7f0f0116" parent="@android:style/Widget">
+        <item>?NP_MANAGER3/NP_MANAGER_res_0x7f030493</item>
+        <item>@NP_MANAGER5/NP_MANAGER_res_0x7f050371</item>
+        <item>true</item>
+        <item>true</item>
+        <item>@null</item>
+        <item>false</item>
+        <item>false</item>
+        <item>@NP_MANAGER2/NP_MANAGER_res_0x7f02001e</item>
+        <item>@NP_MANAGER7/NP_MANAGER_res_0x7f0700a8</item>
+        <item>true</item>
+        <item>@NP_MANAGER5/NP_MANAGER_res_0x7f05036e</item>
+        <item>6dp</item>
+        <item>@null</item>
+        <item>24dp</item>
+        <item>true</item>
+        <item>32dp</item>
+        <item>48dp</item>
+        <item>4dp</item>
+        <item>?NP_MANAGER3/NP_MANAGER_res_0x7f030116</item>
+        <item>0dp</item>
+        <item>@NP_MANAGER5/NP_MANAGER_res_0x7f050370</item>
+        <item>@NP_MANAGER7/NP_MANAGER_res_0x7f0700a9</item>
+        <item>2dp</item>
+        <item>18dp</item>
+        <item>2dp</item>
+        <item>@NP_MANAGER5/NP_MANAGER_res_0x7f05036f</item>
+        <item>true</item>
+        <item>true</item>
+        <item>true</item>
+        <item>true</item>
+        <item>0dp</item>
+        <item>0dp</item>
+        <item>@NP_MANAGER5/NP_MANAGER_res_0x7f050385</item>
+        <item>?NP_MANAGER3/NP_MANAGER_res_0x7f030413</item>
+        <item>@NP_MANAGER15/NP_MANAGER_res_0x7f0f01b2</item>
+        <item>6dp</item>
+        <item>8dp</item>
+    </NP_MANAGER15>
+    <NP_MANAGER15 name="NP_MANAGER_res_0x7f0f0117" parent="@NP_MANAGER15/NP_MANAGER_res_0x7f0f034c">
+        <item>?NP_MANAGER3/NP_MANAGER_res_0x7f030004</item>
+        <item>?NP_MANAGER3/NP_MANAGER_res_0x7f03010d</item>
+    </NP_MANAGER15>
+    <NP_MANAGER15 name="NP_MANAGER_res_0x7f0f0118" parent="@NP_MANAGER15/NP_MANAGER_res_0x7f0f046c">
+        <item>@NP_MANAGER5/NP_MANAGER_res_0x7f050321</item>
+        <item>@NP_MANAGER5/NP_MANAGER_res_0x7f050321</item>
+    </NP_MANAGER15>
+    <NP_MANAGER15 name="NP_MANAGER_res_0x7f0f0119" parent="@NP_MANAGER15/NP_MANAGER_res_0x7f0f0368">
+        <item>1px</item>
+        <item>false</item>
+    </NP_MANAGER15>
+    <NP_MANAGER15 name="NP_MANAGER_res_0x7f0f011a" parent="@NP_MANAGER15/NP_MANAGER_res_0x7f0f0368">
+        <item>true</item>
+    </NP_MANAGER15>
+    <NP_MANAGER15 name="NP_MANAGER_res_0x7f0f011b" parent="@NP_MANAGER15/NP_MANAGER_res_0x7f0f0364">
+        <item>?NP_MANAGER3/NP_MANAGER_res_0x7f0303d2</item>
+        <item>1dp</item>
+        <item>8dp</item>
+    </NP_MANAGER15>
+    <NP_MANAGER15 name="NP_MANAGER_res_0x7f0f011c" parent="@NP_MANAGER15/NP_MANAGER_res_0x7f0f0369">
+        <item>1px</item>
+    </NP_MANAGER15>
+    <NP_MANAGER15 name="NP_MANAGER_res_0x7f0f011d" parent="@android:style/Widget">
+        <item>@NP_MANAGER5/NP_MANAGER_res_0x7f050359</item>
+        <item>@NP_MANAGER6/NP_MANAGER_res_0x7f0603c9</item>
+        <item>@NP_MANAGER15/NP_MANAGER_res_0x7f0f04ce</item>
+        <item>0dp</item>
+        <item>@NP_MANAGER5/NP_MANAGER_res_0x7f05035c</item>
+        <item>@NP_MANAGER6/NP_MANAGER_res_0x7f0603cd</item>
+        <item>@NP_MANAGER6/NP_MANAGER_res_0x7f0603ce</item>
+        <item>@NP_MANAGER5/NP_MANAGER_res_0x7f050357</item>
+        <item>@NP_MANAGER5/NP_MANAGER_res_0x7f05035a</item>
+        <item>@NP_MANAGER6/NP_MANAGER_res_0x7f0603d0</item>
+        <item>@NP_MANAGER6/NP_MANAGER_res_0x7f0603d0</item>
+        <item>@NP_MANAGER5/NP_MANAGER_res_0x7f050358</item>
+        <item>@NP_MANAGER5/NP_MANAGER_res_0x7f05035b</item>
+        <item>@NP_MANAGER6/NP_MANAGER_res_0x7f0603d1</item>
+    </NP_MANAGER15>
+    <NP_MANAGER15 name="NP_MANAGER_res_0x7f0f011e" parent="@NP_MANAGER15/NP_MANAGER_res_0x7f0f0385">
+        <item>@NP_MANAGER6/NP_MANAGER_res_0x7f0603d9</item>
+        <item>@NP_MANAGER6/NP_MANAGER_res_0x7f0603d9</item>
+        <item>@NP_MANAGER6/NP_MANAGER_res_0x7f0603d4</item>
+        <item>@NP_MANAGER6/NP_MANAGER_res_0x7f0603d6</item>
+    </NP_MANAGER15>
+    <NP_MANAGER15 name="NP_MANAGER_res_0x7f0f011f" parent="@NP_MANAGER15/NP_MANAGER_res_0x7f0f0387">
+        <item>?NP_MANAGER3/NP_MANAGER_res_0x7f0304be</item>
+        <item>@null</item>
+        <item>16dp</item>
+        <item>17dp</item>
+        <item>16dp</item>
+        <item>17dp</item>
+        <item>16dp</item>
+        <item>16dp</item>
+        <item>true</item>
+        <item>true</item>
+        <item>true</item>
+    </NP_MANAGER15>
+    <NP_MANAGER15 name="NP_MANAGER_res_0x7f0f0120" parent="@NP_MANAGER15/NP_MANAGER_res_0x7f0f0388">
+        <item>@NP_MANAGER5/NP_MANAGER_res_0x7f05037c</item>
+        <item>@NP_MANAGER6/NP_MANAGER_res_0x7f060326</item>
+        <item>@NP_MANAGER6/NP_MANAGER_res_0x7f060327</item>
+        <item>@null</item>
+        <item>2</item>
+        <item>0dp</item>
+        <item>@NP_MANAGER5/NP_MANAGER_res_0x7f050387</item>
+        <item>@NP_MANAGER5/NP_MANAGER_res_0x7f050375</item>
+        <item>@NP_MANAGER6/NP_MANAGER_res_0x7f0603e3</item>
+        <item>@NP_MANAGER6/NP_MANAGER_res_0x7f0603e4</item>
+        <item>?NP_MANAGER3/NP_MANAGER_res_0x7f03049b</item>
+        <item>@NP_MANAGER5/NP_MANAGER_res_0x7f050375</item>
+        <item>?NP_MANAGER3/NP_MANAGER_res_0x7f03049b</item>
+        <item>@NP_MANAGER5/NP_MANAGER_res_0x7f05037c</item>
+        <item>@null</item>
+        <item>@NP_MANAGER5/NP_MANAGER_res_0x7f050375</item>
+        <item>@NP_MANAGER5/NP_MANAGER_res_0x7f050386</item>
+        <item>true</item>
+        <item>true</item>
+        <item>@NP_MANAGER7/NP_MANAGER_res_0x7f0700d4</item>
+        <item>@NP_MANAGER5/NP_MANAGER_res_0x7f050375</item>
+        <item>?NP_MANAGER3/NP_MANAGER_res_0x7f03049b</item>
+        <item>@NP_MANAGER5/NP_MANAGER_res_0x7f050375</item>
+        <item>?NP_MANAGER3/NP_MANAGER_res_0x7f03049b</item>
+        <item>@NP_MANAGER5/NP_MANAGER_res_0x7f05037c</item>
+        <item>?NP_MANAGER3/NP_MANAGER_res_0x7f03049b</item>
+        <item>?NP_MANAGER3/NP_MANAGER_res_0x7f03011f</item>
+        <item>?NP_MANAGER3/NP_MANAGER_res_0x7f0304be</item>
+        <item>@NP_MANAGER5/NP_MANAGER_res_0x7f05037c</item>
+        <item>?NP_MANAGER3/NP_MANAGER_res_0x7f0304be</item>
+        <item>@NP_MANAGER5/NP_MANAGER_res_0x7f05037c</item>
+        <item>?NP_MANAGER3/NP_MANAGER_res_0x7f030413</item>
+        <item>@null</item>
+        <item>@NP_MANAGER5/NP_MANAGER_res_0x7f050386</item>
+        <item>?NP_MANAGER3/NP_MANAGER_res_0x7f0304be</item>
+        <item>@NP_MANAGER5/NP_MANAGER_res_0x7f05037c</item>
+    </NP_MANAGER15>
+    <NP_MANAGER15 name="NP_MANAGER_res_0x7f0f0121" parent="@NP_MANAGER15/NP_MANAGER_res_0x7f0f0378">
+    </NP_MANAGER15>
+    <NP_MANAGER15 name="NP_MANAGER_res_0x7f0f0122" parent="@NP_MANAGER15/NP_MANAGER_res_0x7f0f0010">
+        <item>?android:attr/colorBackgroundFloating</item>
+    </NP_MANAGER15>
+    <NP_MANAGER15 name="NP_MANAGER_res_0x7f0f012f" parent="@NP_MANAGER15/NP_MANAGER_res_0x7f0f0000">
+        <item>@NP_MANAGER11/NP_MANAGER_res_0x7f0b0044</item>
+        <item>@NP_MANAGER6/NP_MANAGER_res_0x7f06032b</item>
+        <item>@NP_MANAGER6/NP_MANAGER_res_0x7f06032c</item>
+        <item>@NP_MANAGER6/NP_MANAGER_res_0x7f06032d</item>
+        <item>@NP_MANAGER6/NP_MANAGER_res_0x7f06032e</item>
+        <item>?NP_MANAGER3/NP_MANAGER_res_0x7f03012c</item>
+        <item>@NP_MANAGER11/NP_MANAGER_res_0x7f0b0047</item>
+        <item>@NP_MANAGER11/NP_MANAGER_res_0x7f0b0048</item>
+        <item>?NP_MANAGER3/NP_MANAGER_res_0x7f030411</item>
+        <item>@NP_MANAGER11/NP_MANAGER_res_0x7f0b0049</item>
+    </NP_MANAGER15>
+    <NP_MANAGER15 name="NP_MANAGER_res_0x7f0f0130" parent="@NP_MANAGER15/NP_MANAGER_res_0x7f0f023d">
+        <item>?NP_MANAGER3/NP_MANAGER_res_0x7f030493</item>
+        <item>@NP_MANAGER5/NP_MANAGER_res_0x7f050321</item>
+    </NP_MANAGER15>
+    <NP_MANAGER15 name="NP_MANAGER_res_0x7f0f0133" parent="@NP_MANAGER15/NP_MANAGER_res_0x7f0f0013">
+        <item>0x800013</item>
+        <item>8dp</item>
+        <item>8dp</item>
+    </NP_MANAGER15>
+    <NP_MANAGER15 name="NP_MANAGER_res_0x7f0f0135" parent="@NP_MANAGER15/NP_MANAGER_res_0x7f0f0014">
+        <item>0</item>
+    </NP_MANAGER15>
+    <NP_MANAGER15 name="NP_MANAGER_res_0x7f0f0137" parent="@NP_MANAGER15/NP_MANAGER_res_0x7f0f0015">
+        <item>0x800013</item>
+        <item>5</item>
+    </NP_MANAGER15>
+    <NP_MANAGER15 name="NP_MANAGER_res_0x7f0f0139">
+        <item>@NP_MANAGER6/NP_MANAGER_res_0x7f0602e9</item>
+        <item>@NP_MANAGER6/NP_MANAGER_res_0x7f0602ea</item>
+    </NP_MANAGER15>
+    <NP_MANAGER15 name="NP_MANAGER_res_0x7f0f013a">
+        <item>@NP_MANAGER6/NP_MANAGER_res_0x7f0602eb</item>
+        <item>@NP_MANAGER6/NP_MANAGER_res_0x7f0602ec</item>
+    </NP_MANAGER15>
+    <NP_MANAGER15 name="NP_MANAGER_res_0x7f0f013b">
+        <item>@NP_MANAGER6/NP_MANAGER_res_0x7f0602ed</item>
+        <item>@NP_MANAGER6/NP_MANAGER_res_0x7f0602ee</item>
+    </NP_MANAGER15>
+    <NP_MANAGER15 name="NP_MANAGER_res_0x7f0f013c">
+        <item>@NP_MANAGER6/NP_MANAGER_res_0x7f0602ef</item>
+        <item>@NP_MANAGER6/NP_MANAGER_res_0x7f0602f0</item>
+    </NP_MANAGER15>
+    <NP_MANAGER15 name="NP_MANAGER_res_0x7f0f013d">
+        <item>@NP_MANAGER6/NP_MANAGER_res_0x7f0602f1</item>
+        <item>@NP_MANAGER6/NP_MANAGER_res_0x7f0602f2</item>
+    </NP_MANAGER15>
+    <NP_MANAGER15 name="NP_MANAGER_res_0x7f0f013e">
+        <item>@NP_MANAGER6/NP_MANAGER_res_0x7f0602f3</item>
+        <item>@NP_MANAGER6/NP_MANAGER_res_0x7f0602f4</item>
+    </NP_MANAGER15>
+    <NP_MANAGER15 name="NP_MANAGER_res_0x7f0f013f" parent="@NP_MANAGER15/NP_MANAGER_res_0x7f0f0148">
+    </NP_MANAGER15>
+    <NP_MANAGER15 name="NP_MANAGER_res_0x7f0f0140" parent="@NP_MANAGER15/NP_MANAGER_res_0x7f0f0149">
+    </NP_MANAGER15>
+    <NP_MANAGER15 name="NP_MANAGER_res_0x7f0f0141" parent="@NP_MANAGER15/NP_MANAGER_res_0x7f0f024f">
+    </NP_MANAGER15>
+    <NP_MANAGER15 name="NP_MANAGER_res_0x7f0f0142" parent="@NP_MANAGER15/NP_MANAGER_res_0x7f0f0258">
+    </NP_MANAGER15>
+    <NP_MANAGER15 name="NP_MANAGER_res_0x7f0f0143" parent="@NP_MANAGER15/NP_MANAGER_res_0x7f0f025d">
+    </NP_MANAGER15>
+    <NP_MANAGER15 name="NP_MANAGER_res_0x7f0f0144" parent="@NP_MANAGER15/NP_MANAGER_res_0x7f0f025f">
+    </NP_MANAGER15>
+    <NP_MANAGER15 name="NP_MANAGER_res_0x7f0f0145">
+        <item>?NP_MANAGER3/NP_MANAGER_res_0x7f030104</item>
+        <item>?NP_MANAGER3/NP_MANAGER_res_0x7f030102</item>
+        <item>?NP_MANAGER3/NP_MANAGER_res_0x7f0300fe</item>
+        <item>?NP_MANAGER3/NP_MANAGER_res_0x7f030103</item>
+        <item>?NP_MANAGER3/NP_MANAGER_res_0x7f03011f</item>
+        <item>?NP_MANAGER3/NP_MANAGER_res_0x7f030121</item>
+        <item>?NP_MANAGER3/NP_MANAGER_res_0x7f0300fc</item>
+    </NP_MANAGER15>
+    <NP_MANAGER15 name="NP_MANAGER_res_0x7f0f0146" parent="@NP_MANAGER15/NP_MANAGER_res_0x7f0f0145">
+    </NP_MANAGER15>
+    <NP_MANAGER15 name="NP_MANAGER_res_0x7f0f0147" parent="@NP_MANAGER15/NP_MANAGER_res_0x7f0f0145">
+    </NP_MANAGER15>
+    <NP_MANAGER15 name="NP_MANAGER_res_0x7f0f0148" parent="@android:style/Theme.Material.NoActionBar">
+        <item>@NP_MANAGER5/NP_MANAGER_res_0x7f050008</item>
+        <item>@NP_MANAGER5/NP_MANAGER_res_0x7f050007</item>
+        <item>?android:attr/colorAccent</item>
+        <item>?NP_MANAGER3/NP_MANAGER_res_0x7f030091</item>
+        <item>?NP_MANAGER3/NP_MANAGER_res_0x7f03008d</item>
+        <item>?android:attr/colorAccent</item>
+    </NP_MANAGER15>
+    <NP_MANAGER15 name="NP_MANAGER_res_0x7f0f0149" parent="@android:style/Theme.Material.Light.NoActionBar">
+        <item>@NP_MANAGER5/NP_MANAGER_res_0x7f050007</item>
+        <item>@NP_MANAGER5/NP_MANAGER_res_0x7f050008</item>
+        <item>?android:attr/colorAccent</item>
+        <item>?NP_MANAGER3/NP_MANAGER_res_0x7f030091</item>
+        <item>?NP_MANAGER3/NP_MANAGER_res_0x7f03008d</item>
+        <item>?android:attr/colorAccent</item>
+    </NP_MANAGER15>
+    <NP_MANAGER15 name="NP_MANAGER_res_0x7f0f014d" parent="@NP_MANAGER15/NP_MANAGER_res_0x7f0f0011">
+        <item>5</item>
+    </NP_MANAGER15>
+    <NP_MANAGER15 name="NP_MANAGER_res_0x7f0f014e" parent="@android:style/Widget">
+        <item>0x800013</item>
+        <item>8dp</item>
+    </NP_MANAGER15>
+    <NP_MANAGER15 name="NP_MANAGER_res_0x7f0f0150" parent="@android:style/Widget">
+        <item>16dp</item>
+    </NP_MANAGER15>
+    <NP_MANAGER15 name="NP_MANAGER_res_0x7f0f0151" parent="@android:style/Widget">
+        <item>16dp</item>
+    </NP_MANAGER15>
+    <NP_MANAGER15 name="NP_MANAGER_res_0x7f0f0152" parent="@android:style/Widget">
+        <item>6</item>
+        <item>16dp</item>
+    </NP_MANAGER15>
+    <NP_MANAGER15 name="NP_MANAGER_res_0x7f0f0153" parent="@android:style/Widget">
+        <item>8dp</item>
+    </NP_MANAGER15>
+    <NP_MANAGER15 name="NP_MANAGER_res_0x7f0f0154" parent="@android:style/Widget">
+        <item>5</item>
+        <item>true</item>
+    </NP_MANAGER15>
+    <NP_MANAGER15 name="NP_MANAGER_res_0x7f0f0155" parent="@android:style/Widget">
+        <item>5</item>
+        <item>16dp</item>
+    </NP_MANAGER15>
+    <NP_MANAGER15 name="NP_MANAGER_res_0x7f0f0156" parent="@android:style/Widget">
+        <item>@NP_MANAGER6/NP_MANAGER_res_0x7f06002a</item>
+        <item>4dp</item>
+    </NP_MANAGER15>
+    <NP_MANAGER15 name="NP_MANAGER_res_0x7f0f0157" parent="@android:style/Widget">
+        <item>true</item>
+    </NP_MANAGER15>
+    <NP_MANAGER15 name="NP_MANAGER_res_0x7f0f0158" parent="@android:style/Widget">
+        <item>@NP_MANAGER8/NP_MANAGER_res_0x7f0800b0</item>
+    </NP_MANAGER15>
+    <NP_MANAGER15 name="NP_MANAGER_res_0x7f0f0159" parent="@android:style/Widget">
+        <item>true</item>
+    </NP_MANAGER15>
+    <NP_MANAGER15 name="NP_MANAGER_res_0x7f0f015a" parent="@NP_MANAGER15/NP_MANAGER_res_0x7f0f00d7">
+        <item>@android:id/icon2</item>
+        <item>@android:id/icon1</item>
+    </NP_MANAGER15>
+    <NP_MANAGER15 name="NP_MANAGER_res_0x7f0f015b" parent="@android:style/Widget">
+        <item>@NP_MANAGER6/NP_MANAGER_res_0x7f06002a</item>
+    </NP_MANAGER15>
+    <NP_MANAGER15 name="NP_MANAGER_res_0x7f0f0180" parent="@NP_MANAGER15/NP_MANAGER_res_0x7f0f018f">
+    </NP_MANAGER15>
+    <NP_MANAGER15 name="NP_MANAGER_res_0x7f0f018f">
+        <item>0</item>
+        <item>0dp</item>
+    </NP_MANAGER15>
+    <NP_MANAGER15 name="NP_MANAGER_res_0x7f0f01a0">
+        <item>0</item>
+    </NP_MANAGER15>
+    <NP_MANAGER15 name="NP_MANAGER_res_0x7f0f01a1" parent="@NP_MANAGER15/NP_MANAGER_res_0x7f0f01a0">
+        <item>?NP_MANAGER3/NP_MANAGER_res_0x7f030414</item>
+        <item>50%</item>
+    </NP_MANAGER15>
+    <NP_MANAGER15 name="NP_MANAGER_res_0x7f0f01a2" parent="@NP_MANAGER15/NP_MANAGER_res_0x7f0f01a0">
+        <item>@NP_MANAGER6/NP_MANAGER_res_0x7f0603c6</item>
+    </NP_MANAGER15>
+    <NP_MANAGER15 name="NP_MANAGER_res_0x7f0f01a3" parent="@NP_MANAGER15/NP_MANAGER_res_0x7f0f01a0">
+        <item>@NP_MANAGER6/NP_MANAGER_res_0x7f0603c7</item>
+    </NP_MANAGER15>
+    <NP_MANAGER15 name="NP_MANAGER_res_0x7f0f01a4" parent="@NP_MANAGER15/NP_MANAGER_res_0x7f0f01a0">
+        <item>@NP_MANAGER6/NP_MANAGER_res_0x7f0603c8</item>
+    </NP_MANAGER15>
+    <NP_MANAGER15 name="NP_MANAGER_res_0x7f0f01a5">
+        <item>0</item>
+        <item>4dp</item>
+    </NP_MANAGER15>
+    <NP_MANAGER15 name="NP_MANAGER_res_0x7f0f01b1">
+        <item>0dp</item>
+        <item>0dp</item>
+    </NP_MANAGER15>
+    <NP_MANAGER15 name="NP_MANAGER_res_0x7f0f01b2">
+        <item>50%</item>
+    </NP_MANAGER15>
+    <NP_MANAGER15 name="NP_MANAGER_res_0x7f0f01b3">
+        <item>@null</item>
+    </NP_MANAGER15>
+    <NP_MANAGER15 name="NP_MANAGER_res_0x7f0f01b4">
+        <item>50%</item>
+    </NP_MANAGER15>
+    <NP_MANAGER15 name="NP_MANAGER_res_0x7f0f01b5">
+        <item>@NP_MANAGER6/NP_MANAGER_res_0x7f06035b</item>
+    </NP_MANAGER15>
+    <NP_MANAGER15 name="NP_MANAGER_res_0x7f0f01b6">
+        <item>0dp</item>
+    </NP_MANAGER15>
+    <NP_MANAGER15 name="NP_MANAGER_res_0x7f0f01b7">
+        <item>@NP_MANAGER6/NP_MANAGER_res_0x7f06037a</item>
+    </NP_MANAGER15>
+    <NP_MANAGER15 name="NP_MANAGER_res_0x7f0f01b8">
+        <item>@NP_MANAGER6/NP_MANAGER_res_0x7f0603e1</item>
+        <item>@NP_MANAGER6/NP_MANAGER_res_0x7f0603e1</item>
+    </NP_MANAGER15>
+    <NP_MANAGER15 name="NP_MANAGER_res_0x7f0f01b9" parent="@NP_MANAGER15/NP_MANAGER_res_0x7f0f0016">
+    </NP_MANAGER15>
+    <NP_MANAGER15 name="NP_MANAGER_res_0x7f0f01ba" parent="@NP_MANAGER15/NP_MANAGER_res_0x7f0f0017">
+    </NP_MANAGER15>
+    <NP_MANAGER15 name="NP_MANAGER_res_0x7f0f01bb" parent="@NP_MANAGER15/NP_MANAGER_res_0x7f0f0018">
+    </NP_MANAGER15>
+    <NP_MANAGER15 name="NP_MANAGER_res_0x7f0f01bc" parent="@NP_MANAGER15/NP_MANAGER_res_0x7f0f0019">
+    </NP_MANAGER15>
+    <NP_MANAGER15 name="NP_MANAGER_res_0x7f0f01bd" parent="@NP_MANAGER15/NP_MANAGER_res_0x7f0f001a">
+    </NP_MANAGER15>
+    <NP_MANAGER15 name="NP_MANAGER_res_0x7f0f01be" parent="@NP_MANAGER15/NP_MANAGER_res_0x7f0f001b">
+    </NP_MANAGER15>
+    <NP_MANAGER15 name="NP_MANAGER_res_0x7f0f01bf" parent="@NP_MANAGER15/NP_MANAGER_res_0x7f0f001c">
+    </NP_MANAGER15>
+    <NP_MANAGER15 name="NP_MANAGER_res_0x7f0f01c0" parent="@NP_MANAGER15/NP_MANAGER_res_0x7f0f001d">
+    </NP_MANAGER15>
+    <NP_MANAGER15 name="NP_MANAGER_res_0x7f0f01c1" parent="@NP_MANAGER15/NP_MANAGER_res_0x7f0f001e">
+    </NP_MANAGER15>
+    <NP_MANAGER15 name="NP_MANAGER_res_0x7f0f01c2" parent="@NP_MANAGER15/NP_MANAGER_res_0x7f0f001f">
+    </NP_MANAGER15>
+    <NP_MANAGER15 name="NP_MANAGER_res_0x7f0f01c3" parent="@NP_MANAGER15/NP_MANAGER_res_0x7f0f0020">
+    </NP_MANAGER15>
+    <NP_MANAGER15 name="NP_MANAGER_res_0x7f0f01c4" parent="@NP_MANAGER15/NP_MANAGER_res_0x7f0f0021">
+    </NP_MANAGER15>
+    <NP_MANAGER15 name="NP_MANAGER_res_0x7f0f01c5" parent="@NP_MANAGER15/NP_MANAGER_res_0x7f0f0022">
+    </NP_MANAGER15>
+    <NP_MANAGER15 name="NP_MANAGER_res_0x7f0f01c6" parent="@NP_MANAGER15/NP_MANAGER_res_0x7f0f01cd">
+    </NP_MANAGER15>
+    <NP_MANAGER15 name="NP_MANAGER_res_0x7f0f01c7" parent="@NP_MANAGER15/NP_MANAGER_res_0x7f0f01ce">
+    </NP_MANAGER15>
+    <NP_MANAGER15 name="NP_MANAGER_res_0x7f0f01c8" parent="@NP_MANAGER15/NP_MANAGER_res_0x7f0f01e5">
+    </NP_MANAGER15>
+    <NP_MANAGER15 name="NP_MANAGER_res_0x7f0f01c9" parent="@NP_MANAGER15/NP_MANAGER_res_0x7f0f01e6">
+    </NP_MANAGER15>
+    <NP_MANAGER15 name="NP_MANAGER_res_0x7f0f01ca" parent="@NP_MANAGER15/NP_MANAGER_res_0x7f0f0025">
+    </NP_MANAGER15>
+    <NP_MANAGER15 name="NP_MANAGER_res_0x7f0f01cb" parent="@NP_MANAGER15/NP_MANAGER_res_0x7f0f0026">
+    </NP_MANAGER15>
+    <NP_MANAGER15 name="NP_MANAGER_res_0x7f0f01cc" parent="@NP_MANAGER15/NP_MANAGER_res_0x7f0f0027">
+    </NP_MANAGER15>
+    <NP_MANAGER15 name="NP_MANAGER_res_0x7f0f01cd" parent="@NP_MANAGER15/NP_MANAGER_res_0x7f0f0029">
+    </NP_MANAGER15>
+    <NP_MANAGER15 name="NP_MANAGER_res_0x7f0f01ce" parent="@NP_MANAGER15/NP_MANAGER_res_0x7f0f002a">
+    </NP_MANAGER15>
+    <NP_MANAGER15 name="NP_MANAGER_res_0x7f0f01cf" parent="@NP_MANAGER15/NP_MANAGER_res_0x7f0f002b">
+    </NP_MANAGER15>
+    <NP_MANAGER15 name="NP_MANAGER_res_0x7f0f01d0" parent="@NP_MANAGER15/NP_MANAGER_res_0x7f0f002c">
+    </NP_MANAGER15>
+    <NP_MANAGER15 name="NP_MANAGER_res_0x7f0f01d1" parent="@NP_MANAGER15/NP_MANAGER_res_0x7f0f002d">
+    </NP_MANAGER15>
+    <NP_MANAGER15 name="NP_MANAGER_res_0x7f0f01d2" parent="@NP_MANAGER15/NP_MANAGER_res_0x7f0f002e">
+    </NP_MANAGER15>
+    <NP_MANAGER15 name="NP_MANAGER_res_0x7f0f01d3" parent="@NP_MANAGER15/NP_MANAGER_res_0x7f0f002f">
+    </NP_MANAGER15>
+    <NP_MANAGER15 name="NP_MANAGER_res_0x7f0f01d4" parent="@NP_MANAGER15/NP_MANAGER_res_0x7f0f0030">
+    </NP_MANAGER15>
+    <NP_MANAGER15 name="NP_MANAGER_res_0x7f0f01d5" parent="@NP_MANAGER15/NP_MANAGER_res_0x7f0f01b9">
+        <item>14sp</item>
+        <item>sans-serif</item>
+    </NP_MANAGER15>
+    <NP_MANAGER15 name="NP_MANAGER_res_0x7f0f01d6" parent="@NP_MANAGER15/NP_MANAGER_res_0x7f0f0032">
+    </NP_MANAGER15>
+    <NP_MANAGER15 name="NP_MANAGER_res_0x7f0f01d7" parent="@NP_MANAGER15/NP_MANAGER_res_0x7f0f0033">
+    </NP_MANAGER15>
+    <NP_MANAGER15 name="NP_MANAGER_res_0x7f0f01d8" parent="@NP_MANAGER15/NP_MANAGER_res_0x7f0f0034">
+    </NP_MANAGER15>
+    <NP_MANAGER15 name="NP_MANAGER_res_0x7f0f01d9" parent="@NP_MANAGER15/NP_MANAGER_res_0x7f0f0035">
+    </NP_MANAGER15>
+    <NP_MANAGER15 name="NP_MANAGER_res_0x7f0f01da" parent="@NP_MANAGER15/NP_MANAGER_res_0x7f0f0036">
+    </NP_MANAGER15>
+    <NP_MANAGER15 name="NP_MANAGER_res_0x7f0f01db" parent="@NP_MANAGER15/NP_MANAGER_res_0x7f0f0037">
+    </NP_MANAGER15>
+    <NP_MANAGER15 name="NP_MANAGER_res_0x7f0f01dc" parent="@NP_MANAGER15/NP_MANAGER_res_0x7f0f01db">
+    </NP_MANAGER15>
+    <NP_MANAGER15 name="NP_MANAGER_res_0x7f0f01dd" parent="@NP_MANAGER15/NP_MANAGER_res_0x7f0f0038">
+    </NP_MANAGER15>
+    <NP_MANAGER15 name="NP_MANAGER_res_0x7f0f01de" parent="@NP_MANAGER15/NP_MANAGER_res_0x7f0f01dd">
+    </NP_MANAGER15>
+    <NP_MANAGER15 name="NP_MANAGER_res_0x7f0f01df" parent="@NP_MANAGER15/NP_MANAGER_res_0x7f0f0039">
+    </NP_MANAGER15>
+    <NP_MANAGER15 name="NP_MANAGER_res_0x7f0f01e0" parent="@NP_MANAGER15/NP_MANAGER_res_0x7f0f003a">
+    </NP_MANAGER15>
+    <NP_MANAGER15 name="NP_MANAGER_res_0x7f0f01e1" parent="@NP_MANAGER15/NP_MANAGER_res_0x7f0f003b">
+    </NP_MANAGER15>
+    <NP_MANAGER15 name="NP_MANAGER_res_0x7f0f01e2" parent="@NP_MANAGER15/NP_MANAGER_res_0x7f0f003c">
+    </NP_MANAGER15>
+    <NP_MANAGER15 name="NP_MANAGER_res_0x7f0f01e3" parent="@NP_MANAGER15/NP_MANAGER_res_0x7f0f003d">
+    </NP_MANAGER15>
+    <NP_MANAGER15 name="NP_MANAGER_res_0x7f0f01e4" parent="@NP_MANAGER15/NP_MANAGER_res_0x7f0f003e">
+    </NP_MANAGER15>
+    <NP_MANAGER15 name="NP_MANAGER_res_0x7f0f01e5" parent="@NP_MANAGER15/NP_MANAGER_res_0x7f0f003f">
+    </NP_MANAGER15>
+    <NP_MANAGER15 name="NP_MANAGER_res_0x7f0f01e6" parent="@NP_MANAGER15/NP_MANAGER_res_0x7f0f0040">
+    </NP_MANAGER15>
+    <NP_MANAGER15 name="NP_MANAGER_res_0x7f0f01e7" parent="@NP_MANAGER15/NP_MANAGER_res_0x7f0f0041">
+    </NP_MANAGER15>
+    <NP_MANAGER15 name="NP_MANAGER_res_0x7f0f01e8" parent="@NP_MANAGER15/NP_MANAGER_res_0x7f0f0042">
+    </NP_MANAGER15>
+    <NP_MANAGER15 name="NP_MANAGER_res_0x7f0f01e9" parent="@android:style/TextAppearance.Material.Notification">
+    </NP_MANAGER15>
+    <NP_MANAGER15 name="NP_MANAGER_res_0x7f0f01ea" parent="@android:style/TextAppearance.Material.Notification.Info">
+    </NP_MANAGER15>
+    <NP_MANAGER15 name="NP_MANAGER_res_0x7f0f01eb" parent="@NP_MANAGER15/NP_MANAGER_res_0x7f0f01ea">
+    </NP_MANAGER15>
+    <NP_MANAGER15 name="NP_MANAGER_res_0x7f0f01ec" parent="@android:style/TextAppearance.Material.Notification.Time">
+    </NP_MANAGER15>
+    <NP_MANAGER15 name="NP_MANAGER_res_0x7f0f01ed" parent="@android:style/TextAppearance.Material.Notification.Title">
+    </NP_MANAGER15>
+    <NP_MANAGER15 name="NP_MANAGER_res_0x7f0f01ee" parent="@NP_MANAGER15/NP_MANAGER_res_0x7f0f01be">
+        <item>?android:attr/textColorPrimary</item>
+    </NP_MANAGER15>
+    <NP_MANAGER15 name="NP_MANAGER_res_0x7f0f01ef" parent="@NP_MANAGER15/NP_MANAGER_res_0x7f0f01bd">
+    </NP_MANAGER15>
+    <NP_MANAGER15 name="NP_MANAGER_res_0x7f0f01f0" parent="@NP_MANAGER15/NP_MANAGER_res_0x7f0f01bd">
+        <item>@NP_MANAGER5/NP_MANAGER_res_0x7f05004c</item>
+    </NP_MANAGER15>
+    <NP_MANAGER15 name="NP_MANAGER_res_0x7f0f01f1" parent="@NP_MANAGER15/NP_MANAGER_res_0x7f0f01bd">
+        <item>@NP_MANAGER5/NP_MANAGER_res_0x7f05004c</item>
+    </NP_MANAGER15>
+    <NP_MANAGER15 name="NP_MANAGER_res_0x7f0f01f2" parent="@NP_MANAGER15/NP_MANAGER_res_0x7f0f01bd">
+    </NP_MANAGER15>
+    <NP_MANAGER15 name="NP_MANAGER_res_0x7f0f01f3" parent="@NP_MANAGER15/NP_MANAGER_res_0x7f0f01bd">
+        <item>?NP_MANAGER3/NP_MANAGER_res_0x7f030102</item>
+    </NP_MANAGER15>
+    <NP_MANAGER15 name="NP_MANAGER_res_0x7f0f01f4" parent="@NP_MANAGER15/NP_MANAGER_res_0x7f0f01ba">
+    </NP_MANAGER15>
+    <NP_MANAGER15 name="NP_MANAGER_res_0x7f0f01f5" parent="@NP_MANAGER15/NP_MANAGER_res_0x7f0f01ba">
+    </NP_MANAGER15>
+    <NP_MANAGER15 name="NP_MANAGER_res_0x7f0f01f6" parent="@android:style/TextAppearance">
+        <item>@NP_MANAGER6/NP_MANAGER_res_0x7f06008a</item>
+        <item>?android:attr/textColorPrimary</item>
+    </NP_MANAGER15>
+    <NP_MANAGER15 name="NP_MANAGER_res_0x7f0f01f7" parent="@NP_MANAGER15/NP_MANAGER_res_0x7f0f01ba">
+    </NP_MANAGER15>
+    <NP_MANAGER15 name="NP_MANAGER_res_0x7f0f01f8" parent="@NP_MANAGER15/NP_MANAGER_res_0x7f0f01bc">
+        <item>@NP_MANAGER6/NP_MANAGER_res_0x7f06008d</item>
+        <item>@NP_MANAGER5/NP_MANAGER_res_0x7f050391</item>
+        <item>true</item>
+    </NP_MANAGER15>
+    <NP_MANAGER15 name="NP_MANAGER_res_0x7f0f01f9" parent="@NP_MANAGER15/NP_MANAGER_res_0x7f0f01bb">
+        <item>16sp</item>
+        <item>false</item>
+        <item>@NP_MANAGER14/NP_MANAGER_res_0x7f0e003b</item>
+        <item>0.0312</item>
+        <item>@NP_MANAGER14/NP_MANAGER_res_0x7f0e003b</item>
+        <item>24sp</item>
+    </NP_MANAGER15>
+    <NP_MANAGER15 name="NP_MANAGER_res_0x7f0f01fa" parent="@NP_MANAGER15/NP_MANAGER_res_0x7f0f01bb">
+        <item>16sp</item>
+        <item>0x0</item>
+        <item>false</item>
+        <item>@NP_MANAGER14/NP_MANAGER_res_0x7f0e003a</item>
+        <item>0.0094</item>
+        <item>@NP_MANAGER14/NP_MANAGER_res_0x7f0e003a</item>
+        <item>24sp</item>
+    </NP_MANAGER15>
+    <NP_MANAGER15 name="NP_MANAGER_res_0x7f0f01fb" parent="@NP_MANAGER15/NP_MANAGER_res_0x7f0f01ba">
+        <item>14sp</item>
+        <item>false</item>
+        <item>@NP_MANAGER14/NP_MANAGER_res_0x7f0e003b</item>
+        <item>0.0179</item>
+        <item>@NP_MANAGER14/NP_MANAGER_res_0x7f0e003b</item>
+        <item>20sp</item>
+    </NP_MANAGER15>
+    <NP_MANAGER15 name="NP_MANAGER_res_0x7f0f01fc" parent="@NP_MANAGER15/NP_MANAGER_res_0x7f0f01ba">
+        <item>14sp</item>
+        <item>0x0</item>
+        <item>false</item>
+        <item>@NP_MANAGER14/NP_MANAGER_res_0x7f0e003a</item>
+        <item>0.0179</item>
+        <item>@NP_MANAGER14/NP_MANAGER_res_0x7f0e003a</item>
+        <item>20sp</item>
+    </NP_MANAGER15>
+    <NP_MANAGER15 name="NP_MANAGER_res_0x7f0f01fd" parent="@NP_MANAGER15/NP_MANAGER_res_0x7f0f01bd">
+        <item>12sp</item>
+        <item>false</item>
+        <item>@NP_MANAGER14/NP_MANAGER_res_0x7f0e003b</item>
+        <item>0.0333</item>
+        <item>@NP_MANAGER14/NP_MANAGER_res_0x7f0e003b</item>
+        <item>16sp</item>
+    </NP_MANAGER15>
+    <NP_MANAGER15 name="NP_MANAGER_res_0x7f0f01fe" parent="@NP_MANAGER15/NP_MANAGER_res_0x7f0f01bd">
+        <item>12sp</item>
+        <item>0x0</item>
+        <item>false</item>
+        <item>@NP_MANAGER14/NP_MANAGER_res_0x7f0e003a</item>
+        <item>0.0333</item>
+        <item>@NP_MANAGER14/NP_MANAGER_res_0x7f0e003a</item>
+        <item>16sp</item>
+    </NP_MANAGER15>
+    <NP_MANAGER15 name="NP_MANAGER_res_0x7f0f01ff" parent="@NP_MANAGER15/NP_MANAGER_res_0x7f0f01c0">
+        <item>57sp</item>
+        <item>false</item>
+        <item>@NP_MANAGER14/NP_MANAGER_res_0x7f0e0039</item>
+        <item>-0.0044</item>
+        <item>@NP_MANAGER14/NP_MANAGER_res_0x7f0e0039</item>
+        <item>64sp</item>
+    </NP_MANAGER15>
+    <NP_MANAGER15 name="NP_MANAGER_res_0x7f0f0200" parent="@NP_MANAGER15/NP_MANAGER_res_0x7f0f01c0">
+        <item>57sp</item>
+        <item>false</item>
+        <item>@NP_MANAGER14/NP_MANAGER_res_0x7f0e0038</item>
+        <item>0</item>
+        <item>@NP_MANAGER14/NP_MANAGER_res_0x7f0e0038</item>
+        <item>64sp</item>
+    </NP_MANAGER15>
+    <NP_MANAGER15 name="NP_MANAGER_res_0x7f0f0201" parent="@NP_MANAGER15/NP_MANAGER_res_0x7f0f01bf">
+        <item>45sp</item>
+        <item>false</item>
+        <item>@NP_MANAGER14/NP_MANAGER_res_0x7f0e0039</item>
+        <item>0</item>
+        <item>@NP_MANAGER14/NP_MANAGER_res_0x7f0e0039</item>
+        <item>52sp</item>
+    </NP_MANAGER15>
+    <NP_MANAGER15 name="NP_MANAGER_res_0x7f0f0202" parent="@NP_MANAGER15/NP_MANAGER_res_0x7f0f01bf">
+        <item>45sp</item>
+        <item>false</item>
+        <item>@NP_MANAGER14/NP_MANAGER_res_0x7f0e0038</item>
+        <item>0</item>
+        <item>@NP_MANAGER14/NP_MANAGER_res_0x7f0e0038</item>
+        <item>52sp</item>
+    </NP_MANAGER15>
+    <NP_MANAGER15 name="NP_MANAGER_res_0x7f0f0203" parent="@NP_MANAGER15/NP_MANAGER_res_0x7f0f01be">
+        <item>36sp</item>
+        <item>false</item>
+        <item>@NP_MANAGER14/NP_MANAGER_res_0x7f0e0039</item>
+        <item>0</item>
+        <item>@NP_MANAGER14/NP_MANAGER_res_0x7f0e0039</item>
+        <item>44sp</item>
+    </NP_MANAGER15>
+    <NP_MANAGER15 name="NP_MANAGER_res_0x7f0f0204" parent="@NP_MANAGER15/NP_MANAGER_res_0x7f0f01be">
+        <item>36sp</item>
+        <item>false</item>
+        <item>@NP_MANAGER14/NP_MANAGER_res_0x7f0e0038</item>
+        <item>0</item>
+        <item>@NP_MANAGER14/NP_MANAGER_res_0x7f0e0038</item>
+        <item>44sp</item>
+    </NP_MANAGER15>
+    <NP_MANAGER15 name="NP_MANAGER_res_0x7f0f0205" parent="@NP_MANAGER15/NP_MANAGER_res_0x7f0f01be">
+        <item>32sp</item>
+        <item>false</item>
+        <item>@NP_MANAGER14/NP_MANAGER_res_0x7f0e0039</item>
+        <item>0</item>
+        <item>@NP_MANAGER14/NP_MANAGER_res_0x7f0e0039</item>
+        <item>40sp</item>
+    </NP_MANAGER15>
+    <NP_MANAGER15 name="NP_MANAGER_res_0x7f0f0206" parent="@NP_MANAGER15/NP_MANAGER_res_0x7f0f01be">
+        <item>32sp</item>
+        <item>false</item>
+        <item>@NP_MANAGER14/NP_MANAGER_res_0x7f0e0038</item>
+        <item>0</item>
+        <item>@NP_MANAGER14/NP_MANAGER_res_0x7f0e0038</item>
+        <item>40sp</item>
+    </NP_MANAGER15>
+    <NP_MANAGER15 name="NP_MANAGER_res_0x7f0f0207" parent="@NP_MANAGER15/NP_MANAGER_res_0x7f0f01c2">
+        <item>28sp</item>
+        <item>false</item>
+        <item>@NP_MANAGER14/NP_MANAGER_res_0x7f0e0039</item>
+        <item>0</item>
+        <item>@NP_MANAGER14/NP_MANAGER_res_0x7f0e0039</item>
+        <item>36sp</item>
+    </NP_MANAGER15>
+    <NP_MANAGER15 name="NP_MANAGER_res_0x7f0f0208" parent="@NP_MANAGER15/NP_MANAGER_res_0x7f0f01c2">
+        <item>28sp</item>
+        <item>false</item>
+        <item>@NP_MANAGER14/NP_MANAGER_res_0x7f0e0038</item>
+        <item>0</item>
+        <item>@NP_MANAGER14/NP_MANAGER_res_0x7f0e0038</item>
+        <item>36sp</item>
+    </NP_MANAGER15>
+    <NP_MANAGER15 name="NP_MANAGER_res_0x7f0f0209" parent="@NP_MANAGER15/NP_MANAGER_res_0x7f0f01d3">
+        <item>24sp</item>
+        <item>false</item>
+        <item>@NP_MANAGER14/NP_MANAGER_res_0x7f0e0039</item>
+        <item>0</item>
+        <item>@NP_MANAGER14/NP_MANAGER_res_0x7f0e0039</item>
+        <item>32sp</item>
+    </NP_MANAGER15>
+    <NP_MANAGER15 name="NP_MANAGER_res_0x7f0f020a" parent="@NP_MANAGER15/NP_MANAGER_res_0x7f0f01d3">
+        <item>24sp</item>
+        <item>false</item>
+        <item>@NP_MANAGER14/NP_MANAGER_res_0x7f0e0038</item>
+        <item>0</item>
+        <item>@NP_MANAGER14/NP_MANAGER_res_0x7f0e0038</item>
+        <item>32sp</item>
+    </NP_MANAGER15>
+    <NP_MANAGER15 name="NP_MANAGER_res_0x7f0f020b" parent="@NP_MANAGER15/NP_MANAGER_res_0x7f0f01ba">
+        <item>14sp</item>
+        <item>false</item>
+        <item>@NP_MANAGER14/NP_MANAGER_res_0x7f0e003a</item>
+        <item>0.0071</item>
+        <item>@NP_MANAGER14/NP_MANAGER_res_0x7f0e003a</item>
+        <item>20sp</item>
+    </NP_MANAGER15>
+    <NP_MANAGER15 name="NP_MANAGER_res_0x7f0f020c" parent="@NP_MANAGER15/NP_MANAGER_res_0x7f0f01ba">
+        <item>14sp</item>
+        <item>0x1</item>
+        <item>false</item>
+        <item>@NP_MANAGER14/NP_MANAGER_res_0x7f0e003b</item>
+        <item>0.0071</item>
+        <item>@NP_MANAGER14/NP_MANAGER_res_0x7f0e003b</item>
+        <item>20sp</item>
+    </NP_MANAGER15>
+    <NP_MANAGER15 name="NP_MANAGER_res_0x7f0f020d" parent="@NP_MANAGER15/NP_MANAGER_res_0x7f0f01bd">
+        <item>12sp</item>
+        <item>false</item>
+        <item>@NP_MANAGER14/NP_MANAGER_res_0x7f0e003a</item>
+        <item>0.0417</item>
+        <item>@NP_MANAGER14/NP_MANAGER_res_0x7f0e003a</item>
+        <item>16sp</item>
+    </NP_MANAGER15>
+    <NP_MANAGER15 name="NP_MANAGER_res_0x7f0f020e" parent="@NP_MANAGER15/NP_MANAGER_res_0x7f0f01bd">
+        <item>12sp</item>
+        <item>0x1</item>
+        <item>false</item>
+        <item>@NP_MANAGER14/NP_MANAGER_res_0x7f0e003b</item>
+        <item>0.0417</item>
+        <item>@NP_MANAGER14/NP_MANAGER_res_0x7f0e003b</item>
+        <item>16sp</item>
+    </NP_MANAGER15>
+    <NP_MANAGER15 name="NP_MANAGER_res_0x7f0f020f" parent="@NP_MANAGER15/NP_MANAGER_res_0x7f0f01bd">
+        <item>11sp</item>
+        <item>false</item>
+        <item>@NP_MANAGER14/NP_MANAGER_res_0x7f0e003a</item>
+        <item>0.0455</item>
+        <item>@NP_MANAGER14/NP_MANAGER_res_0x7f0e003a</item>
+        <item>16sp</item>
+    </NP_MANAGER15>
+    <NP_MANAGER15 name="NP_MANAGER_res_0x7f0f0210" parent="@NP_MANAGER15/NP_MANAGER_res_0x7f0f01bd">
+        <item>11sp</item>
+        <item>0x1</item>
+        <item>false</item>
+        <item>@NP_MANAGER14/NP_MANAGER_res_0x7f0e003b</item>
+        <item>0.0455</item>
+        <item>@NP_MANAGER14/NP_MANAGER_res_0x7f0e003b</item>
+        <item>16sp</item>
+    </NP_MANAGER15>
+    <NP_MANAGER15 name="NP_MANAGER_res_0x7f0f0211" parent="@NP_MANAGER15/NP_MANAGER_res_0x7f0f01d3">
+        <item>22sp</item>
+        <item>false</item>
+        <item>@NP_MANAGER14/NP_MANAGER_res_0x7f0e0039</item>
+        <item>0</item>
+        <item>@NP_MANAGER14/NP_MANAGER_res_0x7f0e0039</item>
+        <item>28sp</item>
+    </NP_MANAGER15>
+    <NP_MANAGER15 name="NP_MANAGER_res_0x7f0f0212" parent="@NP_MANAGER15/NP_MANAGER_res_0x7f0f01d3">
+        <item>22sp</item>
+        <item>false</item>
+        <item>@NP_MANAGER14/NP_MANAGER_res_0x7f0e0038</item>
+        <item>0</item>
+        <item>@NP_MANAGER14/NP_MANAGER_res_0x7f0e0038</item>
+        <item>28sp</item>
+    </NP_MANAGER15>
+    <NP_MANAGER15 name="NP_MANAGER_res_0x7f0f0213" parent="@NP_MANAGER15/NP_MANAGER_res_0x7f0f01d1">
+        <item>16sp</item>
+        <item>false</item>
+        <item>@NP_MANAGER14/NP_MANAGER_res_0x7f0e003a</item>
+        <item>0.0094</item>
+        <item>@NP_MANAGER14/NP_MANAGER_res_0x7f0e003a</item>
+        <item>24sp</item>
+    </NP_MANAGER15>
+    <NP_MANAGER15 name="NP_MANAGER_res_0x7f0f0214" parent="@NP_MANAGER15/NP_MANAGER_res_0x7f0f01d1">
+        <item>16sp</item>
+        <item>0x1</item>
+        <item>false</item>
+        <item>@NP_MANAGER14/NP_MANAGER_res_0x7f0e003b</item>
+        <item>0.0094</item>
+        <item>@NP_MANAGER14/NP_MANAGER_res_0x7f0e003b</item>
+        <item>24sp</item>
+    </NP_MANAGER15>
+    <NP_MANAGER15 name="NP_MANAGER_res_0x7f0f0215" parent="@NP_MANAGER15/NP_MANAGER_res_0x7f0f01d1">
+        <item>14sp</item>
+        <item>false</item>
+        <item>@NP_MANAGER14/NP_MANAGER_res_0x7f0e003a</item>
+        <item>0.0071</item>
+        <item>@NP_MANAGER14/NP_MANAGER_res_0x7f0e003a</item>
+        <item>20sp</item>
+    </NP_MANAGER15>
+    <NP_MANAGER15 name="NP_MANAGER_res_0x7f0f0216" parent="@NP_MANAGER15/NP_MANAGER_res_0x7f0f01d1">
+        <item>14sp</item>
+        <item>0x1</item>
+        <item>false</item>
+        <item>@NP_MANAGER14/NP_MANAGER_res_0x7f0e003b</item>
+        <item>0.0071</item>
+        <item>@NP_MANAGER14/NP_MANAGER_res_0x7f0e003b</item>
+        <item>20sp</item>
+    </NP_MANAGER15>
+    <NP_MANAGER15 name="NP_MANAGER_res_0x7f0f0217" parent="@NP_MANAGER15/NP_MANAGER_res_0x7f0f0237">
+        <item>?NP_MANAGER3/NP_MANAGER_res_0x7f030118</item>
+    </NP_MANAGER15>
+    <NP_MANAGER15 name="NP_MANAGER_res_0x7f0f0218" parent="@NP_MANAGER15/NP_MANAGER_res_0x7f0f0235">
+        <item>?NP_MANAGER3/NP_MANAGER_res_0x7f030116</item>
+    </NP_MANAGER15>
+    <NP_MANAGER15 name="NP_MANAGER_res_0x7f0f0219" parent="@NP_MANAGER15/NP_MANAGER_res_0x7f0f01f9">
+    </NP_MANAGER15>
+    <NP_MANAGER15 name="NP_MANAGER_res_0x7f0f021a" parent="@NP_MANAGER15/NP_MANAGER_res_0x7f0f01fa">
+    </NP_MANAGER15>
+    <NP_MANAGER15 name="NP_MANAGER_res_0x7f0f021b" parent="@NP_MANAGER15/NP_MANAGER_res_0x7f0f01fb">
+    </NP_MANAGER15>
+    <NP_MANAGER15 name="NP_MANAGER_res_0x7f0f021c" parent="@NP_MANAGER15/NP_MANAGER_res_0x7f0f01fc">
+    </NP_MANAGER15>
+    <NP_MANAGER15 name="NP_MANAGER_res_0x7f0f021d" parent="@NP_MANAGER15/NP_MANAGER_res_0x7f0f01fd">
+    </NP_MANAGER15>
+    <NP_MANAGER15 name="NP_MANAGER_res_0x7f0f021e" parent="@NP_MANAGER15/NP_MANAGER_res_0x7f0f01fe">
+    </NP_MANAGER15>
+    <NP_MANAGER15 name="NP_MANAGER_res_0x7f0f021f" parent="@NP_MANAGER15/NP_MANAGER_res_0x7f0f01ff">
+    </NP_MANAGER15>
+    <NP_MANAGER15 name="NP_MANAGER_res_0x7f0f0220" parent="@NP_MANAGER15/NP_MANAGER_res_0x7f0f0200">
+    </NP_MANAGER15>
+    <NP_MANAGER15 name="NP_MANAGER_res_0x7f0f0221" parent="@NP_MANAGER15/NP_MANAGER_res_0x7f0f0201">
+    </NP_MANAGER15>
+    <NP_MANAGER15 name="NP_MANAGER_res_0x7f0f0222" parent="@NP_MANAGER15/NP_MANAGER_res_0x7f0f0202">
+    </NP_MANAGER15>
+    <NP_MANAGER15 name="NP_MANAGER_res_0x7f0f0223" parent="@NP_MANAGER15/NP_MANAGER_res_0x7f0f0203">
+    </NP_MANAGER15>
+    <NP_MANAGER15 name="NP_MANAGER_res_0x7f0f0224" parent="@NP_MANAGER15/NP_MANAGER_res_0x7f0f0204">
+    </NP_MANAGER15>
+    <NP_MANAGER15 name="NP_MANAGER_res_0x7f0f0225" parent="@NP_MANAGER15/NP_MANAGER_res_0x7f0f0205">
+    </NP_MANAGER15>
+    <NP_MANAGER15 name="NP_MANAGER_res_0x7f0f0226" parent="@NP_MANAGER15/NP_MANAGER_res_0x7f0f0206">
+    </NP_MANAGER15>
+    <NP_MANAGER15 name="NP_MANAGER_res_0x7f0f0227" parent="@NP_MANAGER15/NP_MANAGER_res_0x7f0f0207">
+    </NP_MANAGER15>
+    <NP_MANAGER15 name="NP_MANAGER_res_0x7f0f0228" parent="@NP_MANAGER15/NP_MANAGER_res_0x7f0f0208">
+    </NP_MANAGER15>
+    <NP_MANAGER15 name="NP_MANAGER_res_0x7f0f0229" parent="@NP_MANAGER15/NP_MANAGER_res_0x7f0f0209">
+    </NP_MANAGER15>
+    <NP_MANAGER15 name="NP_MANAGER_res_0x7f0f022a" parent="@NP_MANAGER15/NP_MANAGER_res_0x7f0f020a">
+    </NP_MANAGER15>
+    <NP_MANAGER15 name="NP_MANAGER_res_0x7f0f022b" parent="@NP_MANAGER15/NP_MANAGER_res_0x7f0f020b">
+    </NP_MANAGER15>
+    <NP_MANAGER15 name="NP_MANAGER_res_0x7f0f022c" parent="@NP_MANAGER15/NP_MANAGER_res_0x7f0f020c">
+    </NP_MANAGER15>
+    <NP_MANAGER15 name="NP_MANAGER_res_0x7f0f022d" parent="@NP_MANAGER15/NP_MANAGER_res_0x7f0f020d">
+    </NP_MANAGER15>
+    <NP_MANAGER15 name="NP_MANAGER_res_0x7f0f022e" parent="@NP_MANAGER15/NP_MANAGER_res_0x7f0f020e">
+    </NP_MANAGER15>
+    <NP_MANAGER15 name="NP_MANAGER_res_0x7f0f022f" parent="@NP_MANAGER15/NP_MANAGER_res_0x7f0f020f">
+    </NP_MANAGER15>
+    <NP_MANAGER15 name="NP_MANAGER_res_0x7f0f0230" parent="@NP_MANAGER15/NP_MANAGER_res_0x7f0f0210">
+    </NP_MANAGER15>
+    <NP_MANAGER15 name="NP_MANAGER_res_0x7f0f0231">
+        <item>?NP_MANAGER3/NP_MANAGER_res_0x7f0304b0</item>
+        <item>?NP_MANAGER3/NP_MANAGER_res_0x7f030118</item>
+    </NP_MANAGER15>
+    <NP_MANAGER15 name="NP_MANAGER_res_0x7f0f0232" parent="@NP_MANAGER15/NP_MANAGER_res_0x7f0f0043">
+        <item>?NP_MANAGER3/NP_MANAGER_res_0x7f030494</item>
+        <item>?NP_MANAGER3/NP_MANAGER_res_0x7f030116</item>
+        <item>?NP_MANAGER3/NP_MANAGER_res_0x7f030118</item>
+    </NP_MANAGER15>
+    <NP_MANAGER15 name="NP_MANAGER_res_0x7f0f0233" parent="@NP_MANAGER15/NP_MANAGER_res_0x7f0f0043">
+        <item>?NP_MANAGER3/NP_MANAGER_res_0x7f030494</item>
+        <item>?NP_MANAGER3/NP_MANAGER_res_0x7f030116</item>
+        <item>?NP_MANAGER3/NP_MANAGER_res_0x7f030118</item>
+    </NP_MANAGER15>
+    <NP_MANAGER15 name="NP_MANAGER_res_0x7f0f0234" parent="@NP_MANAGER15/NP_MANAGER_res_0x7f0f0233">
+        <item>?android:attr/textColorTertiary</item>
+    </NP_MANAGER15>
+    <NP_MANAGER15 name="NP_MANAGER_res_0x7f0f0235" parent="@NP_MANAGER15/NP_MANAGER_res_0x7f0f0211">
+    </NP_MANAGER15>
+    <NP_MANAGER15 name="NP_MANAGER_res_0x7f0f0236" parent="@NP_MANAGER15/NP_MANAGER_res_0x7f0f0212">
+    </NP_MANAGER15>
+    <NP_MANAGER15 name="NP_MANAGER_res_0x7f0f0237" parent="@NP_MANAGER15/NP_MANAGER_res_0x7f0f0213">
+    </NP_MANAGER15>
+    <NP_MANAGER15 name="NP_MANAGER_res_0x7f0f0238" parent="@NP_MANAGER15/NP_MANAGER_res_0x7f0f0214">
+    </NP_MANAGER15>
+    <NP_MANAGER15 name="NP_MANAGER_res_0x7f0f0239" parent="@NP_MANAGER15/NP_MANAGER_res_0x7f0f0215">
+    </NP_MANAGER15>
+    <NP_MANAGER15 name="NP_MANAGER_res_0x7f0f023a" parent="@NP_MANAGER15/NP_MANAGER_res_0x7f0f0216">
+    </NP_MANAGER15>
+    <NP_MANAGER15 name="NP_MANAGER_res_0x7f0f023b" parent="@NP_MANAGER15/NP_MANAGER_res_0x7f0f01b9">
+        <item>@NP_MANAGER6/NP_MANAGER_res_0x7f060334</item>
+        <item>0x0</item>
+        <item>?NP_MANAGER3/NP_MANAGER_res_0x7f03010b</item>
+        <item>false</item>
+        <item>sans-serif-medium</item>
+        <item>0.0893</item>
+        <item>sans-serif-medium</item>
+    </NP_MANAGER15>
+    <NP_MANAGER15 name="NP_MANAGER_res_0x7f0f023c" parent="@NP_MANAGER15/NP_MANAGER_res_0x7f0f01bb">
+        <item>16sp</item>
+        <item>0x0</item>
+        <item>false</item>
+        <item>sans-serif</item>
+        <item>0.0312</item>
+        <item>sans-serif</item>
+    </NP_MANAGER15>
+    <NP_MANAGER15 name="NP_MANAGER_res_0x7f0f023d" parent="@NP_MANAGER15/NP_MANAGER_res_0x7f0f01ba">
+        <item>14sp</item>
+        <item>0x0</item>
+        <item>false</item>
+        <item>sans-serif</item>
+        <item>0.0179</item>
+        <item>sans-serif</item>
+    </NP_MANAGER15>
+    <NP_MANAGER15 name="NP_MANAGER_res_0x7f0f023e" parent="@NP_MANAGER15/NP_MANAGER_res_0x7f0f0044">
+    </NP_MANAGER15>
+    <NP_MANAGER15 name="NP_MANAGER_res_0x7f0f023f" parent="@NP_MANAGER15/NP_MANAGER_res_0x7f0f01bd">
+        <item>12sp</item>
+        <item>0x0</item>
+        <item>false</item>
+        <item>sans-serif</item>
+        <item>0.0333</item>
+        <item>sans-serif</item>
+    </NP_MANAGER15>
+    <NP_MANAGER15 name="NP_MANAGER_res_0x7f0f0240" parent="@NP_MANAGER15/NP_MANAGER_res_0x7f0f01b9">
+        <item>@NP_MANAGER6/NP_MANAGER_res_0x7f060386</item>
+        <item>@NP_MANAGER5/NP_MANAGER_res_0x7f050371</item>
+    </NP_MANAGER15>
+    <NP_MANAGER15 name="NP_MANAGER_res_0x7f0f0241" parent="@NP_MANAGER15/NP_MANAGER_res_0x7f0f01c1">
+        <item>96sp</item>
+        <item>0x0</item>
+        <item>false</item>
+        <item>sans-serif-light</item>
+        <item>-0.0156</item>
+        <item>sans-serif-light</item>
+    </NP_MANAGER15>
+    <NP_MANAGER15 name="NP_MANAGER_res_0x7f0f0242" parent="@NP_MANAGER15/NP_MANAGER_res_0x7f0f01c0">
+        <item>60sp</item>
+        <item>0x0</item>
+        <item>false</item>
+        <item>sans-serif-light</item>
+        <item>-0.0083</item>
+        <item>sans-serif-light</item>
+    </NP_MANAGER15>
+    <NP_MANAGER15 name="NP_MANAGER_res_0x7f0f0243" parent="@NP_MANAGER15/NP_MANAGER_res_0x7f0f01bf">
+        <item>48sp</item>
+        <item>0x0</item>
+        <item>false</item>
+        <item>sans-serif</item>
+        <item>0</item>
+        <item>sans-serif</item>
+    </NP_MANAGER15>
+    <NP_MANAGER15 name="NP_MANAGER_res_0x7f0f0244" parent="@NP_MANAGER15/NP_MANAGER_res_0x7f0f01be">
+        <item>34sp</item>
+        <item>0x0</item>
+        <item>false</item>
+        <item>sans-serif</item>
+        <item>0.0074</item>
+        <item>sans-serif</item>
+    </NP_MANAGER15>
+    <NP_MANAGER15 name="NP_MANAGER_res_0x7f0f0245" parent="@NP_MANAGER15/NP_MANAGER_res_0x7f0f01c2">
+        <item>24sp</item>
+        <item>0x0</item>
+        <item>false</item>
+        <item>sans-serif</item>
+        <item>0</item>
+        <item>sans-serif</item>
+    </NP_MANAGER15>
+    <NP_MANAGER15 name="NP_MANAGER_res_0x7f0f0246" parent="@NP_MANAGER15/NP_MANAGER_res_0x7f0f0045">
+    </NP_MANAGER15>
+    <NP_MANAGER15 name="NP_MANAGER_res_0x7f0f0247" parent="@NP_MANAGER15/NP_MANAGER_res_0x7f0f01b9">
+        <item>10sp</item>
+        <item>0x0</item>
+        <item>true</item>
+        <item>sans-serif</item>
+        <item>0.1667</item>
+        <item>sans-serif</item>
+    </NP_MANAGER15>
+    <NP_MANAGER15 name="NP_MANAGER_res_0x7f0f0248" parent="@NP_MANAGER15/NP_MANAGER_res_0x7f0f01d1">
+        <item>16sp</item>
+        <item>0x0</item>
+        <item>false</item>
+        <item>sans-serif</item>
+        <item>0.0094</item>
+        <item>sans-serif</item>
+    </NP_MANAGER15>
+    <NP_MANAGER15 name="NP_MANAGER_res_0x7f0f0249" parent="@NP_MANAGER15/NP_MANAGER_res_0x7f0f0046">
+    </NP_MANAGER15>
+    <NP_MANAGER15 name="NP_MANAGER_res_0x7f0f024a" parent="@NP_MANAGER15/NP_MANAGER_res_0x7f0f0247">
+        <item>@NP_MANAGER5/NP_MANAGER_res_0x7f050321</item>
+    </NP_MANAGER15>
+    <NP_MANAGER15 name="NP_MANAGER_res_0x7f0f024b" parent="@NP_MANAGER15/NP_MANAGER_res_0x7f0f023d">
+        <item>?NP_MANAGER3/NP_MANAGER_res_0x7f03010d</item>
+    </NP_MANAGER15>
+    <NP_MANAGER15 name="NP_MANAGER_res_0x7f0f024c" parent="@NP_MANAGER15/NP_MANAGER_res_0x7f0f0047">
+    </NP_MANAGER15>
+    <NP_MANAGER15 name="NP_MANAGER_res_0x7f0f024d" parent="@NP_MANAGER15/NP_MANAGER_res_0x7f0f0048">
+    </NP_MANAGER15>
+    <NP_MANAGER15 name="NP_MANAGER_res_0x7f0f024e" parent="@NP_MANAGER15/NP_MANAGER_res_0x7f0f0049">
+    </NP_MANAGER15>
+    <NP_MANAGER15 name="NP_MANAGER_res_0x7f0f024f" parent="@NP_MANAGER15/NP_MANAGER_res_0x7f0f004a">
+    </NP_MANAGER15>
+    <NP_MANAGER15 name="NP_MANAGER_res_0x7f0f0250" parent="@NP_MANAGER15/NP_MANAGER_res_0x7f0f004b">
+    </NP_MANAGER15>
+    <NP_MANAGER15 name="NP_MANAGER_res_0x7f0f0251" parent="@NP_MANAGER15/NP_MANAGER_res_0x7f0f025d">
+    </NP_MANAGER15>
+    <NP_MANAGER15 name="NP_MANAGER_res_0x7f0f0252" parent="@NP_MANAGER15/NP_MANAGER_res_0x7f0f025e">
+    </NP_MANAGER15>
+    <NP_MANAGER15 name="NP_MANAGER_res_0x7f0f0253" parent="@NP_MANAGER15/NP_MANAGER_res_0x7f0f025f">
+    </NP_MANAGER15>
+    <NP_MANAGER15 name="NP_MANAGER_res_0x7f0f0254" parent="@NP_MANAGER15/NP_MANAGER_res_0x7f0f0260">
+    </NP_MANAGER15>
+    <NP_MANAGER15 name="NP_MANAGER_res_0x7f0f0255" parent="@NP_MANAGER15/NP_MANAGER_res_0x7f0f0261">
+    </NP_MANAGER15>
+    <NP_MANAGER15 name="NP_MANAGER_res_0x7f0f0256" parent="@NP_MANAGER15/NP_MANAGER_res_0x7f0f0262">
+    </NP_MANAGER15>
+    <NP_MANAGER15 name="NP_MANAGER_res_0x7f0f0257" parent="@NP_MANAGER15/NP_MANAGER_res_0x7f0f0263">
+    </NP_MANAGER15>
+    <NP_MANAGER15 name="NP_MANAGER_res_0x7f0f0258" parent="@NP_MANAGER15/NP_MANAGER_res_0x7f0f004c">
+    </NP_MANAGER15>
+    <NP_MANAGER15 name="NP_MANAGER_res_0x7f0f0259" parent="@NP_MANAGER15/NP_MANAGER_res_0x7f0f004d">
+    </NP_MANAGER15>
+    <NP_MANAGER15 name="NP_MANAGER_res_0x7f0f025a" parent="@NP_MANAGER15/NP_MANAGER_res_0x7f0f004f">
+    </NP_MANAGER15>
+    <NP_MANAGER15 name="NP_MANAGER_res_0x7f0f025b" parent="@NP_MANAGER15/NP_MANAGER_res_0x7f0f0050">
+    </NP_MANAGER15>
+    <NP_MANAGER15 name="NP_MANAGER_res_0x7f0f025c">
+    </NP_MANAGER15>
+    <NP_MANAGER15 name="NP_MANAGER_res_0x7f0f025d" parent="@NP_MANAGER15/NP_MANAGER_res_0x7f0f0051">
+    </NP_MANAGER15>
+    <NP_MANAGER15 name="NP_MANAGER_res_0x7f0f025e" parent="@NP_MANAGER15/NP_MANAGER_res_0x7f0f0052">
+    </NP_MANAGER15>
+    <NP_MANAGER15 name="NP_MANAGER_res_0x7f0f025f" parent="@NP_MANAGER15/NP_MANAGER_res_0x7f0f0053">
+    </NP_MANAGER15>
+    <NP_MANAGER15 name="NP_MANAGER_res_0x7f0f0260" parent="@NP_MANAGER15/NP_MANAGER_res_0x7f0f0054">
+    </NP_MANAGER15>
+    <NP_MANAGER15 name="NP_MANAGER_res_0x7f0f0261" parent="@NP_MANAGER15/NP_MANAGER_res_0x7f0f0056">
+    </NP_MANAGER15>
+    <NP_MANAGER15 name="NP_MANAGER_res_0x7f0f0262" parent="@NP_MANAGER15/NP_MANAGER_res_0x7f0f0057">
+    </NP_MANAGER15>
+    <NP_MANAGER15 name="NP_MANAGER_res_0x7f0f0263" parent="@NP_MANAGER15/NP_MANAGER_res_0x7f0f025d">
+        <item>false</item>
+        <item>true</item>
+    </NP_MANAGER15>
+    <NP_MANAGER15 name="NP_MANAGER_res_0x7f0f0264" parent="@NP_MANAGER15/NP_MANAGER_res_0x7f0f024f">
+        <item>false</item>
+        <item>true</item>
+    </NP_MANAGER15>
+    <NP_MANAGER15 name="NP_MANAGER_res_0x7f0f028a" parent="@NP_MANAGER15/NP_MANAGER_res_0x7f0f0064">
+    </NP_MANAGER15>
+    <NP_MANAGER15 name="NP_MANAGER_res_0x7f0f028b" parent="@NP_MANAGER15/NP_MANAGER_res_0x7f0f029e">
+        <item>@android:color/transparent</item>
+        <item>@NP_MANAGER15/NP_MANAGER_res_0x7f0f000a</item>
+        <item>@NP_MANAGER15/NP_MANAGER_res_0x7f0f0465</item>
+    </NP_MANAGER15>
+    <NP_MANAGER15 name="NP_MANAGER_res_0x7f0f028c" parent="@NP_MANAGER15/NP_MANAGER_res_0x7f0f0065">
+    </NP_MANAGER15>
+    <NP_MANAGER15 name="NP_MANAGER_res_0x7f0f028d" parent="@NP_MANAGER15/NP_MANAGER_res_0x7f0f0066">
+    </NP_MANAGER15>
+    <NP_MANAGER15 name="NP_MANAGER_res_0x7f0f028e" parent="@NP_MANAGER15/NP_MANAGER_res_0x7f0f02a7">
+    </NP_MANAGER15>
+    <NP_MANAGER15 name="NP_MANAGER_res_0x7f0f028f" parent="@NP_MANAGER15/NP_MANAGER_res_0x7f0f02a8">
+    </NP_MANAGER15>
+    <NP_MANAGER15 name="NP_MANAGER_res_0x7f0f0290" parent="@NP_MANAGER15/NP_MANAGER_res_0x7f0f02a9">
+    </NP_MANAGER15>
+    <NP_MANAGER15 name="NP_MANAGER_res_0x7f0f0291" parent="@NP_MANAGER15/NP_MANAGER_res_0x7f0f02aa">
+    </NP_MANAGER15>
+    <NP_MANAGER15 name="NP_MANAGER_res_0x7f0f0292" parent="@NP_MANAGER15/NP_MANAGER_res_0x7f0f02ab">
+    </NP_MANAGER15>
+    <NP_MANAGER15 name="NP_MANAGER_res_0x7f0f0293" parent="@NP_MANAGER15/NP_MANAGER_res_0x7f0f02ac">
+    </NP_MANAGER15>
+    <NP_MANAGER15 name="NP_MANAGER_res_0x7f0f0294" parent="@NP_MANAGER15/NP_MANAGER_res_0x7f0f02ad">
+    </NP_MANAGER15>
+    <NP_MANAGER15 name="NP_MANAGER_res_0x7f0f0295" parent="@NP_MANAGER15/NP_MANAGER_res_0x7f0f02ae">
+    </NP_MANAGER15>
+    <NP_MANAGER15 name="NP_MANAGER_res_0x7f0f0296" parent="@NP_MANAGER15/NP_MANAGER_res_0x7f0f02af">
+    </NP_MANAGER15>
+    <NP_MANAGER15 name="NP_MANAGER_res_0x7f0f0297" parent="@NP_MANAGER15/NP_MANAGER_res_0x7f0f02b0">
+    </NP_MANAGER15>
+    <NP_MANAGER15 name="NP_MANAGER_res_0x7f0f0298" parent="@NP_MANAGER15/NP_MANAGER_res_0x7f0f02b1">
+    </NP_MANAGER15>
+    <NP_MANAGER15 name="NP_MANAGER_res_0x7f0f0299" parent="@NP_MANAGER15/NP_MANAGER_res_0x7f0f02b2">
+    </NP_MANAGER15>
+    <NP_MANAGER15 name="NP_MANAGER_res_0x7f0f029a" parent="@NP_MANAGER15/NP_MANAGER_res_0x7f0f02b3">
+    </NP_MANAGER15>
+    <NP_MANAGER15 name="NP_MANAGER_res_0x7f0f029b" parent="@NP_MANAGER15/NP_MANAGER_res_0x7f0f02b4">
+    </NP_MANAGER15>
+    <NP_MANAGER15 name="NP_MANAGER_res_0x7f0f029c" parent="@NP_MANAGER15/NP_MANAGER_res_0x7f0f02b5">
+    </NP_MANAGER15>
+    <NP_MANAGER15 name="NP_MANAGER_res_0x7f0f029d" parent="@NP_MANAGER15/NP_MANAGER_res_0x7f0f02b6">
+    </NP_MANAGER15>
+    <NP_MANAGER15 name="NP_MANAGER_res_0x7f0f029e" parent="@NP_MANAGER15/NP_MANAGER_res_0x7f0f0067">
+    </NP_MANAGER15>
+    <NP_MANAGER15 name="NP_MANAGER_res_0x7f0f029f" parent="@NP_MANAGER15/NP_MANAGER_res_0x7f0f0068">
+    </NP_MANAGER15>
+    <NP_MANAGER15 name="NP_MANAGER_res_0x7f0f02a0" parent="@NP_MANAGER15/NP_MANAGER_res_0x7f0f0069">
+        <item>@NP_MANAGER6/NP_MANAGER_res_0x7f060022</item>
+        <item>@NP_MANAGER6/NP_MANAGER_res_0x7f060023</item>
+    </NP_MANAGER15>
+    <NP_MANAGER15 name="NP_MANAGER_res_0x7f0f02a1" parent="@NP_MANAGER15/NP_MANAGER_res_0x7f0f0069">
+    </NP_MANAGER15>
+    <NP_MANAGER15 name="NP_MANAGER_res_0x7f0f02a2" parent="@NP_MANAGER15/NP_MANAGER_res_0x7f0f006a">
+    </NP_MANAGER15>
+    <NP_MANAGER15 name="NP_MANAGER_res_0x7f0f02a3" parent="@NP_MANAGER15/NP_MANAGER_res_0x7f0f0069">
+        <item>@NP_MANAGER6/NP_MANAGER_res_0x7f06001c</item>
+        <item>@NP_MANAGER6/NP_MANAGER_res_0x7f06001d</item>
+        <item>@NP_MANAGER6/NP_MANAGER_res_0x7f06001e</item>
+        <item>@NP_MANAGER6/NP_MANAGER_res_0x7f06001f</item>
+    </NP_MANAGER15>
+    <NP_MANAGER15 name="NP_MANAGER_res_0x7f0f02a4" parent="@NP_MANAGER15/NP_MANAGER_res_0x7f0f006b">
+    </NP_MANAGER15>
+    <NP_MANAGER15 name="NP_MANAGER_res_0x7f0f02a5" parent="@NP_MANAGER15/NP_MANAGER_res_0x7f0f0069">
+        <item>@NP_MANAGER6/NP_MANAGER_res_0x7f060022</item>
+        <item>@NP_MANAGER6/NP_MANAGER_res_0x7f060023</item>
+    </NP_MANAGER15>
+    <NP_MANAGER15 name="NP_MANAGER_res_0x7f0f02a6" parent="@NP_MANAGER15/NP_MANAGER_res_0x7f0f006c">
+    </NP_MANAGER15>
+    <NP_MANAGER15 name="NP_MANAGER_res_0x7f0f02a7" parent="@NP_MANAGER15/NP_MANAGER_res_0x7f0f006d">
+    </NP_MANAGER15>
+    <NP_MANAGER15 name="NP_MANAGER_res_0x7f0f02a8" parent="@NP_MANAGER15/NP_MANAGER_res_0x7f0f02ac">
+        <item>@android:color/transparent</item>
+        <item>@NP_MANAGER15/NP_MANAGER_res_0x7f0f000a</item>
+        <item>@NP_MANAGER15/NP_MANAGER_res_0x7f0f0465</item>
+    </NP_MANAGER15>
+    <NP_MANAGER15 name="NP_MANAGER_res_0x7f0f02a9" parent="@NP_MANAGER15/NP_MANAGER_res_0x7f0f006e">
+    </NP_MANAGER15>
+    <NP_MANAGER15 name="NP_MANAGER_res_0x7f0f02aa" parent="@NP_MANAGER15/NP_MANAGER_res_0x7f0f006f">
+    </NP_MANAGER15>
+    <NP_MANAGER15 name="NP_MANAGER_res_0x7f0f02ab" parent="@NP_MANAGER15/NP_MANAGER_res_0x7f0f0070">
+    </NP_MANAGER15>
+    <NP_MANAGER15 name="NP_MANAGER_res_0x7f0f02ac" parent="@NP_MANAGER15/NP_MANAGER_res_0x7f0f0071">
+    </NP_MANAGER15>
+    <NP_MANAGER15 name="NP_MANAGER_res_0x7f0f02ad" parent="@NP_MANAGER15/NP_MANAGER_res_0x7f0f0072">
+    </NP_MANAGER15>
+    <NP_MANAGER15 name="NP_MANAGER_res_0x7f0f02ae" parent="@NP_MANAGER15/NP_MANAGER_res_0x7f0f0073">
+        <item>@NP_MANAGER6/NP_MANAGER_res_0x7f060022</item>
+        <item>@NP_MANAGER6/NP_MANAGER_res_0x7f060023</item>
+    </NP_MANAGER15>
+    <NP_MANAGER15 name="NP_MANAGER_res_0x7f0f02af" parent="@NP_MANAGER15/NP_MANAGER_res_0x7f0f0073">
+    </NP_MANAGER15>
+    <NP_MANAGER15 name="NP_MANAGER_res_0x7f0f02b0" parent="@NP_MANAGER15/NP_MANAGER_res_0x7f0f0074">
+    </NP_MANAGER15>
+    <NP_MANAGER15 name="NP_MANAGER_res_0x7f0f02b1" parent="@NP_MANAGER15/NP_MANAGER_res_0x7f0f0073">
+        <item>@NP_MANAGER6/NP_MANAGER_res_0x7f06001c</item>
+        <item>@NP_MANAGER6/NP_MANAGER_res_0x7f06001d</item>
+        <item>@NP_MANAGER6/NP_MANAGER_res_0x7f06001e</item>
+        <item>@NP_MANAGER6/NP_MANAGER_res_0x7f06001f</item>
+    </NP_MANAGER15>
+    <NP_MANAGER15 name="NP_MANAGER_res_0x7f0f02b2" parent="@NP_MANAGER15/NP_MANAGER_res_0x7f0f0075">
+    </NP_MANAGER15>
+    <NP_MANAGER15 name="NP_MANAGER_res_0x7f0f02b3" parent="@NP_MANAGER15/NP_MANAGER_res_0x7f0f0073">
+        <item>@NP_MANAGER6/NP_MANAGER_res_0x7f060022</item>
+        <item>@NP_MANAGER6/NP_MANAGER_res_0x7f060023</item>
+    </NP_MANAGER15>
+    <NP_MANAGER15 name="NP_MANAGER_res_0x7f0f02b4" parent="@NP_MANAGER15/NP_MANAGER_res_0x7f0f0076">
+    </NP_MANAGER15>
+    <NP_MANAGER15 name="NP_MANAGER_res_0x7f0f02b5" parent="@NP_MANAGER15/NP_MANAGER_res_0x7f0f02a7">
+        <item>false</item>
+        <item>true</item>
+    </NP_MANAGER15>
+    <NP_MANAGER15 name="NP_MANAGER_res_0x7f0f02b6" parent="@NP_MANAGER15/NP_MANAGER_res_0x7f0f02a9">
+        <item>false</item>
+        <item>true</item>
+    </NP_MANAGER15>
+    <NP_MANAGER15 name="NP_MANAGER_res_0x7f0f02b7" parent="@NP_MANAGER15/NP_MANAGER_res_0x7f0f028a">
+        <item>false</item>
+        <item>true</item>
+    </NP_MANAGER15>
+    <NP_MANAGER15 name="NP_MANAGER_res_0x7f0f02b8" parent="@NP_MANAGER15/NP_MANAGER_res_0x7f0f028c">
+        <item>false</item>
+        <item>true</item>
+    </NP_MANAGER15>
+    <NP_MANAGER15 name="NP_MANAGER_res_0x7f0f02b9" parent="@NP_MANAGER15/NP_MANAGER_res_0x7f0f029c">
+        <item>@android:color/transparent</item>
+    </NP_MANAGER15>
+    <NP_MANAGER15 name="NP_MANAGER_res_0x7f0f02bc" parent="@NP_MANAGER15/NP_MANAGER_res_0x7f0f0078">
+    </NP_MANAGER15>
+    <NP_MANAGER15 name="NP_MANAGER_res_0x7f0f02bd" parent="@NP_MANAGER15/NP_MANAGER_res_0x7f0f0079">
+    </NP_MANAGER15>
+    <NP_MANAGER15 name="NP_MANAGER_res_0x7f0f02be" parent="@NP_MANAGER15/NP_MANAGER_res_0x7f0f007a">
+    </NP_MANAGER15>
+    <NP_MANAGER15 name="NP_MANAGER_res_0x7f0f02c1" parent="@NP_MANAGER15/NP_MANAGER_res_0x7f0f007b">
+    </NP_MANAGER15>
+    <NP_MANAGER15 name="NP_MANAGER_res_0x7f0f02c2" parent="@NP_MANAGER15/NP_MANAGER_res_0x7f0f007c">
+    </NP_MANAGER15>
+    <NP_MANAGER15 name="NP_MANAGER_res_0x7f0f02c3" parent="@NP_MANAGER15/NP_MANAGER_res_0x7f0f007d">
+    </NP_MANAGER15>
+    <NP_MANAGER15 name="NP_MANAGER_res_0x7f0f02c4">
+    </NP_MANAGER15>
+    <NP_MANAGER15 name="NP_MANAGER_res_0x7f0f030e" parent="@NP_MANAGER15/NP_MANAGER_res_0x7f0f02bc">
+        <item>?NP_MANAGER3/NP_MANAGER_res_0x7f03012c</item>
+        <item>@NP_MANAGER5/NP_MANAGER_res_0x7f050320</item>
+        <item>@NP_MANAGER5/NP_MANAGER_res_0x7f050321</item>
+        <item>@NP_MANAGER5/NP_MANAGER_res_0x7f050321</item>
+        <item>@NP_MANAGER5/NP_MANAGER_res_0x7f050321</item>
+    </NP_MANAGER15>
+    <NP_MANAGER15 name="NP_MANAGER_res_0x7f0f030f">
+        <item>?NP_MANAGER3/NP_MANAGER_res_0x7f03011f</item>
+    </NP_MANAGER15>
+    <NP_MANAGER15 name="NP_MANAGER_res_0x7f0f0310" parent="@NP_MANAGER15/NP_MANAGER_res_0x7f0f030f">
+        <item>@NP_MANAGER15/NP_MANAGER_res_0x7f0f0459</item>
+    </NP_MANAGER15>
+    <NP_MANAGER15 name="NP_MANAGER_res_0x7f0f0312" parent="@NP_MANAGER15/NP_MANAGER_res_0x7f0f030f">
+        <item>@NP_MANAGER15/NP_MANAGER_res_0x7f0f045b</item>
+    </NP_MANAGER15>
+    <NP_MANAGER15 name="NP_MANAGER_res_0x7f0f0316" parent="@NP_MANAGER15/NP_MANAGER_res_0x7f0f0083">
+        <item>@android:color/transparent</item>
+        <item>false</item>
+        <item>@NP_MANAGER15/NP_MANAGER_res_0x7f0f000a</item>
+        <item>@android:color/transparent</item>
+        <item>@NP_MANAGER15/NP_MANAGER_res_0x7f0f0465</item>
+        <item>true</item>
+        <item>true</item>
+        <item>true</item>
+        <item>true</item>
+        <item>true</item>
+    </NP_MANAGER15>
+    <NP_MANAGER15 name="NP_MANAGER_res_0x7f0f0317" parent="@NP_MANAGER15/NP_MANAGER_res_0x7f0f02bd">
+        <item>@NP_MANAGER5/NP_MANAGER_res_0x7f050032</item>
+        <item>@NP_MANAGER5/NP_MANAGER_res_0x7f050033</item>
+        <item>@NP_MANAGER5/NP_MANAGER_res_0x7f050034</item>
+        <item>@NP_MANAGER5/NP_MANAGER_res_0x7f050035</item>
+        <item>@NP_MANAGER5/NP_MANAGER_res_0x7f050038</item>
+        <item>@NP_MANAGER5/NP_MANAGER_res_0x7f05003e</item>
+    </NP_MANAGER15>
+    <NP_MANAGER15 name="NP_MANAGER_res_0x7f0f0318" parent="@NP_MANAGER15/NP_MANAGER_res_0x7f0f02be">
+    </NP_MANAGER15>
+    <NP_MANAGER15 name="NP_MANAGER_res_0x7f0f031a" parent="@NP_MANAGER15/NP_MANAGER_res_0x7f0f0083">
+    </NP_MANAGER15>
+    <NP_MANAGER15 name="NP_MANAGER_res_0x7f0f031b" parent="@NP_MANAGER15/NP_MANAGER_res_0x7f0f0084">
+    </NP_MANAGER15>
+    <NP_MANAGER15 name="NP_MANAGER_res_0x7f0f031c" parent="@NP_MANAGER15/NP_MANAGER_res_0x7f0f0085">
+    </NP_MANAGER15>
+    <NP_MANAGER15 name="NP_MANAGER_res_0x7f0f031d" parent="@NP_MANAGER15/NP_MANAGER_res_0x7f0f02c3">
+        <item>@NP_MANAGER5/NP_MANAGER_res_0x7f05003f</item>
+        <item>@NP_MANAGER5/NP_MANAGER_res_0x7f050040</item>
+        <item>@NP_MANAGER5/NP_MANAGER_res_0x7f050041</item>
+        <item>@NP_MANAGER5/NP_MANAGER_res_0x7f050042</item>
+        <item>@NP_MANAGER5/NP_MANAGER_res_0x7f050045</item>
+        <item>@NP_MANAGER5/NP_MANAGER_res_0x7f05004b</item>
+    </NP_MANAGER15>
+    <NP_MANAGER15 name="NP_MANAGER_res_0x7f0f031e" parent="@NP_MANAGER15/NP_MANAGER_res_0x7f0f0086">
+    </NP_MANAGER15>
+    <NP_MANAGER15 name="NP_MANAGER_res_0x7f0f031f" parent="@NP_MANAGER15/NP_MANAGER_res_0x7f0f0087">
+        <item>@NP_MANAGER15/NP_MANAGER_res_0x7f0f0133</item>
+        <item>@NP_MANAGER15/NP_MANAGER_res_0x7f0f0135</item>
+        <item>@NP_MANAGER15/NP_MANAGER_res_0x7f0f0137</item>
+    </NP_MANAGER15>
+    <NP_MANAGER15 name="NP_MANAGER_res_0x7f0f0326" parent="@NP_MANAGER15/NP_MANAGER_res_0x7f0f031a">
+        <item>@NP_MANAGER15/NP_MANAGER_res_0x7f0f046b</item>
+        <item>@NP_MANAGER15/NP_MANAGER_res_0x7f0f046b</item>
+        <item>@NP_MANAGER15/NP_MANAGER_res_0x7f0f048d</item>
+        <item>@NP_MANAGER15/NP_MANAGER_res_0x7f0f048c</item>
+        <item>@NP_MANAGER15/NP_MANAGER_res_0x7f0f048f</item>
+        <item>@NP_MANAGER15/NP_MANAGER_res_0x7f0f0490</item>
+        <item>@NP_MANAGER15/NP_MANAGER_res_0x7f0f0491</item>
+        <item>@NP_MANAGER15/NP_MANAGER_res_0x7f0f0492</item>
+        <item>@NP_MANAGER15/NP_MANAGER_res_0x7f0f0494</item>
+        <item>@NP_MANAGER15/NP_MANAGER_res_0x7f0f0496</item>
+        <item>@NP_MANAGER15/NP_MANAGER_res_0x7f0f0497</item>
+        <item>@NP_MANAGER15/NP_MANAGER_res_0x7f0f049a</item>
+        <item>@NP_MANAGER15/NP_MANAGER_res_0x7f0f0499</item>
+        <item>@NP_MANAGER15/NP_MANAGER_res_0x7f0f0487</item>
+        <item>@NP_MANAGER15/NP_MANAGER_res_0x7f0f049e</item>
+    </NP_MANAGER15>
+    <NP_MANAGER15 name="NP_MANAGER_res_0x7f0f0327" parent="@NP_MANAGER15/NP_MANAGER_res_0x7f0f0326">
+        <item>false</item>
+        <item>@NP_MANAGER15/NP_MANAGER_res_0x7f0f0493</item>
+        <item>@NP_MANAGER15/NP_MANAGER_res_0x7f0f0495</item>
+        <item>@NP_MANAGER15/NP_MANAGER_res_0x7f0f048e</item>
+    </NP_MANAGER15>
+    <NP_MANAGER15 name="NP_MANAGER_res_0x7f0f0328" parent="@NP_MANAGER15/NP_MANAGER_res_0x7f0f02c4">
+        <item>@null</item>
+        <item>?NP_MANAGER3/NP_MANAGER_res_0x7f03011f</item>
+        <item>@null</item>
+    </NP_MANAGER15>
+    <NP_MANAGER15 name="NP_MANAGER_res_0x7f0f0329" parent="@NP_MANAGER15/NP_MANAGER_res_0x7f0f0328">
+        <item>@NP_MANAGER15/NP_MANAGER_res_0x7f0f04b3</item>
+    </NP_MANAGER15>
+    <NP_MANAGER15 name="NP_MANAGER_res_0x7f0f032a" parent="@NP_MANAGER15/NP_MANAGER_res_0x7f0f0329">
+        <item>@NP_MANAGER15/NP_MANAGER_res_0x7f0f04b4</item>
+    </NP_MANAGER15>
+    <NP_MANAGER15 name="NP_MANAGER_res_0x7f0f032b" parent="@NP_MANAGER15/NP_MANAGER_res_0x7f0f0328">
+        <item>@NP_MANAGER15/NP_MANAGER_res_0x7f0f04b5</item>
+    </NP_MANAGER15>
+    <NP_MANAGER15 name="NP_MANAGER_res_0x7f0f032c" parent="@NP_MANAGER15/NP_MANAGER_res_0x7f0f032b">
+        <item>@NP_MANAGER15/NP_MANAGER_res_0x7f0f04b6</item>
+    </NP_MANAGER15>
+    <NP_MANAGER15 name="NP_MANAGER_res_0x7f0f032d" parent="@NP_MANAGER15/NP_MANAGER_res_0x7f0f031a">
+        <item>@NP_MANAGER15/NP_MANAGER_res_0x7f0f04c3</item>
+        <item>false</item>
+        <item>@NP_MANAGER15/NP_MANAGER_res_0x7f0f04c8</item>
+        <item>@NP_MANAGER15/NP_MANAGER_res_0x7f0f04c1</item>
+        <item>@NP_MANAGER15/NP_MANAGER_res_0x7f0f04c2</item>
+        <item>@NP_MANAGER15/NP_MANAGER_res_0x7f0f04c4</item>
+        <item>@NP_MANAGER15/NP_MANAGER_res_0x7f0f024a</item>
+        <item>@NP_MANAGER15/NP_MANAGER_res_0x7f0f04c7</item>
+    </NP_MANAGER15>
+    <NP_MANAGER15 name="NP_MANAGER_res_0x7f0f032e">
+        <item>false</item>
+    </NP_MANAGER15>
+    <NP_MANAGER15 name="NP_MANAGER_res_0x7f0f032f" parent="@NP_MANAGER15/NP_MANAGER_res_0x7f0f032b">
+        <item>@NP_MANAGER15/NP_MANAGER_res_0x7f0f04c5</item>
+        <item>@NP_MANAGER15/NP_MANAGER_res_0x7f0f04c6</item>
+    </NP_MANAGER15>
+    <NP_MANAGER15 name="NP_MANAGER_res_0x7f0f0334" parent="@NP_MANAGER15/NP_MANAGER_res_0x7f0f00c0">
+    </NP_MANAGER15>
+    <NP_MANAGER15 name="NP_MANAGER_res_0x7f0f0335" parent="@NP_MANAGER15/NP_MANAGER_res_0x7f0f00c1">
+    </NP_MANAGER15>
+    <NP_MANAGER15 name="NP_MANAGER_res_0x7f0f0336" parent="@NP_MANAGER15/NP_MANAGER_res_0x7f0f00c2">
+    </NP_MANAGER15>
+    <NP_MANAGER15 name="NP_MANAGER_res_0x7f0f0337" parent="@NP_MANAGER15/NP_MANAGER_res_0x7f0f00c3">
+    </NP_MANAGER15>
+    <NP_MANAGER15 name="NP_MANAGER_res_0x7f0f0338" parent="@NP_MANAGER15/NP_MANAGER_res_0x7f0f00c4">
+    </NP_MANAGER15>
+    <NP_MANAGER15 name="NP_MANAGER_res_0x7f0f0339" parent="@NP_MANAGER15/NP_MANAGER_res_0x7f0f00c5">
+    </NP_MANAGER15>
+    <NP_MANAGER15 name="NP_MANAGER_res_0x7f0f033a" parent="@NP_MANAGER15/NP_MANAGER_res_0x7f0f00c6">
+    </NP_MANAGER15>
+    <NP_MANAGER15 name="NP_MANAGER_res_0x7f0f033b" parent="@NP_MANAGER15/NP_MANAGER_res_0x7f0f00c7">
+    </NP_MANAGER15>
+    <NP_MANAGER15 name="NP_MANAGER_res_0x7f0f033c" parent="@NP_MANAGER15/NP_MANAGER_res_0x7f0f00c8">
+    </NP_MANAGER15>
+    <NP_MANAGER15 name="NP_MANAGER_res_0x7f0f033d" parent="@NP_MANAGER15/NP_MANAGER_res_0x7f0f00c9">
+    </NP_MANAGER15>
+    <NP_MANAGER15 name="NP_MANAGER_res_0x7f0f033e" parent="@NP_MANAGER15/NP_MANAGER_res_0x7f0f00ca">
+    </NP_MANAGER15>
+    <NP_MANAGER15 name="NP_MANAGER_res_0x7f0f033f" parent="@NP_MANAGER15/NP_MANAGER_res_0x7f0f00cb">
+    </NP_MANAGER15>
+    <NP_MANAGER15 name="NP_MANAGER_res_0x7f0f0340" parent="@NP_MANAGER15/NP_MANAGER_res_0x7f0f00cc">
+    </NP_MANAGER15>
+    <NP_MANAGER15 name="NP_MANAGER_res_0x7f0f0341" parent="@NP_MANAGER15/NP_MANAGER_res_0x7f0f00cd">
+    </NP_MANAGER15>
+    <NP_MANAGER15 name="NP_MANAGER_res_0x7f0f0343" parent="@NP_MANAGER15/NP_MANAGER_res_0x7f0f00cf">
+    </NP_MANAGER15>
+    <NP_MANAGER15 name="NP_MANAGER_res_0x7f0f0344" parent="@NP_MANAGER15/NP_MANAGER_res_0x7f0f00d0">
+    </NP_MANAGER15>
+    <NP_MANAGER15 name="NP_MANAGER_res_0x7f0f0345" parent="@NP_MANAGER15/NP_MANAGER_res_0x7f0f00d1">
+    </NP_MANAGER15>
+    <NP_MANAGER15 name="NP_MANAGER_res_0x7f0f0346" parent="@NP_MANAGER15/NP_MANAGER_res_0x7f0f00d2">
+    </NP_MANAGER15>
+    <NP_MANAGER15 name="NP_MANAGER_res_0x7f0f0347" parent="@NP_MANAGER15/NP_MANAGER_res_0x7f0f00d3">
+    </NP_MANAGER15>
+    <NP_MANAGER15 name="NP_MANAGER_res_0x7f0f0348" parent="@NP_MANAGER15/NP_MANAGER_res_0x7f0f00d4">
+    </NP_MANAGER15>
+    <NP_MANAGER15 name="NP_MANAGER_res_0x7f0f0349" parent="@NP_MANAGER15/NP_MANAGER_res_0x7f0f00d5">
+        <item>?NP_MANAGER3/NP_MANAGER_res_0x7f030104</item>
+    </NP_MANAGER15>
+    <NP_MANAGER15 name="NP_MANAGER_res_0x7f0f034a" parent="@NP_MANAGER15/NP_MANAGER_res_0x7f0f015a">
+    </NP_MANAGER15>
+    <NP_MANAGER15 name="NP_MANAGER_res_0x7f0f034b" parent="@NP_MANAGER15/NP_MANAGER_res_0x7f0f00d8">
+    </NP_MANAGER15>
+    <NP_MANAGER15 name="NP_MANAGER_res_0x7f0f034c" parent="@NP_MANAGER15/NP_MANAGER_res_0x7f0f00d9">
+    </NP_MANAGER15>
+    <NP_MANAGER15 name="NP_MANAGER_res_0x7f0f034e" parent="@NP_MANAGER15/NP_MANAGER_res_0x7f0f00db">
+    </NP_MANAGER15>
+    <NP_MANAGER15 name="NP_MANAGER_res_0x7f0f0350" parent="@NP_MANAGER15/NP_MANAGER_res_0x7f0f00dc">
+    </NP_MANAGER15>
+    <NP_MANAGER15 name="NP_MANAGER_res_0x7f0f0352" parent="@NP_MANAGER15/NP_MANAGER_res_0x7f0f00dd">
+    </NP_MANAGER15>
+    <NP_MANAGER15 name="NP_MANAGER_res_0x7f0f0354" parent="@NP_MANAGER15/NP_MANAGER_res_0x7f0f00df">
+    </NP_MANAGER15>
+    <NP_MANAGER15 name="NP_MANAGER_res_0x7f0f0356" parent="@NP_MANAGER15/NP_MANAGER_res_0x7f0f0338">
+    </NP_MANAGER15>
+    <NP_MANAGER15 name="NP_MANAGER_res_0x7f0f0358" parent="@NP_MANAGER15/NP_MANAGER_res_0x7f0f033a">
+    </NP_MANAGER15>
+    <NP_MANAGER15 name="NP_MANAGER_res_0x7f0f035f" parent="@NP_MANAGER15/NP_MANAGER_res_0x7f0f00e0">
+    </NP_MANAGER15>
+    <NP_MANAGER15 name="NP_MANAGER_res_0x7f0f0360" parent="@NP_MANAGER15/NP_MANAGER_res_0x7f0f00e1">
+    </NP_MANAGER15>
+    <NP_MANAGER15 name="NP_MANAGER_res_0x7f0f0361" parent="@NP_MANAGER15/NP_MANAGER_res_0x7f0f0370">
+    </NP_MANAGER15>
+    <NP_MANAGER15 name="NP_MANAGER_res_0x7f0f0362" parent="@NP_MANAGER15/NP_MANAGER_res_0x7f0f0376">
+    </NP_MANAGER15>
+    <NP_MANAGER15 name="NP_MANAGER_res_0x7f0f0363" parent="@NP_MANAGER15/NP_MANAGER_res_0x7f0f00e2">
+    </NP_MANAGER15>
+    <NP_MANAGER15 name="NP_MANAGER_res_0x7f0f0364" parent="@NP_MANAGER15/NP_MANAGER_res_0x7f0f00e3">
+    </NP_MANAGER15>
+    <NP_MANAGER15 name="NP_MANAGER_res_0x7f0f0365" parent="@NP_MANAGER15/NP_MANAGER_res_0x7f0f00e4">
+    </NP_MANAGER15>
+    <NP_MANAGER15 name="NP_MANAGER_res_0x7f0f0366" parent="@NP_MANAGER15/NP_MANAGER_res_0x7f0f00e5">
+    </NP_MANAGER15>
+    <NP_MANAGER15 name="NP_MANAGER_res_0x7f0f0367" parent="@NP_MANAGER15/NP_MANAGER_res_0x7f0f00e6">
+    </NP_MANAGER15>
+    <NP_MANAGER15 name="NP_MANAGER_res_0x7f0f0368" parent="@NP_MANAGER15/NP_MANAGER_res_0x7f0f00e7">
+    </NP_MANAGER15>
+    <NP_MANAGER15 name="NP_MANAGER_res_0x7f0f0369" parent="@NP_MANAGER15/NP_MANAGER_res_0x7f0f00e8">
+    </NP_MANAGER15>
+    <NP_MANAGER15 name="NP_MANAGER_res_0x7f0f036d" parent="@NP_MANAGER15/NP_MANAGER_res_0x7f0f00ec">
+    </NP_MANAGER15>
+    <NP_MANAGER15 name="NP_MANAGER_res_0x7f0f036e" parent="@NP_MANAGER15/NP_MANAGER_res_0x7f0f00ed">
+    </NP_MANAGER15>
+    <NP_MANAGER15 name="NP_MANAGER_res_0x7f0f036f" parent="@NP_MANAGER15/NP_MANAGER_res_0x7f0f00ee">
+    </NP_MANAGER15>
+    <NP_MANAGER15 name="NP_MANAGER_res_0x7f0f0370" parent="@NP_MANAGER15/NP_MANAGER_res_0x7f0f00ef">
+    </NP_MANAGER15>
+    <NP_MANAGER15 name="NP_MANAGER_res_0x7f0f0371" parent="@NP_MANAGER15/NP_MANAGER_res_0x7f0f00f0">
+    </NP_MANAGER15>
+    <NP_MANAGER15 name="NP_MANAGER_res_0x7f0f0372" parent="@NP_MANAGER15/NP_MANAGER_res_0x7f0f00f1">
+    </NP_MANAGER15>
+    <NP_MANAGER15 name="NP_MANAGER_res_0x7f0f0374" parent="@NP_MANAGER15/NP_MANAGER_res_0x7f0f00f3">
+    </NP_MANAGER15>
+    <NP_MANAGER15 name="NP_MANAGER_res_0x7f0f0375" parent="@NP_MANAGER15/NP_MANAGER_res_0x7f0f0374">
+    </NP_MANAGER15>
+    <NP_MANAGER15 name="NP_MANAGER_res_0x7f0f0376" parent="@NP_MANAGER15/NP_MANAGER_res_0x7f0f0375">
+    </NP_MANAGER15>
+    <NP_MANAGER15 name="NP_MANAGER_res_0x7f0f0378" parent="@NP_MANAGER15/NP_MANAGER_res_0x7f0f00f5">
+    </NP_MANAGER15>
+    <NP_MANAGER15 name="NP_MANAGER_res_0x7f0f0379" parent="@NP_MANAGER15/NP_MANAGER_res_0x7f0f00f6">
+    </NP_MANAGER15>
+    <NP_MANAGER15 name="NP_MANAGER_res_0x7f0f037a" parent="@NP_MANAGER15/NP_MANAGER_res_0x7f0f00f7">
+    </NP_MANAGER15>
+    <NP_MANAGER15 name="NP_MANAGER_res_0x7f0f037b" parent="@NP_MANAGER15/NP_MANAGER_res_0x7f0f00f8">
+    </NP_MANAGER15>
+    <NP_MANAGER15 name="NP_MANAGER_res_0x7f0f037e" parent="@android:style/Widget">
+        <item>?NP_MANAGER3/NP_MANAGER_res_0x7f03011f</item>
+        <item>@NP_MANAGER2/NP_MANAGER_res_0x7f020002</item>
+        <item>true</item>
+    </NP_MANAGER15>
+    <NP_MANAGER15 name="NP_MANAGER_res_0x7f0f037f">
+        <item>@NP_MANAGER6/NP_MANAGER_res_0x7f060065</item>
+        <item>1dp</item>
+        <item>true</item>
+        <item>@NP_MANAGER6/NP_MANAGER_res_0x7f060064</item>
+        <item>false</item>
+        <item>false</item>
+        <item>@null</item>
+        <item>?NP_MANAGER3/NP_MANAGER_res_0x7f030403</item>
+        <item>true</item>
+        <item>0</item>
+        <item>@NP_MANAGER6/NP_MANAGER_res_0x7f060066</item>
+        <item>0dp</item>
+        <item>@NP_MANAGER6/NP_MANAGER_res_0x7f06006a</item>
+        <item>-1</item>
+        <item>false</item>
+    </NP_MANAGER15>
+    <NP_MANAGER15 name="NP_MANAGER_res_0x7f0f0380" parent="@android:style/Widget">
+        <item>?android:attr/colorBackground</item>
+        <item>@NP_MANAGER6/NP_MANAGER_res_0x7f06006e</item>
+        <item>@null</item>
+        <item>true</item>
+        <item>-1</item>
+        <item>false</item>
+        <item>false</item>
+        <item>@null</item>
+        <item>@null</item>
+    </NP_MANAGER15>
+    <NP_MANAGER15 name="NP_MANAGER_res_0x7f0f0382" parent="@android:style/Widget">
+        <item>@NP_MANAGER7/NP_MANAGER_res_0x7f07008c</item>
+        <item>true</item>
+        <item>true</item>
+        <item>?NP_MANAGER3/NP_MANAGER_res_0x7f0300fc</item>
+        <item>@NP_MANAGER6/NP_MANAGER_res_0x7f060070</item>
+        <item>@NP_MANAGER6/NP_MANAGER_res_0x7f060071</item>
+        <item>-1</item>
+        <item>@NP_MANAGER2/NP_MANAGER_res_0x7f020003</item>
+        <item>@NP_MANAGER6/NP_MANAGER_res_0x7f060075</item>
+        <item>@NP_MANAGER6/NP_MANAGER_res_0x7f060072</item>
+        <item>@NP_MANAGER6/NP_MANAGER_res_0x7f060076</item>
+        <item>?NP_MANAGER3/NP_MANAGER_res_0x7f030103</item>
+        <item>@NP_MANAGER2/NP_MANAGER_res_0x7f020004</item>
+    </NP_MANAGER15>
+    <NP_MANAGER15 name="NP_MANAGER_res_0x7f0f0383" parent="@NP_MANAGER15/NP_MANAGER_res_0x7f0f0384">
+        <item>?android:attr/windowBackground</item>
+        <item>true</item>
+        <item>@NP_MANAGER6/NP_MANAGER_res_0x7f06007d</item>
+        <item>0dp</item>
+        <item>@NP_MANAGER6/NP_MANAGER_res_0x7f060077</item>
+        <item>@NP_MANAGER6/NP_MANAGER_res_0x7f06007a</item>
+        <item>@NP_MANAGER6/NP_MANAGER_res_0x7f06007b</item>
+        <item>?NP_MANAGER3/NP_MANAGER_res_0x7f030308</item>
+        <item>?NP_MANAGER3/NP_MANAGER_res_0x7f03030b</item>
+    </NP_MANAGER15>
+    <NP_MANAGER15 name="NP_MANAGER_res_0x7f0f0384">
+        <item>#0000</item>
+    </NP_MANAGER15>
+    <NP_MANAGER15 name="NP_MANAGER_res_0x7f0f0385" parent="@android:style/Widget">
+        <item>@NP_MANAGER7/NP_MANAGER_res_0x7f070090</item>
+        <item>@NP_MANAGER6/NP_MANAGER_res_0x7f060087</item>
+        <item>@NP_MANAGER6/NP_MANAGER_res_0x7f060087</item>
+        <item>@NP_MANAGER6/NP_MANAGER_res_0x7f060085</item>
+        <item>@NP_MANAGER6/NP_MANAGER_res_0x7f060086</item>
+        <item>@NP_MANAGER6/NP_MANAGER_res_0x7f060081</item>
+        <item>0</item>
+        <item>@NP_MANAGER6/NP_MANAGER_res_0x7f060083</item>
+        <item>@NP_MANAGER6/NP_MANAGER_res_0x7f060080</item>
+    </NP_MANAGER15>
+    <NP_MANAGER15 name="NP_MANAGER_res_0x7f0f0386" parent="@NP_MANAGER15/NP_MANAGER_res_0x7f0f00f9">
+        <item>0</item>
+        <item>true</item>
+        <item>1</item>
+    </NP_MANAGER15>
+    <NP_MANAGER15 name="NP_MANAGER_res_0x7f0f0387" parent="@NP_MANAGER15/NP_MANAGER_res_0x7f0f034b">
+        <item>false</item>
+        <item>false</item>
+    </NP_MANAGER15>
+    <NP_MANAGER15 name="NP_MANAGER_res_0x7f0f0388" parent="@android:style/Widget">
+        <item>0</item>
+        <item>@NP_MANAGER5/NP_MANAGER_res_0x7f050031</item>
+        <item>@NP_MANAGER15/NP_MANAGER_res_0x7f0f01f0</item>
+        <item>@null</item>
+        <item>@NP_MANAGER15/NP_MANAGER_res_0x7f0f01ef</item>
+        <item>@null</item>
+        <item>@NP_MANAGER5/NP_MANAGER_res_0x7f050054</item>
+        <item>false</item>
+        <item>false</item>
+        <item>@null</item>
+        <item>@NP_MANAGER15/NP_MANAGER_res_0x7f0f01f1</item>
+        <item>@null</item>
+        <item>@NP_MANAGER15/NP_MANAGER_res_0x7f0f01f2</item>
+        <item>@null</item>
+        <item>@NP_MANAGER15/NP_MANAGER_res_0x7f0f01f3</item>
+        <item>@null</item>
+        <item>@NP_MANAGER15/NP_MANAGER_res_0x7f0f02c4</item>
+        <item>@NP_MANAGER14/NP_MANAGER_res_0x7f0e00a1</item>
+        <item>@NP_MANAGER7/NP_MANAGER_res_0x7f07008f</item>
+        <item>@NP_MANAGER5/NP_MANAGER_res_0x7f050054</item>
+        <item>@NP_MANAGER15/NP_MANAGER_res_0x7f0f01f4</item>
+        <item>@null</item>
+        <item>@NP_MANAGER15/NP_MANAGER_res_0x7f0f01f5</item>
+        <item>@null</item>
+        <item>@null</item>
+        <item>@null</item>
+        <item>@NP_MANAGER5/NP_MANAGER_res_0x7f050054</item>
+        <item>@NP_MANAGER15/NP_MANAGER_res_0x7f0f01f7</item>
+        <item>@null</item>
+    </NP_MANAGER15>
+    <NP_MANAGER15 name="NP_MANAGER_res_0x7f0f03fa" parent="@android:style/Widget">
+        <item>@NP_MANAGER6/NP_MANAGER_res_0x7f060114</item>
+        <item>@NP_MANAGER17/NP_MANAGER_res_0x7f110003</item>
+    </NP_MANAGER15>
+    <NP_MANAGER15 name="NP_MANAGER_res_0x7f0f042f">
+        <item>0x800005</item>
+        <item>@NP_MANAGER6/NP_MANAGER_res_0x7f0602b5</item>
+        <item>?NP_MANAGER3/NP_MANAGER_res_0x7f03012c</item>
+        <item>true</item>
+        <item>@NP_MANAGER15/NP_MANAGER_res_0x7f0f0180</item>
+    </NP_MANAGER15>
+    <NP_MANAGER15 name="NP_MANAGER_res_0x7f0f0454" parent="@NP_MANAGER15/NP_MANAGER_res_0x7f0f034e">
+        <item>?NP_MANAGER3/NP_MANAGER_res_0x7f03012c</item>
+        <item>0dp</item>
+    </NP_MANAGER15>
+    <NP_MANAGER15 name="NP_MANAGER_res_0x7f0f0455" parent="@NP_MANAGER15/NP_MANAGER_res_0x7f0f033b">
+        <item>@NP_MANAGER6/NP_MANAGER_res_0x7f0603e9</item>
+        <item>@NP_MANAGER6/NP_MANAGER_res_0x7f0603e9</item>
+        <item>?NP_MANAGER3/NP_MANAGER_res_0x7f0304be</item>
+        <item>?NP_MANAGER3/NP_MANAGER_res_0x7f0304a7</item>
+    </NP_MANAGER15>
+    <NP_MANAGER15 name="NP_MANAGER_res_0x7f0f0456" parent="@NP_MANAGER15/NP_MANAGER_res_0x7f0f037e">
+    </NP_MANAGER15>
+    <NP_MANAGER15 name="NP_MANAGER_res_0x7f0f0458" parent="@NP_MANAGER15/NP_MANAGER_res_0x7f0f037e">
+        <item>?NP_MANAGER3/NP_MANAGER_res_0x7f03012c</item>
+    </NP_MANAGER15>
+    <NP_MANAGER15 name="NP_MANAGER_res_0x7f0f0459" parent="@NP_MANAGER15/NP_MANAGER_res_0x7f0f0114">
+        <item>24dp</item>
+        <item>10dp</item>
+    </NP_MANAGER15>
+    <NP_MANAGER15 name="NP_MANAGER_res_0x7f0f045b" parent="@NP_MANAGER15/NP_MANAGER_res_0x7f0f0114">
+    </NP_MANAGER15>
+    <NP_MANAGER15 name="NP_MANAGER_res_0x7f0f045d" parent="@android:style/Widget">
+        <item>false</item>
+        <item>?NP_MANAGER3/NP_MANAGER_res_0x7f030105</item>
+        <item>8388661</item>
+        <item>@NP_MANAGER6/NP_MANAGER_res_0x7f060332</item>
+        <item>@NP_MANAGER15/NP_MANAGER_res_0x7f0f01a1</item>
+        <item>@NP_MANAGER15/NP_MANAGER_res_0x7f0f023b</item>
+        <item>@NP_MANAGER6/NP_MANAGER_res_0x7f060331</item>
+        <item>@NP_MANAGER6/NP_MANAGER_res_0x7f060332</item>
+        <item>@NP_MANAGER6/NP_MANAGER_res_0x7f060337</item>
+        <item>@NP_MANAGER15/NP_MANAGER_res_0x7f0f01a1</item>
+        <item>@NP_MANAGER6/NP_MANAGER_res_0x7f060337</item>
+        <item>@NP_MANAGER9/NP_MANAGER_res_0x7f090009</item>
+        <item>1</item>
+    </NP_MANAGER15>
+    <NP_MANAGER15 name="NP_MANAGER_res_0x7f0f045e" parent="@NP_MANAGER15/NP_MANAGER_res_0x7f0f037a">
+        <item>@NP_MANAGER6/NP_MANAGER_res_0x7f06033d</item>
+        <item>true</item>
+        <item>?NP_MANAGER3/NP_MANAGER_res_0x7f03012c</item>
+        <item>8dp</item>
+        <item>true</item>
+        <item>0</item>
+        <item>1</item>
+        <item>@NP_MANAGER6/NP_MANAGER_res_0x7f06033a</item>
+        <item>@NP_MANAGER6/NP_MANAGER_res_0x7f06033b</item>
+        <item>@NP_MANAGER6/NP_MANAGER_res_0x7f06033c</item>
+        <item>@NP_MANAGER6/NP_MANAGER_res_0x7f06033d</item>
+        <item>0</item>
+        <item>true</item>
+        <item>true</item>
+        <item>true</item>
+    </NP_MANAGER15>
+    <NP_MANAGER15 name="NP_MANAGER_res_0x7f0f0461" parent="@NP_MANAGER15/NP_MANAGER_res_0x7f0f037f">
+        <item>?NP_MANAGER3/NP_MANAGER_res_0x7f03012c</item>
+        <item>true</item>
+        <item>true</item>
+        <item>@null</item>
+        <item>false</item>
+        <item>@NP_MANAGER5/NP_MANAGER_res_0x7f05037f</item>
+        <item>@NP_MANAGER5/NP_MANAGER_res_0x7f050380</item>
+        <item>?NP_MANAGER3/NP_MANAGER_res_0x7f03049b</item>
+        <item>?NP_MANAGER3/NP_MANAGER_res_0x7f03049b</item>
+        <item>@NP_MANAGER5/NP_MANAGER_res_0x7f05037f</item>
+    </NP_MANAGER15>
+    <NP_MANAGER15 name="NP_MANAGER_res_0x7f0f0464" parent="@NP_MANAGER15/NP_MANAGER_res_0x7f0f0380">
+        <item>0x1</item>
+        <item>@null</item>
+        <item>@NP_MANAGER6/NP_MANAGER_res_0x7f060305</item>
+        <item>@NP_MANAGER6/NP_MANAGER_res_0x7f06006d</item>
+        <item>?NP_MANAGER3/NP_MANAGER_res_0x7f03012c</item>
+        <item>true</item>
+        <item>?NP_MANAGER3/NP_MANAGER_res_0x7f030410</item>
+        <item>@NP_MANAGER15/NP_MANAGER_res_0x7f0f01b1</item>
+    </NP_MANAGER15>
+    <NP_MANAGER15 name="NP_MANAGER_res_0x7f0f0465" parent="@NP_MANAGER15/NP_MANAGER_res_0x7f0f0464">
+        <item>@NP_MANAGER6/NP_MANAGER_res_0x7f06006e</item>
+    </NP_MANAGER15>
+    <NP_MANAGER15 name="NP_MANAGER_res_0x7f0f0466" parent="@NP_MANAGER15/NP_MANAGER_res_0x7f0f033e">
+        <item>?NP_MANAGER3/NP_MANAGER_res_0x7f03049a</item>
+        <item>@NP_MANAGER5/NP_MANAGER_res_0x7f050368</item>
+        <item>@NP_MANAGER6/NP_MANAGER_res_0x7f06034b</item>
+        <item>@NP_MANAGER6/NP_MANAGER_res_0x7f06034d</item>
+        <item>@NP_MANAGER6/NP_MANAGER_res_0x7f06034c</item>
+        <item>@NP_MANAGER6/NP_MANAGER_res_0x7f06034a</item>
+        <item>@NP_MANAGER6/NP_MANAGER_res_0x7f060349</item>
+        <item>0dp</item>
+        <item>0dp</item>
+        <item>@NP_MANAGER6/NP_MANAGER_res_0x7f060347</item>
+        <item>@NP_MANAGER6/NP_MANAGER_res_0x7f060347</item>
+        <item>@NP_MANAGER2/NP_MANAGER_res_0x7f02001b</item>
+        <item>@NP_MANAGER5/NP_MANAGER_res_0x7f050362</item>
+        <item>@null</item>
+        <item>@NP_MANAGER6/NP_MANAGER_res_0x7f060342</item>
+        <item>true</item>
+        <item>true</item>
+        <item>@NP_MANAGER6/NP_MANAGER_res_0x7f060346</item>
+        <item>@NP_MANAGER5/NP_MANAGER_res_0x7f050368</item>
+        <item>@NP_MANAGER5/NP_MANAGER_res_0x7f050363</item>
+        <item>?NP_MANAGER3/NP_MANAGER_res_0x7f030413</item>
+    </NP_MANAGER15>
+    <NP_MANAGER15 name="NP_MANAGER_res_0x7f0f0468" parent="@NP_MANAGER15/NP_MANAGER_res_0x7f0f046a">
+        <item>@NP_MANAGER6/NP_MANAGER_res_0x7f06034b</item>
+        <item>@NP_MANAGER6/NP_MANAGER_res_0x7f06034c</item>
+        <item>@NP_MANAGER5/NP_MANAGER_res_0x7f050364</item>
+        <item>@NP_MANAGER6/NP_MANAGER_res_0x7f060350</item>
+    </NP_MANAGER15>
+    <NP_MANAGER15 name="NP_MANAGER_res_0x7f0f046a" parent="@NP_MANAGER15/NP_MANAGER_res_0x7f0f0470">
+        <item>@NP_MANAGER5/NP_MANAGER_res_0x7f050393</item>
+        <item>@NP_MANAGER6/NP_MANAGER_res_0x7f060352</item>
+        <item>@NP_MANAGER6/NP_MANAGER_res_0x7f060353</item>
+        <item>@NP_MANAGER5/NP_MANAGER_res_0x7f050365</item>
+        <item>@NP_MANAGER6/NP_MANAGER_res_0x7f060351</item>
+        <item>@NP_MANAGER5/NP_MANAGER_res_0x7f050393</item>
+        <item>@NP_MANAGER5/NP_MANAGER_res_0x7f050366</item>
+    </NP_MANAGER15>
+    <NP_MANAGER15 name="NP_MANAGER_res_0x7f0f046b" parent="@NP_MANAGER15/NP_MANAGER_res_0x7f0f046a">
+        <item>3</item>
+        <item>@NP_MANAGER6/NP_MANAGER_res_0x7f060352</item>
+        <item>@NP_MANAGER6/NP_MANAGER_res_0x7f06033f</item>
+        <item>1</item>
+        <item>true</item>
+        <item>@NP_MANAGER6/NP_MANAGER_res_0x7f060352</item>
+    </NP_MANAGER15>
+    <NP_MANAGER15 name="NP_MANAGER_res_0x7f0f046c" parent="@NP_MANAGER15/NP_MANAGER_res_0x7f0f046b">
+        <item>0dp</item>
+        <item>0dp</item>
+    </NP_MANAGER15>
+    <NP_MANAGER15 name="NP_MANAGER_res_0x7f0f046f" parent="@NP_MANAGER15/NP_MANAGER_res_0x7f0f046a">
+        <item>?NP_MANAGER3/NP_MANAGER_res_0x7f03011f</item>
+    </NP_MANAGER15>
+    <NP_MANAGER15 name="NP_MANAGER_res_0x7f0f0470" parent="@NP_MANAGER15/NP_MANAGER_res_0x7f0f0466">
+        <item>@NP_MANAGER2/NP_MANAGER_res_0x7f02001c</item>
+        <item>0dp</item>
+    </NP_MANAGER15>
+    <NP_MANAGER15 name="NP_MANAGER_res_0x7f0f0472" parent="@NP_MANAGER15/NP_MANAGER_res_0x7f0f0122">
+        <item>@NP_MANAGER2/NP_MANAGER_res_0x7f02001d</item>
+        <item>?NP_MANAGER3/NP_MANAGER_res_0x7f03012c</item>
+        <item>@null</item>
+        <item>@NP_MANAGER6/NP_MANAGER_res_0x7f060383</item>
+        <item>@NP_MANAGER5/NP_MANAGER_res_0x7f05036c</item>
+        <item>@NP_MANAGER7/NP_MANAGER_res_0x7f0700a6</item>
+        <item>@NP_MANAGER6/NP_MANAGER_res_0x7f06037f</item>
+        <item>@NP_MANAGER6/NP_MANAGER_res_0x7f060380</item>
+        <item>?NP_MANAGER3/NP_MANAGER_res_0x7f03011f</item>
+        <item>true</item>
+        <item>@NP_MANAGER5/NP_MANAGER_res_0x7f05036d</item>
+        <item>?NP_MANAGER3/NP_MANAGER_res_0x7f030411</item>
+    </NP_MANAGER15>
+    <NP_MANAGER15 name="NP_MANAGER_res_0x7f0f0473" parent="@NP_MANAGER15/NP_MANAGER_res_0x7f0f0115">
+        <item>?NP_MANAGER3/NP_MANAGER_res_0x7f030492</item>
+        <item>@NP_MANAGER5/NP_MANAGER_res_0x7f050321</item>
+    </NP_MANAGER15>
+    <NP_MANAGER15 name="NP_MANAGER_res_0x7f0f0474" parent="@NP_MANAGER15/NP_MANAGER_res_0x7f0f0116">
+        <item>false</item>
+    </NP_MANAGER15>
+    <NP_MANAGER15 name="NP_MANAGER_res_0x7f0f0475" parent="@NP_MANAGER15/NP_MANAGER_res_0x7f0f0116">
+        <item>@NP_MANAGER5/NP_MANAGER_res_0x7f050374</item>
+        <item>true</item>
+        <item>@NP_MANAGER7/NP_MANAGER_res_0x7f0700a7</item>
+        <item>false</item>
+        <item>@NP_MANAGER5/NP_MANAGER_res_0x7f050372</item>
+        <item>false</item>
+        <item>false</item>
+        <item>@NP_MANAGER5/NP_MANAGER_res_0x7f050373</item>
+    </NP_MANAGER15>
+    <NP_MANAGER15 name="NP_MANAGER_res_0x7f0f0476" parent="@NP_MANAGER15/NP_MANAGER_res_0x7f0f0116">
+        <item>true</item>
+    </NP_MANAGER15>
+    <NP_MANAGER15 name="NP_MANAGER_res_0x7f0f0478" parent="@android:style/Widget">
+        <item>8dp</item>
+        <item>false</item>
+        <item>false</item>
+    </NP_MANAGER15>
+    <NP_MANAGER15 name="NP_MANAGER_res_0x7f0f0479" parent="@NP_MANAGER15/NP_MANAGER_res_0x7f0f04aa">
+        <item>true</item>
+        <item>0</item>
+        <item>@NP_MANAGER6/NP_MANAGER_res_0x7f0603ba</item>
+        <item>@NP_MANAGER6/NP_MANAGER_res_0x7f0603bf</item>
+        <item>@android:color/transparent</item>
+        <item>@NP_MANAGER6/NP_MANAGER_res_0x7f0603c2</item>
+    </NP_MANAGER15>
+    <NP_MANAGER15 name="NP_MANAGER_res_0x7f0f047e" parent="@NP_MANAGER15/NP_MANAGER_res_0x7f0f0346">
+        <item>?NP_MANAGER3/NP_MANAGER_res_0x7f030361</item>
+        <item>?NP_MANAGER3/NP_MANAGER_res_0x7f030361</item>
+        <item>true</item>
+        <item>true</item>
+    </NP_MANAGER15>
+    <NP_MANAGER15 name="NP_MANAGER_res_0x7f0f047f" parent="@NP_MANAGER15/NP_MANAGER_res_0x7f0f0347">
+        <item>?NP_MANAGER3/NP_MANAGER_res_0x7f030361</item>
+        <item>?NP_MANAGER3/NP_MANAGER_res_0x7f030361</item>
+        <item>true</item>
+        <item>true</item>
+    </NP_MANAGER15>
+    <NP_MANAGER15 name="NP_MANAGER_res_0x7f0f0480" parent="@NP_MANAGER15/NP_MANAGER_res_0x7f0f0348">
+        <item>?NP_MANAGER3/NP_MANAGER_res_0x7f030361</item>
+        <item>?NP_MANAGER3/NP_MANAGER_res_0x7f030361</item>
+        <item>true</item>
+        <item>true</item>
+    </NP_MANAGER15>
+    <NP_MANAGER15 name="NP_MANAGER_res_0x7f0f0481" parent="@NP_MANAGER15/NP_MANAGER_res_0x7f0f0466">
+        <item>@NP_MANAGER5/NP_MANAGER_res_0x7f050377</item>
+        <item>@NP_MANAGER6/NP_MANAGER_res_0x7f060394</item>
+        <item>@NP_MANAGER6/NP_MANAGER_res_0x7f060396</item>
+        <item>@NP_MANAGER6/NP_MANAGER_res_0x7f06038e</item>
+        <item>@NP_MANAGER6/NP_MANAGER_res_0x7f06038a</item>
+        <item>@NP_MANAGER6/NP_MANAGER_res_0x7f060393</item>
+        <item>@NP_MANAGER6/NP_MANAGER_res_0x7f060392</item>
+        <item>1</item>
+        <item>0dp</item>
+        <item>0dp</item>
+        <item>@NP_MANAGER6/NP_MANAGER_res_0x7f060394</item>
+        <item>@NP_MANAGER6/NP_MANAGER_res_0x7f06038e</item>
+        <item>@NP_MANAGER2/NP_MANAGER_res_0x7f020023</item>
+        <item>@NP_MANAGER5/NP_MANAGER_res_0x7f050376</item>
+        <item>@NP_MANAGER6/NP_MANAGER_res_0x7f060074</item>
+        <item>@NP_MANAGER6/NP_MANAGER_res_0x7f06038d</item>
+        <item>1</item>
+        <item>@NP_MANAGER6/NP_MANAGER_res_0x7f060391</item>
+        <item>@NP_MANAGER6/NP_MANAGER_res_0x7f060390</item>
+        <item>@NP_MANAGER5/NP_MANAGER_res_0x7f050377</item>
+        <item>@NP_MANAGER5/NP_MANAGER_res_0x7f050378</item>
+        <item>@NP_MANAGER15/NP_MANAGER_res_0x7f0f01b3</item>
+    </NP_MANAGER15>
+    <NP_MANAGER15 name="NP_MANAGER_res_0x7f0f0482" parent="@NP_MANAGER15/NP_MANAGER_res_0x7f0f0481">
+        <item>0x800013</item>
+        <item>@NP_MANAGER6/NP_MANAGER_res_0x7f060395</item>
+        <item>@NP_MANAGER6/NP_MANAGER_res_0x7f06038f</item>
+        <item>@NP_MANAGER6/NP_MANAGER_res_0x7f060395</item>
+        <item>@NP_MANAGER6/NP_MANAGER_res_0x7f06038f</item>
+    </NP_MANAGER15>
+    <NP_MANAGER15 name="NP_MANAGER_res_0x7f0f0483" parent="@NP_MANAGER15/NP_MANAGER_res_0x7f0f0382">
+        <item>@null</item>
+        <item>@NP_MANAGER5/NP_MANAGER_res_0x7f050376</item>
+        <item>@NP_MANAGER6/NP_MANAGER_res_0x7f06039a</item>
+        <item>true</item>
+        <item>true</item>
+        <item>@NP_MANAGER2/NP_MANAGER_res_0x7f020024</item>
+        <item>@NP_MANAGER6/NP_MANAGER_res_0x7f06039c</item>
+        <item>@NP_MANAGER6/NP_MANAGER_res_0x7f06039d</item>
+        <item>@NP_MANAGER5/NP_MANAGER_res_0x7f050378</item>
+        <item>?NP_MANAGER3/NP_MANAGER_res_0x7f030413</item>
+        <item>@NP_MANAGER15/NP_MANAGER_res_0x7f0f01b4</item>
+        <item>@NP_MANAGER2/NP_MANAGER_res_0x7f020025</item>
+        <item>@NP_MANAGER5/NP_MANAGER_res_0x7f050377</item>
+    </NP_MANAGER15>
+    <NP_MANAGER15 name="NP_MANAGER_res_0x7f0f0484" parent="@NP_MANAGER15/NP_MANAGER_res_0x7f0f034e">
+        <item>@NP_MANAGER6/NP_MANAGER_res_0x7f0603e9</item>
+        <item>@NP_MANAGER6/NP_MANAGER_res_0x7f0603e9</item>
+        <item>?NP_MANAGER3/NP_MANAGER_res_0x7f0304be</item>
+        <item>?NP_MANAGER3/NP_MANAGER_res_0x7f0304a7</item>
+    </NP_MANAGER15>
+    <NP_MANAGER15 name="NP_MANAGER_res_0x7f0f0485" parent="@NP_MANAGER15/NP_MANAGER_res_0x7f0f04aa">
+        <item>1</item>
+        <item>2</item>
+    </NP_MANAGER15>
+    <NP_MANAGER15 name="NP_MANAGER_res_0x7f0f0486" parent="@android:style/Widget">
+        <item>false</item>
+    </NP_MANAGER15>
+    <NP_MANAGER15 name="NP_MANAGER_res_0x7f0f0487" parent="@android:style/Widget">
+        <item>false</item>
+        <item>?NP_MANAGER3/NP_MANAGER_res_0x7f03012c</item>
+        <item>@NP_MANAGER15/NP_MANAGER_res_0x7f0f0489</item>
+        <item>@NP_MANAGER15/NP_MANAGER_res_0x7f0f048a</item>
+        <item>@NP_MANAGER15/NP_MANAGER_res_0x7f0f0488</item>
+        <item>@NP_MANAGER15/NP_MANAGER_res_0x7f0f048b</item>
+        <item>@NP_MANAGER5/NP_MANAGER_res_0x7f05036b</item>
+        <item>?NP_MANAGER3/NP_MANAGER_res_0x7f030411</item>
+        <item>@NP_MANAGER15/NP_MANAGER_res_0x7f0f049c</item>
+        <item>@NP_MANAGER15/NP_MANAGER_res_0x7f0f049b</item>
+        <item>@NP_MANAGER15/NP_MANAGER_res_0x7f0f049d</item>
+    </NP_MANAGER15>
+    <NP_MANAGER15 name="NP_MANAGER_res_0x7f0f0488" parent="@NP_MANAGER15/NP_MANAGER_res_0x7f0f0498">
+        <item>@NP_MANAGER6/NP_MANAGER_res_0x7f06035c</item>
+        <item>@NP_MANAGER6/NP_MANAGER_res_0x7f060360</item>
+        <item>@NP_MANAGER6/NP_MANAGER_res_0x7f06035d</item>
+        <item>@NP_MANAGER6/NP_MANAGER_res_0x7f06035d</item>
+        <item>@NP_MANAGER6/NP_MANAGER_res_0x7f06035f</item>
+        <item>@NP_MANAGER6/NP_MANAGER_res_0x7f06035f</item>
+        <item>@NP_MANAGER15/NP_MANAGER_res_0x7f0f01b5</item>
+    </NP_MANAGER15>
+    <NP_MANAGER15 name="NP_MANAGER_res_0x7f0f0489" parent="@NP_MANAGER15/NP_MANAGER_res_0x7f0f0488">
+        <item>0dp</item>
+        <item>@NP_MANAGER5/NP_MANAGER_res_0x7f05031f</item>
+    </NP_MANAGER15>
+    <NP_MANAGER15 name="NP_MANAGER_res_0x7f0f048a" parent="@NP_MANAGER15/NP_MANAGER_res_0x7f0f0488">
+        <item>?NP_MANAGER3/NP_MANAGER_res_0x7f03011f</item>
+        <item>0dp</item>
+        <item>?NP_MANAGER3/NP_MANAGER_res_0x7f03010d</item>
+    </NP_MANAGER15>
+    <NP_MANAGER15 name="NP_MANAGER_res_0x7f0f048b" parent="@NP_MANAGER15/NP_MANAGER_res_0x7f0f0488">
+        <item>@NP_MANAGER5/NP_MANAGER_res_0x7f050320</item>
+        <item>@NP_MANAGER6/NP_MANAGER_res_0x7f06035e</item>
+    </NP_MANAGER15>
+    <NP_MANAGER15 name="NP_MANAGER_res_0x7f0f048c">
+        <item>?NP_MANAGER3/NP_MANAGER_res_0x7f030493</item>
+        <item>0x11</item>
+    </NP_MANAGER15>
+    <NP_MANAGER15 name="NP_MANAGER_res_0x7f0f048d" parent="@NP_MANAGER15/NP_MANAGER_res_0x7f0f0378">
+        <item>?NP_MANAGER3/NP_MANAGER_res_0x7f03049b</item>
+        <item>0x11</item>
+    </NP_MANAGER15>
+    <NP_MANAGER15 name="NP_MANAGER_res_0x7f0f048e" parent="@NP_MANAGER15/NP_MANAGER_res_0x7f0f0487">
+        <item>true</item>
+        <item>@NP_MANAGER15/NP_MANAGER_res_0x7f0f01b6</item>
+    </NP_MANAGER15>
+    <NP_MANAGER15 name="NP_MANAGER_res_0x7f0f048f" parent="@NP_MANAGER15/NP_MANAGER_res_0x7f0f046a">
+        <item>?NP_MANAGER3/NP_MANAGER_res_0x7f03010d</item>
+        <item>@NP_MANAGER5/NP_MANAGER_res_0x7f050363</item>
+    </NP_MANAGER15>
+    <NP_MANAGER15 name="NP_MANAGER_res_0x7f0f0490" parent="@NP_MANAGER15/NP_MANAGER_res_0x7f0f046a">
+        <item>@NP_MANAGER5/NP_MANAGER_res_0x7f050384</item>
+        <item>@NP_MANAGER5/NP_MANAGER_res_0x7f050363</item>
+    </NP_MANAGER15>
+    <NP_MANAGER15 name="NP_MANAGER_res_0x7f0f0491" parent="@android:style/Widget">
+        <item>?NP_MANAGER3/NP_MANAGER_res_0x7f03010d</item>
+        <item>2</item>
+    </NP_MANAGER15>
+    <NP_MANAGER15 name="NP_MANAGER_res_0x7f0f0492" parent="@android:style/Widget">
+        <item>?NP_MANAGER3/NP_MANAGER_res_0x7f03011f</item>
+        <item>-1</item>
+        <item>@NP_MANAGER6/NP_MANAGER_res_0x7f060366</item>
+    </NP_MANAGER15>
+    <NP_MANAGER15 name="NP_MANAGER_res_0x7f0f0493" parent="@NP_MANAGER15/NP_MANAGER_res_0x7f0f0492">
+        <item>@NP_MANAGER6/NP_MANAGER_res_0x7f060367</item>
+    </NP_MANAGER15>
+    <NP_MANAGER15 name="NP_MANAGER_res_0x7f0f0494" parent="@NP_MANAGER15/NP_MANAGER_res_0x7f0f0378">
+        <item>?NP_MANAGER3/NP_MANAGER_res_0x7f0304a5</item>
+        <item>?NP_MANAGER3/NP_MANAGER_res_0x7f03010d</item>
+        <item>3</item>
+        <item>0x800033</item>
+        <item>-1</item>
+        <item>-2</item>
+        <item>@NP_MANAGER9/NP_MANAGER_res_0x7f090034</item>
+        <item>34sp</item>
+        <item>2sp</item>
+        <item>1</item>
+    </NP_MANAGER15>
+    <NP_MANAGER15 name="NP_MANAGER_res_0x7f0f0495" parent="@NP_MANAGER15/NP_MANAGER_res_0x7f0f0494">
+        <item>?NP_MANAGER3/NP_MANAGER_res_0x7f0304a7</item>
+        <item>1</item>
+        <item>20sp</item>
+    </NP_MANAGER15>
+    <NP_MANAGER15 name="NP_MANAGER_res_0x7f0f0496" parent="@NP_MANAGER15/NP_MANAGER_res_0x7f0f0378">
+        <item>?NP_MANAGER3/NP_MANAGER_res_0x7f0304b9</item>
+        <item>?NP_MANAGER3/NP_MANAGER_res_0x7f03010d</item>
+        <item>3</item>
+        <item>1</item>
+        <item>10sp</item>
+        <item>2sp</item>
+        <item>1</item>
+    </NP_MANAGER15>
+    <NP_MANAGER15 name="NP_MANAGER_res_0x7f0f0497" parent="@NP_MANAGER15/NP_MANAGER_res_0x7f0f0117">
+        <item>0x800055</item>
+    </NP_MANAGER15>
+    <NP_MANAGER15 name="NP_MANAGER_res_0x7f0f0498">
+        <item>@android:color/transparent</item>
+        <item>?NP_MANAGER3/NP_MANAGER_res_0x7f030413</item>
+        <item>@NP_MANAGER5/NP_MANAGER_res_0x7f05036a</item>
+        <item>1dp</item>
+        <item>@NP_MANAGER5/NP_MANAGER_res_0x7f050320</item>
+    </NP_MANAGER15>
+    <NP_MANAGER15 name="NP_MANAGER_res_0x7f0f0499" parent="@NP_MANAGER15/NP_MANAGER_res_0x7f0f0118">
+    </NP_MANAGER15>
+    <NP_MANAGER15 name="NP_MANAGER_res_0x7f0f049a" parent="@NP_MANAGER15/NP_MANAGER_res_0x7f0f0378">
+        <item>?NP_MANAGER3/NP_MANAGER_res_0x7f0304bf</item>
+        <item>@NP_MANAGER5/NP_MANAGER_res_0x7f050321</item>
+    </NP_MANAGER15>
+    <NP_MANAGER15 name="NP_MANAGER_res_0x7f0f049b" parent="@NP_MANAGER15/NP_MANAGER_res_0x7f0f0498">
+        <item>@NP_MANAGER6/NP_MANAGER_res_0x7f06037b</item>
+        <item>@NP_MANAGER6/NP_MANAGER_res_0x7f06037e</item>
+        <item>@NP_MANAGER6/NP_MANAGER_res_0x7f06037c</item>
+        <item>@NP_MANAGER6/NP_MANAGER_res_0x7f06037c</item>
+        <item>@NP_MANAGER6/NP_MANAGER_res_0x7f06037d</item>
+        <item>@NP_MANAGER6/NP_MANAGER_res_0x7f06037d</item>
+        <item>@NP_MANAGER15/NP_MANAGER_res_0x7f0f01b7</item>
+    </NP_MANAGER15>
+    <NP_MANAGER15 name="NP_MANAGER_res_0x7f0f049c" parent="@NP_MANAGER15/NP_MANAGER_res_0x7f0f049b">
+        <item>?NP_MANAGER3/NP_MANAGER_res_0x7f03011f</item>
+        <item>?NP_MANAGER3/NP_MANAGER_res_0x7f03010d</item>
+        <item>0dp</item>
+        <item>?NP_MANAGER3/NP_MANAGER_res_0x7f03010d</item>
+    </NP_MANAGER15>
+    <NP_MANAGER15 name="NP_MANAGER_res_0x7f0f049d" parent="@NP_MANAGER15/NP_MANAGER_res_0x7f0f049b">
+        <item>@NP_MANAGER5/NP_MANAGER_res_0x7f050320</item>
+        <item>@NP_MANAGER6/NP_MANAGER_res_0x7f06035e</item>
+    </NP_MANAGER15>
+    <NP_MANAGER15 name="NP_MANAGER_res_0x7f0f049e" parent="@NP_MANAGER15/NP_MANAGER_res_0x7f0f0118">
+    </NP_MANAGER15>
+    <NP_MANAGER15 name="NP_MANAGER_res_0x7f0f049f" parent="@android:style/Widget">
+        <item>@NP_MANAGER5/NP_MANAGER_res_0x7f0502c4</item>
+        <item>@NP_MANAGER6/NP_MANAGER_res_0x7f060316</item>
+    </NP_MANAGER15>
+    <NP_MANAGER15 name="NP_MANAGER_res_0x7f0f04a0">
+        <item>?NP_MANAGER3/NP_MANAGER_res_0x7f03012c</item>
+        <item>true</item>
+        <item>@NP_MANAGER6/NP_MANAGER_res_0x7f0603b1</item>
+        <item>@NP_MANAGER6/NP_MANAGER_res_0x7f0603b5</item>
+        <item>@NP_MANAGER6/NP_MANAGER_res_0x7f0603b2</item>
+        <item>true</item>
+        <item>true</item>
+        <item>@NP_MANAGER6/NP_MANAGER_res_0x7f0603b5</item>
+        <item>@null</item>
+        <item>@null</item>
+        <item>0</item>
+        <item>@NP_MANAGER6/NP_MANAGER_res_0x7f0603b4</item>
+        <item>@NP_MANAGER5/NP_MANAGER_res_0x7f05037f</item>
+        <item>@null</item>
+        <item>@NP_MANAGER6/NP_MANAGER_res_0x7f0603b6</item>
+        <item>@NP_MANAGER6/NP_MANAGER_res_0x7f0603b3</item>
+        <item>@NP_MANAGER5/NP_MANAGER_res_0x7f050380</item>
+        <item>?NP_MANAGER3/NP_MANAGER_res_0x7f03049b</item>
+        <item>?NP_MANAGER3/NP_MANAGER_res_0x7f03049b</item>
+        <item>@NP_MANAGER5/NP_MANAGER_res_0x7f05037f</item>
+        <item>-1</item>
+        <item>true</item>
+        <item>49</item>
+    </NP_MANAGER15>
+    <NP_MANAGER15 name="NP_MANAGER_res_0x7f0f04a5" parent="@NP_MANAGER15/NP_MANAGER_res_0x7f0f0383">
+        <item>?NP_MANAGER3/NP_MANAGER_res_0x7f03012c</item>
+        <item>true</item>
+        <item>@null</item>
+        <item>@NP_MANAGER6/NP_MANAGER_res_0x7f0603aa</item>
+        <item>@NP_MANAGER6/NP_MANAGER_res_0x7f0603ab</item>
+        <item>@NP_MANAGER6/NP_MANAGER_res_0x7f0603ac</item>
+        <item>@NP_MANAGER5/NP_MANAGER_res_0x7f050382</item>
+        <item>?NP_MANAGER3/NP_MANAGER_res_0x7f030413</item>
+        <item>@NP_MANAGER5/NP_MANAGER_res_0x7f050381</item>
+        <item>@NP_MANAGER6/NP_MANAGER_res_0x7f0603ae</item>
+        <item>@NP_MANAGER6/NP_MANAGER_res_0x7f0603ad</item>
+        <item>@NP_MANAGER6/NP_MANAGER_res_0x7f0603ad</item>
+        <item>@NP_MANAGER6/NP_MANAGER_res_0x7f0603ae</item>
+        <item>?NP_MANAGER3/NP_MANAGER_res_0x7f0304bf</item>
+        <item>@NP_MANAGER5/NP_MANAGER_res_0x7f050383</item>
+    </NP_MANAGER15>
+    <NP_MANAGER15 name="NP_MANAGER_res_0x7f0f04a6" parent="@NP_MANAGER15/NP_MANAGER_res_0x7f0f0119">
+        <item>?NP_MANAGER3/NP_MANAGER_res_0x7f0303d2</item>
+        <item>8dp</item>
+    </NP_MANAGER15>
+    <NP_MANAGER15 name="NP_MANAGER_res_0x7f0f04a7" parent="@NP_MANAGER15/NP_MANAGER_res_0x7f0f011a">
+        <item>?NP_MANAGER3/NP_MANAGER_res_0x7f0303d2</item>
+        <item>8dp</item>
+    </NP_MANAGER15>
+    <NP_MANAGER15 name="NP_MANAGER_res_0x7f0f04a8" parent="@NP_MANAGER15/NP_MANAGER_res_0x7f0f011b">
+        <item>?NP_MANAGER3/NP_MANAGER_res_0x7f0303d2</item>
+        <item>8dp</item>
+    </NP_MANAGER15>
+    <NP_MANAGER15 name="NP_MANAGER_res_0x7f0f04a9" parent="@NP_MANAGER15/NP_MANAGER_res_0x7f0f011c">
+        <item>?NP_MANAGER3/NP_MANAGER_res_0x7f0303d2</item>
+        <item>8dp</item>
+    </NP_MANAGER15>
+    <NP_MANAGER15 name="NP_MANAGER_res_0x7f0f04aa" parent="@android:style/Widget">
+        <item>false</item>
+        <item>?NP_MANAGER3/NP_MANAGER_res_0x7f03011f</item>
+        <item>@NP_MANAGER6/NP_MANAGER_res_0x7f0603c5</item>
+    </NP_MANAGER15>
+    <NP_MANAGER15 name="NP_MANAGER_res_0x7f0f04ac" parent="@NP_MANAGER15/NP_MANAGER_res_0x7f0f011d">
+        <item>?NP_MANAGER3/NP_MANAGER_res_0x7f030166</item>
+    </NP_MANAGER15>
+    <NP_MANAGER15 name="NP_MANAGER_res_0x7f0f04ad" parent="@NP_MANAGER15/NP_MANAGER_res_0x7f0f011e">
+        <item>@null</item>
+        <item>@NP_MANAGER6/NP_MANAGER_res_0x7f0603d7</item>
+        <item>1</item>
+    </NP_MANAGER15>
+    <NP_MANAGER15 name="NP_MANAGER_res_0x7f0f04af" parent="@NP_MANAGER15/NP_MANAGER_res_0x7f0f0378">
+        <item>?NP_MANAGER3/NP_MANAGER_res_0x7f030493</item>
+        <item>?NP_MANAGER3/NP_MANAGER_res_0x7f03012c</item>
+        <item>3</item>
+        <item>@NP_MANAGER6/NP_MANAGER_res_0x7f060088</item>
+        <item>@NP_MANAGER6/NP_MANAGER_res_0x7f060088</item>
+        <item>@NP_MANAGER6/NP_MANAGER_res_0x7f0603d8</item>
+        <item>@NP_MANAGER6/NP_MANAGER_res_0x7f0603d8</item>
+        <item>@NP_MANAGER9/NP_MANAGER_res_0x7f090006</item>
+        <item>@NP_MANAGER6/NP_MANAGER_res_0x7f060319</item>
+        <item>5</item>
+    </NP_MANAGER15>
+    <NP_MANAGER15 name="NP_MANAGER_res_0x7f0f04b0" parent="@NP_MANAGER15/NP_MANAGER_res_0x7f0f0386">
+        <item>?NP_MANAGER3/NP_MANAGER_res_0x7f03012c</item>
+        <item>true</item>
+        <item>true</item>
+        <item>@NP_MANAGER5/NP_MANAGER_res_0x7f05038f</item>
+        <item>@NP_MANAGER9/NP_MANAGER_res_0x7f090041</item>
+        <item>?NP_MANAGER3/NP_MANAGER_res_0x7f03011f</item>
+        <item>@NP_MANAGER5/NP_MANAGER_res_0x7f050392</item>
+        <item>?NP_MANAGER3/NP_MANAGER_res_0x7f03049a</item>
+        <item>@NP_MANAGER5/NP_MANAGER_res_0x7f05038f</item>
+        <item>true</item>
+    </NP_MANAGER15>
+    <NP_MANAGER15 name="NP_MANAGER_res_0x7f0f04b3" parent="@NP_MANAGER15/NP_MANAGER_res_0x7f0f011f">
+        <item>24dp</item>
+        <item>10dp</item>
+    </NP_MANAGER15>
+    <NP_MANAGER15 name="NP_MANAGER_res_0x7f0f04b4" parent="@NP_MANAGER15/NP_MANAGER_res_0x7f0f04b3">
+        <item>24dp</item>
+        <item>8dp</item>
+    </NP_MANAGER15>
+    <NP_MANAGER15 name="NP_MANAGER_res_0x7f0f04b5" parent="@NP_MANAGER15/NP_MANAGER_res_0x7f0f011f">
+    </NP_MANAGER15>
+    <NP_MANAGER15 name="NP_MANAGER_res_0x7f0f04b6" parent="@NP_MANAGER15/NP_MANAGER_res_0x7f0f04b5">
+        <item>13dp</item>
+        <item>13dp</item>
+    </NP_MANAGER15>
+    <NP_MANAGER15 name="NP_MANAGER_res_0x7f0f04b7" parent="@NP_MANAGER15/NP_MANAGER_res_0x7f0f0120">
+        <item>@NP_MANAGER5/NP_MANAGER_res_0x7f050379</item>
+        <item>1</item>
+        <item>10dp</item>
+        <item>@NP_MANAGER5/NP_MANAGER_res_0x7f05037b</item>
+        <item>@NP_MANAGER5/NP_MANAGER_res_0x7f05037a</item>
+        <item>@NP_MANAGER15/NP_MANAGER_res_0x7f0f0329</item>
+        <item>@NP_MANAGER15/NP_MANAGER_res_0x7f0f01b8</item>
+        <item>@NP_MANAGER5/NP_MANAGER_res_0x7f05037a</item>
+    </NP_MANAGER15>
+    <NP_MANAGER15 name="NP_MANAGER_res_0x7f0f04b8" parent="@NP_MANAGER15/NP_MANAGER_res_0x7f0f04b7">
+        <item>@NP_MANAGER15/NP_MANAGER_res_0x7f0f032a</item>
+    </NP_MANAGER15>
+    <NP_MANAGER15 name="NP_MANAGER_res_0x7f0f04ba" parent="@NP_MANAGER15/NP_MANAGER_res_0x7f0f04b7">
+        <item>3</item>
+        <item>@NP_MANAGER15/NP_MANAGER_res_0x7f0f0310</item>
+    </NP_MANAGER15>
+    <NP_MANAGER15 name="NP_MANAGER_res_0x7f0f04bb" parent="@NP_MANAGER15/NP_MANAGER_res_0x7f0f0120">
+        <item>0dp</item>
+        <item>@NP_MANAGER15/NP_MANAGER_res_0x7f0f032b</item>
+    </NP_MANAGER15>
+    <NP_MANAGER15 name="NP_MANAGER_res_0x7f0f04bc" parent="@NP_MANAGER15/NP_MANAGER_res_0x7f0f04bb">
+        <item>@NP_MANAGER15/NP_MANAGER_res_0x7f0f032c</item>
+    </NP_MANAGER15>
+    <NP_MANAGER15 name="NP_MANAGER_res_0x7f0f04be" parent="@NP_MANAGER15/NP_MANAGER_res_0x7f0f04bb">
+        <item>3</item>
+        <item>@NP_MANAGER15/NP_MANAGER_res_0x7f0f0312</item>
+    </NP_MANAGER15>
+    <NP_MANAGER15 name="NP_MANAGER_res_0x7f0f04bf" parent="@NP_MANAGER15/NP_MANAGER_res_0x7f0f0121">
+    </NP_MANAGER15>
+    <NP_MANAGER15 name="NP_MANAGER_res_0x7f0f04c1" parent="@NP_MANAGER15/NP_MANAGER_res_0x7f0f0468">
+        <item>?NP_MANAGER3/NP_MANAGER_res_0x7f0304bf</item>
+        <item>16sp</item>
+        <item>0dp</item>
+        <item>48dp</item>
+        <item>0dp</item>
+        <item>0dp</item>
+        <item>4</item>
+        <item>@NP_MANAGER5/NP_MANAGER_res_0x7f05035d</item>
+        <item>?NP_MANAGER3/NP_MANAGER_res_0x7f030411</item>
+        <item>@NP_MANAGER5/NP_MANAGER_res_0x7f05035e</item>
+        <item>@NP_MANAGER6/NP_MANAGER_res_0x7f060350</item>
+    </NP_MANAGER15>
+    <NP_MANAGER15 name="NP_MANAGER_res_0x7f0f04c2">
+        <item>@NP_MANAGER5/NP_MANAGER_res_0x7f050360</item>
+        <item>?NP_MANAGER3/NP_MANAGER_res_0x7f03011f</item>
+        <item>@NP_MANAGER5/NP_MANAGER_res_0x7f05035f</item>
+    </NP_MANAGER15>
+    <NP_MANAGER15 name="NP_MANAGER_res_0x7f0f04c3" parent="@NP_MANAGER15/NP_MANAGER_res_0x7f0f0475">
+        <item>?NP_MANAGER3/NP_MANAGER_res_0x7f0304a4</item>
+        <item>56dp</item>
+        <item>4</item>
+        <item>false</item>
+        <item>@NP_MANAGER15/NP_MANAGER_res_0x7f0f032e</item>
+        <item>?NP_MANAGER3/NP_MANAGER_res_0x7f030411</item>
+    </NP_MANAGER15>
+    <NP_MANAGER15 name="NP_MANAGER_res_0x7f0f04c4">
+        <item>?NP_MANAGER3/NP_MANAGER_res_0x7f0304a4</item>
+        <item>56dp</item>
+        <item>?NP_MANAGER3/NP_MANAGER_res_0x7f030116</item>
+        <item>@NP_MANAGER14/NP_MANAGER_res_0x7f0e0047</item>
+        <item>1</item>
+        <item>false</item>
+        <item>0dp</item>
+    </NP_MANAGER15>
+    <NP_MANAGER15 name="NP_MANAGER_res_0x7f0f04c5" parent="@NP_MANAGER15/NP_MANAGER_res_0x7f0f04bf">
+        <item>?NP_MANAGER3/NP_MANAGER_res_0x7f03049b</item>
+    </NP_MANAGER15>
+    <NP_MANAGER15 name="NP_MANAGER_res_0x7f0f04c6" parent="@NP_MANAGER15/NP_MANAGER_res_0x7f0f04b5">
+        <item>?NP_MANAGER3/NP_MANAGER_res_0x7f0304a4</item>
+        <item>56dp</item>
+        <item>0x11</item>
+        <item>0dp</item>
+        <item>0dp</item>
+        <item>2</item>
+        <item>false</item>
+        <item>2</item>
+        <item>0x2</item>
+        <item>4</item>
+        <item>0dp</item>
+        <item>0dp</item>
+    </NP_MANAGER15>
+    <NP_MANAGER15 name="NP_MANAGER_res_0x7f0f04c7" parent="@NP_MANAGER15/NP_MANAGER_res_0x7f0f04bb">
+        <item>@NP_MANAGER15/NP_MANAGER_res_0x7f0f032f</item>
+        <item>?NP_MANAGER3/NP_MANAGER_res_0x7f030411</item>
+        <item>@null</item>
+    </NP_MANAGER15>
+    <NP_MANAGER15 name="NP_MANAGER_res_0x7f0f04c8">
+        <item>?NP_MANAGER3/NP_MANAGER_res_0x7f030361</item>
+        <item>?NP_MANAGER3/NP_MANAGER_res_0x7f030361</item>
+        <item>0dp</item>
+        <item>0dp</item>
+        <item>0x2</item>
+        <item>0dp</item>
+        <item>@NP_MANAGER5/NP_MANAGER_res_0x7f050361</item>
+        <item>@NP_MANAGER5/NP_MANAGER_res_0x7f050385</item>
+        <item>@NP_MANAGER15/NP_MANAGER_res_0x7f0f04c9</item>
+    </NP_MANAGER15>
+    <NP_MANAGER15 name="NP_MANAGER_res_0x7f0f04c9">
+        <item>0</item>
+        <item>50%</item>
+    </NP_MANAGER15>
+    <NP_MANAGER15 name="NP_MANAGER_res_0x7f0f04ca" parent="@NP_MANAGER15/NP_MANAGER_res_0x7f0f037a">
+        <item>@NP_MANAGER6/NP_MANAGER_res_0x7f0603e9</item>
+        <item>@NP_MANAGER6/NP_MANAGER_res_0x7f0603e9</item>
+        <item>?NP_MANAGER3/NP_MANAGER_res_0x7f0304be</item>
+        <item>?android:attr/textColorSecondary</item>
+        <item>?NP_MANAGER3/NP_MANAGER_res_0x7f0304a7</item>
+        <item>?android:attr/textColorPrimary</item>
+    </NP_MANAGER15>
+    <NP_MANAGER15 name="NP_MANAGER_res_0x7f0f04ce" parent="@android:style/Widget">
+        <item>@NP_MANAGER15/NP_MANAGER_res_0x7f0f024b</item>
+        <item>@NP_MANAGER6/NP_MANAGER_res_0x7f0603ee</item>
+        <item>8dp</item>
+        <item>@NP_MANAGER6/NP_MANAGER_res_0x7f0603ed</item>
+        <item>@NP_MANAGER6/NP_MANAGER_res_0x7f0603ec</item>
+        <item>@NP_MANAGER15/NP_MANAGER_res_0x7f0f01a5</item>
+    </NP_MANAGER15>
+</resources>

@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<selector xmlns:android="http://schemas.android.com/apk/res/android" xmlns:app="http://schemas.android.com/apk/res-auto">
+    <item
+        android:state_enabled="true"
+        app:state_dragged="true">
+        <set>
+            <objectAnimator
+                android:interpolator="@NP_MANAGER10/NP_MANAGER_res_0x7f0a000f"
+                android:duration="@NP_MANAGER9/NP_MANAGER_res_0x7f090037"
+                android:valueTo="@NP_MANAGER6/NP_MANAGER_res_0x7f060382"
+                android:valueType="floatType"
+                android:propertyName="translationZ"
+                android:startDelay="@NP_MANAGER9/NP_MANAGER_res_0x7f090036"/>
+        </set>
+    </item>
+    <item android:state_enabled="true">
+        <set>
+            <objectAnimator
+                android:interpolator="@NP_MANAGER1/NP_MANAGER_res_0x7f01002b"
+                android:duration="@NP_MANAGER9/NP_MANAGER_res_0x7f090037"
+                android:valueTo="0dp"
+                android:valueType="floatType"
+                android:propertyName="translationZ"/>
+        </set>
+    </item>
+</selector>

@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<merge xmlns:android="http://schemas.android.com/apk/res/android">
+    <CheckedTextView
+        android:textAppearance="@NP_MANAGER15/NP_MANAGER_res_0x7f0f01bb"
+        android:gravity="start|center_vertical"
+        android:id="@NP_MANAGER8/NP_MANAGER_res_0x7f080098"
+        android:duplicateParentState="true"
+        android:layout_width="0dp"
+        android:layout_height="match_parent"
+        android:maxLines="1"
+        android:drawablePadding="@NP_MANAGER6/NP_MANAGER_res_0x7f060078"
+        android:layout_weight="1"/>
+    <ViewStub
+        android:id="@NP_MANAGER8/NP_MANAGER_res_0x7f080097"
+        android:layout="@NP_MANAGER11/NP_MANAGER_res_0x7f0b0024"
+        android:inflatedId="@NP_MANAGER8/NP_MANAGER_res_0x7f080096"
+        android:layout_width="wrap_content"
+        android:layout_height="match_parent"/>
+</merge>

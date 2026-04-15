@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<selector xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:state_enabled="false"
+        android:color="?NP_MANAGER3/NP_MANAGER_res_0x7f030104"
+        android:alpha="?android:attr/disabledAlpha"/>
+    <item
+        android:state_focused="false"
+        android:state_pressed="false"
+        android:color="?NP_MANAGER3/NP_MANAGER_res_0x7f030104"/>
+    <item android:color="?NP_MANAGER3/NP_MANAGER_res_0x7f030102"/>
+</selector>

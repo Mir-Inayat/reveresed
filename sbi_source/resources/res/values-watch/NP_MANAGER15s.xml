@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <NP_MANAGER15 name="NP_MANAGER_res_0x7f0f004c" parent="@NP_MANAGER15/NP_MANAGER_res_0x7f0f00a0">
+        <item>false</item>
+        <item>0dp</item>
+    </NP_MANAGER15>
+    <NP_MANAGER15 name="NP_MANAGER_res_0x7f0f0053" parent="@NP_MANAGER15/NP_MANAGER_res_0x7f0f00a2">
+        <item>false</item>
+        <item>0dp</item>
+    </NP_MANAGER15>
+    <NP_MANAGER15 name="NP_MANAGER_res_0x7f0f007b" parent="@NP_MANAGER15/NP_MANAGER_res_0x7f0f00a7">
+        <item>false</item>
+        <item>0dp</item>
+    </NP_MANAGER15>
+</resources>

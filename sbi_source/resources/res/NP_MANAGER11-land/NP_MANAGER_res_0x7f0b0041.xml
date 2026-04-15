@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<merge xmlns:android="http://schemas.android.com/apk/res/android" xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:id="@NP_MANAGER8/NP_MANAGER_res_0x7f080110"
+    android:layout_width="wrap_content"
+    android:layout_height="wrap_content">
+    <androidx.constraintlayout.helper.widget.Flow
+        android:orientation="vertical"
+        android:id="@NP_MANAGER8/NP_MANAGER_res_0x7f080102"
+        android:layout_width="0dp"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="20dp"
+        app:constraint_referenced_ids="material_clock_display,material_clock_period_toggle"
+        app:flow_verticalGap="@NP_MANAGER6/NP_MANAGER_res_0x7f060311"
+        app:layout_constraintBottom_toBottomOf="0"
+        app:layout_constraintStart_toStartOf="0"
+        app:layout_constraintTop_toTopOf="0"/>
+    <include
+        android:id="@NP_MANAGER8/NP_MANAGER_res_0x7f080101"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        layout="@NP_MANAGER11/NP_MANAGER_res_0x7f0b0037"/>
+    <include
+        android:id="@NP_MANAGER8/NP_MANAGER_res_0x7f080108"
+        android:layout_width="0dp"
+        android:layout_height="wrap_content"
+        layout="@NP_MANAGER11/NP_MANAGER"/>
+    <com.google.android.material.timepicker.ClockFaceView
+        android:id="@NP_MANAGER8/NP_MANAGER_res_0x7f080103"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginStart="@NP_MANAGER6/NP_MANAGER_res_0x7f060055"
+        app:layout_constraintStart_toEndOf="@NP_MANAGER8/NP_MANAGER_res_0x7f080102"
+        app:layout_constraintTop_toTopOf="0"/>
+</merge>

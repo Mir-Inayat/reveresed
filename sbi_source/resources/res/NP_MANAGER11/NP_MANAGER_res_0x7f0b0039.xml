@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<com.google.android.material.button.MaterialButtonToggleGroup xmlns:android="http://schemas.android.com/apk/res/android" xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:orientation="vertical"
+    android:id="@NP_MANAGER8/NP_MANAGER_res_0x7f080108"
+    android:visibility="gone"
+    android:layout_width="@NP_MANAGER6/NP_MANAGER_res_0x7f060312"
+    android:layout_height="@NP_MANAGER6/NP_MANAGER_res_0x7f06030f"
+    android:contentDescription="@NP_MANAGER14/NP_MANAGER_res_0x7f0e0048"
+    app:checkedButton="@NP_MANAGER8/NP_MANAGER_res_0x7f080106"
+    app:selectionRequired="true"
+    app:singleSelection="true">
+    <com.google.android.material.button.MaterialButton
+        android:id="@NP_MANAGER8/NP_MANAGER_res_0x7f080106"
+        android:layout_width="wrap_content"
+        android:text="@NP_MANAGER14/NP_MANAGER_res_0x7f0e0056"
+        android:insetTop="8dp"
+        style="?NP_MANAGER3/NP_MANAGER_res_0x7f03031e"/>
+    <com.google.android.material.button.MaterialButton
+        android:id="@NP_MANAGER8/NP_MANAGER_res_0x7f080107"
+        android:layout_width="wrap_content"
+        android:text="@NP_MANAGER14/NP_MANAGER_res_0x7f0e005a"
+        android:insetBottom="8dp"
+        style="?NP_MANAGER3/NP_MANAGER_res_0x7f03031e"/>
+</com.google.android.material.button.MaterialButtonToggleGroup>

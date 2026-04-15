@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="horizontal"
+    android:id="@NP_MANAGER8/NP_MANAGER_res_0x7f080101"
+    android:layout_width="wrap_content"
+    android:layout_height="wrap_content"
+    android:baselineAligned="false"
+    android:layoutDirection="ltr">
+    <include
+        android:id="@NP_MANAGER8/NP_MANAGER_res_0x7f08010a"
+        layout="@NP_MANAGER11/NP_MANAGER_res_0x7f0b003f"/>
+    <include layout="@NP_MANAGER11/NP_MANAGER_res_0x7f0b0038"/>
+    <include
+        android:id="@NP_MANAGER8/NP_MANAGER_res_0x7f08010d"
+        layout="@NP_MANAGER11/NP_MANAGER_res_0x7f0b003f"/>
+</LinearLayout>

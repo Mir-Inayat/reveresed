@@ -1,0 +1,52 @@
+device_id,amount_inr,transaction_ref,sms_timestamp,sender,body
+260OXPHK,100.00,"a/c *6116 debited rs. 100.00 on 10-04-26 to ajit nomo su. upi:610049369266. not you? sms block to 9289592895, dial 1930 ",2026-04-10 22:31:52,AD-INDBNK-S,"A/c *6116 debited Rs. 100.00 on 10-04-26 to Ajit Nomo Su. UPI:610049369266. Not you? SMS BLOCK to 9289592895, Dial 1930 for Cyber Fraud - Indian Bank"
+260OXPHK,627.00,"a/c *6116 debited rs. 627.00 on 11-04-26 to cng site 133. upi:610149952420. not you? sms block to 9289592895, dial 1930 ",2026-04-11 00:36:24,AD-INDBNK-S,"A/c *6116 debited Rs. 627.00 on 11-04-26 to CNG Site 133. UPI:610149952420. Not you? SMS BLOCK to 9289592895, Dial 1930 for Cyber Fraud - Indian Bank"
+260OXPHK,257.00,"a/c *6116 debited rs. 257.00 on 11-04-26 to auto care ce. upi:610149969414. not you? sms block to 9289592895, dial 1930 ",2026-04-11 00:44:46,AX-INDBNK-S,"A/c *6116 debited Rs. 257.00 on 11-04-26 to Auto Care Ce. UPI:610149969414. Not you? SMS BLOCK to 9289592895, Dial 1930 for Cyber Fraud - Indian Bank"
+260OXPHK,20.00,"a/c *6116 debited rs. 20.00 on 11-04-26 to d priyanka. upi:610149985590. not you? sms block to 9289592895, dial 1930 for",2026-04-11 00:54:02,AX-INDBNK-S,"A/c *6116 debited Rs. 20.00 on 11-04-26 to D PRIYANKA. UPI:610149985590. Not you? SMS BLOCK to 9289592895, Dial 1930 for Cyber Fraud - Indian Bank"
+260OXPHK,60.00,"a/c *6116 debited rs. 60.00 on 11-04-26 to kalavathi. upi:610151224786. not you? sms block to 9289592895, dial 1930 for ",2026-04-11 08:54:54,AX-INDBNK-S,"A/c *6116 debited Rs. 60.00 on 11-04-26 to KALAVATHI. UPI:610151224786. Not you? SMS BLOCK to 9289592895, Dial 1930 for Cyber Fraud - Indian Bank"
+260OXPHK,500.00,"a/c *6116 debited rs. 500.00 on 11-04-26 to popular moto. upi:759969068417. not you? sms block to 9289592895, dial 1930 ",2026-04-11 11:04:35,AX-INDBNK-S,"A/c *6116 debited Rs. 500.00 on 11-04-26 to POPULAR MOTO. UPI:759969068417. Not you? SMS BLOCK to 9289592895, Dial 1930 for Cyber Fraud - Indian Bank"
+3J8BY41F,75.00,640819352916,2026-04-10 10:15:32,VA-SBIUPI-S,Dear UPI user A/C X4157 debited by 75.00 on date 10Apr26 trf to SRIDHAR K Refno 640819352916 If not u? call-1800111109 for other services-18001234-SBI
+44BPEYGM,18000.00,610066998305,2026-04-10 16:23:51,VA-SBIUPI-S,Dear UPI user A/C X7628 debited by 18000.00 on date 10Apr26 trf to SUMIT  BHAGEL Refno 610066998305 If not u? call-1800111109 for other services-18001234-SBI
+5STN20FL,20.00,525632529432,2026-04-11 12:27:44,AX-IPBMSG-S,"A/C X5135 Debit Rs.20.00 for UPI to mrs lakshmamma on 11-04-26 Ref 525632529432. Avl Bal Rs.3856.25. If not you? SMS FREEZE ""full a/c"" to 7669034700-IPPB"
+5YKFI69J,0.59,"dear customer,your a/c xx3729 debited with rs.0.59 towards bank charges on 11-04-2026.available balance: rs.12105.61-pnb",2026-04-11 11:18:08,VA-PNBSMS-S,"Dear Customer,your A/c XX3729 debited with Rs.0.59 towards bank charges on 11-04-2026.Available balance: Rs.12105.61-PNB"
+6S1PYMJX,1000.00,284923723086,2026-04-10 20:58:44,VK-IOBCHN-S,"Your a/c XXXXX77 debited for payee RAMAKANTH  . for Rs. 1000.00 on 2026-04-10, ref 284923723086.If not you, report to your bank immediately-IOB."
+7W7KO7UZ,150.00,610115200559,2026-04-11 08:28:18,AX-INDUSB-S,A/C *XX4590 debited by Rs 150.00 towards sudhirsharma.kk1986@ybl. RRN:610115200559. Avl Bal:249.60. Not you? Call 18602677777 - IndusInd bank
+97TOTCNN,10000.00,"inr 10000.00 debited a/c no. xx8819 10-04-26, 18:15:56 upi/p2a/964806866114/harevendra singh not you? sms blockupi cust ",2026-04-10 18:15:58,VA-AXISBK-S,"INR 10000.00 debited
+A/c no. XX8819
+10-04-26, 18:15:56
+UPI/P2A/964806866114/HAREVENDRA SINGH
+Not you? SMS BLOCKUPI Cust ID to 919951860002
+Axis Bank"
+97TOTCNN,100.00,"inr 100.00 debited a/c no. xx8819 10-04-26, 22:29:46 upi/p2a/610040051828/haresh sharma not you? sms blockupi cust id to",2026-04-10 22:29:47,AD-AXISBK-S,"INR 100.00 debited
+A/c no. XX8819
+10-04-26, 22:29:46
+UPI/P2A/610040051828/HARESH SHARMA
+Not you? SMS BLOCKUPI Cust ID to 919951860002
+Axis Bank"
+97TOTCNN,420.00,"inr 420.00 debited a/c no. xx8819 10-04-26, 22:41:17 upi/p2a/141247496864/vijay singh not you? sms blockupi cust id to 9",2026-04-10 22:41:18,JM-AXISBK-S,"INR 420.00 debited
+A/c no. XX8819
+10-04-26, 22:41:17
+UPI/P2A/141247496864/VIJAY SINGH
+Not you? SMS BLOCKUPI Cust ID to 919951860002
+Axis Bank"
+97TOTCNN,99.00,"for the upcoming mandate set for 12/04/2026 ,your account will be debited with rs99.00 towards oolka for the upisubscrip",2026-04-11 06:32:36,JX-IPBMSG-S,"For the upcoming mandate set for 12/04/2026 ,your account will be debited with Rs99.00 towards Oolka for the UPISubscription, 610156479474. If mandate is"
+97TOTCNN,29.50,"dear customer,your a/c xx3768 debited with rs.29.50 towards bank charges on 11-04-2026.available balance: rs.3.27-pnb",2026-04-11 08:33:10,BG-PNBSMS-S,"Dear Customer,your A/c XX3768 debited with Rs.29.50 towards bank charges on 11-04-2026.Available balance: Rs.3.27-PNB"
+97TOTCNN,3.54,"dear customer,your a/c xx9993 debited with rs.3.54 towards bank charges on 11-04-2026.available balance: rs.224.63-pnb",2026-04-11 08:34:25,BT-PNBSMS-S,"Dear Customer,your A/c XX9993 debited with Rs.3.54 towards bank charges on 11-04-2026.Available balance: Rs.224.63-PNB"
+97TOTCNN,8.18,"dear customer,your a/c xx4138 debited with rs.8.18 towards bank charges on 11-04-2026.available balance: rs.0.00-pnb",2026-04-11 09:00:11,BG-PNBSMS-S,"Dear Customer,your A/c XX4138 debited with Rs.8.18 towards bank charges on 11-04-2026.Available balance: Rs.0.00-PNB"
+97TOTCNN,3.27,"dear customer,your a/c xx3768 debited with rs.3.27 towards bank charges on 11-04-2026.available balance: rs.0.00-pnb",2026-04-11 12:21:21,AX-PNBSMS-S,"Dear Customer,your A/c XX3768 debited with Rs.3.27 towards bank charges on 11-04-2026.Available balance: Rs.0.00-PNB"
+9AWFOX8L,3300.00,655083040546,2026-04-10 12:07:03,AD-INDUSB-S,A/C *XX6739 debited by Rs 3300.00 towards armankhan993513@oksbi. RRN:655083040546. Avl Bal:6724.50. Not you? Call 18602677777 - IndusInd bank
+9AWFOX8L,2720.00,592045522506,2026-04-10 15:28:24,AD-INDUSB-S,A/C *XX6739 debited by Rs 2720.00 towards abhishekkumarrjk300@okicici. RRN:592045522506. Avl Bal:1004.50. Not you? Call 18602677777 - IndusInd bank
+9AWFOX8L,700.00,675919207018,2026-04-10 16:31:53,AX-INDUSB-S,A/C *XX6739 debited by Rs 700.00 towards 9368959417@axl. RRN:675919207018. Avl Bal:304.50. Not you? Call 18602677777 - IndusInd bank
+9AWFOX8L,19.00,rs.19.00 debited from airtel payments bank a/c jio recharge for 6398153720. explore bank @ https://i.airtel.in/airbnk/ba,2026-04-10 16:31:53,AD-AIRBNK-S,Rs.19.00 debited from Airtel Payments Bank a/c Jio Recharge for 6398153720. Explore bank @ https://i.airtel.in/AIRBNK/bankhome
+9AWFOX8L,349.00,rs.349.00 debited from airtel payments bank a/c jio recharge for 6200339892. explore bank @ https://i.airtel.in/airbnk/b,2026-04-10 17:09:37,AD-AIRBNK-S,Rs.349.00 debited from Airtel Payments Bank a/c Jio Recharge for 6200339892. Explore bank @ https://i.airtel.in/AIRBNK/bankhome
+C2BBB4H9,150.00,rs. 150.00 debited from airtel payments bank a/c txn id 119923389997 bal:2329.01 call 180023400 for help,2026-04-10 14:30:10,AD-AIRBNK-S,Rs. 150.00 debited from Airtel Payments Bank a/c Txn ID 119923389997 Bal:2329.01 Call 180023400 for help
+C2BBB4H9,90.00,rs. 90.00 debited from airtel payments bank a/c txn id 998360509569 bal:2239.01 call 180023400 for help,2026-04-10 14:40:24,AD-AIRBNK-S,Rs. 90.00 debited from Airtel Payments Bank a/c Txn ID 998360509569 Bal:2239.01 Call 180023400 for help
+C2BBB4H9,150.00,rs. 150.00 debited from airtel payments bank a/c txn id 324430976126 bal:2089.01 call 180023400 for help,2026-04-10 14:46:51,AD-AIRBNK-S,Rs. 150.00 debited from Airtel Payments Bank a/c Txn ID 324430976126 Bal:2089.01 Call 180023400 for help
+C2BBB4H9,40.00,rs. 40.00 debited from airtel payments bank a/c txn id 163541571753 bal:2049.01 call 180023400 for help,2026-04-10 19:09:38,AD-AIRBNK-S,Rs. 40.00 debited from Airtel Payments Bank a/c Txn ID 163541571753 Bal:2049.01 Call 180023400 for help
+C2BBB4H9,6.00,rs. 6.00 debited from airtel payments bank a/c txn id 812151463634 bal:2043.01 call 180023400 for help,2026-04-10 19:14:36,AD-AIRBNK-S,Rs. 6.00 debited from Airtel Payments Bank a/c Txn ID 812151463634 Bal:2043.01 Call 180023400 for help
+C2BBB4H9,30.00,rs. 30.00 debited from airtel payments bank a/c txn id 970657525455 bal:2013.01 call 180023400 for help,2026-04-10 19:15:12,AD-AIRBNK-S,Rs. 30.00 debited from Airtel Payments Bank a/c Txn ID 970657525455 Bal:2013.01 Call 180023400 for help
+C2BBB4H9,15.00,rs. 15.00 debited from airtel payments bank a/c txn id 858882360205 bal:1998.01 call 180023400 for help,2026-04-10 19:17:29,AD-AIRBNK-S,Rs. 15.00 debited from Airtel Payments Bank a/c Txn ID 858882360205 Bal:1998.01 Call 180023400 for help
+C2BBB4H9,39.00,rs. 39.00 debited from airtel payments bank a/c txn id 286137430481 bal:1959.01 call 180023400 for help,2026-04-10 21:20:05,AD-AIRBNK-S,Rs. 39.00 debited from Airtel Payments Bank a/c Txn ID 286137430481 Bal:1959.01 Call 180023400 for help
+C2BBB4H9,64.00,rs. 64.00 debited from airtel payments bank a/c txn id 590958923921 bal:6695.01 call 180023400 for help,2026-04-11 10:30:10,AD-AIRBNK-S,Rs. 64.00 debited from Airtel Payments Bank a/c Txn ID 590958923921 Bal:6695.01 Call 180023400 for help
+IGD2JCDX,28.38,boi upi - your upcoming mandate is set for 12/04/2026 your account will be debited with rs.28.38 towards moneyviewgold f,2026-04-11 04:20:35,JD-BOIIND-S,BOI UPI - Your upcoming Mandate is set for 12/04/2026 Your account will be debited with Rs.28.38 towards MONEYVIEWGOLD for the 4a661f8ca5409453e0634bcee1
+IGD2JCDX,8.53,boi upi - your upcoming mandate is set for 12/04/2026 your account will be debited with rs.8.53 towards moneyviewgold fo,2026-04-11 08:09:18,JK-BOIIND-S,BOI UPI - Your upcoming Mandate is set for 12/04/2026 Your account will be debited with Rs.8.53 towards MONEYVIEWGOLD for the 4cd184d01ff19d78e063eaeee20

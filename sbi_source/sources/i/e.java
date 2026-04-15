@@ -1,0 +1,137 @@
+package i;
+
+import java.lang.reflect.Array;
+import java.util.Collection;
+import java.util.Iterator;
+
+/* JADX INFO: compiled from: r8-map-id-5e0cc0aaff46ca9cdb8bb83aa49788d6127e7de84820c545817263cb4316462a */
+/* JADX INFO: loaded from: classes.dex */
+public final class e implements Collection {
+
+    /* JADX INFO: renamed from: a, reason: collision with root package name */
+    public final /* synthetic */ f f1368a;
+
+    public e(f fVar) {
+        this.f1368a = fVar;
+    }
+
+    @Override // java.util.Collection
+    public final boolean add(Object obj) {
+        throw new UnsupportedOperationException();
+    }
+
+    @Override // java.util.Collection
+    public final boolean addAll(Collection collection) {
+        throw new UnsupportedOperationException();
+    }
+
+    @Override // java.util.Collection
+    public final void clear() {
+        this.f1368a.clear();
+    }
+
+    @Override // java.util.Collection
+    public final boolean contains(Object obj) {
+        return this.f1368a.a(obj) >= 0;
+    }
+
+    @Override // java.util.Collection
+    public final boolean containsAll(Collection collection) {
+        Iterator it = collection.iterator();
+        while (it.hasNext()) {
+            if (!contains(it.next())) {
+                return false;
+            }
+        }
+        return true;
+    }
+
+    @Override // java.util.Collection
+    public final boolean isEmpty() {
+        return this.f1368a.isEmpty();
+    }
+
+    @Override // java.util.Collection, java.lang.Iterable
+    public final Iterator iterator() {
+        return new b(this.f1368a, 1);
+    }
+
+    @Override // java.util.Collection
+    public final boolean remove(Object obj) {
+        f fVar = this.f1368a;
+        int iA = fVar.a(obj);
+        if (iA < 0) {
+            return false;
+        }
+        fVar.g(iA);
+        return true;
+    }
+
+    @Override // java.util.Collection
+    public final boolean removeAll(Collection collection) {
+        f fVar = this.f1368a;
+        int i2 = fVar.c;
+        int i3 = 0;
+        boolean z = false;
+        while (i3 < i2) {
+            if (collection.contains(fVar.i(i3))) {
+                fVar.g(i3);
+                i3--;
+                i2--;
+                z = true;
+            }
+            i3++;
+        }
+        return z;
+    }
+
+    @Override // java.util.Collection
+    public final boolean retainAll(Collection collection) {
+        f fVar = this.f1368a;
+        int i2 = fVar.c;
+        int i3 = 0;
+        boolean z = false;
+        while (i3 < i2) {
+            if (!collection.contains(fVar.i(i3))) {
+                fVar.g(i3);
+                i3--;
+                i2--;
+                z = true;
+            }
+            i3++;
+        }
+        return z;
+    }
+
+    @Override // java.util.Collection
+    public final int size() {
+        return this.f1368a.c;
+    }
+
+    @Override // java.util.Collection
+    public final Object[] toArray() {
+        f fVar = this.f1368a;
+        int i2 = fVar.c;
+        Object[] objArr = new Object[i2];
+        for (int i3 = 0; i3 < i2; i3++) {
+            objArr[i3] = fVar.i(i3);
+        }
+        return objArr;
+    }
+
+    @Override // java.util.Collection
+    public final Object[] toArray(Object[] objArr) {
+        f fVar = this.f1368a;
+        int i2 = fVar.c;
+        if (objArr.length < i2) {
+            objArr = (Object[]) Array.newInstance(objArr.getClass().getComponentType(), i2);
+        }
+        for (int i3 = 0; i3 < i2; i3++) {
+            objArr[i3] = fVar.i(i3);
+        }
+        if (objArr.length > i2) {
+            objArr[i2] = null;
+        }
+        return objArr;
+    }
+}

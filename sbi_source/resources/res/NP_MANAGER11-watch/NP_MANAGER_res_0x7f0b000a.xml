@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:gravity="top|center_horizontal"
+    android:orientation="vertical"
+    android:id="@NP_MANAGER8/NP_MANAGER_res_0x7f0801e9"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content">
+    <LinearLayout
+        android:gravity="center_horizontal"
+        android:orientation="vertical"
+        android:id="@NP_MANAGER8/NP_MANAGER_res_0x7f0801e6"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="24dp">
+        <ImageView
+            android:layout_gravity="center_horizontal"
+            android:id="@android:id/icon"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:adjustViewBounds="true"
+            android:maxWidth="24dp"
+            android:maxHeight="24dp"/>
+        <androidx.appcompat.widget.DialogTitle
+            android:gravity="center"
+            android:id="@NP_MANAGER8/NP_MANAGER_res_0x7f080048"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            style="?android:attr/windowTitleStyle"/>
+    </LinearLayout>
+    <android.widget.Space
+        android:id="@NP_MANAGER8/NP_MANAGER_res_0x7f0801e5"
+        android:visibility="gone"
+        android:layout_width="match_parent"
+        android:layout_height="@NP_MANAGER6/NP_MANAGER_res_0x7f060026"/>
+</LinearLayout>

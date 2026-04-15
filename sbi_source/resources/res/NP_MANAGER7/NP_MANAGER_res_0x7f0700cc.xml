@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<inset xmlns:android="http://schemas.android.com/apk/res/android"
+    android:insetLeft="@NP_MANAGER6/NP_MANAGER_res_0x7f060051"
+    android:insetRight="@NP_MANAGER6/NP_MANAGER_res_0x7f060051"
+    android:insetTop="@NP_MANAGER6/NP_MANAGER_res_0x7f060051"
+    android:insetBottom="@NP_MANAGER6/NP_MANAGER_res_0x7f060051">
+    <shape android:shape="rectangle">
+        <corners android:radius="@NP_MANAGER6/NP_MANAGER_res_0x7f0603c7"/>
+        <solid android:color="?NP_MANAGER3/NP_MANAGER_res_0x7f03012c"/>
+    </shape>
+</inset>
